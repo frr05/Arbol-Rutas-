@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:34",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 decretos o resoluciones modificatorias del contrato: el Convenio Complementario N°1 (aprobado por Decreto Supremo N°71 de fecha 1 de febrero de 2005) y el Convenio Complementario N°2 (aprobado por Decreto Supremo N°316 de fecha 30 de abril de 2007) [6].",
+  "fuentes": [
+   6,
+   3,
+   4
+  ]
+ }
+}

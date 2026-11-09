@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D11",
+ "pagina": 72,
+ "archivo": "4_modificacion_obras_convenios/Convenio-Complementario-N_1-MDI-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 142,
+ "segundos": 10.8,
+ "fecha": "2026-10-29 04:43",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 74,
+  "conf_media": 0.557,
+  "frac_baja": 0.649,
+  "frac_rara": 0.0,
+  "tinta": 0.0147
+ },
+ "n_palabras_vlm": 85,
+ "frac_rara_vlm": 0.033,
+ "similitud": 0.103,
+ "truncado": false,
+ "texto_ocr": "A RR RR OO\n\n¡AA\n\nA\n% gyé ON\n\nAPROBACION DEL PROYECTO\n\n$\n\n[a]\n\nLu\n\nx\n\nll\n\npo\n\ny\n\n5\n\nÓ\n\nZ\n\n4\n\n(o\n\nh ES\n\nja]\n\nD\n\ndh\n\npr. ]\n\n«\n\nE\n\nEm\n\nAA\n\nq\n\n+3\n\nZ\n\no ul\nó E\nz ñ\nS ES\nA].\nus\n\nob\nlis\n5100\n¡E\nLs\nz 122]\nel 332]\n$125)\n0\n\nXiÓN RUTA 180\n\n-CON\n\nLIMITE SUR\n\nCONCESION\nR BY PASS COMU:\n\no\n\nss\n\ni PROYECTO",
+ "texto_vlm": "MINISTERIO DE OBRAS PUBLICAS\nDIRECCION GRAL. DE OBRAS PUBLICAS\nDIRECCION DE VIALIDAD\n\nPROYECTO\nDIBUJO\nREVISI\n\nEJECUCION DEL PROYECTO\nAPROBACION DEL PROYECTO\n\nMANUEL ZAMBRANO SOTO\nAdministrador Contratos de Concesión\nInspector Fical de Explotación\n\nREGION: VIII\nPROVINCIA: BIO - BIO\nCOMUNA: NEGRETE\n\nCONTENIDO\nLIMITE SUR\nCONCESION CAMINO DE LA MADERA\nSECTOR BY PASS COIHUE-CONEXION RUTA 180\n\nPLANTA\nFALLA ARBITRAL Fecha: NOVIEMBRE 06, 1998\nSin Escala\n\nPLANO\nN° 1\nDE 1\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDE T.C. DE\nCONCESIONES\nPLANTA\nN° 1\nDE 1"
+}

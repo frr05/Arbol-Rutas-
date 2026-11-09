@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "El porcentaje máximo de nuevas inversiones que el MOP podrá exigir a la Sociedad Concesionaria será del 30% del Presupuesto Oficial Estimado de la Obra [1]. No obstante, durante la Etapa de Construcción, este porcentaje máximo ascenderá al 10% calculado sobre dicho presupuesto [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

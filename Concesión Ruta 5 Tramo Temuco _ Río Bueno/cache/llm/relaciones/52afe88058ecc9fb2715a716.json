@@ -1,0 +1,192 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:44",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "le serán aplicables las multas señaladas en la letra c) del numeral 2.9 del presente decreto supremo.",
+    "debe_decir": "le serán aplicables las multas señaladas en la letra c) del numeral 2.9 del presente decreto supremo, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación. Los días que emplee el Inspector Fiscal para inspeccionar y verificar la obra, no serán contabilizados como días de atraso de la Sociedad Concesionaria, para estos efectos.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     449,
+     464
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.9"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     465,
+     476
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.9.1"
+   },
+   {
+    "articulo": "2.9.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     477,
+     478
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.9.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     479,
+     483
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     484,
+     488
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.9.2"
+   },
+   {
+    "articulo": "2.9.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     489,
+     492
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     493,
+     498
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.10"
+   },
+   {
+    "articulo": "2.10",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     499,
+     508
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.10",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     509,
+     514
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.10",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     515,
+     530
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     531,
+     540
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.11"
+   },
+   {
+    "articulo": "2.11",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     541,
+     544
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.11",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     545,
+     547
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "El llamado a licitación se realizó mediante las Bases de Licitación con fecha 8 de junio de 1993 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

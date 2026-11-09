@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "Las multas pueden ser aplicadas o propuestas por el Inspector Fiscal, quien las notifica al concesionario y propone a la DGOP su aplicación [1], [2], [10]. Además, el Inspector Fiscal tiene la potestad de aplicar sanciones directamente en caso de faltas señaladas en las bases de Licitación y en el Reglamento de Concesiones [7]. La normativa que regula estas sanciones incluye el Artículo 24 del DFL MOP N°164, el Artículo 35 del mismo DFL, las Bases de Licitación (artículo 1.5.45 y siguientes) y el Reglamento de Servicio [1], [2], [7], [10].",
+  "fuentes": [
+   1,
+   2,
+   7,
+   10
+  ]
+ }
+}

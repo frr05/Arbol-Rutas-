@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:31",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente los montos anuales de UF 3.800 y UF 2.400 según la etapa, cumpliendo con lo pedido."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma el pago por expropiaciones e incluye los montos específicos (UF 83.000 y UF 41.000) solicitados en la pregunta."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta proporciona el porcentaje exacto del 80% solicitado para imputar al servicio de construcción."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente las tasas de interés aplicables según la parte responsable y el contexto, coincidiendo con la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el sistema de cobro a la salida con tecnología de Control de Accesos Manual, respondiendo a la pregunta."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que las tarifas se diferencian por categoría de vehículo, tal como lo hace la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica correctamente el reajuste basado en el IPC y menciona el reajuste extraordinario, cubriendo lo preguntado."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta entrega las tarifas máximas base correctas ($50 punta, $35 fuera de punta) para vehículos livianos."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente la moneda (pesos) y la fecha base (31 de Diciembre de 2000)."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Aunque comienza mencionando solo la vía principal, la respuesta corrige y completa la información indicando la longitud total de 14,4 km, que es el dato correcto solicitado."
+   }
+  ]
+ }
+}

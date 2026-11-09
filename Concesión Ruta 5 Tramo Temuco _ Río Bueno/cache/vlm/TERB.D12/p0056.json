@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D12",
+ "pagina": 56,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_524-2005-y-Convenio-Complementario.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 50,
+ "segundos": 14.0,
+ "fecha": "2026-10-27 12:12",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 43,
+  "conf_media": 0.768,
+  "frac_baja": 0.326,
+  "frac_rara": 0.056,
+  "tinta": 0.0068
+ },
+ "n_palabras_vlm": 33,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.622,
+ "truncado": false,
+ "texto_ocr": "Ruta 5 Tramo Temuco = Río Bueno\nConvenio Complementario N* 3\n\nANEXO N* 4\n\nPrograma de Entrega de Terrenos\n\n(1 hoja)\n\nE 08\n\na C ENERO\nES ¿0\nyo Sec\nEOS oePTO DE 9%\nno TO.DE O\n— 1 CONCESIONES OT\nES ES",
+ "texto_vlm": "Ruta 5 Tramo Temuco – Río Bueno\nConvenio Complementario N° 3\n\nANEXO N° 4\n\nPrograma de Entrega de Terrenos\n\n(1 hoja)\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nDEPTO. DE CONCESIONES"
+}

@@ -1,0 +1,7 @@
+etapa;donde;detalle
+estructura;Bases 1.9.5;Los artículos 1.9.6, 1.9.7 y 1.9.8 no se detectaron y su texto quedó dentro de 1.9.5.
+estructura;Bases 2.6.6;Falta el título 2.6.6; los artículos 2.6.6.1–2.6.6.3 cuelgan directamente de 2.6.
+ocr;Bases 1.15.4 (Tabla N°6);La tabla de factores por vehículo es ilegible en el OCR; solo se lee bien en la transcripción con visión.
+tablas;Bases 2.2.1.2 (Tabla N°9, pág. 111);La tabla de puentes no se mandó a visión: el OCR la deja como «Pao Superior Las Gavia Puente Las Ballenas 3,30 110 [| 14 |».
+ocr;Bases 1.6.2 y 1.7.5;Basura del OCR mezclada con el texto («ME: EXA o o IA», «Decreto Supremo de o de la Concesión»).
+ocr;Publicación Diario Oficial (2002);Números mal leídos en los cuerpos legales: «N°200, de 1926» por «N°900, de 1996» y «N°350» por «N°850».

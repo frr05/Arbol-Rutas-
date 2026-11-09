@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D02",
+ "pagina": 26,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 188,
+ "segundos": 9.3,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "texto_raro",
+ "calidad_ocr": {
+  "n_palabras": 141,
+  "conf_media": 0.898,
+  "frac_baja": 0.05,
+  "frac_rara": 0.275,
+  "tinta": 0.023
+ },
+ "n_palabras_vlm": 129,
+ "frac_rara_vlm": 0.27,
+ "similitud": 0.757,
+ "truncado": false,
+ "texto_ocr": "3)3)\n\n1.)\n\n33 ))3))))))3)3)3:))\n\n)\n\n.)\n\n11\n\n11\n\nLa exigencia de un \"estudio preliminar para las obras (B) y (C)\" en las Bases\nde Licitación deberá entenderse siempre sólo como \"Minuta Explicativa para\n\nlas obras (B) y (C)”.\n\nRSM/JMCfAm\nDistribución:\n\n- Srs\n- Srs\n- Srs\n- Srs\n- Srs\n- Srs\n\nDragados y Construcciones\nAceros Chile Construcciones\nEndesa\n\nEulogio Gordo\n\nEquipos Antilhue\n\nHidroeléctrica Guardia Vieja S.A.\n\n- Sr, Eduardo Arriagada M.\n\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n\nCementos Bío Bío\nGeotécnica Consultores\nBesalco S.A.\nBurgwardt S.A.\nAsfaltos Chilenos S.A.\nEmp. Belfi\n\nFerrovial\n\ninnova S.A.\nConstructora Cosal S.A\nMariano Egaña Ltda.\nAsintota Ltda.\n\nVial y Vives Ltda.\n\n-- Depto. Concesiones\n- Secretaría DGOP\n- Oficina de Partes\n\nSaluda atentamente a Ud.,\n\nld /",
+ "texto_vlm": "11° La exigencia de un \"estudio preliminar para las obras (B) y (C)\" en las Bases de Licitación deberá entenderse siempre sólo como \"Minuta Explicativa para las obras (B) y (C)\".\n\nSaluda atentamente a Ud.,\n\nRSM/JMC/im\nDistribución:\n- Srs. Dragados y Construcciones\n- Srs. Aceros Chile Construcciones\n- Srs. Endesa\n- Srs. Eulogio Gordo\n- Srs. Equipos Antilhue\n- Srs. Hidroeléctrica Guardia Vieja S.A.\n- Sr. Eduardo Arriagada M.\n- Srs. Cementos Bio Bio\n- Srs. Geotécnica Consultores\n- Srs. Besalco S.A.\n- Srs. Burgwardt S.A.\n- Srs. Asfaltos Chilenos S.A.\n- Srs. Emp. Belfi\n- Srs. Innova S.A.\n- Srs. Constructora Cosal S.A.\n- Srs. Mariano Egaña Ltda.\n- Srs. Asintota Ltda.\n- Srs. Vial y Vives Ltda.\n- Depto. Concesiones\n- Secretaria DGOP\n- Oficina de Partes"
+}

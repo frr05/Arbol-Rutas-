@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D16",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_123-2015.pdf",
+ "sha256": "588bc5e205386f19ddcd023a3bf797ac4b24c01b41918318d6a9883211f44c98",
+ "paginas": 62,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:07"
+}

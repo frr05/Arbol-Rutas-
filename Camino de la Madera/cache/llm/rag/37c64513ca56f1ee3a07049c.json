@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:28",
+ "respuesta": {
+  "respuesta": "Se publicaron 3 resoluciones modificatorias del contrato: Resolución N°4333 (2007-12-21), Resolución N°5066 (2008-12-09) y Resolución N°2633 (2009-06-05) [1][2][7][8].",
+  "fuentes": [
+   1,
+   2,
+   7,
+   8
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 54,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 631,
+ "segundos": 44.7,
+ "fecha": "2026-11-05 00:43",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 327,
+  "conf_media": 0.897,
+  "frac_baja": 0.122,
+  "frac_rara": 0.011,
+  "tinta": 0.0444
+ },
+ "n_palabras_vlm": 608,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.836,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESIÓN RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nCriterio de\n\nArtículo Monto Tipo de Infracción\nBases de Multa\nLicitación | (UTM)\n\n1.9.10 20 Incumplimiento de las normas sobre | Cada día\nseñalización y seguridad para el\ntránsito. í\n1.9.11 30 Atraso en la entrega de las|Cada día ¿\ninstalaciones al Inspector Fiscal en f\nlos plazos previstos. ] o\n1.9.11 20 Incumplimiento de las instrucciones | Cada día ES\no impartidas por el Inspector Fiscal j\nsobre instalaciones y/o equipamiento o\ndel Inspector Fiscal. : E\n100 [Incumplimiento de las instrucciones | Cada día o o\n\nAplicación\n\nAtraso en el plazo máximo para la\nPuesta en Servicio Definitiva de las\nObras según los plazos establecidos.\n\nIncumplimiento de las | Cada vez\n\nEspecificaciones Técnicas, aprobadas\n\npor el Inspector Fiscal y\n\nprocedimientos de trabajo\n\nestipulados en Volumen N” 5 del\n\nManual de Carreteras sobre la\n\nConstrucción de las Obras.\n\n2.5 20 Atraso en la entrega del Plan de | Cada día\n\nSN\n7.1, 2. Incumplimiento de las instrucciones | Cada día\n\nimpartidas por el Inspector Fiscal\n\nsobre normas y consideraciones\n\nambientales.\n\nIncumplimiento de las normas y| Cada vez o\n\nconsideraciones de manejo\nÑ o\n\nambiental.\nc) Durante la Etapa de Explotación\n\nsobre despeje y limpieza final de la\n200 Cada día\n\nfaja.\n2.3 450\n\nIncumplimiento en las acciones a\ntomar señaladas en el Plan de\nMedidas de Control de Accidentes o\nContingencias durante la etapa de\nConstrucción.\n\n1.10.4 20 Incumplimiento de las instrucciones | Cada día (\nimpartidas por el Inspector Fiscal a\ntravés del Libro de Explotación de la\n\nObra. |\n1.10,5 20 Atraso en la entrega del Reglamento | Cada día\n\nde Servicio de la Obra.\n\n1.10.5 50 No publicación o no distribución | Cada vez\ngratuita del extracto del Reglamento MESS\nde Servicio de la Obra a los usuarios. <N O,\nz 2,\nA = 2\nE e]\nLP MIS ISTERIO DE OBRAS PUBLICAS — COORDINACION GENERAL DE CONCESIONES 5 IS 40\not “Dew 37",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n| Artículo | Monto | Tipo de Infracción | Criterio de | Otros |\n| :--- | :--- | :--- | :--- | :--- |\n| Bases de | Multa | | Aplicación | |\n| Licitación | (UTM) | | | |\n| 1.9.10 | 20 | Incumplimiento de las normas sobre | Cada día | |\n| | | señalización y seguridad para el | | |\n| | | tránsito. | | |\n| 1.9.11 | 30 | Atraso en la entrega de las | Cada día | |\n| | | instalaciones al Inspector Fiscal en | | |\n| | | los plazos previstos. | | |\n| 1.9.11 | 20 | Incumplimiento de las instrucciones | Cada día | |\n| | | impartidas por el Inspector Fiscal | | |\n| | | sobre instalaciones y/o equipamiento | | |\n| | | del Inspector Fiscal. | | |\n| 1.9.13 | 100 | Incumplimiento de las instrucciones | Cada día | |\n| | | sobre despeje y limpieza final de la | | |\n| | | faja. | | |\n| 1.10.3 | 200 | Atraso en el plazo máximo para la | Cada día | |\n| | | Puesta en Servicio Definitiva de las | | |\n| | | Obras según los plazos establecidos. | | |\n| 2.3 | 450 | Incumplimiento de las | Cada vez | |\n| | | Especificaciones Técnicas, aprobadas | | |\n| | | por el Inspector Fiscal y | | |\n| | | procedimientos de trabajo | | |\n| | | estipulados en Volumen N° 5 del | | |\n| | | Manual de Carreteras sobre la | | |\n| | | Construcción de las Obras. | | |\n| 2.5 | 20 | Atraso en la entrega del Plan de | Cada día | |\n| | | Autocontrol en el plazo establecido. | | |\n| 2.7.1, 2.10 | 100 | Incumplimiento de las instrucciones | Cada día | |\n| | | impartidas por el Inspector Fiscal | | |\n| | | sobre normas y consideraciones | | |\n| | | ambientales. | | |\n| 2.7.1, 2.10 | 200 | Incumplimiento de las normas y | Cada vez | |\n| | | consideraciones de manejo | | |\n| | | ambiental. | | |\n| 2.8.1 | 100 | Incumplimiento en las acciones a | Cada vez | |\n| | | tomar señaladas en el Plan de | | |\n| | | Medidas de Control de Accidentes o | | |\n| | | Contingencias durante la etapa de | | |\n| | | Construcción. | | |\n| c) Durante la Etapa de Explotación | | | | |\n| 1.10.4 | 20 | Incumplimiento de las instrucciones | Cada día | |\n| | | impartidas por el Inspector Fiscal a | | |\n| | | través del Libro de Explotación de la | | |\n| | | Obra. | | |\n| 1.10.5 | 20 | Atraso en la entrega del Reglamento | Cada día | |\n| | | de Servicio de la Obra. | | |\n| 1.10.5 | 50 | No publicación o no distribución | Cada vez | |\n| | | gratuita del extracto del Reglamento | | |\n| | | de Servicio de la Obra a los usuarios. | | |\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+}

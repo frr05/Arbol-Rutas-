@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "Las Bases de Licitación fueron aprobadas por la Resolución DGOP N° 261 del 16 de agosto de 2001 [1].",
+  "fuentes": [
+   1,
+   4,
+   9
+  ]
+ }
+}

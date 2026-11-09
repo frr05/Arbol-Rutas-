@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 00:37",
+ "respuesta": {
+  "respuesta": "El Inspector Fiscal aplica las multas según lo establecido en las Bases de Licitación, específicamente en el artículo 1.8.5 sobre infracciones y multas [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

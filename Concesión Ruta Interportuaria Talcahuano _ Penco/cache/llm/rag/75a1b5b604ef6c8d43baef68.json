@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "El decreto de adjudicación es el Decreto Supremo N° 112, de fecha 31 de enero de 2002 [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

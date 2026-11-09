@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "El servicio del MOP que fiscaliza el contrato de concesión es la Dirección General de Obras Públicas (DGOP), a través del Inspector Fiscal y de la Inspección Técnica de la Explotación de la Obra (I.T.E.O.) [3], [7].",
+  "fuentes": [
+   3,
+   7
+  ]
+ }
+}

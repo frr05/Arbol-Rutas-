@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "El porcentaje de los ingresos totales de explotación que se imputa al servicio de construcción para efectos del IVA es del 80%, según lo establecido en el Decreto de adjudicación [6] y la Circular aclaratoria N°3 [1]. Sin embargo, la Publicación en el Diario Oficial N°37.240 menciona un 30% para construcción [2], lo que podría ser una discrepancia en los documentos.",
+  "fuentes": [
+   1,
+   2,
+   6
+  ]
+ }
+}

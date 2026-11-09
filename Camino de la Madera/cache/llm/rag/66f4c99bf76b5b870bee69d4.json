@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:13",
+ "respuesta": {
+  "respuesta": "El servicio especial obligatorio en la etapa de explotación es: mantener expedito el tránsito, prevenir posibles accidentes, paralizar y ordenar el tránsito en casos de accidentes o reparaciones, prestar oportuna y eficazmente primeros auxilios a personas accidentadas, rescatar y auxiliar vehículos, etc. [2]",
+  "fuentes": [
+   2
+  ]
+ }
+}

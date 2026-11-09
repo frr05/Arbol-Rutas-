@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 153,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 331,
+ "segundos": 17.8,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 208,
+  "conf_media": 0.908,
+  "frac_baja": 0.106,
+  "frac_rara": 0.01,
+  "tinta": 0.0168
+ },
+ "n_palabras_vlm": 232,
+ "frac_rara_vlm": 0.029,
+ "similitud": 0.764,
+ "truncado": false,
+ "texto_ocr": "2 Mejoramiento Pantallas Acústicas Pobl. 755,000 - >\n52,0\nSan Antonio, Loncoche 755,500 a\n> Mejoramiento Saneamiento Sector CS 769,200 - 268\nLanco Nor Poniente 769,500 \"\n+\noa 770,000 y\n3 Paisajismo Enlaces Lanco Norte y Lanco Sur 11,54\n773,200 |\n4 Modificación de la descarga de aguas 770,800 - 935\nlluvias del bypass de la Ruta 5 771,700\n5 instalación de compuertas en obras de arte 771,000 - 315\nBy Pass Lanco 774,000 :\n—— —\n6 Rampas Peatonales Atravieso Pon Pon 780,120 13,05\nSistema Evacuación de aguas Ciruelos\n784,644\nPoniente |\n\nPavimentación en DTS y Obras de 830,200 -\n\n8 31,83\nSaneamiento CS Los Lagos Oriente (Pancul) 831,050\nMejoramiento conectividad peatonal y\n\n9 o 831,100 86,79\nciclista, sector Puente San Pedro\n\n10 instalación de señales informativas de Varios 173\nservicio en la Ruta 5 sectores :\n\nTabla N* 5\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y\nseguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe\ndurante la etapa de explotación de “Obras de Servicialidad”\n\nCostos Mensuales de\noo, Conservación,\nN? Ubicación Ml o\nOBRA Mantención, Operación\nProyecto Aprox. [km] Ml\ny Explotación\n(UF)\n1 VAtravieso Rinconada 720,750 167,85\nRUTÁN DE LOS RIOS |\n\n' 2\nSOCIEDAJ CONCESIONARIA $. A. LP 12",
+ "texto_vlm": "1 | Mejoramiento Pantallas Acústicas Pobl. San Antonio, Loncoche | 755,000 - 755,500 | 52,01\n---|---|---|---\n2 | Mejoramiento Saneamiento Sector CS Lanco Nor Poniente | 769,200 - 769,500 | 2,64\n3 | Paisajismo Enlaces Lanco Norte y Lanco Sur | 770,000 y 773,200 | 11,54\n4 | Modificación de la descarga de aguas lluvias del bypass de la Ruta 5 | 770,800 - 771,700 | 9,35\n5 | Instalación de compuertas en obras de arte By Pass Lanco | 771,000 - 774,000 | 3,15\n6 | Rampas Peatonales Atravieso Pon Pon | 780,120 | 13,05\n7 | Sistema Evacuación de aguas Ciruelos Poniente | 784,644 | 6,83\n8 | Pavimentación en DTS y Obras de Saneamiento CS Los Lagos Oriente (Pancul) | 830,200 - 831,050 | 31,83\n9 | Mejoramiento conectividad peatonal y ciclista, sector Puente San Pedro | 831,100 | 86,79\n10 | Instalación de señales informativas de servicio en la Ruta 5 | Varios sectores | 1,73\n\nTabla N° 5\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de “Obras de Servicialidad”\n\n| N° Proyecto | OBRA | Ubicación Aprox. [km] | Costos Mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|---|\n| 1 | Atravieso Rinconada | 720,750 | 167,85 |\n\nRUTA DE LOS RIOS\nSOCIEDAD CONCESIONARIA S. A. 12"
+}

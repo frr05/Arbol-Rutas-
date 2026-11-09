@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "Durante la Etapa de Explotación, la Sociedad Concesionaria debe entregar al Inspector Fiscal los siguientes informes y antecedentes:\n\n1. Estados financieros trimestrales y anuales en formato FECU, entregados dentro de los 5 días posteriores a su presentación ante la Superintendencia de Valores y Seguros, explicitando ingresos desglosados (peajes, autorizaciones, cobros por accesos) y tipo de deudas [1].\n2. Información sobre organización y personal superior cada vez que se produzca un cambio, entregada dentro de los 15 días del cambio [1].\n3. Información adicional requerida por el Inspector Fiscal para fiscalizar el cumplimiento del contrato, entregada dentro de los 15 días de la solicitud [1].\n4. Informes de avance de la gestión ambiental con periodicidad variable: trimestral durante los primeros dos años; semestral entre el tercer y sexto año; anual desde el séptimo año hasta dos años antes del fin de la concesión; y semestral en los dos últimos años, todos dentro de los primeros 15 días del período siguiente [1], [2]. Estos informes deben incluir problemas ambientales registrados, propuestas de solución y eficacia de medidas [2].\n5. Información mensual de reclamos de usuarios, identificando usuario, reclamo, fecha, respuesta y medidas adoptadas, entregada dentro de los primeros 15 días del mes siguiente al periodo informado [1].\n6. Información sobre estadísticas, mediciones y controles referida al artículo 1.10.8, en los plazos indicados en las Bases [1]. Esto incluye:\n   - Informes mensuales con flujo vehicular horario, diario y mensual clasificado, promedio de velocidad, estadística de accidentes diarios y auxilios prestados, entregados dentro de los primeros 15 días de cada mes [3], [5].\n   - Informes trimestrales con cumplimiento del Programa de Conservación, cantidades de obras ejecutadas y precios unitarios incurridos, además del informe específico de puentes si corresponde, entregados dentro de los primeros 15 días del trimestre siguiente [4].\n7. Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas [1].\n8. Cualquier otra información relacionada con el Contrato que requiera el Inspector Fiscal en el plazo indicado por este [1].\n9. Mantener permanentemente actualizada y a disposición del Inspector Fiscal la información solicitada, facilitando el acceso a mediciones y proporcionando archivos de operación en formatos preestablecidos por vía electrónica si se solicita [9].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9
+  ]
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "tarea": "agente",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:41",
+ "respuesta": {
+  "falta": "La ficha de actos muestra 3 resoluciones en la carpeta, pero menciona decretos suplemos citados (N°892, N°660, N°1065, N°155) que no tienen PDF propio. Se necesita verificar si estos decretos son modificatorios del contrato y contarlos correctamente junto con las resoluciones.",
+  "accion": "leer_acto",
+  "argumento": "Resolución N°2633"
+ }
+}

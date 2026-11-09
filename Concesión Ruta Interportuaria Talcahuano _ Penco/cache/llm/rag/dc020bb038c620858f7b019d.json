@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:19",
+ "respuesta": {
+  "respuesta": "El decreto de adjudicación (Decreto Supremo N° 112) se publicó en el Diario Oficial N° 37.240 el día 20 de abril de 2002 [1].",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

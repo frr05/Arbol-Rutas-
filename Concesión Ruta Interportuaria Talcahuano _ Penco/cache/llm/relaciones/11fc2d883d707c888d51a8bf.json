@@ -1,0 +1,55 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 00:56",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     227,
+     275
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "1.7.6.1"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     277,
+     284
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "1.7.6.2"
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "w) Calcular e informar mensualmente a la Sociedad Concesionaria por medio de anotación en el Libro de Obra correspondiente, el monto de \"VPI,,\" actualizado según se describe en 1.7.6.1, en caso que la concesión se haya adjudicado en el Tramo A de licitación según lo previsto en 3.2.1, ambos artículos de las presentes Bases.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Información de los flujos diarios en todas las plazas de peaje y de las tarifas horarias vigentes en cada una de ellas, así como de todos los ingresos percibidos por la Sociedad Concesionaria desglosados, sean estos ingresos por tarifa, por servicios especiales, por servicios complementarios, por concepto de ingresos mínimos garantizados, por cobros por accesos y conexiones a la obra en concesión solicitados por terceros, u otros. Además deberá entregar información de los ingresos potenciales por concepto de tarifa desglosados; estos ingresos se obtendrán de multiplicar los flujos vehiculares que hayan circulado a través de todos los puntos de cobros instalados en la vía concesionada por los peajes máximos autorizados que se estén cobrando en cada uno de ellos. Esta información deberá ser entregada mensualmente, dentro de los 5 primeros días de cada mes. Cada ingreso debidamente desglosado, deberá convertirse al valor de la UF del día en que efectivamente se percibió.",
+    "debe_decir": "Información de los flujos diarios en todas las plazas de peaje y de las tarifas horarias vigentes en cada una de ellas, así como de todos los ingresos percibidos por la Sociedad Concesionaria desglosados, sean estos ingresos por tarifa, por servicios especiales, por servicios complementarios, por concepto de ingresos mínimos garantizados, por cobros por accesos y conexiones a la obra en concesión solicitados por terceros, u otros. Esta información deberá ser entregada mensualmente, dentro de los 5 primeros días de cada mes. Cada ingreso debidamente desglosado, deberá convertirse al valor de la UF del día en que efectivamente se percibió.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

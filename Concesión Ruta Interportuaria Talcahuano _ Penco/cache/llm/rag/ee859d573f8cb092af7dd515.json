@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre la cantidad total de empresas o grupos licitantes que presentaron oferta, ni una lista completa de los participantes. Únicamente se menciona el nombre del Consorcio Autopista Interportuaria en el documento de Oferta Económica [6], pero no se especifica si fue el único oferente o quiénes fueron los demás.",
+  "fuentes": [
+   6
+  ]
+ }
+}

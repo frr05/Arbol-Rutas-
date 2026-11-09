@@ -1,0 +1,4 @@
+# Paso 3 (modelo de visión). torch ya viene instalado en Colab.
+transformers>=4.49
+accelerate>=1.0
+torchvision

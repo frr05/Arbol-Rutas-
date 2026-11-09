@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:20",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D10.F0013] (Reglamento servicio) 12.- Sistema de cobro",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0014] (Reglamento servicio) 13.- Sistema de control de vehículos",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0015] (Reglamento servicio) 14.- Manejo de dinero",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D10.F0016] (Reglamento servicio) 15.- Transporte de dinero",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0017] (Reglamento servicio) 16.- Pesaje",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0018] (Reglamento servicio) IV.- —DELOS USUARIOS h- De su derecho de uso de las vías 2.- De su derecho a asistencia Caminera 3.- De su derecho a presentación de reclamos 3.1.- Libro de reclamo 3.2.- Forma de proceder 3.2.1.-. Respuesta de la concesionaria al usuario 3.2.2.- Información al 1 F. 3.2.3.- Soluciones 4. Seguridad 4.1.- Supervisión de la vía 4.2.- Medidas detección de accidentes 4.3.- — Reglamentos del tránsito, coordinación con Cara",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0019] (Reglamento servicio) 1.- Obligación de otorgamiento de servicio objeto de la concesión 58",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0020] (Reglamento servicio) 2.- De la mantención de obras y equipamiento s38",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0021] (Reglamento servicio) 3.- Derecho de cobro de peaje 58",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0022] (Reglamento servicio) 4.- Derecho a cobro de deterioros efectuados por manejo descuidado 58 - 59 e imprudente de los usuarios",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D10.F0023] (Reglamento servicio) 5.- Cobertura de Responsabilidad Civil 59 VL- DEL PERSONAL DE LA CONCESIONARIA 60 1.- Obligaciones y derechos del personal 60 2- Exigencias al personal 60 - 61 3.- Transporte para el personal 61 VIL- DE LA INSPECCION FISCAL 62 1.- Derechos y Obligaciones del Inspector Fiscal 62 2.- Procedimientos y sanciones 62 los servicios que se otorgaran en la explotación de ella, lo anterior de acuerdo al D.S. - 240 que reglamen",
+    "destino": "TEMA:garantias_y_seguros"
+   },
+   {
+    "fragmento": "[CM.D10.F0024] (Reglamento servicio) 1.- OBJETO DEL REGLAMENTO, CARACTER VINCULANTE, VIGENCIA DOCUMENTOS DELCONTRATO. Ñ |",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0025] (Reglamento servicio) 1.- Objeto. El objeto del Reglamento de Servicio es el de regular la explotación y la conservación de la Concesión; el Reglamento de Servicio fija normas las cuales pueden ser mejoradas si así se estimase convenientehle acuerdo a lo estipulado en punto 11.4 del presente reglamento, lo anterior de acuerdo a las leyes, decretos y normas que rigen esta concesión. Este Reglamento Interno es un complemento y en ningún cas",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0026] (Reglamento servicio) 2.- Carácter vinculante. El Reglamento de Servicio deberá ser cumplido por la concesionaria y sus contratistas, por los usuarios, por el Ministerio de Obras Públicas, a través del Inspector Fiscal y por todos aquellos que resulten afectados por la explotación y/o conservación de la misma. Ámbito de aplicación. El ámbito de aplicación del Reglamento será todo lo que se refiera a la prestación de servicio, sea en su pa",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0027] (Reglamento servicio) ==... 19.4 de las bases de licitación y cualquier cambio posterior, ya sea en personas o en la organización se informara al I.Fiscal nominado: Gerente General : El Gerente General tiene la función de dirigir la empresa concesionaria y llevar a cabo las políticas y objetivos definidos. El Gerente General, es el interlocutor con el MOP; requisitos minimos son los estipulados en las bases, punto 1.5.2.2,2, Gerente Técni",
+    "destino": "BL:1.5.33"
+   },
+   {
+    "fragmento": "[CM.D10.F0028] (Reglamento servicio) Es el encargado de la operación de la Plaza de Pesaje, respondiendo directamente frente al Jefe de Turno; debe velar por el correcto funcionamiento de todos los equipos de pesaje, en el turno respectivo, los operadores deben poseer estudios de Ens. Media. Es la persona responsable de llevar cabo el cobro directo al usuario; debiendo realizar la clasificación vehicular en forma visual; respondiendo directamente frente",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0029] (Reglamento servicio) e. Realizados los trabajos, el Inspector Fiscal procederá a efectuar la recepción correspondiente, de acuerdo a la modalidad vigente. Las reparaciones mayores o mantenciones imprevistas deberán ser además informadas previamente al LF., y quedaran consignadas en el Informe Semestral que se entrega al MOP. Horario de funcionamiento. El horario de atención al público usuario será durante las 24 horas del día, los 365 di",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0030] (Reglamento servicio) Mensajero (2) (1) Cuadrilla de Mantención rutinaria (6 X*) Las labores que presta el personal antes indicado de acuerdo a criterio de la Concesionaria podrá ser subcontratadoa excepción del G.General y G.Técnico. * Se operará con dos plazas de pesaje, el horario de funcionamiento de estas se readecuara de acuerdo a la demanda, por lo cual el numero de operadores podría ser modificado. * El personal contara con un med",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0031] (Reglamento servicio) i) Reclamos presentados por los usuarios, identificando al usuario y al reclamo que haya presentado. pu“ 2.- Informes trimestrales : iy Estados financieros de la Sociedad Concesionaria, presentados en formato (FECU) exigido por la Superintendencia de Valores y Seguros y auditado por el auditor externo, de acuerdo al punto 6* de la Circular Aclaratoria N9.",
+    "destino": "BL:1.5.33"
+   },
+   {
+    "fragmento": "[CM.D10.F0032] (Reglamento servicio) 3.- Informes semestrales : ¡) Información Estadistica: (1) Tránsito : controles de tránsito en ambos sentidos A e Reclamos de los Usuarios A e Auxilios a los usuarios / e Flujo horario de vehículos As Flujo diario de vehículos » e Flujo mensual de Vehículos , e Accidentes diarios, indicando sentido, causas y hora as Niveles de servicio del tránsito, con observaciones relativas a capacidad y hora 30. p * Controles est",
+    "destino": "BL:1.5.33"
+   },
+   {
+    "fragmento": "[CM.D10.F0035] (Reglamento servicio) | ] adicionales de la Dirección de Vialidad del MOP. 6.5.- Informe de Cumplimiento: En el informe anual la concesionaria incluirá el informe de pr en el cual se 7.- Mantención de la Obra 7.1.- Políticas de mantenimiento. Rutinarias: Son aquellas Operaciones de conservación que deben realizarse a lo largo del año cualquiera sea el nivel de tránsito y Clima tales como saneamiento y despeje de la faja, así como aquellas",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0036] (Reglamento servicio) - Una estimación de las cantidades de obras convenientes de ejecutar para mantener el camino, incluyendo los precios unitarios estimados. - La conservación de puentes deberán quedar individualizados en las fichas de registros indicándose el tipo de conservación que se realizará con identificación de los trabajos. Anualmente se informará al Y. Fiscal con copia al Dpto. de Puentes de la Dirección de Vialidad del estudi",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0037] (Reglamento servicio) 8.1.- Instalaciones y equipos. | | Para cada tipo de instalación y equipo que a continuación se menciona se le llevara a a cabo un aseo y mantención, las cuales podrán ser realizadas directamente por la : y concesionaria o bien por medio de servicios extemos: - Mantención de estructuras y construcciones de las plazas de peaje, pesaje y oficinas. - Mantención de vehículos. - Mantención de equipamiento eléctrico, mecán",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0038] (Reglamento servicio) sancionada por los tribunales de justicia respectivos. 9.2.- Supervisión de los equipos de la obra. Para la adecuada supervisión de los equipos que posee la obra, se llevara a cabo los chequeos respectivos que recomienda el fabricante, como asimismo las mantenciones por ello estipuladas, tanto los chequeos como las mantenciones se realizaran de acuerdo a pautas que se entregaran en Programa de conservación. Medidas d",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0039] (Reglamento servicio) Oficina de manejo de Dineros y caja buzón Lugar de guardar archivos Baño Sala de Descanso Of de Recaudación Cocina Espacio para carabineros con baño privado Espacio físico donde se encuentra el tablero general de Electricidad y Grupo generador de emergencia SALA GRUPO GENERADOR CASA DE CAMBIO (*+*) (solo en Curalí) BODEGA (**) Bodega de herramientas y materiales solo en Curalí (3): En Plaza de Curalí esta oficina ser",
+    "destino": "TEMA:operacion_y_servicios"
+   }
+  ]
+ }
+}

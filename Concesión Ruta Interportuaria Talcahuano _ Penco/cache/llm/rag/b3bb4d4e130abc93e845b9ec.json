@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "La Dirección General de Obras Públicas será el servicio del Ministerio de Obras Públicas que fiscalizará el contrato de concesión en sus diversos aspectos [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

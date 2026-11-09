@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "El plazo de concesión ofrecido por el licitante fue de 25 años [5]. Sin embargo, el plazo total máximo establecido en la normativa aplicable (artículo 25 de la Ley de Concesiones) es de 50 años [8].",
+  "fuentes": [
+   5,
+   8
+  ]
+ }
+}

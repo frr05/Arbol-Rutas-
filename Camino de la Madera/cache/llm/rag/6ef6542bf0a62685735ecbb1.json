@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "La apertura de la oferta económica se realizó el día 07 de Abril de 1994 a las 12 horas [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

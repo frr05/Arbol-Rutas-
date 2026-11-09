@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 03:23",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 decretos supremos modificatorios del contrato: Decreto Supremo MOP N°71 (2005-02-01) que aprueba el Convenio Complementario N°1 [4][9] y Decreto Supremo MOP N°316 (2007-04-30) que aprueba el Convenio Complementario N°2 [1][4][9]. Además, el Decreto Supremo N°136 (2023-07-25) constituye el último acto modificatorio [9][10].",
+  "fuentes": [
+   1,
+   4,
+   9,
+   10
+  ]
+ }
+}

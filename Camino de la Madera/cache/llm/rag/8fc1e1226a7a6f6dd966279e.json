@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:13",
+ "respuesta": {
+  "respuesta": "Se imputa un 80% de los ingresos por concepto de peaje al servicio de construcción, mientras exista saldo deudor por este concepto [3]. Este porcentaje corresponde al valor neto que el MOP paga al concesionario para cubrir el costo de la construcción, y sobre este monto se recarga el IVA que es pagado por el MOP [1], [2], [6].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   6
+  ]
+ }
+}

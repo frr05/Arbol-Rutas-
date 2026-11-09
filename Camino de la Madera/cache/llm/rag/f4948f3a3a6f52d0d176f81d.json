@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "La garantía de construcción corresponderá al 4% de los presupuestos oficiales de las obras respectivas [1].",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

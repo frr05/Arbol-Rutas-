@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión puede ser fijo o variable dependiendo del tramo de licitación en que se adjudique. Si se adjudica en el Tramo A, el plazo máximo es de 498 meses pero puede extinguirse antes si se cumplen los Ingresos Totales de la Concesión (ITC) [5]. En los demás tramos (como el Tramo B o C), el plazo es fijo de 378 meses [1][2][4][5][7].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   5,
+   7
+  ]
+ }
+}

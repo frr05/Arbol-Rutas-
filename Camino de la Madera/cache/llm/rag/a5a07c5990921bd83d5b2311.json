@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se identifican los siguientes actos que modifican o complementan el contrato: 1) El Convenio Complementario N°1, aprobado por Decreto Supremo MOP N° 660 (que luego fue dejado sin efecto y reemplazado por otro decreto aprobando el mismo convenio, mencionado como D.S. MOP N° 1.065 en otros contextos pero refiriéndose a la aprobación del convenio)[2][3][5][6]. 2) La Resolución DGOP (Exenta) N° 4333, sancionada por Decreto Supremo MOP N° 155[5][9]. 3) La Resolución DGOP (Exenta) N° 5066, sancionada por Decreto Supremo MOP N° 155[9]. 4) La Resolución DGOP (Exenta) N° 2633, sancionada por Decreto Supremo MOP N° 215[1][9]. Además, se menciona un Decreto Supremo N° 892 que modificó el régimen legal del contrato para aplicar la Ley N° 19.460[3], y un Decreto Supremo N° 1.901 (o N° 892 según OCR error posible, pero texto dice 1.901) que modificó el régimen jurídico aplicando el Reglamento de Concesiones[3]. También se cita un Decreto Supremo N° 155 que aprobó un Convenio Ad-Referéndum[2][9]. Contando los decretos supremos y resoluciones exentas que establecen modificaciones, tarifas o aprueben convenios complementarios/ad-referendum: DS 892, DS 1.901, DS 660/DS 1.065 (Convenio Comp. 1), Res 4333 (sancionada por DS 155), Res 5066 (sancionada por DS 155), Res 2633 (sancionada por DS 215). Si contamos los instrumentos finales de modificación/aprobación: DS 892, DS 1.901, DS 660 (anulado) / DS 1.065 (aprobación definitiva convenio 1), Res 4333, Res 5066, Res 2633. La pregunta es ambigua sobre si cuenta las sanciones o las resoluciones. Sin embargo, la ficha lista: Bases, Circulars, Oferta, Decreto Adjudicacion, Resoluciones (2633, 4333, 5066), Reglamento, Convenio Comp 1, Convenio Extincion. Los Decretos Supremos mencionados como modificatorios son: 892, 1.901, 660, 1.065, 155, 215. Son 6 decretos supuestos modificatorios o de aprobación de convenios. Las resoluciones son 3 (4333, 5066, 2633). En total 9 actos normativos distintos fuera de la adjudicación y bases. Pero si nos ceñimos a \"decretos o resoluciones\", son 6 DS + 3 Res = 9. \n\nRevisando el fragmento [2] en la sección \"Actos citados... sin PDF propio\":\n- DS N° 892 (modificó régimen jurídico)\n- DS N° 660 (aprobó convenio comp 1, luego anulado)\n- DS N° 1.065 (aprobó convenio comp 1)\n- DS N° 155 (sancionó res 4333, 5066 y aprobó convenio ad-ref)\n- DS N° 215 (sancionó res 2633 - implícito en [9] aunque no listado en la ficha de actos sin PDF, sí está en [9])\n\nEn [9] se menciona:\n- Res 4333 (sancionada por DS 155)\n- Res 5066 (sancionada por DS 155)\n- Res 2633 (sancionada por DS 215)\n\nEn [3] se menciona:\n- DS 892\n- DS 1.901\n\nEn [6] se menciona:\n- DS 660 (dejado sin efecto)\n- Aprobación del Convenio Comp 1 (por DS posterior, identificado como 1.065 en [5] y [2]).\n\nPor lo tanto, los decretos/resoluciones son:\n1. DS 892\n2. DS 1.901\n3. DS 660\n4. DS 1.065\n5. DS 155\n6. DS 215\n7. Res 4333\n8. Res 5066\n9. Res 2633\n\nSon 9 en total.",
+  "fuentes": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   9
+  ]
+ }
+}

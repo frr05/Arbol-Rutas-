@@ -1,0 +1,37 @@
+{
+ "tarea": "relaciones",
+ "modelo": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "fecha": "2026-10-26 23:18",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     70,
+     74
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [
+     76,
+     80
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

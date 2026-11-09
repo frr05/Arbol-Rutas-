@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:10",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D14.F0026] (Reglamento servicio) - No fumar en el lugar de trabajo. - No usar el teléfono del local para uso personal. - No reunirse en grupos cuando está en sus labores. - No discutir con un cliente. Orientarlo a que sus reclamos los dirija en la oficina de la Concesionaria. • Prohibiciones Entre otras prohibiciones están las siguientes, válidas tanto para el personal de Sociedad Concesionaria Autopista Interportuaria S.A. como de cualquier empresa",
+    "destino": "BL:1.10.5"
+   },
+   {
+    "fragmento": "[RITP.D14.F0027] (Reglamento servicio) 6.5. Procedimiento para bloqueo de pista - Al bloquear una pista deberá asegurar de contar con su uniforme de seguridad requerido para transitar en la vía. - Para bloquear empiece por cambiar la luz de tráfico que indica la inhabilitación de la pista. - Utilice 10 conos. VII MANUAL DEL PATRULLERO 7.1 Objetivo El Asistente de Ruta tiene como misión: a. Inspeccionar el estado de la ruta identificando y previendo situac",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0028] (Reglamento servicio) 1 Gata de 2 Ton tipo caimán para automóviles. 2 Gatas de 20 Ton C/U 1 Chuzo. 1 Pala 2 Escobillas tipo municipal 2 Bidones de Combustible 20 L C/U. 8 Cuñas de Maderas 30 Conos de señalización con Doble Cinta Reflectiva Equipo portátil para puente de batería (Booster) - Equipamiento del botiquín de primeros auxilios Apósitos. Gasa. Cinta Adhesiva. Povidona Yodada. Agua Oxigenada. Suero Fisiológico Algodón. Guantes Quir",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0029] (Reglamento servicio) 1.3 Clasificación de accidentes según nivel de compromiso con la ruta Los accidentes se clasifican de acuerdo a su gravedad o nivel de compromiso en los siguientes niveles: - Nivel 1 (sin afectar calzadas) - — Niver2 (suspensión momentánea, flujo en un sentido) - Nivel 3 (interrupción tránsito en ambos sentidos) Es importante considerar que una vez recibida la información se deberá actuar en forma inmediata. Las actu",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0030] (Reglamento servicio) 7.6 Clasificación según gravedad del accidente Cuando ocurren accidentes vehiculares, las acciones de rescate cobran principal importancia. Además de mantener la calma, es necesario conocer y cumplir las recomendaciones señaladas a continuación. Al recibir un llamado de emergencia o percatarse de ello en su inspección habitual, lo primero es hacer una evaluación de la gravedad del hecho para asi ho perder tiempo en l",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0031] (Reglamento servicio) El concentrarse en la conducción del vehículo, da más tranquilidad, seguridad y permite evitar la ocurrencia de hechos tan desagradables como un accidente. La percepción y reacción se traduce en un tiempo que fluctúa entre 0.5 y 1.5 segundos, considerándose como tiempo normal de reacción ¾ de segundo. El lapso transcurre desde el instante en que es posible advertir el peligro que potencialmente genera un accidente, h",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0032] (Reglamento servicio) Los riesgos de la velocidad Una de las causas más frecuentes de accidentes vehiculares, es el conducir a una velocidad no adecuada ni prudente. El mayor problema que se presenta a esa velocidad es la dificultad para efectuar maniobras de emergencia, cuando es necesaria, A bajas velocidades el conductor goza de un amplio margen de capacidad visual, Sin embargo, a medida que el ritmo de marcha aumenta, la necesidad de ",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0033] (Reglamento servicio) Estudios clínicos han demostrado que los destilados del petróleo que incluyen parafina, gasolinas, solventes, etc., som todos capaces de provocar graves consecuencias al ingerirse o inhalarse. El mayor peligro no es el efecto en el estómago, sino en los pulmones. Cuando la bencina entra en la boca por ejemplo, existe la posibilidad de que cierta cantidad pueda entrar en los pulmones, y cause una irritación inmediata,",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0034] (Reglamento servicio) provoque una fatalidad, los pulmones dañados pueden incapacitar a la víctima por un tiempo bastante largo. - Limpieza de manos y parte del cuerpo como desengrasante o como diluyente para limpieza de manchas de pintura. El contacto de bencina con la piel puede destruir la capa protectora exterior, disolver el recubrimiento graso e inhibir el mecanismo defensivo contra los ataques del ambiente natural. - El contacto pr",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0035] (Reglamento servicio) - La transmisión deberá ser lo mas corta y precisa posible, consistente y con claridad. - Identifíquese claramente en la comunicación y con la parte receptora. - Utilice un lenguaje adecuado de comunicación que demuestre respeto y seriedad de la comunicación. - Deje una pausa al final de conversación. - Evite realizar interferencia intencional con cualquier otro equipo de radiocomunicación. - Seconsidera falta grave ",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0036] (Reglamento servicio) El tiempo es importante No pierda tiempo llevando la victima a un mejor lugar, a menos que se trate de un lugar inseguro. El propósito principal es hacer que llegue el aire de inmediato a los pulmones de la victima, ya que los tejidos privados de oxigeno, fiene un limite de pocos minutos de resistencia. Si se introduce aire en los pulmones, para que la sangre tenga el oxígeno que necesita, se puede prolongar la vida.",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0037] (Reglamento servicio) Sintomas El paciente que sufre un TEC puede presentar lesiones craneanas, expresadas en heridas del cuero cabelludo, o en fracturas, con o sin hundimiento del cráneo. Asimismo, alteraciones de conciencia, como pérdida de ella, confusión, estupor, en el que el paciente cas en un estado de sopor profundo. También se pueden observar signos focales como: alteraciones de los movimientos de los ojos, las pupilas permanecen",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0038] (Reglamento servicio) b. Contactar al Administrador/supervisor del turno e informar de ello. c. Si el derrame es mayor (más de un tambor) o bien la sustancia reviste peligro se deberá evitar cualquier contacto con el material. Asegurar el lugar con los elementos de seguridad para evitar accidentes posteriores. De ser necesario se deberá bloquear la pista e impedir el paso de vehiculos. d. Intentar mantenerse contra el viento, o si el mate",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0039] (Reglamento servicio) Animales podrían pasearse por el camino. Se podría tratar de animales salvajes de los alrededores o de mascotas. Informar la presencia de cualquier animal muerto o vivo en el camino al Administrador Jefe de Plaza. Efectuar lo siguiente: - —Siestá muerto, apartar el animal a un costado de la nuta, - Si está vivo y reviste peligro para el tránsito, pedir ayuda a otros funcionarios para trata de apartarlo de la ruta. - ",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0040] (Reglamento servicio) ANEXO N? 1 Plaza de Peaje Penco Comuna de Penco Enlace Rocuant Puente Las Bailenas Plaza de Peaje Talcahuano Comuna de Talcahuano Puente Canal El Morro Plaza de Peaje Alessandri Aeropuerto Cartel Sur Comuna de Concepción Plaza de Peaje Penco",
+    "destino": "BL:1.16.1.2"
+   },
+   {
+    "fragmento": "[RITP.D14.F0041] (Reglamento servicio) ANEXO N? 2 MINVEVN abusa 0 OA O Oda A 0: Nainsor ria de is: Ipieosnse MiszaeA UYINTTA NI ASHYSN YHVd TMIOINI",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0001] (Convenio complementario N°1) Primer Cuerpo Página 14 DIARIO OFICIAL DE LA REPUBLICA DE CHILE Lunes 16 de Mayo de 2005 N* 38.162 Ministerio de Obras Públicas APRUEBA CONVENIO COMPLEMENTARION\"1,QUE MODIFICA EL CONTRATO DE CONCESION DE LA OBRA PUBLICA FISCAL DENOMINADA “RUTA IN- TERPORTUARIA TALCAHUANO - PENCO POR ISLA ROCUANT” Núm. 71.- Santiago, | de febrero de 2005.- Vistos: - El artículo 87 del DFL MOP N' 850, de 1997, que fijó el texto refundi",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0002] (Convenio complementario N°1) Decreto:",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0003] (Convenio complementario N°1) 1. Apruébase el convenio complementario N? 1, de fecha 12 de enero de 2005, que se anexa y forma parte integrante del presente decreto, celebrado entre la Dirección General de Obras Públicas, representada por su Director General, don Germán Millán Pérez, ambos domiciliados para estos efectos en calle Morandé N? 71, tercer piso, comuna y ciudad de Santiago, y “Sociedad Concesionaria Autopista Interportuaria S.A.”, deb",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0004] (Convenio complementario N°1) 2. Dispónese que en todo lo no modificado por el convenio complementario que se aprueba por el presente decreto supremo, rigen plenamente las estipulaciones del de- creto supremo MOP N? 112, de fecha 31 de enero de 2002, las Bases de Licitación y demás instrumentos que conforman el contrato de concesión.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0005] (Convenio complementario N°1) 3. Establécese que la sociedad concesionaria deberá suscribir ante Notario tres transcripciones del presente decreto supremo en señal de aceptación de su contenido, debiendo protocolizar ante el mismo Notario uno de sus ejemplares conjuntamente con un original del convenio complementario que se aprueba, dentro del plazo de 15 días corridos contados desde su publicación en el Diario Oficial. Una de las transcrip- cion",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0006] (Convenio complementario N°1) 4. Establécese que el Director General de Obras Públicas informará semestralmente a la Dirección de Presupuestos del Ministerio de Hacienda sobre el desarrollo y cumplimiento de las estipulaciones del Convenio Complementario aprobado por el presente decreto supremo. Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jaime Esté- vez Valencia, Ministro de Obras Públicas.- Mario Mar",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0007] (Convenio complementario N°1) Las nuevas prestaciones sujetas a tarificación y el factor de impuesto se fijarán mediante un decreto complementario, el cual tendrá vigencia hasta el término del período en curso, esto es, hasta el 4 de octubre de 2011. Dirección General de Aguas Solicitudes de Particulares COMUNA DE CASABLANCA Derecho de aprovechamiento de aguas subterráneas CLODOMIRO V. CAVIEDES MEDINA, Cl. 1.840,.352-8, solicita derechos de aprov",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[RITP.D10.F0008] (Convenio complementario N°1) La extracción de aguas será permanente, continua y no consuntiva. . Noexisten derechos de aprovechamiento no consuntivos constituidos en la zona. 2.- Cauce Estero El Manzano, ubicado en la Provincia de Curicó, comuna de Curicó. Se trata de aguas corrientes y superficiales que se captarán en la ubicación de las siguientes coordenadas UTM: Norte: 6.106.192 y Este 324.538, confor- me con el Instituto Geográfico Militar,",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0009] (Convenio complementario N°1) RECEPCION DEPART. JURIDICO DEP. T. R. Y REGISTRO DEPART. CONTABIL.. SUB. DEP. C. CENTRAL SUB. DEP. E. CUENTAS SUB. DEP. C. P. Y BIENES NAC. DEPART AUDITORIA DEPART. V. O. P. U y f. SUB. DEP. MUNICIP. REFRENDACION REF. POR $ IMPUTAC. ANOT. POR $ IMPUTAC. DECUC DTO. 184723 CGC GOBIERNO DE CHILE MINISTERIO DE OBRAS PUBLICAS Ref: Aprueba Convenio Complementario N° 1, que modifica el contrato de concesión de la obra públi",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

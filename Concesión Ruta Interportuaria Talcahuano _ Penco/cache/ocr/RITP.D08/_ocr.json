@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D08",
+ "archivo": "4_modificacion_obras_convenios/Res-2965.pdf",
+ "sha256": "7e1c599e2d1494e276eff4ee380475270e4dc428169d40747904ae18aee4ff86",
+ "paginas": 5,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:47"
+}

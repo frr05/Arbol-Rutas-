@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:00",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D07.F0010] (Resolucion N°2633) 6. COMUNÍQUESE la presente Resolución a Camino de la Madera Sociedad Concesionaria S.A., a la Coordinación de Concesiones de Obras Públicas, a la División de Explotación de Obras Concesionadas, al Inspector Fiscal y demás servicios que corresponda. VEZ At NE ANA y tORAMBUE AECA SERGIO BÁR Ecol GEA E o DIE NN f MINISTRA ] NS 5 V” B* Sr. Ministro de Obras Públicas $ BY inistle Hacienda AL OBRAS PUBLICAS",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D10.F0001] (Reglamento servicio) Concepción, Noviembre de 1996 RENGO 94 OE. 33 - FONO: (41) 220464 - FONOFAX: (41) 220465 - CONCEPCION - CHILE INDICE PAGINA INTRODUCCIÓN 5 OBJETO DEL REGLAMENTO, CARACTER VINCULANTE, 6 VIGENCIA DOCUMENTOS DEL CONTRATO",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0002] (Reglamento servicio) 1.- Objeto 6",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0003] (Reglamento servicio) 2.- Carácter vinculante 6 z Ámbito de aplicación 7 4.- Vigencia 7 5.- Documentos del contrato 7-8 \" OBRA CONCESIONADA 9 1.- Descripción de la obra 9-10 2.- Organización 10- 14",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0004] (Reglamento servicio) 3.- Operación 14- 16",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0005] (Reglamento servicio) 4.- Horario de funcionamiento 16-17",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0006] (Reglamento servicio) 5.- Turno del personal 17 5.1- — N” de turnos 17 5.2.- Cuantificación del personal de tumo 18 5.2.1.- Demanda normal 18-20 5.2.2.- Demanda de punta 20 5,3.- — Calidad de trabajadores por turno 20- 21",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0007] (Reglamento servicio) 6.- Control del servicio que otorga la obra 21 6.1.- Tipo de mediciones e informes a entregar 21-23 6.2.- Antecedentes de tránsito 24 6.3.- Evaluación del estado del pavimento 6.4.. Modelación del deterioro y programa de conservación 6.5 Informe de Cumplimiento",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0008] (Reglamento servicio) 7.- Mantención de la Obra 7.1.- Políticas de mantenimiento 7.2.- — Obras que se deben mantener. 7.3.- Presentación del programa anual de conservación y su aprobación. 7.3.1.- Fecha de presentación. 7.3.2.- Forma de presentación. 7.3.3.- Plazo de aprobación por parte de la 1. F. 7.3.4.- Contenido del programa 7.4.- Justificación del programa 7.5.- — Control del programa 7.5,1.- Tipo de informe a presentar al 1. F. 7.5",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0009] (Reglamento servicio) 8.- Medidas de aseo 8.1.- Instalaciones y equipos 8.2.- Frecuencia del aseo 8.3.- Control de aseo",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0010] (Reglamento servicio) 9.- Seguridad y Control de la Obra 9.1.- Seguridad de la obra 9.2.- Supervisión de los equipos de la obra. 9.3.- Medidas de prevención de incendios. 9.4.- Reglamento Interno de Operación",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0011] (Reglamento servicio) 10.- Plaza de Peajes Reglamento de Servicio de la Obra 0 CO OO DO ÓN “Camino de la Madera S.A.” 28 - 29 33 -34 36 - 37 10.1.- Descripción de la obra 10.2.- Organización. 10.3.- Operación.",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0012] (Reglamento servicio) 11.- Gestión tarifaria 11.1- Publicidad de tarifas 11.2.- Clasificación de vehículos 113.- Reajuste tarifario 11.4.- Valor tarifa 11.5. Modalidad de cobro",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0013] (Reglamento servicio) 12.- Sistema de cobro",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0014] (Reglamento servicio) 13.- Sistema de control de vehículos",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0015] (Reglamento servicio) 14.- Manejo de dinero",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0016] (Reglamento servicio) 15.- Transporte de dinero",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0017] (Reglamento servicio) 16.- Pesaje",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0018] (Reglamento servicio) IV.- —DELOS USUARIOS h- De su derecho de uso de las vías 2.- De su derecho a asistencia Caminera 3.- De su derecho a presentación de reclamos 3.1.- Libro de reclamo 3.2.- Forma de proceder 3.2.1.-. Respuesta de la concesionaria al usuario 3.2.2.- Información al 1 F. 3.2.3.- Soluciones 4. Seguridad 4.1.- Supervisión de la vía 4.2.- Medidas detección de accidentes 4.3.- — Reglamentos del tránsito, coordinación con Cara",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0019] (Reglamento servicio) 1.- Obligación de otorgamiento de servicio objeto de la concesión 58",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0020] (Reglamento servicio) 2.- De la mantención de obras y equipamiento s38",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0021] (Reglamento servicio) 3.- Derecho de cobro de peaje 58",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0022] (Reglamento servicio) 4.- Derecho a cobro de deterioros efectuados por manejo descuidado 58 - 59 e imprudente de los usuarios",
+    "destino": "TEMA:multas"
+   },
+   {
+    "fragmento": "[CM.D10.F0023] (Reglamento servicio) 5.- Cobertura de Responsabilidad Civil 59 VL- DEL PERSONAL DE LA CONCESIONARIA 60 1.- Obligaciones y derechos del personal 60 2- Exigencias al personal 60 - 61 3.- Transporte para el personal 61 VIL- DE LA INSPECCION FISCAL 62 1.- Derechos y Obligaciones del Inspector Fiscal 62 2.- Procedimientos y sanciones 62 los servicios que se otorgaran en la explotación de ella, lo anterior de acuerdo al D.S. - 240 que reglamen",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0024] (Reglamento servicio) 1.- OBJETO DEL REGLAMENTO, CARACTER VINCULANTE, VIGENCIA DOCUMENTOS DELCONTRATO. Ñ |",
+    "destino": "TEMA:operacion_y_servicios"
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante estándares y niveles de servicio [3]. Para medir el estado del pavimento y mantener los indicadores de servicio, se utiliza el índice IRI (International Roughness Index), cuya medición se realiza a través de un perfilómetro óptico o Mays Meter [2].",
+  "fuentes": [
+   2,
+   3
+  ]
+ }
+}

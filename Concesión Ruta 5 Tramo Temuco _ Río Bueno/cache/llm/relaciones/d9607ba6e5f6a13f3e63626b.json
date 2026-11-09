@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.3",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Este programa será entregado al Inspector Fiscal 30 días antes del inicio de las obras para su aprobación.",
+    "debe_decir": "Las Obras que Sé considerarán para el cálculo de las declaraciones de avance, serán las incluidas en el Anexo N%2 y en el Anexo N% letras Á y B, correspondientes a las obras de Ingeniería en el tramo y los Servicios Especiales Obligatorios respectivamente.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.8.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P18"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En dicho avance no se incluirá el presupuesto estimado para las expropiaciones y otros pagos que |",
+    "debe_decir": "Siendo la declaración de avance indispensable para la comprobación de las mismas, su nO presentación oportuna constituye un retraso €n las obras, siendo procedente, al igual que en el caso de no aprobación de dicha declaración por el Inspector Fiscal, la aplicación de la multa mensual prevista en 1.6.8.1. Lo anterior se entiende, sin perjuicio de la obligación de la Sociedad Concesionaria de presentar nuevamente la declaración de avance hasta obtener su aprobación.”",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

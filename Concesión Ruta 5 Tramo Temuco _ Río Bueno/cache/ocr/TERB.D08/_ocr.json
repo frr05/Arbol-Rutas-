@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D08",
+ "archivo": "3_ejecucion/Puesta-en-Servicio-Provisoria-by-pass-Lanco-TERB.pdf",
+ "sha256": "c1d4045e1d218e7dfddaefe93f173c4b4c944267c3af19d5ba4f9bc0cc87c83e",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:04"
+}

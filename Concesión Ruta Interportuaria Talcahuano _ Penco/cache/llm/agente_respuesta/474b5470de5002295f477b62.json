@@ -1,0 +1,15 @@
+{
+ "tarea": "agente_respuesta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:39",
+ "respuesta": {
+  "respuesta": "El monto de la garantía de seriedad de la oferta es de UF 17.000 (diecisiete mil Unidades de Fomento) [1]. Su vigencia inicial debe ser igual al plazo de validez de la oferta, que es de 150 días a contar de la fecha de apertura de la oferta [3]. Si el DGOP prorroga la validez de la oferta, las boletas deben reemplazarse por otras de igual monto con un plazo de vigencia al menos igual a la prórroga [6]. Una vez adjudicada la concesión, el adjudicatario debe renovar las boletas por otras con las mismas características pero con un plazo de vigencia de un (1) año a contar de la fecha de entrega [4]. En todo caso, la garantía de seriedad debe mantenerse vigente hasta que sea sustituida o entregada la garantía de construcción [5].",
+  "fuentes": [
+   1,
+   3,
+   4,
+   5,
+   6
+  ]
+ }
+}

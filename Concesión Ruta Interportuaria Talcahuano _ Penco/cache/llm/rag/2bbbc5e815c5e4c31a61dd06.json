@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "respuesta": "La conservación de pavimentos exige mantener los pavimentos dentro de niveles específicos fiscalizados por el MOP, utilizando el Instructivo de Inspección Visual de Caminos Pavimentados vigente [1]. Los requisitos varían según el tipo de pavimento:\n\nPara Pavimento Asfáltico: El Índice de Rugosidad Superficial (IRI) máximo es 3,5 m/km [1]. Se debe efectuar acciones de conservación antes que la media móvil de 5 tramos de 200 m supere este IRI [5]. Se controlan las grietas estructurales requiriendo reemplazo del pavimento en el área afectada [5]. Se acepta como máximo un 10% de grietas tipo Piel de Cocodrilo/bloque y 10% de agrietamiento lineal por kilómetro [2]. No se permiten baches abiertos [2]. La resistencia al resbalamiento exige un coeficiente de fricción entre 0,40 y 0,55 [2]. En bermas, no se permiten baches abiertos ni descensos superiores a 1 cm, y no se acepta exudación de asfalto [2].\n\nPara Pavimento de Hormigón: El IRI máximo es 3,5 m/km [2]. No se aceptan grietas medias ni anchas; no más del 15% de las losas en grupos de 40 pueden presentar grietas angostas [3]. No se permiten baches abiertos [3]. Coeficiente de fricción entre 0,40 y 0,55 [3]. Bermas sin baches abiertos ni descensos > 1 cm [3]. Escalonamiento máximo de 6 mm medido puntualmente [3].\n\nPara Pavimentos de Doble Tratamiento Superficial: IRI máximo de 4,0 m/km [3]. No se permiten baches abiertos ni exudación de asfalto [3].\n\nAdemás, se deben controlar las grietas que causan daños estructurales en todos los casos, efectuando acciones correctivas mayores como el reemplazo del pavimento [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+}

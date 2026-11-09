@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D16",
+ "pagina": 58,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_123-2015.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 754,
+ "segundos": 61.7,
+ "fecha": "2026-10-27 12:21",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 161,
+  "conf_media": 0.267,
+  "frac_baja": 0.689,
+  "frac_rara": 0.113,
+  "tinta": 0.0882
+ },
+ "n_palabras_vlm": 667,
+ "frac_rara_vlm": 0.033,
+ "similitud": 0.007,
+ "truncado": false,
+ "texto_ocr": "A opejnuroy op¡es\n\nse¡ ap ¡1301\n\nsal pop spuaza] [pop opeziiqezuo)| A sajeyua¡quie sepipaus\n\n¡Ensuay\nJE901 adueny\n\nsajepo ya)\n\nap uppeyuaura¡dur]\n\nÁ sopyuas\nSp UOPEDHIPON\n\nepueses\nap seuedueg\nsejo¡og\n\nsayed se; e vaqususordiioo QU Á SPPUATJas OPS UOS “S3U0]512AU] SE] 2 SAJULAL SO] SP pepjurqiodo ey Á quo q3 -\n\n2 ¿N UNPUPIAON PY OJUSALOO [9p SPtaÉja US Ep2ue Pp $3w [a “STOZ SP OI2qa ua ojsendos ey DS -\nSARUPAp $1 SOpo; EEPIsuos JEnsua|y JESY S9I3qU| Ap 258) 17 -\n\nu9jun e\n— OU3NG OJY 23R¡U T edey3 “1 odnso\nAu9peasujupy A A\nap 0350) ¡BuOJead OSBALHY SeJqo\nap sexgo se; 3P Seo Cid\n¡ensu3u SJULAY Se 9p ¡ensuaw aDueAy\nap ¡ensudur adUeAy\n\nHao = (0) aerevo | tensuay¡eayso15qu) ap esel\nco] rape]\n\nOjueAuo) aquesaud ¡ap epuegja ua epe4ua ej e ayuejn8¡s sou, ¡ap EJp Own\n[9 exsey sepeynoafa Sauo¡siBAu] ap opez¡enye Á openuimoe ssueae a190s oo uguny ojdwefa 1 Way\n\n7 ¿N WINPuRIaJaY - PY OJUSAUO) T ¿N OXSUY",
+ "texto_vlm": "Anexo N° 1 Convenio Ad - Referéndum N° 2\n\nÍtem 1: Ejemplo numérico sobre avance acumulado y actualizado de inversiones ejecutadas hasta el último día del mes siguiente a la entrada en vigencia del presente Convenio\n\nTasa de Interés Real Anual | 5,30%\nTasa de Interés Real Mensual | 0,4313%\n\nMes | (A) | (B) | (C) | (D) | (E) | (F) | (G) | (H) | (I) | (J) | (K) | (L) | Saldo Acumulado y Actualizado\n---|---|---|---|---|---|---|---|---|---|---|---|---|---\n| PID Obras de Seguridad Normativa Población Los Ríos - Villa San Pedro | Avance mensual de las obras Atravesco Peatonal Mejoramiento Administración y Control Enlace Río Bueno - La Unión | Avance mensual de las obras de Costo de Seguros Bancarias de adicionales Garantía | Modificación de servicios y canales | Implementación de medidas ambientales y territoriales | Avance Total Mensual Contabilizado del Total de las Inversiones | Interés del Mes | (I) = B+C+D+E (K) = Redondear( L1 * (1+r^m)^(1/12)-1) | (L) = I+K+ L1 | Saldo Acumulado y Actualizado\n| nov-13 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00\n| dic-13 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -100,00 | 0,00 | -100,00 | -100,00 | -100,00 | -100,00\n| ene-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -0,43 | -100,43\n| feb-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -280,00 | 0,00 | 0,00 | -280,00 | -0,43 | -380,86\n| mar-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -20,00 | 0,00 | 0,00 | -20,00 | -1,64 | -402,50\n| abr-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1,74 | -404,24\n| may-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1,74 | -405,98\n| jun-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1,75 | -407,73\n| jul-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1,76 | -409,49\n| ago-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1,77 | -411,26\n| sep-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1,77 | -413,03\n| oct-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -500,00 | 0,00 | 0,00 | -500,00 | -1,78 | -914,81\n| nov-14 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -100,00 | 0,00 | -280,00 | -380,00 | -3,95 | -1.298,76\n| dic-14 | -1.150,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1.245,43 | -5,60 | -2.549,79\n| ene-15 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -25,00 | 0,00 | 0,00 | -692,00 | -11,00 | -3.252,79\n| feb-15 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -1.082,99 | -14,03 | -4.349,81\n| mar-15 | 0,00 | 0,00 | -500,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | -758,09 | -18,76 | -5.126,66\n\nNotas:\n- La Tasa de Interés Real Mensual considera todos sus decimales.\n- Se ha supuesto en febrero de 2015, el mes de entrada en vigencia del Convenio Ad-Referéndum N° 2.\n- El monto y la oportunidad de los avances de las inversiones, son sólo referenciales y no comprometen a las partes."
+}

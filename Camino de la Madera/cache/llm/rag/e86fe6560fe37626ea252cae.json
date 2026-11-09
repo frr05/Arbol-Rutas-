@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:23",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan según el Índice de Precios al Consumidor (IPC) cada seis meses a partir del año 2005, según lo establecido en el Convenio Complementario N°1 [1]. El reajuste se aplica semestralmente a partir de las 00:00 horas del 1 de enero de cada año, utilizando la variación del IPC entre el 31 de marzo de 1993 y el 30 de noviembre del año t-1 para el primer reajuste del año, y entre el 31 de marzo de 1993 y el 31 de mayo del año t para el reajuste de julio [1]. La tarifa base inicial es de $1.500 del 31 de marzo de 1993 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

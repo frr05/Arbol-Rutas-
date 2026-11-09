@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:21",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los montos principales (UF 3.800 y UF 2.400) y las condiciones temporales de la referencia, sin contradicciones."
+   },
+   {
+    "n": 22,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta indica un monto base de UF 41.000, mientras que la referencia establece explícitamente UF 83.000."
+   },
+   {
+    "n": 23,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el dato principal del 80% imputado a construcción mencionado en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Acierta en los intereses generales y Convenio N°1, pero omite el detalle específico sobre el retraso en cuotas del Convenio N°71 y agrega información no presente en la referencia sobre el Convenio N°2."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia al especificar tecnología Manual/Control de Accesos Manual y las pistas obligatorias."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma la diferenciación por tipo de vehículo y la facultad de alterar tarifas dentro de límites, igual que la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente el uso del IPC como índice de reajuste y el mecanismo de inflación acumulada superior al 15%."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce exactamente los valores de tarifa máxima base ($50 punta, $35 fuera de punta) y la fecha base."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia indicando pesos al 31 de Diciembre de 2000."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "La respuesta menciona la longitud total del orden de 14,4 km, cumpliendo con el dato principal de la referencia."
+   }
+  ]
+ }
+}

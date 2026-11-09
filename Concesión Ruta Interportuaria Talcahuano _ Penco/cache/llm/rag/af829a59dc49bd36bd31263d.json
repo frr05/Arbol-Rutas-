@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones. El monto base es de UF 83.000 para las obras del Anteproyecto Referencial [8]. Si se ejecuta la Prolongación de Av. Alessandri, se paga un adicional de UF 41.000 [7], [8]. Además, la Sociedad Concesionaria asume el pago exclusivo de: 1) Adquisiciones y expropiaciones para puntos de cobro, oficinas y áreas adicionales (artículos 1.10.10, 2.2.1.7 y 1.9.1.4), más UF 60 por lote expropiado para gastos del MOP [1]; 2) Mayores costos si modifica el Anteproyecto Referencial/Alternativo requiriendo terrenos de mayor valor pericial [3]; 3) Expropiaciones adicionales producto de la Ingeniería Definitiva en tramos no modificados inicialmente [10]; 4) Costos de suspensión o desistimiento de expropiaciones no requeridas por modificaciones aprobadas [4]; 5) Gastos para obtener antecedentes exigidos en el artículo 2.4 [2], [3], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   7,
+   8,
+   10
+  ]
+ }
+}

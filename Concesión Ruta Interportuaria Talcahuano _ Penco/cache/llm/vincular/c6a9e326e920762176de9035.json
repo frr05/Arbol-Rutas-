@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:32",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0013]",
+    "destino": "BL:1.14.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0014]",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "[RITP.D10.F0015]",
+    "destino": "BL:1.9.2.3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0016]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0017]",
+    "destino": "BL:2.3.2.1"
+   },
+   {
+    "fragmento": "[RITP.D10.F0021]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0022]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0024]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0025]",
+    "destino": "BL:1.14.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0026]",
+    "destino": "BL:1.14.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0027]",
+    "destino": "BL:1.14.2.3.3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0028]",
+    "destino": "BL:1.14.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0029]",
+    "destino": "BL:1.14.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0031]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0032]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0033]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0034]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0035]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0036]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0037]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0038]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0039]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0040]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0041]",
+    "destino": "BL:1.14.2.3.1"
+   },
+   {
+    "fragmento": "[RITP.D10.F0042]",
+    "destino": "BL:1.14.2.3.2"
+   }
+  ]
+ }
+}

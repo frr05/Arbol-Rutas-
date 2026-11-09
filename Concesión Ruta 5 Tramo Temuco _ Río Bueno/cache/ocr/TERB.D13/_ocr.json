@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D13",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_336-2008.pdf",
+ "sha256": "861bd6e6a6713ae35524e67d849078fcdb59c34b928e78d2a61e824ce9032e57",
+ "paginas": 7,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:06"
+}

@@ -1,0 +1,32 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:50",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2443,
+     2452
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.10",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "establecer que la Sociedad Concesionaria deberá ejecutar, instalar, habilitar técnicamente, conservar y mantener las obras denominadas “Obras CCTV Etapa 1”.",
+    "debe_decir": "",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

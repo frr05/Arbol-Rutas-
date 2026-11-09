@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre la entrega de infraestructura preexistente al concesionario.",
+  "fuentes": []
+ }
+}

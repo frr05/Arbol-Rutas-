@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:23",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. El reglamento establece una clasificación de vehículos en tipos y categorías (como autos, camionetas, camiones de dos ejes, buses, etc.) [1]. Las bases de licitación definen ocho tipos de vehículos con sus propias tarifas máximas [2]. Además, el convenio complementario y la resolución n°5066 confirman que existen tarifas diferenciadas para cada tipo de vehículo, pudiendo además diferenciarse según horario (normal o punta) y número de ejes para ciertos vehículos pesados [3], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

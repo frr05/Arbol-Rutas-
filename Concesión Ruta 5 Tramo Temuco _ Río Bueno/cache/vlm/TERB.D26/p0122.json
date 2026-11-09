@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 122,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 93,
+ "segundos": 5.5,
+ "fecha": "2026-10-27 12:24",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 69,
+  "conf_media": 0.717,
+  "frac_baja": 0.406,
+  "frac_rara": 0.042,
+  "tinta": 0.0187
+ },
+ "n_palabras_vlm": 68,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.394,
+ "truncado": false,
+ "texto_ocr": "mñn RUTA MANUAL DE SEGURIDAD VIAL Y\nDE LOS RIOS PROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\n- Cierre de Pista Derecha en |\nCalzada Unidireccional de 8.4.6\n_ Dos Pistas > —\n\n5 m2\n¡|\n| ú\n| e ha 0 Tramos\na !\n1] 50 mi\n>\na\nLe 155 mt\n5650 mt\n\n(5) mu o cirio Tr\n\n(E) Lame 6 tesaciónt sa Tribeca 65D mt\n\n34",
+ "texto_vlm": "MANUAL DE SEGURIDAD VIAL Y\nPROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\nCierre de Pista Derecha en\nCalzada Unidireccional de\nDos Pistas 8.4.6\n\n120\n70\n300 mt\n500 mt\n650 mt\n50 mt\n155 mt\n650 mt\n300 mt\n500 mt\n650 mt\nÁrea de Trabajos\nA 1 PISTA\nXX Límite de Velocidad sin Trabajos\nYY Límite de Velocidad con Trabajos\nElementos de señalización\nAlternativas de canalización.\n\n34"
+}

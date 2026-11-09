@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D08",
+ "pagina": 1,
+ "archivo": "4_modificacion_obras_convenios/Res-2965.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 421,
+ "segundos": 36.4,
+ "fecha": "2026-10-27 19:12",
+ "motivos": "tabla_markdown",
+ "calidad_ocr": {
+  "n_palabras": 262,
+  "conf_media": 0.87,
+  "frac_baja": 0.118,
+  "frac_rara": 0.057,
+  "tinta": 0.0416
+ },
+ "n_palabras_vlm": 282,
+ "frac_rara_vlm": 0.041,
+ "similitud": 0.736,
+ "truncado": false,
+ "texto_ocr": "l MINISTERIO DE HACIENDA\nOFICINA DE PARTES\n\n2 4 NOV 2004\n\nRECIBIDO\n\n¡ CONTRALORÍA GENERAL\nTOMA DE RAZON\n\n2969\n\nRECEPCION\n\nDEPART.\nJURIDICO\n\nO DEPTA,\n| Y REGISTRO\n\nDEPART.\nCONTABIL.\n\ni SUB. DEP\n| C. CENTRAL\n\nSUB. DEP.\nE. CUENTAS\n\nDEPART.\nAUDITORIA\n\nDEPART.\nVOP.,UyT\n\nSUB. DEP.\nMUNICIP.\n\n| asf POR\n\n$ PAPUTAC.\nÚ AMOT.POR\n[ HAPUTAC,\n\nPEFÓRLICA DZ CHILE\nMINISTERIO DE OBRAS PÚBLICAS\n\nDIRECCIÓN GENERAL DE OBRAS PÚBLICAS\n\nRef.:\n\nSANTIAGO,\n\nVISTOS: -\n\nModifica, por razones de urgencia,\nlas obras y servicios que indica,\ncorrespondientes a la concesiones\ndenominadas “Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción” y “Ruta\nInterportuaria Talcahuano-Penco\npor Isla Rocuant .\n\noy 200\n\nEl DFL MOP N?* 850 de 1997, que\nfijó el texto refundido, coordinado\ny sistematizado de la Ley N\n15.840, de 1964, Orgánica del\nMinisterio de Obras Públicas y del\nDFL N* 206, de 1960, Ley de\nCaminos.\n\nEl D.S. MOP N' 900 de 1996, que\nfijó el texto refundido, coordinado\ny sistematizado del DFL MOP N*\n164 de 1991, Ley de Concesiones\nde Obras Públicas.\n\nEl DS MOP N* 956, de 1997,\nReglamento de la Ley de\nConcesiones de Obras Públicas, en\nespecial el artículo 69\".\n\nLas bases de licitación del contrato\nde concesión “Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción”.\n\nLas bases de licitación del contrato\nde concesión “Ruta Interportuaria\nTalcahuano-Penco por. Ísla\nRocuant”. E\n\nEl D.S. MOP N? 12, de fecha 20 de\nenero de 1999, que adjudicó el\ncontrato de concesión para la\nejecución, conservación y\nexplotación de la obra pública\nfiscal denominada “Terminal de\nPasajeros Aeropuerto Carriel Sur '\nde Concepción”.",
+ "texto_vlm": "REPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\n\nRef.: Modifica, por razones de urgencia, las obras y servicios que indica, correspondientes a la concesiones denominadas \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\" y \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\".\n\nSANTIAGO, 16 NOV 2004\n\nVISTOS:\n- El DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N° 206, de 1960, Ley de Caminos.\n- El D.S. MOP N° 900 de 1996, que fijó el texto refundido, coordinado y sistematizado del DFL MOP N° 164 de 1991, Ley de Concesiones de Obras Públicas.\n- El DS MOP N° 956, de 1997, Reglamento de la Ley de Concesiones de Obras Públicas, en especial el artículo 69°.\n- Las bases de licitación del contrato de concesión \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\".\n- Las bases de licitación del contrato de concesión \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\".\n- El D.S. MOP N° 12, de fecha 20 de enero de 1999, que adjudicó el contrato de concesión para la ejecución, conservación y explotación de la obra pública fiscal denominada \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\".\n\nMINISTERIO DE HACIENDA\nOFICINA DE PARTES\n24 NOV 2004\nRECIBIDO\n\nCONTRALORIA GENERAL\nTOMA DE RAZON\n2965-\nRECEPCION\nDEPART. JURIDICO\nDEP. T. R. Y REGISTRO\nDEPART. CONTABIL.\nSUB. DEP. C. CENTRAL\nSUB. DEP. E. CUENTAS\nSUB. DEP. C. P. Y BIENES NAC.\nDEPART. AUDITORIA\nDEPART. V. O. P. U y T.\nSUB. DEP. MUNICIP.\nREFRENDACION\nREF POR S\nIMPUTAC.\nANOT. POR S\nIMPUTAC.\nDEDUC DTO.\n\nPROCESO\nOF. DE PARTES N° 14 5444.\nDGOP"
+}

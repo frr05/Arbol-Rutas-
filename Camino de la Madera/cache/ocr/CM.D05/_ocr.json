@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D05",
+ "archivo": "1_licitacion/Oferta-Economica-Camino-de-la-Madera.pdf",
+ "sha256": "b1071fb5788fa8889cf9cc2c4d6f4ca3ff7cb4fc99bf5d6c03b109e6d7f7b3bb",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:35"
+}

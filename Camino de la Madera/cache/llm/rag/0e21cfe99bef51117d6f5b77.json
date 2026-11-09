@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:27",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. El reglamento establece una clasificación de vehículos en tipos y categorías para determinar la tarifa a cobrar [1]. Las bases de licitación definen ocho tipos de vehículos (desde motos hasta autos con remolque) y establecen que el concesionario no podrá cobrar peajes mayores a los estipulados para cada tipo [2]. Además, se permite cobrar discriminando según el número de ejes dentro de la tarifa máxima para buses y camiones de más de dos ejes [2]. Los convenios complementarios y resoluciones confirman esta diferenciación al establecer factores de equivalencia distintos por tipo de vehículo y permitir cobros diferenciados por categoría y horario [3], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D06",
+ "archivo": "3_ejecucion/2005-05-27_Resol_N-1570-PSP.pdf",
+ "sha256": "a040c273f9d2f46cbe7f74310168803ace457802152e0856446eb351d08a7567",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:47"
+}

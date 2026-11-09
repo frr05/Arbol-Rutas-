@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D08",
+ "archivo": "4_modificacion_obras_convenios/Resolucion-N_4333-Camino-de-la-Madera.pdf",
+ "sha256": "94ff3f9dc1f04bd13e7f35700f465bfea62276aff938ffd86974cdc9dda3efb3",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:35"
+}

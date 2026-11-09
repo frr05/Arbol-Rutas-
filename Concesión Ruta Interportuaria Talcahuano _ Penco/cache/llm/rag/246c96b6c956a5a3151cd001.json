@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "respuesta": "Sí, puede cobrarse una tarifa por congestión. El MOP, con Visto Bueno del Ministerio de Hacienda, podrá exigir la implantación de una estructura tarifaria diferente que incorpore diferenciaciones de tarifas por horarios punta, días de la semana o periodos determinados en el año que presenten mayor tráfico [1]. Para ello, el MOP debe comunicar al Concesionario su intención a través del Inspector Fiscal, indicando la nueva estructura tarifaria propuesta, los cambios económicos y los mecanismos de compensación o indemnización si hubiera perjuicio [1]. La Sociedad Concesionaria tiene 30 días para contestar; si hay diferencias, se busca acuerdo en otros 30 días modificando el Decreto de adjudicación, y de no lograrse, se acude a la Comisión Conciliadora [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

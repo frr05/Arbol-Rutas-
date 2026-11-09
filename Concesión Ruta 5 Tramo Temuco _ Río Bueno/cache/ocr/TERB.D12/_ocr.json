@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D12",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_524-2005-y-Convenio-Complementario.pdf",
+ "sha256": "c9e90f1bd17e9ec6bb8d0264734ea85b3ab6f87d5f57d994f7cd1cfea4e936ad",
+ "paginas": 69,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:06"
+}

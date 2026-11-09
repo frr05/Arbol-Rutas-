@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "La multa es de 180 UTM por cada día de atraso [2].",
+  "fuentes": [
+   2,
+   5
+  ]
+ }
+}

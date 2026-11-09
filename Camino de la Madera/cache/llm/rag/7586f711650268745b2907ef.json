@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato fue publicada en el año 2012, mediante el Convenio de Extinción N°342, aprobado por Decreto Supremo y publicado en el Diario Oficial con fecha de extinción estimada al 31 de diciembre de 2012 [8].",
+  "fuentes": [
+   8,
+   11
+  ]
+ }
+}

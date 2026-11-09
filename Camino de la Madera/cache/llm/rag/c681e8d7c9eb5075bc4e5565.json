@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:13",
+ "respuesta": {
+  "respuesta": "Se firmó un convenio complementario (Convenio Complementario N°1) [1]. Además, se menciona la suscripción de un Convenio Ad-Referéndum N° 1 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

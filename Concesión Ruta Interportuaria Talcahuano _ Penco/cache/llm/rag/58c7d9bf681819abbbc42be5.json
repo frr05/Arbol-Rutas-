@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:26",
+ "respuesta": {
+  "respuesta": "Se publicó una sola Puesta en Servicio Provisoria, la cual es la Puesta en servicio N°1570 de fecha 2005-05-27 [1]. La ficha de actos confirma que solo existe un acto clasificado como 'Puesta en servicio' correspondiente a la puesta en servicio provisoria (PSP) [11].",
+  "fuentes": [
+   1,
+   11
+  ]
+ }
+}

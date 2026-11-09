@@ -1,0 +1,66 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:28",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.3",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2987,
+     2991
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.12",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "exclusivamente",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "después",
+    "debe_decir": "antes o después",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "durante todo el periodo de la misma",
+    "debe_decir": "de conformidad a los programas de mantención y ejecución de obras presentados por el concesionario y aceptados por el MOP",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     3006,
+     3015
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "El monto de la garantía de explotación varía según la obra específica: Obra (A) es de 10.000 UF, las Obras (B) y (C) son de 3.000 UF cada una, y la Obra (D) es de 1.000 UF [4], [8]. Además, existe una Garantía de Explotación adicional por un valor total de UF 15.000 para asegurar el cumplimiento de las condiciones de recepción de la concesión [7]. También se menciona que a las nuevas inversiones les aplica la garantía vigente por un monto de UF 10.000 [3].",
+  "fuentes": [
+   3,
+   4,
+   7,
+   8
+  ]
+ }
+}

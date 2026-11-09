@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:16",
+ "respuesta": {
+  "consultas": [
+   "aplicación de multas normativa",
+   "sanciones facultades fiscalizadoras contrato concesión"
+  ]
+ }
+}

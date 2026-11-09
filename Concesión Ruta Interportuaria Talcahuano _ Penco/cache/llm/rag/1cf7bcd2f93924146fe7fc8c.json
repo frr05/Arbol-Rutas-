@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se publicaron 2 convenios complementarios (que son decretos supremos modificatorios): el Convenio complementario N°1 (aprobado por DS N°71) y el Convenio complementario N°2 (aprobado por DS N°316) [7]. Además, la ficha menciona un Decreto supremo N°136 (2023-07-25) que aprueba otro convenio [7], el cual es un acto modificatorio del contrato [10]. Por lo tanto, hay 3 decretos supremos que aprueban convenios complementarios o modificaciones: DS N°71, DS N°316 y DS N°136. La ficha lista explícitamente 2 convenios complementarios bajo esa categoría, pero también lista un 'Decreto supremo' separado (N°136) que según su contenido aprueba un convenio [10]. Si contamos los instrumentos que modifican el contrato mediante decreto supremo aprobatorio de convenio, son 3. Sin embargo, la pregunta especifica 'decretos o resoluciones'. La ficha agrupa los convenios como tales. El DS 136 también es un decreto supremo modificatorio. No se mencionan resoluciones modificatorias en la lista de actos principales, solo resoluciones de autorización de cesión o puesta en servicio. Los actos modificatorios del contrato son los convenios complementarios aprobados por DS. Son 3: DS 71 (Convenio 1), DS 316 (Convenio 2) y DS 136 (Convenio adicional).",
+  "fuentes": [
+   7,
+   10
+  ]
+ }
+}

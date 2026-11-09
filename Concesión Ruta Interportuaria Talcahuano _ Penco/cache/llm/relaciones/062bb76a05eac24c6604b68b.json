@@ -1,0 +1,34 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 01:31",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.4.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "2. Anteproyecto de Ingeniería \"Prolongación Avenida Alessandri\". | CITRA Consultores | 1 |",
+    "debe_decir": "2. Anteproyecto de Ingeniería \"Ampliación Jorge Alessandri, Sector Aeropuerto — Ruta Interportuaria, VIH Región\", Noviembre de ingeniería Ltda, 2001,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.4.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     1078,
+     1081
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:17",
+ "respuesta": {
+  "respuesta": "El servicio de patrullaje y emergencia exige que la Sociedad Concesionaria mantenga y opere permanentemente un servicio para inspeccionar el estado de la carretera y prestar atención primaria en emergencias, coordinándose con Carabineros, Centros Asistenciales y Bomberos [1]. Las funciones incluyen: control del tránsito e instalación de señalización en obras de mantenimiento; aseo periódico y retiro de objetos que interfieran con la seguridad; mantención expedita del tránsito en emergencias; rescate y primeros auxilios a personas accidentadas; rescate y auxilio de vehículos accidentados; instalación de señalización de emergencia y reordenamiento del tránsito; y auxilio y retiro de vehículos detenidos por fallas mecánicas [1]. Para cumplir estos objetivos, se debe disponer durante todo el periodo de explotación de personal entrenado y equipamiento mínimo, incluyendo al menos un vehículo tipo camioneta (120 HP mínimo) con balizas, levante hidráulico, huinche, extintores, conos, señales, implementos de limpieza, herramientas básicas de reparación y herramientas para rescate y primeros auxilios [1]. El vehículo debe estar identificado con la Sociedad Concesionaria y contar con sistema de comunicación para contactar base, Bomberos, Carabineros y Centros Asistenciales [1]. Además, el personal debe tener requisitos específicos como cuarto enseñanza media rendida, licencia clase A, y capacitaciones en conducción profesional, combate de incendios, respuesta en derrames y manejo defensivo, usando un uniforme específico [2]. También se exige la disposición de una grúa con características técnicas definidas (Ford F-350, 300Hp, capacidad de levante 2.5 Ton, huinche 5 Ton) y equipamiento completo (extintores, cadenas, herramientas, botiquín, etc.) [2]. El patrullero debe realizar inspecciones periódicas registradas en Hoja de Ruta, asegurando la disponibilidad de radio, elementos de seguridad, primeros auxilios y extinción de incendios [2]. En caso de accidentes, se deben seguir procedimientos clasificados por nivel (interrupción de flujo o accidentes graves), asegurando la zona, evaluando lesionados, llamando a servicios de emergencia y coordinando con Carabineros, Bomberos y ambulancias [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

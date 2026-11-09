@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.13",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "la Sociedad Concesionaria presentará al Inspector Fiscal los planos de construcción junto con las memorias explicativas.",
+    "debe_decir": "En dichos planos, Se deberá definir y destacar claramente, a lo largo de todo el tramo concesionado, los límites del Area de Concesión establecida en la Definición N'3 de 1.2.1.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.13",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "la Sociedad Concesionaria presentará al Inspector Fiscal los planos de construcción junto con las memorias explicativas.",
+    "debe_decir": "la Sociedad Concesionaria presentará al Inspector Fiscal los planos de construcción junto con las memorias explicativas. En dichos planos, Se deberá definir y destacar claramente, a lo largo de todo el tramo concesionado, los límites del Area de Concesión establecida en la Definición N'3 de 1.2.1.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

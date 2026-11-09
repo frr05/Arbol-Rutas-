@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 04:44",
+ "costo": 0.0007272,
+ "texto": "{\"tablas\": [{\"titulo\": \"Item 4\", \"encabezados\": [\"\", \"Item 4\", \"Monto UF\"], \"filas\": [[\"1\", \"Mejoramiento de Estándar Km. 26,5 al 45,4\", \"0\"], [\"2\", \"Reparación Losa Paso Superior Coihue\", \"0\"], [\"3\", \"Defensa Fluvial Km. 4,0\", \"0\"], [\"4\", \"Mejoramiento Seguridad Vial\", \"700\"], [\"5\", \"Estabilidad Talud Km. 58\", \"0\"], [\"6\", \"Mejoramiento Nacimiento - Cruce Hospital\", \"138\"], [\"7\", \"Mejoramiento Nacimiento - Cruce Anibal Pinto\", \"150\"], [\"\", \"TOTAL\", \"988\"]], \"notas\": null}]}"
+}

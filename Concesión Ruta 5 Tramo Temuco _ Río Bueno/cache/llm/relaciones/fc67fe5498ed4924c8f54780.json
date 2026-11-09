@@ -1,0 +1,35 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:28",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.4.2",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2582,
+     2582
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.7",
+    "operacion": "aclara",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     2643,
+     2644
+    ],
+    "donde_dice": null,
+    "debe_decir": "La Sociedad Concesionaria deberá incluir en su calendario el eventual pag0 de ingresos\nmínimos por la cuantía estimada como más probable.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

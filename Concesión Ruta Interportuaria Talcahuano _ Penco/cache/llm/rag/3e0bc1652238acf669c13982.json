@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "Las causas de extinción de la concesión son: a) Cumplimiento de la relación señalada en el artículo 1.7.6 respecto a los Ingresos Totales de la Concesión (ITC) [1]; b) Cumplimiento del plazo máximo de la concesión señalado en el artículo 1.7.6.2 [1]; c) Incumplimiento grave de las obligaciones del Concesionario, según lo dispuesto en el artículo 1.13.3 [1]. Los incumplimientos graves se consideran: a) Disminución del capital sin autorización expresa del MOP; b) Demoras no autorizadas en la construcción por un período superior a 60 días; c) Incumplimiento en tres oportunidades de los niveles mínimos de servicio; d) Cobranza en tres oportunidades de tarifas superiores a las autorizadas; e) Incumplimiento en tres oportunidades de las normas de conservación y mantenimiento; f) No constitución o no reconstitución de las garantías en los plazos y condiciones previstas; g) Entrega de información técnica o económica maliciosamente falsa o incompleta, en dos oportunidades [4], [10].",
+  "fuentes": [
+   1,
+   4,
+   10
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "El sistema de cobro de peajes de la Ruta Interportuaria corresponde al equivalente al uso efectivo de la vía, con cobro a la salida a los usuarios [6]. Este sistema implica un control total de accesos para cobrar según la distancia recorrida [7]. La tecnología para el cobro bajo este sistema debe ser Control de Accesos Manual [7]. Además, es obligatorio detectar las entradas a la vía concesionada para cobrar a las salidas en función de la distancia recorrida [7]. Los usuarios que utilicen el tramo de menor distancia deben retirar un ticket en la Plaza de Peaje de ingreso y presentarlo en la Plaza de Peaje de salida para efectuar el cobro correspondiente [6].",
+  "fuentes": [
+   6,
+   7
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:02",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen la información sobre las ofertas específicas presentadas por los licitantes, ni sus valores de factores de licitación ni sus puntajes o notas técnicas. Los fragmentos describen el método de evaluación [1], [2], las fórmulas para calcular el puntaje económico [3], [4], [5] y los criterios de aceptabilidad técnica [6], pero no reportan los datos numéricos de las ofertas reales.",
+  "fuentes": []
+ }
+}

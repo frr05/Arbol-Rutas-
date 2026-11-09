@@ -1,0 +1,33 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:51",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.5",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     3065,
+     3069
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3070,
+     3131
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

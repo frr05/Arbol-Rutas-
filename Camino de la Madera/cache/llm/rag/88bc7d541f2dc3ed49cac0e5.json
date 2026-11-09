@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "El plazo de concesión es de 25 años [10]. No obstante, el plazo total de la concesión no podrá exceder el máximo de 50 años establecido en el artículo 25 de la Ley de Concesiones [1].",
+  "fuentes": [
+   1,
+   10
+  ]
+ }
+}

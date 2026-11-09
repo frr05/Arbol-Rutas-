@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Los documentos del contrato de concesión son las bases de licitación y los siguientes cuerpos legales: la Ley de Concesiones (DFL MOP N°164, de 1991 y sus modificaciones posteriores), el Reglamento de Concesiones (Decreto Supremo MOP N°240, de 1991), el Código del Trabajo y las Leyes Laborales Vigentes, las Pautas y Normas Técnicas vigentes de la Dirección de Vialidad, el Decreto Supremo de Adjudicación del MOP N°133 del 29/04/1994, la Oferta de la Sociedad Concesionaria y el presente Reglamento de Servicio de la Obra [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

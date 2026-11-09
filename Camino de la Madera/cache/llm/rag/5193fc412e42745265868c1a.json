@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "El sistema de cobro utilizado es principalmente manual, realizándose el cobro en forma directa al usuario en las plazas de peaje con entrega de comprobante [1]. La clasificación de vehículos se realiza de forma manual y automática [1]. No obstante, la concesionaria tiene la facultad de implementar sistemas de Pre o Post Pago con empresas usuarias de la ruta, previa comunicación y aprobación del Inspector Fiscal [1]. Además, se menciona que en caso de falla del sistema automatizado, el cobro se realizará en forma manual mediante planilla y tickets foliados [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

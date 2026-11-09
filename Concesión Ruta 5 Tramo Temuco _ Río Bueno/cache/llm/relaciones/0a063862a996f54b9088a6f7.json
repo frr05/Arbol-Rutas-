@@ -1,0 +1,32 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:40",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1 — 2.1 INTRODUCCIÓN",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Por concepto del desarrollo de los “PID OSN con proyecto que requiere actualización”, “PID Obras Normativas” y “PID Obras de Servicialidad”, se fija la cantidad única, total y a suma alzada que resulte del proceso de licitación privada que se señala en el N* 3 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio, con un monto máximo de UF 48.543,80 (Cuarenta y Ocho Mil Quinientas Cuarenta y Tres Coma Ochenta Unidades de Fomento), neto del Impuesto al Valor Agregado (en adelante, IVA).",
+    "debe_decir": "Las partes acuerdan que el monto correspondiente al costo por el desarrollo de los “PID OSN con proyecto que requiere actualización”, “PID Obras Normativas” y “PID Obras de Servicialidad”, señalado en el numeral 2.1 del presente Convenio, será contabilizado según los porcentajes señalados en la Tabla N? 7 siguiente:\nTabla N* 7: Porcentajes de contabilización PID\nPID OSN con proyecto que requiere actualización\nDESCRIPCIÓN % a contabilizar\ningeniería Básica 4,39%\n2 Anteproyecto 4,39%\nEstudio de Ingeniería de Detalles, Análisis\nAmbiental y Territorial y Presentación a 13,18%\nMinisterio de Desarrollo Social\nProyecto Expropiaciones 2,93%\n5 T informe Final de Estudio Definitivo 4,39%\nPID Obras Normativas |\nFASE DESCRIPCIÓN | % a contabilizar\npo DE LOS Ri h |\n0 | 18\n1 Ingeniería Básica 1,58%\n2 | Anteproyecto 1,58%\nEstudio de Ingeniería de Detalles, Análisis\nAmbiental y Territorial y Presentación a 4,75%\n3 Ministerio de Desarrollo Social\nProyecto Expropiaciones 1,06%\n1,58%\ninforme Final de Estudio Definitivo\nPID Obras de Servicialidad\nFASE DESCRIPCIÓN\n% a contabilizar\n4 | Ingeniería Básica 9,02%\n] 2 | Anteproyecto 9,02% l\nEstudio de Ingeniería de Detalles, Análisis\nAmbiental y Territorial y Presentación a 27,09%\nMinisterio de Desarrollo Social\nProyecto Expropiaciones\n6,02%\n9,02%\n5 informe Final de Estudio Definitivo\nPara tal efecto, una vez aprobada cada una de las fases señaladas en la Tabla\nN9 7 precedente, se contabilizará, el último día del mes en que se apruebe\ndicha fase, el monto que resulte de multiplicar el respectivo porcentaje\nseñalado en la Tabla N* 7 para dicha fase, por el valor total y definitivo que\nresulte del proceso de licitación privada que se señala en el N* 3 del “Modelo\nde Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord.\nN* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe\nel presente Convenio. Lo anterior, con dos decimales, redondeados al segundo",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     8062,
+     8113
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "4.1"
+   }
+  ]
+ }
+}

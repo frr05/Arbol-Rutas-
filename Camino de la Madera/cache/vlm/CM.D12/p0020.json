@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D12",
+ "pagina": 20,
+ "archivo": "4_modificacion_obras_convenios/Convenio-de-Extincion-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 168,
+ "segundos": 10.4,
+ "fecha": "2026-10-29 04:43",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 98,
+  "conf_media": 0.691,
+  "frac_baja": 0.367,
+  "frac_rara": 0.055,
+  "tinta": 0.0255
+ },
+ "n_palabras_vlm": 107,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.432,
+ "truncado": false,
+ "texto_ocr": "CONTRALORIA GENERAL\nTOMA DE RAZON\nNUEVA RECEPCION\n\neZ o O\nEMILÓ PE Ein Ta\nCoardinad:; UN MUNITA\n\nde Concesiones\nde Obras Pública\n\nrd\n\nCon Oficio N2\n\nJefe División Jurídica\n\npepamr || / ¿Ae foordinación de Concesione:\nJumoico | Y de Obras Públicas\n11S\nre a O az\noeparr [|\nsus.oem [|\nC. CENTRAL A /\n\nSUB. DEP.\nE. CUENTAS\nSUB. DEP.\nC.PY\nBIENES NAC.\n\nDEPART.\nAUDITORIA\n\nDEPART.\nv.O.P.UyT\n\nSUB. DEP.\nMUNICIP.\n\nÑ |\n\nREFRENDACION\n\nREF POR\nIMPUTAC.\nANOT. POR\nIMPUTAC.\n\n5 .\n\nDEDUC DTO.\n\nt\n45 0 ”\nE:\ngus Po\nCont conó\nGO\n\nPágina 20 de 20",
+ "texto_vlm": "CONTRALORIA GENERAL\nTOMA DE RAZON\nNUEVA RECEPCION\n\nCon Oficio Nº\n\nDEPART.\nJURIDICO\n\nDEP. T. R.\nY REGISTRO\n\nDEPART.\nCONTABIL.\n\nSUB. DEP.\nC. CENTRAL\n\nSUB. DEP.\nE. CUENTAS\n\nSUB. DEP.\nC. P. Y\nBIENES NAC.\n\nDEPART.\nAUDITORIA\n\nDEPART.\nV. O. P. U y T\n\nSUB. DEP.\nMUNICIP.\n\nREFRENDACION\n\nREF. POR     $\nIMPUTAC.\nANOT. POR   $\nIMPUTAC.\nDEDUC DTO.\n\nEMILIO PEÑA CRINI MUNITA\nCoordinador de Concesiones\nde Obras Públicas\n\nCRISTIAN MELERO ABAROA\nJefe División Jurídica\nCoordinación de Concesiones\nde Obras Públicas\n\nJimena Lopez Barreda\nJefe División de Explotación\nde Obras Públicas (S)\n\nUNIDAD DE ANALISIS DE\nCONTRATOS DE CONCESIÓN\nCoord. de Concesiones de Obras Públicas\n\nPágina 20 de 20"
+}

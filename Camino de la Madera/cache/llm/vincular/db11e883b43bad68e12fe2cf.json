@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:01",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D11.F0044]",
+    "destino": "BL:1.5.35"
+   },
+   {
+    "fragmento": "[CM.D11.F0045]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0046]",
+    "destino": "BL:1.5.35"
+   },
+   {
+    "fragmento": "[CM.D11.F0047]",
+    "destino": "BL:1.5.41"
+   },
+   {
+    "fragmento": "[CM.D11.F0048]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0049]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0050]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0051]",
+    "destino": "BL:1.5.22"
+   },
+   {
+    "fragmento": "[CM.D11.F0052]",
+    "destino": "BL:1.5.8"
+   },
+   {
+    "fragmento": "[CM.D11.F0053]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0054]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0055]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0056]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0057]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0058]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0059]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0060]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0061]",
+    "destino": "BL:1.5.35"
+   },
+   {
+    "fragmento": "[CM.D11.F0062]",
+    "destino": "BL:1.5.41"
+   },
+   {
+    "fragmento": "[CM.D11.F0063]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0064]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0065]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0066]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0067]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0068]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   }
+  ]
+ }
+}

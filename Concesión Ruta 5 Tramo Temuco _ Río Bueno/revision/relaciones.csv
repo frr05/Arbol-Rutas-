@@ -1,0 +1,209 @@
+fragmento;acto;acto_nombre;pags;articulo;operacion;parrafos;texto_nuevo;donde_dice;debe_decir;numero_nuevo;estado;origen
+TERB.D02.F0002;TERB.D02.A1;Circular aclaratoria N°1 (1997-03-13);1;1.4.1;reemplaza_parrafo;P1;14-16;;;;aplicada;llm
+TERB.D02.F0003;TERB.D02.A1;Circular aclaratoria N°1 (1997-03-13);1,2;1.4.3;reemplaza_parrafo;P1;18-20;;;;aplicada;llm
+TERB.D02.F0005;TERB.D02.A2;Circular aclaratoria N°2;3;;anexo;;;;;;anexo;llm
+TERB.D02.F0006;TERB.D02.A2;Circular aclaratoria N°2;3;1.2.1;reemplaza_parrafo;P4;65-69;;;;aplicada;llm
+TERB.D02.F0006;TERB.D02.A2;Circular aclaratoria N°2;3;1.2.1;reemplaza_parrafo;P16;71-75;;;;aplicada;llm
+TERB.D02.F0007;TERB.D02.A2;Circular aclaratoria N°2;3;1.4.1;reemplaza_texto;P2;;y el Secretario Regional Ministerial del MOP de la IV Región o su representante.;y los Secretarios Regionales Ministeriales del MOP de la IX y de la X Región o sus representantes.;;aplicada;llm
+TERB.D02.F0008;TERB.D02.A2;Circular aclaratoria N°2;4;1.6.8.2;reemplaza_texto;P1;;en el caso dispuesto en el artículo 30 n* 1 del DFL MOP N* 164 de 1991 -cuyo texto, refundido con sus modificaciones posteriores, está contenido en el DS MOP N* 900 de 1996-;en el easo dispuesto en el artículo 30 N? 1 del DS MOP 900 que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP N*164 de 1991.;;aplicada;llm
+TERB.D02.F0009;TERB.D02.A2;Circular aclaratoria N°2;4;1.7.2.12;reemplaza_texto;P5;;artículo 35 del DFL MOP N0164 de 1991, modificado por la ley 19.252, cuyo texto refundido está contenido en el DS MOP N*900 de 1996,;artículo 36 del DFL MOP N*900 de 1996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP N*164 de 1991.;;aplicada;llm
+TERB.D02.F0010;TERB.D02.A2;Circular aclaratoria N°2;4;1.8.1;reemplaza_texto;P4;;todos los documentos que exigidos en las Bases de Licitación para la puesta en servicio tales;todos los documentos exigidos en las Bases de Licitación para la puesta en servicio, tales;;aplicada;llm
+TERB.D02.F0010;TERB.D02.A2;Circular aclaratoria N°2;4;1.8.1;reemplaza_texto;P5;;desde que ésta fuera solicitada mediante Resolución.;desde que ésta fuera solicitada, mediante Resolución.;;aplicada;llm
+TERB.D02.F0011;TERB.D02.A2;Circular aclaratoria N°2;4;1.10;reemplaza_texto;P1;;artículo 35 del DFL MOP N*164 de 1991, Ley de Concesiones -cuyo texto, refundido con sus modificaciones, está contenido en el DS MOP N*900 de 1996-;articulo 36 del DS N*900 de 1996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP N*164 de 1991;;aplicada;llm
+TERB.D02.F0011;TERB.D02.A2;Circular aclaratoria N°2;4;1.114,32;reemplaza_texto;P2;;las diferencias de cada uno de ellos se resolverán por la Comisión Conciliadora en base a dos peritajes. uno contratado por el MOP y otro por la Sociedad Concesionaria, del cual se elegirá uno;las diferencias de cada una de ellas se resolverán por la comisión conciliadora en base a dos peritajes, uno contratado por el MOP y otro por la Sociedad Concesionaria, pudiendo la comisión ordenar un tercer peritaje para los mismos efectos u establecer otro procedimiento en el mismo sentido;;pendiente: el artículo 1.114,32 no está entre los candidatos ['1.10', '1.11.4.3.3'];llm
+TERB.D02.F0011;TERB.D02.A2;Circular aclaratoria N°2;4;1.11.4.3.3;reemplaza_texto;P2;;En el caso que no exista acuerdo la Comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u Otro de los peritajes realizados, no pudiendo adoptar valores intermedios;En el caso que no exista acuerdo la comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u otro de lós peritajes realizados, lo que se entiende sin perjuicio de su facultad de exigir otro peritaje O establecer el procedimiento que mejor le parezca para la determinación de tales valores;;pendiente: donde_dice «En el caso que no exista acuerdo la Comisión Conci» no está en el texto vigente de 1.11.4.3.3;llm
+TERB.D02.F0012;TERB.D02.A2;Circular aclaratoria N°2;4;1.11.4.3.2;reemplaza_texto;P2;;...las diferencias de cada uno de ellos se resolverán por la Comisión Conciliadora en base a dos peritajes. uno contratado por el MOP y otro por la Sociedad Concesionaria, del cual se elegirá uno.;...las diferencias de cada una de ellas se resolverán por la comisión conciliadora en base a dos peritajes, uno contratado por el MOP y otro por la Sociedad Concesionaria, pudiendo la comisión ordenar un tercer peritaje para los mismos efectos u establecer otro procedimiento en el mismo sentido.;;aplicada;llm
+TERB.D02.F0013;TERB.D02.A2;Circular aclaratoria N°2;5;1.11.4.3.3;reemplaza_texto;P5;;En el caso que no exista acuerdo la Comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u Otro de los peritajes realizados, no pudiendo adoptar valores intermedios.;En el caso que no exista acuerdo la comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u otro de lós peritajes realizados, lo que se entiende sin perjuicio de su facultad de exigir otro peritaje O establecer el procedimiento que mejor le parezca para la determinación de tales valores.;;aplicada;llm
+TERB.D02.F0013;TERB.D02.A2;Circular aclaratoria N°2;5;1.11.4.3.3;elimina_texto;P24;;no obstante el MOP podrá eximir de dicha garantía en los casos que estime necesario.;;;aplicada;llm
+TERB.D02.F0014;TERB.D02.A2;Circular aclaratoria N°2;5;1.11.5;reemplaza_parrafo;P2;155-161;;;;aplicada;llm
+TERB.D02.F0015;TERB.D02.A2;Circular aclaratoria N°2;5;2.2.1.8.5;reemplaza_texto;P5;;El Sociedad Concesionaria deberá complementar los...;La Sociedad Concesionaria deberá complementar los...;;aplicada;llm
+TERB.D02.F0015;TERB.D02.A2;Circular aclaratoria N°2;5;2.2.1.8.5;reemplaza_texto;P8;;... la Sociedad Concesionaria estará obligado a remplazar de...;... la Sociedad Concesionaria estará obligada a reemplazar de...;;aplicada;llm
+TERB.D02.F0016;TERB.D02.A2;Circular aclaratoria N°2;5;;anexo;;;;;;anexo;llm
+TERB.D02.F0017;TERB.D02.A2;Circular aclaratoria N°2;5,6;2.2.7.5.2;agrega_texto;P1;;;"previa autorización de los titulares de los derechos ¿ : amiento afectados o del
+servicio competente.";;aplicada;llm
+TERB.D02.F0017;TERB.D02.A2;Circular aclaratoria N°2;5,6;2.2.7.5.2;reemplaza_texto;P4;;...lo dispuesto en la Ley N*1 1.402 (D.O 16.12.53) del MOP.;...lo dispuesto en la ley N*11.402 (D.O 16.12,53).;;aplicada;llm
+TERB.D02.F0018;TERB.D02.A2;Circular aclaratoria N°2;6;2.2.7.5.3;reemplaza_texto;P1;;Ley N* 18.902 de 1989 de la Superintendencia de Servicios Sanitarios y la Ley N* 3.133 de 1916 y su reglamento aprobado por DS N* 2.491 de 1916.;Ley N*18.902 de 1989 , Ley N*3.133 de 1916 y su Reglamento aprobado por DS MOP N*351 de 1993.;;aplicada;llm
+TERB.D02.F0019;TERB.D02.A2;Circular aclaratoria N°2;6;2.2.8.4;reemplaza_texto;P27;;Norma Chilena NCH N*409 de 1984 del IN.N (no publicada);Norma Chilena NCH N*409 de 1984 del LN.N (D.O. 3.3.84);;aplicada;llm
+TERB.D02.F0019;TERB.D02.A2;Circular aclaratoria N°2;6;2.2.8.4;agrega_texto;P27;;Norma Chilena NCH N*409 de 1984 del LN.N (D.O. 3.3.84);Norma Chilena NCH N*1333 de 1978 del LN.N (D.O. 22.5.87);;aplicada;llm
+TERB.D02.F0020;TERB.D02.A2;Circular aclaratoria N°2;6;2.2.8.4.2;reemplaza_texto;P17;;Se deberá realizar un (1) monitoreo al mes para verificar la calidad de las aguas subterráneas, a fin de cumplir con la Norma Chilena NCH N* 409 de 1984 del L.N.N. (no publicada) que determina la calidad de las aguas para consumo humano;Se deberán realizar monitoreos aguas arriba y aguas abajo de la zona del vertedero, los que serán supervisados por el Servicio de Salud correspondiente. Las normas a aplicar serán determinadas según el uso que se haga de las aguas.;;aplicada;llm
+TERB.D02.F0022;TERB.D02.A3;Circular aclaratoria N°3;7;;anexo;;;;;;anexo;llm
+TERB.D02.F0023;TERB.D02.A3;Circular aclaratoria N°3;7;1.3.3;aclara;P38,P39,P40;262-265;;;;nota;llm
+TERB.D02.F0023;TERB.D02.A3;Circular aclaratoria N°3;7;1.2.2;reemplaza_articulo;;268-270;;;;aplicada;llm
+TERB.D02.F0024;TERB.D02.A3;Circular aclaratoria N°3;7;1.2.5;reemplaza_texto;P3;;Estudio de Impacto Ambiental 718,30 - 890,00 Geotécnica ElA Estos Antecedentes corresponden a un Proyecto Referencial de Ingeniería Definitiva, y a un Estudio Referencial de Impacto Ambiental, de acuerdo a lo señalado en 2.2.6;"Estudio Referencial de Impacto Ambiental 718.30 - Geotécnica | 4 Tomos
+| Tramo Temuco - Puerto Montt 1.020,00 Consultores |";;aplicada;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;reemplaza_texto;P14;;El Licitante presentará una escritura privada, suscrita ante notario, de promesa de constituir una sociedad anónima, sujeta a la condición de adjudicarse la Concesión;El Licitante presentará una escritura privada, suscrita ante notario, de promesa de constituir una sociedad anónima, sujeta a dos condiciones: la primera será que el licitante se adjudique la Concesión y la segunda será que haya efectuado previamente, a la constitución de la sociedad, el pago a que se refiere 1.11.3 siempre que éste haya sido ofrecido en su Oferta Económica según lo señalado en 3.1.2 y 3.2;;aplicada;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;reemplaza_texto;P20;;...el capital suscrito y pagado en dinero al momento de la constitución de la sociedad ascenderá al menos a $ 20.000 millones (veinte mil millones de pesos)...;... el capital suscrito y pagado en dinero al momento de la constitución de la sociedad ascenderá al menos a $ 20.500 millones (veinte mil quinientos millones de pesos), y...;;aplicada;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;elimina_texto;P20;;Además el Concesionario no podrá disminuir el capital sin autorización expresa del MOP y el Inspector Fiscal, durante cualquier momento de vigencia del contrato, podrá solicitar certificados de una empresa auditoria externa que acrediten el capital de la misma.;;;aplicada;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;elimina;P23;;;;;aplicada;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;agrega_texto;P27;;Sólo se considerarán las Ofertas Técnicas sin enmiendas, tachaduras, ni condicionamientos de ningún tipo que vengan en el formulario firmado por el Director General de Obras Públicas.;, y no serán considerados documentos adicionales que adjunte el Licitante;;pendiente: donde_dice «Sólo se considerarán las Ofertas Técnicas sin enmi» no está en el texto vigente de 1.3.3;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;reemplaza_parrafo;P30,P31,P32,P33;317-333;;;;aplicada;llm
+TERB.D02.F0025;TERB.D02.A3;Circular aclaratoria N°3;8,9;1.3.3;reemplaza_parrafo;P34,P35,P36,P37;335-347;;;;aplicada;llm
+TERB.D02.F0026;TERB.D02.A3;Circular aclaratoria N°3;9;1.4.1;reemplaza_parrafo;P1;350-352;;;;aplicada;llm
+TERB.D02.F0027;TERB.D02.A3;Circular aclaratoria N°3;9;1.4.3;reemplaza_parrafo;P1;355-358;;;;aplicada;llm
+TERB.D02.F0028;TERB.D02.A3;Circular aclaratoria N°3;9;1.5.3;reemplaza_articulo;;361-373;;;;aplicada;llm
+TERB.D02.F0029;TERB.D02.A3;Circular aclaratoria N°3;10;1.5.4;reemplaza_articulo;;380-386;;;;aplicada;llm
+TERB.D02.F0029;TERB.D02.A3;Circular aclaratoria N°3;10;;agrega_articulo;;388-390;;;1.5.6;aplicada;llm
+TERB.D02.F0029;TERB.D02.A3;Circular aclaratoria N°3;10;1.6.1;reemplaza_texto;;;Incumplimiento de lo dispuesto en 1.17.2 sobre gestión tarifaria.;Incumplimiento de lo dispuesto en 1.17 sobre gestión tarifaria.;;aplicada;llm
+TERB.D02.F0030;TERB.D02.A3;Circular aclaratoria N°3;10;1.6.1.1;reemplaza_texto;P1;;La Sociedad Concesionaria entregará la Garantía de Construcción dentro del plazo de 30 días corridos desde el inicio del contrato a que se refiere 1.5.5.;La Sociedad Concesionaria entregará la Garantía de Construcción dentro del plazo de 30 días corridos contados desde la fecha de inicio de la Etapa de Construcción, salvo el caso señalado en la letra a) de los números 1 y 2 de 1.7.2.4, en cuyo caso deberá entregar dicha garantía en el plazo de 30 días corridos contados desde la fecha de aprobación de la solicitud de iniciación anticipada de obras por parte del Inspector Fiscal en el Libro de Obras.;;aplicada;llm
+TERB.D02.F0031;TERB.D02.A3;Circular aclaratoria N°3;10,11;1.6.5;reemplaza_texto;P1;;... al inicio de la concesión. Este acto se efectuará mediante anotación en el Libro de Obra.;.. al inicio de la concesión. salvo cuando el Inspector Fiscal autorice el inicio anticipado de las obras, según lo establecido en 1.7.2.4, letra a) de los números 1 A y 2. Este acto se efectuará mediante anotación en el Libro de Obra.;;aplicada;llm
+TERB.D02.F0031;TERB.D02.A3;Circular aclaratoria N°3;10,11;1.6.6;reemplaza_articulo;;415-462;;;;aplicada;llm
+TERB.D02.F0031;TERB.D02.A3;Circular aclaratoria N°3;10,11;;anexo;;;;;;anexo;llm
+TERB.D02.F0032;TERB.D02.A3;Circular aclaratoria N°3;11,12;;agrega_parrafo;;477-487;;;;pendiente: el artículo None no está entre los candidatos ['1.2.5'];llm
+TERB.D02.F0032;TERB.D02.A3;Circular aclaratoria N°3;11,12;;agrega_parrafo;;497-502;;;;pendiente: el artículo None no está entre los candidatos ['1.2.5'];llm
+TERB.D02.F0032;TERB.D02.A3;Circular aclaratoria N°3;11,12;1.2.5;agrega_parrafo;;503-512;;;;aplicada;llm
+TERB.D02.F0033;TERB.D02.A3;Circular aclaratoria N°3;12;1.6.8.1;reemplaza_parrafo;P5,P6,P7,P8;517-527;;;;aplicada;llm
+TERB.D02.F0033;TERB.D02.A3;Circular aclaratoria N°3;12;1.6.8.1;reemplaza_parrafo;P26,P27,P28;529-531;;;;aplicada;llm
+TERB.D02.F0034;TERB.D02.A3;Circular aclaratoria N°3;12;1.6.11;reemplaza_texto;P2;;conforme a las normas de la Dirección de Vialidad.;conforme a las normas e instrucciones de la Dirección de Vialidad,;;aplicada;llm
+TERB.D02.F0035;TERB.D02.A3;Circular aclaratoria N°3;12;1.6.15;reemplaza_texto;P4;;Una copia del contrato de cesión que suscribirá, en el que conste claramente;"Una copia del contrato de cesión que suscribirá, antes de su firma, en la
+que conste claramente";;aplicada;llm
+TERB.D02.F0036;TERB.D02.A3;Circular aclaratoria N°3;13;1.6.16;agrega_parrafo;P3;546-561;;;;aplicada;llm
+TERB.D02.F0037;TERB.D02.A3;Circular aclaratoria N°3;13;1.7.2.4;reemplaza_articulo;;564-599;;;;aplicada;llm
+TERB.D02.F0039;TERB.D02.A3;Circular aclaratoria N°3;13,14;2.2.6.1;reemplaza_texto;P1;;2.2.6.2;2.2.1.6;;aplicada;llm
+TERB.D02.F0039;TERB.D02.A3;Circular aclaratoria N°3;13,14;2.2.6.1;agrega_parrafo;P1;607-631;;;;aplicada;llm
+TERB.D02.F0039;TERB.D02.A3;Circular aclaratoria N°3;13,14;1.7.2.3;agrega_parrafo;P2;632-661;;;;aplicada;llm
+TERB.D02.F0041;TERB.D02.A3;Circular aclaratoria N°3;15;1.7.2.13;agrega_texto;P1;;la Sociedad Concesionaria presentará al Inspector Fiscal los planos de construcción junto con las memorias explicativas.;En dichos planos, Se deberá definir y destacar claramente, a lo largo de todo el tramo concesionado, los límites del Area de Concesión establecida en la Definición N'3 de 1.2.1.;;aplicada;llm
+TERB.D02.F0041;TERB.D02.A3;Circular aclaratoria N°3;15;1.7.2.13;reemplaza_texto;P1;;la Sociedad Concesionaria presentará al Inspector Fiscal los planos de construcción junto con las memorias explicativas.;la Sociedad Concesionaria presentará al Inspector Fiscal los planos de construcción junto con las memorias explicativas. En dichos planos, Se deberá definir y destacar claramente, a lo largo de todo el tramo concesionado, los límites del Area de Concesión establecida en la Definición N'3 de 1.2.1.;;pendiente: debe_decir «la Sociedad Concesionaria presentará al Inspector » no está en el fragmento;llm
+TERB.D02.F0042;TERB.D02.A3;Circular aclaratoria N°3;15;1.7.2.14;reemplaza_parrafo;P5;667-668;;;;aplicada;llm
+TERB.D02.F0042;TERB.D02.A3;Circular aclaratoria N°3;15;1.9.2;reemplaza_articulo;;671-674;;;;aplicada;llm
+TERB.D02.F0043;TERB.D02.A3;Circular aclaratoria N°3;15,16;1.9.4;agrega_parrafo;P7;677-718;;;;aplicada;llm
+TERB.D02.F0043;TERB.D02.A3;Circular aclaratoria N°3;15,16;1.11.3;reemplaza_articulo;;721-756;;;;aplicada;llm
+TERB.D02.F0045;TERB.D02.A3;Circular aclaratoria N°3;17;3.1.2;agrega_texto;P1;;conforme a lo señalado en 1.5.5,;siempre que éste haya sido ofrecido en su Oferta Económica según lo señalado en 3.1.2 y 3.2;;pendiente: debe_decir «siempre que éste haya sido ofrecido en su Oferta E» no está en el fragmento;llm
+TERB.D02.F0045;TERB.D02.A3;Circular aclaratoria N°3;17;3.2;agrega_texto;P1;;a continuación.;siempre que éste haya sido ofrecido en su Oferta Económica según lo señalado en 3.1.2 y 3.2;;pendiente: debe_decir «siempre que éste haya sido ofrecido en su Oferta E» no está en el fragmento;llm
+TERB.D02.F0045;TERB.D02.A3;Circular aclaratoria N°3;17;1.3.3;reemplaza_texto;P14;;siempre que éste haya sido ofrecido en su Oferta Económica según lo señalado en 3.1.2 y 3.2;;;pendiente: reemplaza_texto necesita donde_dice y debe_decir;llm
+TERB.D02.F0045;TERB.D02.A3;Circular aclaratoria N°3;17;1.3.3;agrega_texto;P14;;contendiendo al menos lo siguiente:;En el caso que el Licitante Adjudicatario haya ofrecido en su Oferta Económica pagar al Estado por los Bienes o Derechos utilizados en la Concesión, este pago deberá efectuarlo al MOP, mediante Vale Vista a nombre del DGOP, antes de la constitución de la sociedad prometida en Su Oferta Técnica señalada en 1.3.3 A). El no pago de esta cantidad implicará que el Adjudicatario nO pueda constituir la Sociedad Concesionaria aplicándose lo señalado en el inciso segundo del artículo 9 del pS MOP N” 900 de 1996. El MOP hará además efectivas las Boletas Bancarias de Garantía de Seriedad de la Oferta.”;;aplicada;llm
+TERB.D02.F0046;TERB.D02.A3;Circular aclaratoria N°3;17;1.11.4.2;agrega_parrafo;P2;777-782;;;;aplicada;llm
+TERB.D02.F0047;TERB.D02.A3;Circular aclaratoria N°3;17;;anexo;;;;;;anexo;llm
+TERB.D02.F0048;TERB.D02.A3;Circular aclaratoria N°3;18;1.11.7;elimina_texto;P2;;.;;;aplicada;llm
+TERB.D02.F0048;TERB.D02.A3;Circular aclaratoria N°3;18;1.11.7;agrega_texto;P2;;Los pagos se harán mediante Vale Vista o Cheque Nominativo extendidos a nombre de la Sociedad Concesionaria;g a quien corresponda legalmente.;;aplicada;llm
+TERB.D02.F0049;TERB.D02.A3;Circular aclaratoria N°3;18;1.12;reemplaza_texto;P13;;"La suma de los Ingresos Minimos Actualizados Garantizados (E AY sim ).
+solicitados por el Adjudicatario en ningún caso podrá ser superior a UF 3.856.000";"La suma de los Ingresos Mínimos Actualizados Garantizados (E AY vin )
+solicitados por el Adjudicatario en ningún caso podrá ser superior a UF
+3.932.000";;aplicada;llm
+TERB.D02.F0049;TERB.D02.A3;Circular aclaratoria N°3;18;1.12;reemplaza_parrafo;P14;807-808;;;;aplicada;llm
+TERB.D02.F0049;TERB.D02.A3;Circular aclaratoria N°3;18;1.12;reemplaza_parrafo;P17,P18,P19,P20,P21,P22,P23,P24;810-823;;;;aplicada;llm
+TERB.D02.F0050;TERB.D02.A3;Circular aclaratoria N°3;18,19;1.12;reemplaza_parrafo;P25,P26,P27,P28,P29,P30,P31,P32,P33,P34;830-868;;;;aplicada;llm
+TERB.D02.F0050;TERB.D02.A3;Circular aclaratoria N°3;18,19;1.6.4;reemplaza_texto;P29;;punto 5, letra g);punto 3, letra g);;pendiente: párrafo inexistente en 1.6.4: ['P29'];llm
+TERB.D02.F0051;TERB.D02.A3;Circular aclaratoria N°3;19;1.17.3;reemplaza_texto;P7;;pistas para la plaza de peaje, éstas serán exigibles en el plazo de 6 meses;pistas para la plaza de peaje, éstas deberán estar construidas en el plazo de 6 meses;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Ampliación a segundas calzadas en una longitud de 171,3 km.;* Ampliación a segundas calzadas en una longitud de 171,0 km.;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Construcción de 21 estructuras de puentes en calzada simple con una longitud total de 1.640 m.;"* Construcción de 20 estructuras de puentes en calzada simple con una
+longitud total de 1.489 m.";;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Construcción de un mínimo de 18 intersecciones a desnivel (17 enlaces y 1 atraviesos).;"* Construcción de un minimo de 20 intersecciones a desnivel (18 enlaces y 2
+atraviesos).";;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Construcción de 65,4 km de calles de servicio.;* Construcción de 66,3 km de calles de servicio.;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Construcción de 20 pasarelas peatonales.;* Construcción de 19 pasarelas peatonales;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Construcción de 8 Pasos de Ganado y Maquinaria Agrícola.;* Construcción de 18 Pasos de Ganado y Maquinaria Agrícola.;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Rehabilitación de la calzada existente en una longitud de 219,2 km.;* Rehabilitación de la calzada existente en una longitud de 49,0 km.;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Conservación de las calzadas existente en una longitud de 124,2 km.;* Conservación de las calzadas existente en una longitud de 122,7 km.;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P2;;Mejoramiento y Modificación de 108 Accesos a Nivel.;* Mejoramiento y Modificación de 111 Accesos a Nivel.;;aplicada;llm
+TERB.D02.F0052;TERB.D02.A3;Circular aclaratoria N°3;19,20;2.1;reemplaza_texto;P4;;La Concesión incluye además el mantenimiento de las obras nuevas ejecutadas por la Sociedad Concesionaria y de las preexistentes, en los estándares que más adelante se indican, durante todo el período de la misma.;"“La Concesión incluye además el mantenimiento de las obras preexistentes
+y de las nuevas ejecutadas por la Sociedad Concesionaria, €n las
+condiciones y estándares establecidos en las presentes Bases de Licitación .
+para las etapas de Construcción y Explotación.”";;aplicada;llm
+TERB.D02.F0053;TERB.D02.A3;Circular aclaratoria N°3;20;2.2.1.1;reemplaza_articulo;;912-918;;;;aplicada;llm
+TERB.D02.F0054;TERB.D02.A3;Circular aclaratoria N°3;20;2.2.1.2;reemplaza_parrafo;P1;922-923;;;;aplicada;llm
+TERB.D02.F0055;TERB.D02.A3;Circular aclaratoria N°3;20,21;2.2.1.3;reemplaza_parrafo;P3,P4,P5,P6,P7;925-960;;;;aplicada;llm
+TERB.D02.F0056;TERB.D02.A3;Circular aclaratoria N°3;21,22;2.2.1.4;reemplaza_parrafo;P3,P4,P5,P6,P7,P8,P9;963-984;;;;aplicada;llm
+TERB.D02.F0056;TERB.D02.A3;Circular aclaratoria N°3;21,22;2.2.1.4;reemplaza_parrafo;P10,P11,P12;991-996;;;;pendiente: párrafo inexistente en 2.2.1.4: ['P10', 'P11', 'P12'];llm
+TERB.D02.F0057;TERB.D02.A3;Circular aclaratoria N°3;22,23;2.2.1.5;reemplaza_parrafo;P4,P5;1000-1050;;;;aplicada;llm
+TERB.D02.F0057;TERB.D02.A3;Circular aclaratoria N°3;22,23;2.2.1.5;reemplaza_parrafo;P7,P8;1051-1092;;;;aplicada;llm
+TERB.D02.F0058;TERB.D02.A3;Circular aclaratoria N°3;24;2.2.1.6;reemplaza_parrafo;P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17;1095-1117;;;;aplicada;llm
+TERB.D02.F0059;TERB.D02.A3;Circular aclaratoria N°3;24;2.2.1.7;reemplaza_parrafo;P2,P3,P4,P5;1119-1142;;;;aplicada;llm
+TERB.D02.F0060;TERB.D02.A3;Circular aclaratoria N°3;25,26;2.2.1.8.6;reemplaza_texto;P13;;En la Tabla 2.10 se indican las zonas en que obligatoriamente se deben instalar los cierros, no obstante la Sociedad Concesionaria puede aumentar el número de zonas, si lo estima pertinente:;En la Tabla 2.10 se indican algunas de las zonas en que se deben instalar los cierros. No obstante, la Sociedad Concesionaria, deberá instalar Cierros Perimetrales adicionales en todos los sectores que, por satisfacer alguna de las características indicadas en el párrafo precedente, sean requeridos por el Inspector Fiscal. En todo caso, los cierros perimetrales exigidos por el Inspector Fiscal, adicionales al total de los señalados en la Tabla 2.10, no podrán ser superiores a 2.100 m.;;aplicada;llm
+TERB.D02.F0060;TERB.D02.A3;Circular aclaratoria N°3;25,26;2.2.1.8.6;reemplaza_parrafo;P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28,P29,P30;1152-1270;;;;aplicada;llm
+TERB.D02.F0060;TERB.D02.A3;Circular aclaratoria N°3;25,26;2.2.1.8.6;reemplaza_parrafo;P32,P33;1275-1287;;;;pendiente: párrafo inexistente en 2.2.1.8.6: ['P32', 'P33'];llm
+TERB.D02.F0061;TERB.D02.A3;Circular aclaratoria N°3;26;;anexo;;;;;;anexo;llm
+TERB.D02.F0063;TERB.D02.A3;Circular aclaratoria N°3;27,28;2.2.2.1;reemplaza_articulo;;1370-1431;;;;aplicada;llm
+TERB.D02.F0064;TERB.D02.A3;Circular aclaratoria N°3;28;2.2.2.2;reemplaza_parrafo;P1;1432-1434;;;;aplicada;llm
+TERB.D02.F0064;TERB.D02.A3;Circular aclaratoria N°3;28;2.2.2.2;reemplaza_parrafo;P2,P3,P4,P5,P6,P7;1435-1437;;;;aplicada;llm
+TERB.D02.F0065;TERB.D02.A3;Circular aclaratoria N°3;29;2.2.2.5;reemplaza_parrafo;P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28,P29,P30,P31,P32,P33,P34,P35,P36,P37,P38,P39,P40,P41,P42,P43,P44;1475-1522;;;;aplicada;llm
+TERB.D02.F0067;TERB.D02.A3;Circular aclaratoria N°3;30,31;2.2.2.6;reemplaza_parrafo;P6,P7,P8;1547-1598;;;;aplicada;llm
+TERB.D02.F0067;TERB.D02.A3;Circular aclaratoria N°3;30,31;2.2.2.6;reemplaza_parrafo;P9,P10,P11;1603-1655;;;;pendiente: párrafo inexistente en 2.2.2.6: ['P9', 'P10', 'P11'];llm
+TERB.D02.F0068;TERB.D02.A3;Circular aclaratoria N°3;32;2.2.3.3 — 2.2.3.3 lluminación;reemplaza_articulo;;1657-1680;;;;pendiente: el artículo 2.2.3.3 — 2.2.3.3 lluminación no está entre los candidatos [];llm
+TERB.D02.F0068;TERB.D02.A3;Circular aclaratoria N°3;32;;agrega_articulo;;1681-1691;;;Tabla 2.20;aplicada;llm
+TERB.D02.F0068;TERB.D02.A3;Circular aclaratoria N°3;32;;anexo;;;;;;anexo;llm
+TERB.D02.F0070;TERB.D02.A3;Circular aclaratoria N°3;33;2.2.4;reemplaza_parrafo;P2,P3;1724-1724;;;;aplicada;llm
+TERB.D02.F0070;TERB.D02.A3;Circular aclaratoria N°3;33;2.2.5;reemplaza_texto;P1;;en las zonas de influencia directa de la Ruta 5 Tramo Temuco - Río Bueno;en las zonas de influencia directa e indirecta de la Ruta 5 Tramo Temuco - Río Bueno;;aplicada;llm
+TERB.D02.F0071;TERB.D02.A3;Circular aclaratoria N°3;33,34;2.2.6.1;reemplaza_articulo;;1733-1778;;;;aplicada;llm
+TERB.D02.F0072;TERB.D02.A3;Circular aclaratoria N°3;34;2.2.6.2;reemplaza_articulo;;1781-1789;;;;aplicada;llm
+TERB.D02.F0073;TERB.D02.A3;Circular aclaratoria N°3;34,35;;anexo;;;;;;anexo;llm
+TERB.D02.F0074;TERB.D02.A3;Circular aclaratoria N°3;35,36,37;2.4 — 2.4 ANTECEDENTES EXPROPIATORIOS;reemplaza_articulo;;1820-1826;;;;pendiente: el artículo 2.4 — 2.4 ANTECEDENTES EXPROPIATORIOS no está entre los candidatos [];llm
+TERB.D02.F0074;TERB.D02.A3;Circular aclaratoria N°3;35,36,37;2.5.3.2 — 2.5.3.2 Medidas de Seguridad y Control;reemplaza_texto;P3;;... Áreas de Servicio obligatorias ubicadas según se detalla en 2.2.1 9.;... Areas de Servicio obligatorias ubicadas según se detallan en 2.2.1.8.;;pendiente: el artículo 2.5.3.2 — 2.5.3.2 Medidas de Seguridad y Control no está entre los candidatos [];llm
+TERB.D02.F0074;TERB.D02.A3;Circular aclaratoria N°3;35,36,37;;anexo;;;;;;anexo;llm
+TERB.D02.F0074;TERB.D02.A3;Circular aclaratoria N°3;35,36,37;;anexo;;;;;;anexo;llm
+TERB.D02.F0074;TERB.D02.A3;Circular aclaratoria N°3;35,36,37;;anexo;;;;;;anexo;llm
+TERB.D02.F0076;TERB.D02.A3;Circular aclaratoria N°3;39;;anexo;;;;;;anexo;llm
+TERB.D02.F0079;TERB.D02.A3;Circular aclaratoria N°3;41;1.3.3;aclara;;2124-2140;;;;nota;llm
+TERB.D02.F0080;TERB.D02.A3;Circular aclaratoria N°3;41;1.4.1;aclara;P1;;;;;nota;llm
+TERB.D02.F0081;TERB.D02.A3;Circular aclaratoria N°3;41;1.4.1;aclara;P2;;;;;nota;llm
+TERB.D02.F0082;TERB.D02.A3;Circular aclaratoria N°3;41,42,43;1.5.3;aclara;P2;;;;;nota;llm
+TERB.D02.F0082;TERB.D02.A3;Circular aclaratoria N°3;41,42,43;1.6.1;agrega_texto;P2;;1991; sin perjuicio de lo dispuesto en el Articulo 21 de DFL MOP No164 de 1991 Y sus modificaciones, en relación con la enajenación de las acciones de la Sociedad Concesionaria.;;aplicada;llm
+TERB.D02.F0082;TERB.D02.A3;Circular aclaratoria N°3;41,42,43;1.6.1;aclara;P12;;;;;nota;llm
+TERB.D02.F0082;TERB.D02.A3;Circular aclaratoria N°3;41,42,43;1.6.5;aclara;P2;;;;;nota;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;reemplaza_texto;P1;;si la Sociedad Concesionaria ha optado por adquirir, será totalmente de su cargo.;si la Sociedad Concesionaria opta por adquirir para el Estado, el exceso por sobre el valor de tasación pericial -en cada adquisición- será totalmente de cargo de la misma.;;pendiente: donde_dice «si la Sociedad Concesionaria ha optado por adquiri» no está en el texto vigente de 1.6.6;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;aclara;;2298-2298;;;;nota;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;aclara;;2300-2302;;;;nota;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;aclara;;2303-2316;;;;nota;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;aclara;;2317-2318;;;;nota;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;aclara;;2319-2320;;;;nota;llm
+TERB.D02.F0083;TERB.D02.A3;Circular aclaratoria N°3;43,44;1.6.6;aclara;;2321-2323;;;;nota;llm
+TERB.D02.F0084;TERB.D02.A3;Circular aclaratoria N°3;44,45;1.6.10;aclara;;2355-2356;;;;nota;llm
+TERB.D02.F0084;TERB.D02.A3;Circular aclaratoria N°3;44,45;1.6.10;aclara;;2357-2357;;;;nota;llm
+TERB.D02.F0084;TERB.D02.A3;Circular aclaratoria N°3;44,45;1.6.10;aclara;;2358-2359;;;;nota;llm
+TERB.D02.F0085;TERB.D02.A3;Circular aclaratoria N°3;45,46;1.7.2.6;aclara;;2357-2359;;;;nota;llm
+TERB.D02.F0085;TERB.D02.A3;Circular aclaratoria N°3;45,46;1.7.2.8;aclara;;2357-2359;;;;nota;llm
+TERB.D02.F0085;TERB.D02.A3;Circular aclaratoria N°3;45,46;1.6.11;aclara;P1,P6,P7;2363-2380;;;;nota;llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;;aclara;;;;;;pendiente: el artículo None no está entre los candidatos ['1.7.2.5', '1.8.1'];llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;;aclara;;;;;;pendiente: el artículo None no está entre los candidatos ['1.7.2.5', '1.8.1'];llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;1.7.2.5;reemplaza_parrafo;P1;2388-2390;;;;aplicada;llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;1.7.2.5;agrega_parrafo;P2;2392-2394;;;;aplicada;llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;;aclara;;;;;;pendiente: el artículo None no está entre los candidatos ['1.7.2.5', '1.8.1'];llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;;aclara;;;;;;pendiente: el artículo None no está entre los candidatos ['1.7.2.5', '1.8.1'];llm
+TERB.D02.F0087;TERB.D02.A3;Circular aclaratoria N°3;46,47;1.8.1;reemplaza_parrafo;P3;2450-2475;;;;aplicada;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.8.1;aclara;P8;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.8.7;aclara;P2;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.9.4;aclara;;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.11.1;aclara;P2;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.11.1;aclara;;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.11.1;aclara;P5;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;1.11.1;aclara;;;;;;nota;llm
+TERB.D02.F0089;TERB.D02.A3;Circular aclaratoria N°3;47,48,49;;anexo;;;;;;anexo;llm
+TERB.D02.F0090;TERB.D02.A3;Circular aclaratoria N°3;49,50;1.11.4.2;aclara;;2582-2582;;;;nota;llm
+TERB.D02.F0090;TERB.D02.A3;Circular aclaratoria N°3;49,50;1.11.7;aclara;P1;2643-2644;;"La Sociedad Concesionaria deberá incluir en su calendario el eventual pag0 de ingresos
+mínimos por la cuantía estimada como más probable.";;nota;llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;;aclara;;2645-2648;;;;pendiente: el artículo None no está entre los candidatos ['1.12', '1.15'];llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;1.12;aclara;P3;2651-2655;;;;nota;llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;1.12;aclara;P6;2664-2669;;;;nota;llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;1.12;aclara;P26;2670-2673;;;;nota;llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;1.12;aclara;P18;2676-2686;;;;nota;llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;;aclara;;2689-2696;;;;pendiente: el artículo None no está entre los candidatos ['1.12', '1.15'];llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;1.15;aclara;;2699-2700;;;;nota;llm
+TERB.D02.F0091;TERB.D02.A3;Circular aclaratoria N°3;50,51,52;;aclara;;2708-2711;;;;pendiente: el artículo None no está entre los candidatos ['1.12', '1.15'];llm
+TERB.D02.F0092;TERB.D02.A3;Circular aclaratoria N°3;52;2.2.2;aclara;;2713-2728;;;;nota;llm
+TERB.D02.F0092;TERB.D02.A3;Circular aclaratoria N°3;52;2.2.2.9;aclara;;2757-2796;;;;nota;llm
+TERB.D02.F0093;TERB.D02.A3;Circular aclaratoria N°3;52,53,54;1.6.10;aclara;P1,P2;;;;;nota;llm
+TERB.D02.F0093;TERB.D02.A3;Circular aclaratoria N°3;52,53,54;2.2.7.5.2;reemplaza_parrafo;P1;2798-2801;;;;aplicada;llm
+TERB.D02.F0093;TERB.D02.A3;Circular aclaratoria N°3;52,53,54;2.2.8.4;aclara;;;;;;nota;llm
+TERB.D02.F0093;TERB.D02.A3;Circular aclaratoria N°3;52,53,54;2.3.2.6;aclara;P1;;;;;nota;llm
+TERB.D02.F0094;TERB.D02.A3;Circular aclaratoria N°3;54,55;2.5.3.2;aclara;;2867-2872;;;;nota;llm
+TERB.D02.F0094;TERB.D02.A3;Circular aclaratoria N°3;54,55;1.6.7;aclara;;2878-2878;;;;nota;llm
+TERB.D02.F0094;TERB.D02.A3;Circular aclaratoria N°3;54,55;1.6.7;aclara;;2884-2884;;;;nota;llm
+TERB.D02.F0094;TERB.D02.A3;Circular aclaratoria N°3;54,55;;anexo;;2899-2901;;;;anexo;llm
+TERB.D02.F0094;TERB.D02.A3;Circular aclaratoria N°3;54,55;;anexo;;2912-2913;;;;anexo;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;1.3.3;aclara;;2920-2923;;;;nota;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;1.3.3;reemplaza_texto;P22;;No obstante el Licitante precalificado;El Licitante;;aplicada;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;2.4;aclara;;2930-2931;;;;nota;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;2.4;aclara;;2932-2947;;;;nota;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;1.6.7;aclara;;2932-2947;;;;nota;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;2.3.2.7;aclara;;2959-2966;;;;nota;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;2.3.2.7;aclara;;2967-2969;;;;nota;llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;;aclara;;2970-2986;;;;pendiente: el artículo None no está entre los candidatos ['1.3.3', '1.6.7', '2.3.2.7', '2.4'];llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;;aclara;;3006-3015;;;;pendiente: el artículo None no está entre los candidatos ['1.3.3', '1.6.7', '2.3.2.7', '2.4'];llm
+TERB.D02.F0095;TERB.D02.A3;Circular aclaratoria N°3;55,56;;aclara;;3016-3019;;;;pendiente: el artículo None no está entre los candidatos ['1.3.3', '1.6.7', '2.3.2.7', '2.4'];llm
+TERB.D02.F0096;TERB.D02.A3;Circular aclaratoria N°3;56,57,58;1.7.2.3;aclara;;2987-2991;;;;nota;llm
+TERB.D02.F0096;TERB.D02.A3;Circular aclaratoria N°3;56,57,58;1.6.12;elimina_texto;P2;;exclusivamente;;;aplicada;llm
+TERB.D02.F0096;TERB.D02.A3;Circular aclaratoria N°3;56,57,58;1.6.12;reemplaza_texto;P2;;después;antes o después;;aplicada;llm
+TERB.D02.F0096;TERB.D02.A3;Circular aclaratoria N°3;56,57,58;2.1;reemplaza_texto;P2;;durante todo el periodo de la misma;de conformidad a los programas de mantención y ejecución de obras presentados por el concesionario y aceptados por el MOP;;pendiente: donde_dice «durante todo el periodo de la misma» no está en el texto vigente de 2.1;llm
+TERB.D02.F0096;TERB.D02.A3;Circular aclaratoria N°3;56,57,58;1.2.1;aclara;;3006-3015;;;;nota;llm
+TERB.D02.F0097;TERB.D02.A3;Circular aclaratoria N°3;58,59;1.10;aclara;;3056-3057;;;;nota;llm
+TERB.D02.F0097;TERB.D02.A3;Circular aclaratoria N°3;58,59;2.2.6.2;aclara;;3060-3096;;;;nota;llm
+TERB.D02.F0097;TERB.D02.A3;Circular aclaratoria N°3;58,59;2.3.2.2;aclara;;3105-3106;;;;nota;llm

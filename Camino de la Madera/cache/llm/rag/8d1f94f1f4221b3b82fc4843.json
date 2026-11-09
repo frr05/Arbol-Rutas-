@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Se firmó un convenio complementario (el N°1) y se menciona la existencia de un Convenio Ad-Referéndum N°1, por lo tanto, se firmaron dos instrumentos de este tipo [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

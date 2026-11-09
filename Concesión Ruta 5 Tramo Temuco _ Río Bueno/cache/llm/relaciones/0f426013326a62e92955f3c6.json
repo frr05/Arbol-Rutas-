@@ -1,0 +1,141 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:43",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1122,
+     1130
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1131,
+     1137
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1138,
+     1149
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1150,
+     1151
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1152,
+     1154
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1155,
+     1160
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     1161,
+     1164
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1165,
+     1184
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.11"
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Además, el último día hábil del mes de Noviembre de cada año, la Sociedad Concesionaria deberá hacer entrega para la aprobación del Inspector Fiscal, del Plan de Trabajo Anual a que hace referencia 2.5.7 de las Bases Técnicas. El Inspector Fiscal deberá controlar el cumplimiento del Plan de Trabajo anual y mensual que haya entregado la Concesionaria, verificando la ejecución, de todas las actividades que corresponda realizar, En concordancia con el Programa de Conservación. La Concesionaria deberá comunicar por escrito al Inspector Fiscal, con la debida anticipación, cualquier modificación que se realice al Plan de Trabajo",
+    "debe_decir": "Además, el último día hábil del mes de Noviembre de cada año, la Sociedad Concesionaria deberá hacer entrega para la aprobación del Inspector Fiscal, del Plan de Trabajo Anual a que hace referencia 2.5.7 de las Bases Técnicas. El Inspector Fiscal deberá controlar el cumplimiento del Plan de Trabajo anual y mensual que haya entregado la Concesionaria, verificando la ejecución, de todas las actividades que corresponda realizar, En concordancia con el Programa de Conservación. La Concesionaria deberá comunicar por escrito al Inspector Fiscal, con la debida anticipación, cualquier modificación que se realice al Plan de Trabajo. Para efectos de lo dispuesto en el presente numeral, a más tardar junto con la solicitud de recepción de cada una de las obras que se ejecuten en virtud de lo establecido en el presente Nº 2, la Sociedad Concesionaria deberá presentar al Inspector Fiscal, para su aprobación, una actualización del Programa General de Conservación de la Obra y del Plan de Trabajo Anual indicados en los artículos 1.8.5 y 2.5.7 de las Bases de Licitación, incorporando en ellos la obra respectiva de acuerdo a las actividades y frecuencias detalladas en el documento “Costos, actividades y frecuencias de conservación” adjunto al oficio Ord. Nº 2.674/EXPL. TE-RB/2023, de fecha 20 de junio de 2023, del Inspector Fiscal, el cual se entiende que forma parte integrante del presente decreto supremo. El Inspector Fiscal tendrá un plazo de 10 días para revisar las actualizaciones presentadas, contado desde su recepción, plazo después del cual, si no hubiere observaciones, se entenderán aprobadas. En caso de que las actualizaciones sean observadas, la Sociedad Concesionaria tendrá un plazo de 5 días hábiles para corregirlas, incorporando las observaciones realizadas por el Inspector Fiscal. En caso de atraso en las entregas de las actualizaciones del Programa General de Conservación de la Obra y del Plan de Trabajo Anual, o de las correcciones a éstos si las hubiere, se aplicará a la Sociedad Concesionaria una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria entregará al Inspector Fiscal un Plan de Trabajo Anual, con desglose de actividades mensuales. Estos deberán contemplar todas las actividades que corresponda realizar de acuerdo a lo estipulado en las Bases y en concordancia con el Programa de Conservación. Cualquier modificación a este plan se comunicará por escrito al Inspector Fiscal con la debida anticipación.",
+    "debe_decir": "La Sociedad Concesionaria entregará al Inspector Fiscal un Plan de Trabajo Anual, con desglose de actividades mensuales. Estos deberán contemplar todas las actividades que corresponda realizar de acuerdo a lo estipulado en las Bases y en concordancia con el Programa de Conservación. Cualquier modificación a este plan se comunicará por escrito al Inspector Fiscal con la debida anticipación. Para efectos de lo dispuesto en el presente numeral, a más tardar junto con la solicitud de recepción de cada una de las obras que se ejecuten en virtud de lo establecido en el presente Nº 2, la Sociedad Concesionaria deberá presentar al Inspector Fiscal, para su aprobación, una actualización del Programa General de Conservación de la Obra y del Plan de Trabajo Anual indicados en los artículos 1.8.5 y 2.5.7 de las Bases de Licitación, incorporando en ellos la obra respectiva de acuerdo a las actividades y frecuencias detalladas en el documento “Costos, actividades y frecuencias de conservación” adjunto al oficio Ord. Nº 2.674/EXPL. TE-RB/2023, de fecha 20 de junio de 2023, del Inspector Fiscal, el cual se entiende que forma parte integrante del presente decreto supremo. El Inspector Fiscal tendrá un plazo de 10 días para revisar las actualizaciones presentadas, contado desde su recepción, plazo después del cual, si no hubiere observaciones, se entenderán aprobadas. En caso de que las actualizaciones sean observadas, la Sociedad Concesionaria tendrá un plazo de 5 días hábiles para corregirlas, incorporando las observaciones realizadas por el Inspector Fiscal. En caso de atraso en las entregas de las actualizaciones del Programa General de Conservación de la Obra y del Plan de Trabajo Anual, o de las correcciones a éstos si las hubiere, se aplicará a la Sociedad Concesionaria una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

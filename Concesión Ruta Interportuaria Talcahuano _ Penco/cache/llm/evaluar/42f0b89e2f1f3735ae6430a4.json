@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:23",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los montos principales (UF 3.800 y UF 2.400) y las etapas correspondientes sin contradicciones."
+   },
+   {
+    "n": 22,
+    "veredicto": "parcial",
+    "motivo": "Omite el monto principal de UF 83.000 mencionado en la referencia y presenta una estructura de pagos diferente."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el 80% pero agrega información contradictoria sobre una imputación del 30% que no está en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "correcta",
+    "motivo": "Coincide con los tipos de interés y contextos detallados en la referencia para cada caso de retraso."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Refleja correctamente el sistema de cobro a la salida y la tecnología de Control de Accesos Manual."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma la diferenciación por tipo de vehículo y la facultad de alterar tarifas dentro de los límites."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el IPC como índice de reajuste y el mecanismo de reemplazo si deja de existir."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Proporciona los valores exactos de las tarifas máximas base ($50 y $35) y la tarifa de acceso ($300)."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente la moneda (pesos) y la fecha base (31 de Diciembre de 2000)."
+   },
+   {
+    "n": 30,
+    "veredicto": "incorrecta",
+    "motivo": "Solo menciona 10,9 km, omitiendo los 3,5 km de la prolongación que suman el total de 14,4 km."
+   }
+  ]
+ }
+}

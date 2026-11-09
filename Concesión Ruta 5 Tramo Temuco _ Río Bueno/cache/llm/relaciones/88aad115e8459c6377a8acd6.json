@@ -1,0 +1,82 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:43",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "5.3 — 5.3 C) COSTOS GENERALES",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     2999,
+     3001
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.3 — 5.3 C) COSTOS GENERALES",
+    "operacion": "elimina",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3007,
+     3011
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3020,
+     3034
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3035,
+     3044
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3045,
+     3060
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

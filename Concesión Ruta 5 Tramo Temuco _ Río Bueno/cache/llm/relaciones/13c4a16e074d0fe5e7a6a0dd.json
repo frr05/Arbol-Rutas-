@@ -1,0 +1,35 @@
+{
+ "tarea": "relaciones",
+ "modelo": "dots-studio/dots-3-note-preview:free",
+ "fecha": "2026-10-27 11:59",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2",
+     "P3"
+    ],
+    "texto_nuevo": [
+     1941,
+     1941
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "en las zonas de influencia directa de la Ruta 5 Tramo Temuco - Río Bueno",
+    "debe_decir": "en las zonas de influencia directa e indirecta de la Ruta 5 Tramo Temuco - Río Bueno",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

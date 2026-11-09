@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D23",
+ "archivo": "4_modificacion_obras_convenios/TERB-DS-MOP-N_124-de-fecha-13-07-2023.pdf",
+ "sha256": "c017d5edf8189bacf2dfc470e056bef878cbae65aea0cba98349ba5e3f00fe1a",
+ "paginas": 50,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:10"
+}

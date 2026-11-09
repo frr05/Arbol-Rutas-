@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:30",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente qué garantiza el mecanismo y desde qué año se aplica, coincidiendo con la referencia."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica correctamente cómo funciona la coparticipación según los tramos y supera la información básica de la referencia sin contradicciones."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta aporta el monto mínimo solicitado (UF 12.000) que coincide con la referencia."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente la cobertura y el beneficiario único del seguro, acorde a la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla los factores por tipo de vehículo solicitados, manteniendo la coherencia numérica con la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta describe correctamente los tramos de cobertura de sobrecostos ambientales según lo establecido en la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica el tiempo máximo de espera exigido (< 2 minutos), cumpliendo con lo pedido y lo referido."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que sí puede cobrarse y detalla las condiciones requeridas, alineándose con la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta especifica correctamente los límites porcentuales de nuevas inversiones para construcción y término de concesión."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica correctamente la periodicidad y el procedimiento de revisión del sistema tarifario conforme a la referencia."
+   }
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "documento": "RITP.D03",
+ "pagina": 1,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:08",
+ "tablas": [
+  {
+   "titulo": "COMPOSICIÓN DE LOS FACTORES DE LICITACIÓN (Completar)",
+   "encabezados": [
+    "Ingresos Totales de la Concesión (ITC), expresado en UF. (1)",
+    "UF",
+    "Monto del Subsidio solicitado (S), expresado en UF. (2)",
+    "287.000 UF",
+    "Plazo de Postergación de la Puesta en Servicio Provisoria de Av. Alessandri ofrecido (ND), expresado en días. (3)",
+    "días"
+   ],
+   "filas": [
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "notas": "(1) “ITC” corresponde al monto de Ingresos Totales de la Concesión que postula obtener el licitante o grupo licitante, de acuerdo a lo indicado en los artículos 1.14.7 y 3.2 de las presentes Bases, el cual deberá ser inferior o igual a UF 290.000 (0 < S ≤ 290.000). Si el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el valor del Subsidio S con valor “0” (S = 0). (2) “ND” corresponde al número de días contados desde la Puesta en Servicio Provisoria de las obras descritas en el artículo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las mismas Bases. Para los efectos del Tramo C de licitación, si el licitante o grupo licitante opta por Sí construir las obras indicadas en el artículo 1.3.2, deberá señalar el número de días ND dentro del rango entre 720 y 1.800 (720 < ND ≤ 1.800). Para este mismo tramo, si el licitante o grupo licitante opta por NO ejecutar las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el número ND con el valor 5.000 (ND = 5.000)."
+  }
+ ]
+}

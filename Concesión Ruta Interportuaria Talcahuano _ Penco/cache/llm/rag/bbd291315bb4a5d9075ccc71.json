@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "El porcentaje de imputación de ingresos al servicio de construcción para efectos del IVA es del 80% según [1] y [3]. Sin embargo, [2] menciona un 30% para este mismo fin, lo que crea una discrepancia entre los documentos.",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

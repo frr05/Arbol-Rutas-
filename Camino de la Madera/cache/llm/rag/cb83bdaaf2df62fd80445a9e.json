@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "La convocatoria a la primera licitación privada se efectuó el 30 de noviembre de 2003 [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

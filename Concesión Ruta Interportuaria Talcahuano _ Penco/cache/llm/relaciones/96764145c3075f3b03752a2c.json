@@ -1,0 +1,68 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 18:26",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.3",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "o) Cada vez que se compruebe el incumplimiento de las obligaciones señaladas en el artículo 1.7.3 de las presentes Bases de Licitación;",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P17"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "p) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.",
+    "debe_decir": "o) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.13.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La no ejecución e incumplimiento reiterado de las medidas que imponga el o los organismos competentes para la aprobación de la o las Declaraciones o Estudios de Impacto Ambiental asociadas al proyecto y/o sus actividades, desde que le sean notificadas dichas medidas al Concesionario por el Inspector Fiscal, a través de anotación en el Libro de Obras. Para los efectos de este artículo, se entenderá que existe incumplimiento reiterado de esta obligación, cuando notificada por segunda vez de la misma obligación de ejecución y cumplimiento de estas medidas en el plazo que se determine, el Concesionario no hubiere dado cumplimiento por tercera vez;",
+    "debe_decir": "h) La no ejecución e incumplimiento reiterado de las medidas que imponga el o los organismos competentes para la aprobación de la o las Declaraciones o Estudios de Impacto Ambiental asociadas al proyecto y/o sus actividades, desde que le sean notificadas dichas medidas al Concesionario por el Inspector Fiscal, a través de anotación en el Libro de Obras. Para los efectos de este artículo, se entenderá que existe incumplimiento reiterado de esta obligación, cuando la Sociedad Concesionaria después de ser notificada por segunda vez de la infracción, esto es, del incumplimiento de la obligación de ejecución y cumplimiento de la misma medida ambiental, ella no cumpla por tercera vez en el plazo que se determine al efectos",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.14.3",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     868,
+     924
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.3.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     928,
+     928
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

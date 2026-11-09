@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 03:01",
+ "costo": 0.000762,
+ "texto": "{\"tablas\": [{\"titulo\": \"ANEXO N° 5\", \"encabezados\": [\"ITEM\", \"PARTIDA DESCRIPCION\", \"UNIDAD\", \"PRECIO UNITARIO (U.F.)\"], \"filas\": [[\"205\", \"MAYOR COSTO DIRECTO EN FORMACION Y COMPACTACION DE TERRAPLENES\", \"M3\", \"0,070\"], [\"241\", \"PILOTES IN SITU\", \"M\", \"22,110\"], [\"261\", \"ACERO EN BARRAS A63 - 42H\", \"KG\", \"0,056\"], [\"361\", \"ELEMENTOS DE APOYO, ANCLAJE Y BARBACANAS\", \"TR\", \"120,000\"], [\"351\", \"SUMINISTRO Y COLOCACION DE CANTONERAS\", \"M\", \"90,670\"]], \"notas\": \"PRECIOS UNITARIOS DE ITEM NUEVOS COMPLEMENTARIOS A LOS DEL ANEXO N° 3 DE LAS BASES DE LICITACION\"}]}"
+}

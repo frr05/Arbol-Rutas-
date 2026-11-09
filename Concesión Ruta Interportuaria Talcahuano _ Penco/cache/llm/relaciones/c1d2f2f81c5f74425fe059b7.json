@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 20:01",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.16.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "D : Corresponde a la longitud de la vía concesionada (en km) para el caso del sistema de cobro por Derecho de Paso, o bien a la longitud recorrida (en km) dentro de la vía concesionada para el caso del sistema de cobro por Uso efectivo.",
+    "debe_decir": "D : Para el caso del sistema de cobro por Uso Efectivo, corresponderá a la distancia recorrida, en km, entre los puntos de control de acceso (entrada y salida) a la(s) vía(s) concesionada(s). Para el caso del sistema de cobro por Derecho de Paso, corresponderá a las siguientes longitudes según par Origen-Destino:",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

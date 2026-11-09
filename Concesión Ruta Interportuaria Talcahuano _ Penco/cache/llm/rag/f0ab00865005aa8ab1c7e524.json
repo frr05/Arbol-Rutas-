@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:01",
+ "respuesta": {
+  "respuesta": "Existen dos montos para la garantía de explotación dependiendo del tipo y las opciones elegidas: 1) La Garantía de Explotación inicial, que tiene un valor total de UF 20.000 (veinte mil Unidades de Fomento), constituida por cuatro boletas de garantía bancarias [5]. 2) La Garantía de Explotación Adicional, que tiene un valor total de UF 15.000 (quince mil Unidades de Fomento) si el licitante no optó por la obra opcional de Prolongación Av. Alessandri, o de UF 20.000 (veinte mil Unidades de Fomento) si optó por dicha obra opcional [7]. Esta garantía adicional consiste en dos o más boletas de garantía bancarias de igual monto [3].",
+  "fuentes": [
+   3,
+   5,
+   7
+  ]
+ }
+}

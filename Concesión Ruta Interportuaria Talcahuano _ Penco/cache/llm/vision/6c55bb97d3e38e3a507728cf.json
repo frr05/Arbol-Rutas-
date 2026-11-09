@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 03:01",
+ "costo": 0.0007524,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla 1: Cuadro de Entrega de Terrenos\", \"encabezados\": [\"Terrenos\", \"Obra\", \"Plazo de Entrega\"], \"filas\": [[\"Sector sur entre Av. Colón y Canal el Morro\", \"Modificación de Trazado en el Acceso a Talcahuano\", \"Entregado en tiempo y forma\"], [\"Sector norte entre Canal El Morro y trazado actual de Ruta Troncal\", \"Modificación de Trazado en el Acceso a Talcahuano\", \"Entregado en tiempo y forma\"], [\"Lote 14-b y 15 de propiedad de VALMAR\", \"Empalme con la Av. Alessandri\", \"Entregado en tiempo y forma\"], [\"Lotes 7, 13 y 8 de la concesión Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\", \"Empalme con la Av. Alessandri\", \"15-11-2004\"]], \"notas\": null}]}"
+}

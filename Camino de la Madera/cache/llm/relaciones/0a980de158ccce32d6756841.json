@@ -1,0 +1,41 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:13",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [],
+    "texto_nuevo": [
+     393,
+     407
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "[P28]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": " iv) Las polizas deberán separar explícitamente los valores y coberturas de las obras viales propiamente tal y de los servicios complementarios asociados a la concesión del camino.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

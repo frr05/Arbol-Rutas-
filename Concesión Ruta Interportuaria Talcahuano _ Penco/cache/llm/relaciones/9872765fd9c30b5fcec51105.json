@@ -1,0 +1,23 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 18:16",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.11.9",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     591,
+     593
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

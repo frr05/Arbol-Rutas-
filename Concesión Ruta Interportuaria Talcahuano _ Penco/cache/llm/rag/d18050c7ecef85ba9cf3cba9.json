@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:56",
+ "respuesta": {
+  "respuesta": "El pago por administración y control varía según la etapa de la concesión. Durante el período desde la suscripción del decreto supremo de Adjudicación hasta la Puesta en Servicio Provisoria, el pago anual es de UF 3.800 (tres mil ochocientas Unidades de Fomento) [1], [8]. Desde la Puesta en Servicio Provisoria hasta la extinción de la concesión, el pago anual es de UF 2.400 (dos mil cuatrocientas Unidades de Fomento) [1]. Además, mediante el Convenio Complementario N°1, se establecieron Gastos Adicionales de Administración y Control por un monto de UF 12.138 para las obras adicionales y todo el plazo de concesión [2], [3].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   8
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D14",
+ "pagina": 5,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_185-2010.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 447,
+ "segundos": 26.3,
+ "fecha": "2026-10-28 02:54",
+ "motivos": "tabla_markdown",
+ "calidad_ocr": {
+  "n_palabras": 335,
+  "conf_media": 0.809,
+  "frac_baja": 0.248,
+  "frac_rara": 0.027,
+  "tinta": 0.0664
+ },
+ "n_palabras_vlm": 317,
+ "frac_rara_vlm": 0.017,
+ "similitud": 0.736,
+ "truncado": false,
+ "texto_ocr": "TOMADO |\npd CON ALCANCE\n\n| GOBIERNO DE\n\n| CHILE -—=\"[ZiéA-\n\nHINEIRIO DEORAS PÚBLICAS\n\n. MINISTERIO DE HACIENDA\nOFICINA DE PARTES\n1.5 ABR, 2010\n\nRECIBIDO :\n\n062705\n\nRef: Deja sin efecto Decreto Supremo que\nindica, y aprueba Convenio Ad -—\nReferéndum N? 1 del contrato de concesión\nde la obra pública fiscal denominada\n“Concesión internacional Ruta 5 Tramo\nTemuco - Río Bueno”.\n\n|\nCONTRALORIA GENERAL\nN\n\n. a E 7 Y\nTOMA DE e SANTIAGO, 1h a O\n\n| DE\n\nVISTOS:- El DFL MOP N? 850, de 1997, que fijó el texto\nrefundido, coordinado y sistematizado de la Ley\nN? 15.840, de 1964, Orgánica del Ministeno de\nObras Públicas y del DFL N* 206, de 1960, Ley\nde Caminos.\n\n- El Decreto Supremo MOP N* 900, de 1996,\nque fijó el texto refundido, coordinado y\nsistematizado del DFL MOP N? 164, de 1991,\nLey de Concesiones de Obras Públicas, en\nparticular su artículo 19%\n\npega\nAA)\ntio\nCc. Y\nBIENES NAC. [|\n: AUDITORIA 7]\nE\nMUNICIR. 3\n|\n|\n| REFRENDACION\n\nREF. POR $\n\n- El Decreto Supremo MOP N* 956; de 1997,\nReglamento de ía Ley de Concesiones, en\nespecial su artículo 69%,\n\nYA\n\n- El Decreto Supremo MOP N* 758, de fecha 14.\nde agosto de 1997, que adjudicó el contrato de\nconcesión para la ejecución, conservación: y\nexplotación de las obras públicas fistales\ncomprendidas entre los Km.-718,30 y 890,00 de\nla Ruta 5 Sur, denominadas “Concesión\nInternacional Ruta 5 Tramo Temuco — Río\nBueno”.\n\na\n\nIMPUTAC, Ñ e,\nNOT, P. $ . Qu\n> E PUTO. Tura a > El Decreto Supremo MOP N* 336, de fecha 26\nSÉ ¿ demayo de 2008,\n2 :\nES 3 :- El Oficio Ord. N” 266, de fecha 2 de febrero de\nS 2 ¿ 2010.\n\n- El Decreto Supremo MOP N*427, de fecha 5 de\nfebrero de 2010,-sin tramitar.\n\nOR\n\n4\nTI A O A RS AI A A A A A A A O A a o pg A A AR Pr",
+ "texto_vlm": "TOMADO RAZON\nCON ALCANCE\n\nGOBIERNO DE\nCHILE\nMINISTERIO DE OBRAS PÚBLICAS\nContralor General\nde la República\n062705\n\nRef.: Deja sin efecto Decreto Supremo que\nindica, y aprueba Convenio Ad -\nReferéndum N° 1 del contrato de concesión\nde la obra pública fiscal denominada\n\"Concesión Internacional Ruta 5 Tramo\nTemuco - Río Bueno\".\n\nMINISTERIO DE HACIENDA\nOFICINA DE PARTES\n15 ABR. 2010\nRECIBIDO\n\nCONTRALORIA GENERAL\nTOMA DE RAZON:\nSANTIAGO, 14 ABR 2010\nN° 185\n\nRECEPCION\nDEPART.\nJURIDICO-\nDEPART.\nY REGISTRO\nSUBSECRETARIA DE OC. PP.\nOFICINA DE PARTES\nDEPART.\nCONTABIL\nSUB. DEP.\nC. CENTRAL\nSUB. DEP.\nE. CUENTAS\nSUB. DEP.\nC. P. Y\nBIENES NAC.\nDEPART.\nAUDITORIA\nDEPART.\nV. O. P., U Y T.\nSUB. DEP.\nMUNICIP.\nREFRENDA CION\nREF. POR $\nIMPUTAC.\nANOT. POR $\nIMPUTAC.\nDEDUC DTO.\n\nVISTOS:- El DFL MOP N° 850, de 1997, que fijó el texto\nrefundido, coordinado y sistematizado de la Ley\nN° 15.840, de 1964, Orgánica del Ministerio de\nObras Públicas y del DFL N° 206, de 1960, Ley\nde Caminos.\n\n- El Decreto Supremo MOP N° 900, de 1996,\nque fijó el texto refundido, coordinado y\nsistematizado del DFL MOP N° 164, de 1991,\nLey de Concesiones de Obras Públicas, en\nparticular su artículo 19°\n\n- El Decreto Supremo MOP N° 956, de 1997,\nReglamento de la Ley de Concesiones, en\nespecial su artículo 69°.\n\n- El Decreto Supremo MOP N° 758, de fecha 14\nde agosto de 1997, que adjudicó el contrato de\nconcesión para la ejecución, conservación y\nexplotación de las obras públicas fiscales\ncomprendidas entre los Km. 718,30 y 890,00 de\nla Ruta 5 Sur, denominadas \"Concesión\ninternacional Ruta 5 Tramo Temuco - Río\nBueno\".\n\n- El Decreto Supremo MOP N° 336, de fecha 26\nde mayo de 2008.\n\n- El Oficio Ord. N° 266, de fecha 2 de febrero de\n2010.\n\n- El Decreto Supremo MOP N° 127, de fecha 5 de\nfebrero de 2010, sin tramitar."
+}

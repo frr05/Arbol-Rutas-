@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:13",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria dispondrá de un plazo máximo de seis (6) meses, contados desde la Publicación en el Diario Oficial del Decreto Supremo de Adjudicación de la Concesión, para presentar los Proyectos de Ingeniería de Detalle [2]. Además, deberá presentar con al menos 8 meses de anticipación a la Puesta en Servicio Provisoria de la Obra, un proyecto de ingeniería de detalle de las plazas de peaje y otros puntos de cobro [1].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

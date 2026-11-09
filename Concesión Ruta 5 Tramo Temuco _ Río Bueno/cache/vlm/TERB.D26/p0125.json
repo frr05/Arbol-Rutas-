@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 125,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 105,
+ "segundos": 6.5,
+ "fecha": "2026-10-27 12:24",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 45,
+  "conf_media": 0.678,
+  "frac_baja": 0.333,
+  "frac_rara": 0.0,
+  "tinta": 0.0186
+ },
+ "n_palabras_vlm": 73,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.37,
+ "truncado": false,
+ "texto_ocr": "mua RUTA MANUAL DE SEGURIDAD VIAL Y\nmu Na DE LOs RÍOS PROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\na\n\nTrabajos Ocupando una Pista |\n| _——€n cada Sentido ___ he ha\n\n5) Linea de Welccidas un Trios\n(5%) Liria de Velada con Tresazos\n\n37",
+ "texto_vlm": "MANUAL DE SEGURIDAD VIAL Y\nPROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\nTrabajos Ocupando una Pista\nen cada Sentido 8.5.3\n\n650 MT\n70\n300 MT\n650 MT\n155 MT\n50 MT\n45°\nÁrea\nde\nTrabajos\n120\nFin Restricción\nAdelantamiento\n120\nFin Restricción\nAdelantamiento\n50 MT\n155 MT\n650 MT\n300 MT\n70\n650 MT\n120\nElementos de canalización\nAlternativas de canalización.\nXX Límite de Velocidad sin Trabajos\nVV Límite de Velocidad con Trabajos"
+}

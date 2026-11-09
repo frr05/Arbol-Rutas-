@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:22",
+ "respuesta": {
+  "respuesta": "El sistema de cobro de peajes corresponde al equivalente al uso efectivo de la vía, con cobro a la salida a los usuarios [8]. Este sistema implica un control total de accesos para cobrar según la distancia recorrida [2]. La tecnología para el cobro bajo este sistema debe ser Control de Accesos Manual [2]. Además, es obligatorio detectar las entradas a la vía concesionada para cobrar a las salidas en función de la distancia recorrida [2].",
+  "fuentes": [
+   2,
+   8
+  ]
+ }
+}

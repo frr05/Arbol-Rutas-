@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "La información proporcionada no contiene datos sobre el umbral del Índice de Servicio Prestado (ISP) ni sus tramos. Los fragmentos entregados se refieren a la oferta económica, subsidios, plazos de concesión, fórmulas de ajuste tarifario y mediciones de IRI, pero no mencionan el ISP.",
+  "fuentes": []
+ }
+}

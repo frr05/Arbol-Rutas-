@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "se descontará del monto indicado en la Tabla N%1 anterior para el concepto N*1, la cantidad única y total de UF 3.048,60 (Tres Mil Cuarenta y Ocho Coma Sesenta Unidades de Fomento), neta de IVA. Asimismo, no se reconocerá los montos indicados en la Tabla N*1 anterior para los conceptos N*3 y ii) En el caso que la Sociedad Concesionaria quede liberada de la obligación de ejecutar la obra denominada “Obras de Seguridad Normativa con proyecto aprobado”, de conformidad a lo señalado en el numeral 6.7.3 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, se descontará del monto indicado en la Tabla N*1 anterior para el concepto N?2, la cantidad iii) iv) y) vi) única y total de UF 5.370,40 (Cinco Mil Trescientas Setenta Coma Cuarenta Unidades de Fomento), neta de IVA.",
+    "debe_decir": "será contabilizado según los porcentajes señalados en la Tabla N* 7 siguiente:\nTabla N* 7: Porcentajes de contabilización PID\nPID OSN con proyecto que requiere actualización\nFASE DESCRIPCIÓN\n4,39%\nAnteproyecto 4,39%\nEstudio de Ingeniería de Detalles, Análisis 13.18%\nAmbiental y Territorial y Presentación a mar\nMinisterio de Desarrollo Social\nProyecto Expropiaciones 2,93%\n5 Informe Final de Estudio Definitivo 4,39%\nPID Obras Normativas\nFASE DESCRIPCIÓN % a contabilizar\n1,58%\n1 Ingeniería Básica\n2 Anteproyecto 1,58%\nEstudio de Ingeniería de Detalles, Análisis\nAmbiental y Territorial y Presentación a 4,75%\n3 Ministerio de Desarrollo Social\nr 4 Proyecto Expropiaciones 1,06%\n5 Informe Final de Estudio Definitivo 1,58%\nPID Obras de Servicialidad\nFASE DESCRIPCIÓN % a contabilizar\n1 Ingeniería Básica 9,02%\n2 Anteproyecto 9,02%\nEstudio de Ingeniería de Detalles, Análisis\nAmbiental y Territorial y Presentación a 27,09%\n3 1 Ministerio de Desarrollo Social\n4 Proyecto Expropiaciones 6,02%\n5 Informe Final de Estudio Definitivo 9,02%\nPara tal efecto, una vez aprobada cada una de las fases señaladas en la Tabla N* 7\nprecedente, se contabilizará, el último día del mes en que se apruebe dicha fase, el monto\nque resulte de multiplicar el respectivo porcentaje señalado en la Tabla N* 7 para dicha fase,\npor el valor total y definitivo que resulte del proceso de licitación privada que se señala en el\nN? 3 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio\nOrd. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el\npresente Convenio. Lo anterior, con dos decimales, redondeados al segundo decimal, y\nefectuando el ajuste que corresponda en la última cuota a contabilizar.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "i) En el caso que la Sociedad Concesionaria quede liberada de la obligación de desarrollar los proyectos denominados “PID OSN con proyecto que requiere actualización”, “PID Obras Normativas” y “PID Obras de Servicialidad”, de conformidad a lo señalado en el numeral 3.7.3 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018,",
+    "debe_decir": "4.1.2.1 Las partes acuerdan que el monto correspondiente al costo por el desarrollo de los “PID\nOSN con proyecto que requiere actualización”, “PID Obras Normativas” y “PID Obras de\nServicialidad”, señalado en el numeral 2.1 del presente Convenio,",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre el Índice de Servicio Prestado (ISP) ni sus tramos. Los documentos mencionan exclusivamente el Índice de Rugosidad Superficial (IRI), estableciendo un máximo de 3,5 m/km para la explotación [1], [4], [6], [8] y un límite de 2 m/km para la recepción provisoria [7], [10], pero no definen el ISP.",
+  "fuentes": []
+ }
+}

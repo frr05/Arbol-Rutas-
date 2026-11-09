@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 185,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 236,
+ "segundos": 23.5,
+ "fecha": "2026-11-05 00:43",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 162,
+  "conf_media": 0.875,
+  "frac_baja": 0.198,
+  "frac_rara": 0.021,
+  "tinta": 0.0304
+ },
+ "n_palabras_vlm": 155,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.816,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nREPUBLICA DE CHILE\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nPOR ISLA ROCUANT\n\nANEXO N*2: FORMULARIO N*1\n\nRef.: artículo 1.5.5, Letra A, Documento N*L.\n\nIDENTIFICACION DEL LICITANTE / GRUPO LICITANTE\n\nNOMBRE\nDOMICILIO:\nFONO\n\nFAX\n\n(En caso de tratarse de un Grupo Licitante, se deberá consignar un único Domicilio, Fono y Fax).\nMarque con una cruz (X) donde corresponda: LICITANTE M\nGRUPO LICITANTE O\n\nNombre o Razón Social\n\nIntegrante del Licitante / Grupo Licitante\n\nD|N+ie\n\n10\n\nFirma del Representante ante el MOP *\n\nNombre\nRUT\nIERNEC\nAN 2 ¿S\nID == II A - 2-2 > aaa A\nÍ vDe acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento N93 de las Bases de Licitación. ¿S\nY O\nE\niZ\nE La\n\nví y Ni\n\na,\nÑ\n\nA\ná\nÑ Si\n\nMUMISTERIO DE OBRAS PUBLICAS — COORDINACION GENERAL DE CONCESIONES",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nPOR ISLA ROCUANT\n\nANEXO N°2: FORMULARIO N°1\nRef.: articulo 1.5.5, Letra A, Documento N°1.\n\nIDENTIFICACION DEL LICITANTE / GRUPO LICITANTE\n\nNOMBRE : \nDOMICILIO: \nFONO : \nFAX : \n(En caso de tratarse de un Grupo Licitante, se deberá consignar un único Domicilio, Fono y Fax).\nMarque con una cruz (X) donde corresponda: LICITANTE\nGRUPO LICITANTE\n\n| Nombre o Razón Social | RUT |\n| --- | --- |\n| Integrante del Licitante / Grupo Licitante |  |\n\n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \n\nFirma del Representante ante el MOP (*)\nNombre : \nRUT : \n\nDe acuerdo a lo establecido en el articulo 1.5.5 letra A) Documento N°3 de las Bases de Licitación.\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+}

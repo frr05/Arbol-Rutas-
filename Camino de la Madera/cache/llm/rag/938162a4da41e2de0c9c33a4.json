@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 14:13",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan según el Índice de Precios al Consumidor (IPC) [3][6][7]. A partir del año 2005, el reajuste se aplica semestralmente a partir de las 00:00 horas del 1 de enero y 1 de julio de cada año [6]. Para el reajuste de enero se utiliza el IPC del mes de noviembre del año anterior, y para el reajuste de julio se utiliza el IPC del mes de mayo del mismo año [1][2][3]. El licitante puede proponer en su oferta reajuste según IPC cada 6 meses (Opción 1) o cada 12 meses (Opción 2) [7][9], pero cualquiera sea la opción, las tarifas también se reajustan cada vez que la inflación acumulada desde el último reajuste supere el 15% [7].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   6,
+   7,
+   9
+  ]
+ }
+}

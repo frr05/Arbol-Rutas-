@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 1,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 62,
+ "segundos": 8.6,
+ "fecha": "2026-10-27 19:03",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 23,
+  "conf_media": 0.801,
+  "frac_baja": 0.304,
+  "frac_rara": 0.091,
+  "tinta": 0.1431
+ },
+ "n_palabras_vlm": 35,
+ "frac_rara_vlm": 0.037,
+ "similitud": 0.321,
+ "truncado": false,
+ "texto_ocr": "MINISTERIOS DE OBRAS PUBLICAS,\n\nGOBIERNO DE CHILE\nTRANSPORTES Y TELECOMUNICACIONES\n\nenco.\n\nP\n\n>\n\nla Talcahu\n\n3\n\nterportuar\n\nL BIO-BIO:\n\nDE\n\n0)\n\n|\ni",
+ "texto_vlm": "GOBIERNO DE CHILE\nMINISTERIOS DE OBRAS PUBLICAS,\nTRANSPORTES Y TELECOMUNICACIONES\n\nBASES DE LICITACION\n\nRuta Interportuaria Talcahuano - Penco\npor Isla Rocuant\n\nOCTAVA REGIÓN DEL BIO-BIO\n\nAgosto 2001\nSANTIAGO - CHILE\n\nSiga\nel Futuro\nCONCESIONES HORTI"
+}

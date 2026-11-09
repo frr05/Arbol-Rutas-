@@ -1,0 +1,117 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     957,
+     963
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.5"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     964,
+     969
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.6"
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     977,
+     981
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     982,
+     986
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     990,
+     994
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     995,
+     1001
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     1002,
+     1008
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     1009,
+     1009
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

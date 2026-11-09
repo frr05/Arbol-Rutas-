@@ -1,0 +1,78 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 18:58",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "9.",
+    "debe_decir": "9, Mejoramiento y complementación del Enlace Penco para dar conexión a la Ruta Interportuaria con la vialidad existente, lo que involucra, en general, las siguientes obras;",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P14"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La construcción de los lazos Penco-Autopista Itata, Talcahuano—Penco y Concepción-Talcahuano;",
+    "debe_decir": "e Construcción de los lazos Penco-Autopista lata, Talcahuano-Penco y Concepción— Talcahuano;",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P15"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La construcción de los ramales directos Talcahuano-Concepción y Penco—Talcahuano; y",
+    "debe_decir": "o Construcción del ramal Talcahuano-Concepción, conforme a lo dispuesto en el artículo 1.9.5 de las presentes Bases;",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La modificación del lazo Autopista Itata-Concepción y del ramal Penco-Autopista Itata.",
+    "debe_decir": "Ml e Mejoramiento lazo Autopista Hata-Concepción existente; y",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Ml e Mejoramiento lazo Autopista Hata-Concepción existente; y",
+    "debe_decir": "e Adecuación del ramal Penco-Autopista Itata existente a ramal Penco — Talcahuano proyectado.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P17"
+    ],
+    "texto_nuevo": [
+     1530,
+     1531
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

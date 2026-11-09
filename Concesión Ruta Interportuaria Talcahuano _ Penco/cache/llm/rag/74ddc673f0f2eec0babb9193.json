@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "No es posible determinar cuántas y cuáles empresas o grupos licitantes presentaron oferta con base en los fragmentos entregados. El fragmento [3] indica que se levantará un Acta de apertura donde se dejará constancia de quiénes presentaron las ofertas, pero el contenido del acta no se incluye en los textos proporcionados. Únicamente el fragmento [10] identifica a un licitante específico (CONSORCIO AUTOPISTA INTERPORTUARIA) como parte del Formulario Propuesta Económica, pero no especifica si fue el único oferente ni lista a los demás.",
+  "fuentes": [
+   3,
+   10
+  ]
+ }
+}

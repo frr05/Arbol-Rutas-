@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D12",
+ "pagina": 35,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_524-2005-y-Convenio-Complementario.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 193,
+ "segundos": 22.9,
+ "fecha": "2026-10-27 12:12",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 128,
+  "conf_media": 0.755,
+  "frac_baja": 0.352,
+  "frac_rara": 0.088,
+  "tinta": 0.0317
+ },
+ "n_palabras_vlm": 136,
+ "frac_rara_vlm": 0.042,
+ "similitud": 0.783,
+ "truncado": false,
+ "texto_ocr": "Ruta 5 Tramo Temuco - Río Bueno -\nConvenio Complementario N* 3\n\nÁnexo N* 1 Item 1 a)\n\nConstrucción: Obras Menores Priorizadas\n\nN OBRA y Monto.\n| | o (U.F.)\nPasarela Metálica Pon Pon | 3.180 |\n2 [Pasarela Metálica Paradero Cancino o 3.180.\n| 3 [Pasarela Metálica Cruce Rofuco ] _ 3.180\n\n4 [Vallas Camineras (Señalización) _\n| 5 |Señalética aumento de Velocidad\nMEM Proyecto Obras de Emergencias Lanco o\n7 |JObras de Emergencia lanco o | 12.558 |\n[Ingeniería Básica Atraviesos UN o A] 9.500\n| 9 |Cuello Los Lagos\n10 [Proyecto Pasarela Pon-Pon A\n\nCerramiento metálico pasarelas provisorias\n\nLo)\ndo\n\nwin\nmeda\no\n\ny\n10)\nle\n\n—\nO)\nN\n\nTotal 33.815\n\nrd\n\nCARLOS OSORIO SILVA\nInspector Hiscal Explotación\nTemuco-Rio Bueno\n\nDEPTO. DE\n\nCONCESIONES [0]\n\n—",
+ "texto_vlm": "Ruta 5 Tramo Temuco - Río Bueno -\nConvenio Complementario N° 3\n\nAnexo N° 1 Item 1 a)\n\nConstrucción: Obras Menores Priorizadas\n\nN | OBRA | Monto\n| | (U.F.)\n1 | Pasarela Metálica Pon Pon | 3.180\n2 | Pasarela Metálica Paradero Cancino | 3.180\n3 | Pasarela Metálica Cruce Rofuco | 3.180\n4 | Vallas Camineras (Señalización) | 361\n5 | Señalética aumento de Velocidad | 310\n6 | Proyecto Obras de Emergencias Lanco | 733\n7 | Obras de Emergencia Lanco | 12.558\n8 | Ingeniería Básica Atravesos | 9.500\n9 | Cuello Los Lagos | 162\n10 | Proyecto Pasarela Pon-Pon | 346\n11 | Cerramiento metálico pasarelas provisorias | 305\n\nTotal 33.815\n\nCARLOS OSORIO SILVA\nInspector Fiscal Explotación\nTemuco-Río Bueno\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES"
+}

@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:27",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 41,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia al indicar que no existe dicha información."
+   },
+   {
+    "n": 42,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el dato principal del porcentaje y la base de cálculo."
+   },
+   {
+    "n": 43,
+    "veredicto": "parcial",
+    "motivo": "Acierta en los montos originales pero agrega información sobre modificaciones posteriores no solicitada explícitamente como dato principal único."
+   },
+   {
+    "n": 44,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente los dos tipos de seguros requeridos."
+   },
+   {
+    "n": 45,
+    "veredicto": "parcial",
+    "motivo": "Identifica a las autoridades correctas pero omite la mención específica a la Comisión Conciliadora en el proceso de pronunciamiento detallado en la referencia."
+   },
+   {
+    "n": 46,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce exactamente el monto y la periodicidad de la multa."
+   },
+   {
+    "n": 47,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica el monto correcto de 100 UTM diarias."
+   },
+   {
+    "n": 48,
+    "veredicto": "incorrecta",
+    "motivo": "El conteo es erróneo (afirma 4 cuando son 6) y omite documentos clave mencionados en la referencia."
+   },
+   {
+    "n": 49,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente los dos convenios principales mencionados en la referencia."
+   },
+   {
+    "n": 50,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el año 2012 como la última modificación."
+   }
+  ]
+ }
+}

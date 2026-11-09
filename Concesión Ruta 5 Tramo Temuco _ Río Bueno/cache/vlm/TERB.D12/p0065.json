@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D12",
+ "pagina": 65,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_524-2005-y-Convenio-Complementario.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 624,
+ "segundos": 51.6,
+ "fecha": "2026-10-27 12:20",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 405,
+  "conf_media": 0.467,
+  "frac_baja": 0.605,
+  "frac_rara": 0.016,
+  "tinta": 0.0467
+ },
+ "n_palabras_vlm": 570,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.303,
+ "truncado": false,
+ "texto_ocr": "RUTA 5 TRAMO TEMUCO - RÍO BUENO\nCONVENIO COMPLEMENTARIO N* 3 |\n\nANEXO N' 6 - item 6.2 Cálculo de Cuota de Ajuste\n\ne oso[.____ oso ___ oo) 0001 po 000 000\" 000 00 [| 1sos9z | 2828673 | 000 | |\npicos | 000000) 000] 00 000 00 oÓÓj ——og0oj____opoj ooo | i«o3s1 [ 2seso0ss [ooo [| 2969054 |\n[_Ene-09| 0,00 900] 000] o 000) Og0j 000) 000) \"oso ooo | 141178 | 2510228 [| ooo | 25110229 |\nNTrepo9 000. 000] evo] os oo] apo) oso) \"090 _oooj oo | tama | as2s202z | ooo [| 2525202 |\nMaro9] 000] oa] 000. o00) 00 oso ___osop —op0oj_——ovo0[ —ovo | \"1427.78 | 25994078 | -12500000 | 12894978 |\nAbro9[ osoo| ojo] oso \"—____oo0of ___oo_ oso[_____ 000 00] \"oso 009 [| 72908] 42067888 [| C00__ | 12967886\nMay-09, ooo] oso] ooo] oso \"oso ____ ooo] 000 9v0f \"000000 | 3320 | 1304108 [ 000 [13041206 |\nJun-o9| 000] oso] oso] ooo _____o.ool ago[ — os0 oso] oso ooo [varas | 1sti941r ]_ 000 | 13t1a041 |\nJut-09 A A A o A O a o O\nAgo-09| oo osv0o| 000] 0,00 000) oso) oso) os ooo] 000 | __zas7i [| 13263664 | ___o0o [| 19263664 |\nSep-09 0.0] 000] po ooo ooo) oso] _____ogo oso) 000 __1 ages | 13338657 1 ___o00 [| 13338657 |\nQcro9] 000) oo] oso \"ojo oc ooo) oo] _______osoj ooo] os0___| sar | 136tó07a ] 000 | _ 13919074 |]\nNow09] 0000 OO 000] 000] 00] oyo] os0j 000 [ vseas | wósog17 [ooo [| 1ó4eoo17 1]\nDie99| 000 oso oso] ____oo0 oo) ooo] ____oso0) apo 000] _ov0 |\" e2z2 | 13566189 [000 [ 135661809 |\nEne-10] ooo) ooo] oso ooo] _____osgof oso _____osol_ 00 00] oo \"| 7e7o3 | 13642892 | oo | 13642892 |\nFebátol TOO 0] eva a00] oo 00 ooo ooo] oso \"ooo | vem3r_ | 13720028 [__ 000 j 13720029 |\n\npo | 33.815,00 | 293.500,00 | 69.703,00 | ooo | 73.947,00 15.000,00 | 14.700,00 2.057,00 | 44.970,00 | 547.692,09 48.664,70 O A\n\nTasa real mensual: 0,56540%\n\nPara el ejemplo presentado, las obras del Convenio se terminan en mayo de 2006, por tanto en junio del mismo año se efectúa el cálculo de la cuota de ajuste,\n\nEn virtud de las inversiones y pagos ejemplificados en el presente Ítem 6.2, en marzo de 2010 correspondería que el MOP pague una cuota de ajuste del 137.976.02",
+ "texto_vlm": "RUTA 5 TRAMO TEMUCO - RÍO BUENO\nCONVENIO COMPLEMENTARIO N° 3\nANEXO N° 6 - Item 6.2 Cálculo de Cuota de Ajuste\n\n| Nov-08 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 1.395,92 | 248.286,73 | 0,00 | 248.286,73 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Dic-08 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 1.403,81 | 249.690,54 | 0,00 | 249.690,54 |\n| Ene-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 1.411,75 | 251.102,29 | 0,00 | 251.102,29 |\n| Feb-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 1.419,73 | 252.522,02 | 0,00 | 252.522,02 |\n| Mar-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 1.427,76 | 253.949,78 | -125.000,00 | 128.949,78 |\n| Abr-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 729,08 | 129.678,86 | 0,00 | 129.678,86 |\n| May-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 733,20 | 130.412,06 | 0,00 | 130.412,06 |\n| Jun-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 737,35 | 131.149,41 | 0,00 | 131.149,41 |\n| Jul-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 741,52 | 131.890,93 | 0,00 | 131.890,93 |\n| Ago-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 745,71 | 132.636,64 | 0,00 | 132.636,64 |\n| Sep-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 749,93 | 133.386,57 | 0,00 | 133.386,57 |\n| Oct-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 754,17 | 134.140,74 | 0,00 | 134.140,74 |\n| Nov-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 758,43 | 134.899,17 | 0,00 | 134.899,17 |\n| Dic-09 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 762,72 | 135.661,89 | 0,00 | 135.661,89 |\n| Ene-10 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 767,03 | 136.428,92 | 0,00 | 136.428,92 |\n| Feb-10 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 771,37 | 137.200,29 | 0,00 | 137.200,29 |\n| Mar-10 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 775,73 | 137.976,02 | -137.976,02 | 0,00 |\n\n| 33.815,00 | 293.500,00 | 69.703,00 | 0,00 | 73.947,00 | 15.000,00 | 14.700,00 | 2.057,00 | 44.970,00 | 547.692,00 | 48.664,70 |  |\n\nTasa real mensual: 0,56540%\n\nPara el ejemplo presentado, las obras del Convenio se terminan en mayo de 2006, por tanto en junio del mismo año se efectúa el cálculo de la cuota de ajuste,\n\nEn virtud de las inversiones y pagos ejemplificados en el presente ítem 6.2, en marzo de 2010 correspondería que el MOP pague una cuota de ajuste de 137.976,02\n\nMINISTERIO\nDIRECCION\nDE OBRAS\nPÚBLICAS\nDE CONCESIONES\nDEPTO DE\nGENERAL\n00\n00"
+}

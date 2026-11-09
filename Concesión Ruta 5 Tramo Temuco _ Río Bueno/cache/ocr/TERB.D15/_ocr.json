@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D15",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_329-2011.pdf",
+ "sha256": "7e558a27958b56caeb62358c3e27f986d57a5d9a07c4028df70db0d84a7657d4",
+ "paginas": 7,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:06"
+}

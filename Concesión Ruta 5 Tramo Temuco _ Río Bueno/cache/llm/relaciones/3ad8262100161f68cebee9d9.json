@@ -1,0 +1,66 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:10",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.1.8.6",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En la Tabla 2.10 se indican las zonas en que obligatoriamente se deben instalar los cierros, no obstante la Sociedad Concesionaria puede aumentar el número de zonas, si lo estima pertinente:",
+    "debe_decir": "En la Tabla 2.10 se indican algunas de las zonas en que se deben instalar los cierros. No obstante, la Sociedad Concesionaria, deberá instalar Cierros Perimetrales adicionales en todos los sectores que, para satisfacer alguna de las características indicadas en el párrafo precedente, sean requeridos por el Inspector Fiscal. En todo caso, los cierros perimetrales exigidos por el Inspector Fiscal, adicionales al total de los señalados en la Tabla 2.10, no podrán ser superiores a 2.100 m.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.6",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P14",
+     "P15",
+     "P16",
+     "P17",
+     "P18",
+     "P19",
+     "P20",
+     "P21",
+     "P22",
+     "P23",
+     "P24",
+     "P25",
+     "P26",
+     "P27",
+     "P28",
+     "P29",
+     "P30",
+     "P31"
+    ],
+    "texto_nuevo": [
+     1199,
+     1333
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.6",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P32",
+     "P33"
+    ],
+    "texto_nuevo": [
+     1335,
+     1339
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

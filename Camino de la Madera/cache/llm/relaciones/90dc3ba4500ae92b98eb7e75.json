@@ -1,0 +1,54 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 05:19",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "reemplaza_texto",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": "UF 0,96 para camiones y buses de mas de 2 ejes",
+    "debe_decir": "UF 0,096 para camiones y buses de mas de 2 ejes",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "reemplaza_texto",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": "Los valores monetarios señalados en los documentos que forman parte de la Oferta Técnica y Económica deberan venir expresados en Unidades de Fomento",
+    "debe_decir": "Los valores monetarios señalados en los documentos que forman parte de la Oferta Técnica y Económica, a excepción de la Tarifa máxima que proponga el Licitante (la cuál deberá venir de acuerdo a lo expresado en el capítulo 111,1.1), deberan venir expresados en Unidades de Fomento",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "reemplaza_texto",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": "Apertura el dia 7 de Marzo de 1994",
+    "debe_decir": "Apertura el dia 22 de Marzo de 1994",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "reemplaza_texto",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": "La apertura de la oferta económica se realizará el día 07 de Abril de 1994",
+    "debe_decir": "La apertura de la oferta económica se realizará el día 21 de Abril de 1994",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

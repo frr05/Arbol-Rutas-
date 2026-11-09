@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "Los valores monetarios de la Oferta Técnica y Económica, a excepción de la tarifa, deberán expresarse en Unidades de Fomento (UF) [1]. La tarifa deberá expresarse en pesos al 31 de Diciembre de 2000 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

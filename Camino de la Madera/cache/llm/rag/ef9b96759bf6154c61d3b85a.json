@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:02",
+ "respuesta": {
+  "respuesta": "La infraestructura es vial interurbana, ya que las bases de licitación establecen la construcción de un by-pass para evitar pasar por la zona urbana de Santa Juana [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

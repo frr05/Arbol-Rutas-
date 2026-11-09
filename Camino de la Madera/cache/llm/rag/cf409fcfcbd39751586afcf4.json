@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan según el IPC (Índice de Precios al Consumidor) cada seis meses o cada doce meses, dependiendo de la opción elegida por el licitante en su oferta [7]. En la práctica, según el Convenio complementario N°1, el reajuste se aplica semestralmente a partir de 2005, utilizando el IPC para los ajustes en enero y julio de cada año [1][9][10].",
+  "fuentes": [
+   1,
+   7,
+   9,
+   10
+  ]
+ }
+}

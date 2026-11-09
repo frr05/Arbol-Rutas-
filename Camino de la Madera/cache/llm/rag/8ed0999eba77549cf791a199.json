@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "Las tarifas máximas se expresan en moneda nacional (pesos chilenos) y están valoradas en moneda al 31 de marzo de 1993 [1][2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

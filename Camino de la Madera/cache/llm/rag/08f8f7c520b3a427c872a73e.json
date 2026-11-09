@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:20",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es variable. Esto se establece en el Convenio complementario N°1, que modifica las normas del contrato para establecer un \"mecanismo de plazo variable de concesión\" [4]. Además, este convenio define una \"fecha estimada de extinción de la concesión\" y menciona que el último año de concesión es aquel vigente previo a la modificación establecida por dicho convenio [4].",
+  "fuentes": [
+   4
+  ]
+ }
+}

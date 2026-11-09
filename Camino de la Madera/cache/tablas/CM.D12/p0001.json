@@ -1,0 +1,89 @@
+{
+ "documento": "CM.D12",
+ "pagina": 1,
+ "modelo": "google/gemini-2.5-flash-lite",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:52",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "DEPART. JURIDICO",
+    "",
+    "",
+    ""
+   ],
+   "filas": [
+    [
+     "DEPART. JURIDICO",
+     "",
+     "",
+     ""
+    ],
+    [
+     "DEPT. T. R. Y REGISTRO",
+     "",
+     "",
+     ""
+    ],
+    [
+     "DEPART. CONTABIL.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. C. CENTRAL",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. E. CUENTAS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEPTO. BIENES NAC.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "DEPART. AUDITORIA",
+     "IFH",
+     "06 DIC. 2012",
+     ""
+    ],
+    [
+     "SUB. DEPTO. MUNICIP.",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "REF. POR $",
+    "IMPUTAC.",
+    "ANOT. POR $",
+    "IMPUTAC.",
+    "DEDUC.DTO."
+   ],
+   "filas": [
+    [
+     "REF. POR $",
+     "IMPUTAC.",
+     "ANOT. POR $",
+     "IMPUTAC.",
+     "DEDUC.DTO."
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

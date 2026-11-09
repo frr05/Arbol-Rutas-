@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "La longitud del proyecto es de 10,9 km aproximadamente [7][10].",
+  "fuentes": [
+   7,
+   10
+  ]
+ }
+}

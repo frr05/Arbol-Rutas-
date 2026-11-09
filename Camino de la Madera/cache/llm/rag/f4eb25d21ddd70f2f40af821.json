@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:13",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante niveles de servicio. Los indicadores de estado que se auscultan para medir el servicio incluyen el IRI (medido con perfilómetro óptico o Mays Meter), el agrietamiento, desprendimiento de áridos y baches abiertos (mediante inspección visual), la resistencia al resbalamiento (con Mu-Meter) y el ahuellamiento (con perfilógrafo transversal) [1]. Además, se establecen umbrales específicos de deterioro, como un agrietamiento menor al 15% y un IRI menor a 4.0 m/km [10]. El incumplimiento reiterado de los niveles mínimos de servicio establecidos en las Bases Técnicas y el Reglamento de Servicio se considera un incumplimiento grave del contrato [7].",
+  "fuentes": [
+   1,
+   7,
+   10
+  ]
+ }
+}

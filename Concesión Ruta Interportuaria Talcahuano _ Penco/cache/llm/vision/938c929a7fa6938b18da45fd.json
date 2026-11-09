@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 02:58",
+ "costo": 0.0007101,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N° 2: Infracciones y Multas a la Sociedad Concesionaria.\", \"encabezados\": [\"Artículo Bases de Licitación\", \"Monto Multa (UTM)\", \"Tipo de Infracción\", \"Criterio de Aplicación\", \"Otros\"], \"filas\": [[\"1.7.2\", \"1.000\", \"Imputar costos del contrato de concesión u otros señalados en dicho artículo, a la contabilidad de la Sociedad Concesionaria.\", \"Cada vez.\", \"\"], [\"\", \"\", \"\", \"\", \"\"]], \"notas\": \"\"}]}"
+}

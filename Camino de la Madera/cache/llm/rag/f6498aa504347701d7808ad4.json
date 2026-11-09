@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:28",
+ "respuesta": {
+  "respuesta": "Se firmó un convenio complementario (Convenio Complementario N°1) [1][2] y se menciona un Convenio Ad-Referéndum N°1 que fue aprobado pero devuelto sin tramitar [5].",
+  "fuentes": [
+   1,
+   2,
+   5
+  ]
+ }
+}

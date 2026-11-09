@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:33",
+ "respuesta": {
+  "respuesta": "La concesión se ubica en la Octava Región del Bío-Bío [4].",
+  "fuentes": [
+   4
+  ]
+ }
+}

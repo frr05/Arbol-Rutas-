@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato mencionada en los fragmentos es el Convenio Ad-Referéndum Nº 1, de fecha 22 de mayo de 2023, aprobado mediante Decreto supremo N°136 publicado el 25 de julio de 2023 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

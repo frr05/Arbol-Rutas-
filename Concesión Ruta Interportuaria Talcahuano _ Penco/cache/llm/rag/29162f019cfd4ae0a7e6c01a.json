@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:01",
+ "respuesta": {
+  "respuesta": "El reajuste de las tarifas se basa principalmente en la variación del Índice de Precios al Consumidor (IPC) publicado por el Instituto Nacional de Estadísticas (INE), el cual es el índice relevante para la reajustabilidad de costos [1]. El valor de las tarifas se reajusta a partir del día 10 de enero de cada año de explotación, considerando entre otros factores la variación del IPC [2]. La fórmula de ajuste tarifario incluye el IPC como un factor clave para calcular la tarifa reajustada anual [5]. En caso de que el indicador IPC deje de existir como índice relevante, se aplicará el mecanismo que lo reemplace [3]. Además, existe un reajuste extraordinario que se aplica cuando se comprueba una inflación acumulada igual o superior al 15% desde la última revisión tarifaria, ajustando la tarifa en un valor igual a dicha inflación acumulada [7].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   5,
+   7
+  ]
+ }
+}

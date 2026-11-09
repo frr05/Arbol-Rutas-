@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "El Inspector Fiscal del Ministerio de Obras Públicas (MOP) es quien fiscaliza el contrato de concesión, a través de la Inspección Técnica de la Explotación de la Obra (I.T.E.O.), la cual administra el contrato por parte del MOP y controla el cumplimiento de las normas técnicas, el plan de trabajo, el Reglamento de servicio, el cobro de tarifas y otras condiciones [3], [6].",
+  "fuentes": [
+   3,
+   6
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "Se publicó una Puesta en Servicio Provisoria, la cual es la Puesta en servicio N°1570 (2005-05-27) [3]. La ficha de actos indica que hay 2 puestas en servicio en total, pero especifica que la segunda es una Puesta en Servicio Definitiva (Puesta en servicio N°4067), por lo que solo una es provisoria [10].",
+  "fuentes": [
+   1,
+   3,
+   10
+  ]
+ }
+}

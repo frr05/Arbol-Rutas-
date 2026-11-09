@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:22",
+ "respuesta": {
+  "respuesta": "Las tarifas máximas se expresan en pesos al 31 de diciembre de 2000 [1][9].",
+  "fuentes": [
+   1,
+   9
+  ]
+ }
+}

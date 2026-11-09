@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:56",
+ "respuesta": {
+  "respuesta": "La adjudicación se realizó con una oferta económica que incluyó un Monto del Subsidio solicitado (S) de 287.000 UF [8]. Según la ficha de actos, el último acto es un Decreto Supremo de 2023, pero la adjudicación original se basó en las bases y la oferta presentada donde el factor de subsidio fue clave [10]. El tramo B establecía como variable el Subsidio del Estado al Oferente \"S\" [1], y la oferta económica presentada fijó este valor en 287.000 UF [8].",
+  "fuentes": [
+   1,
+   8,
+   10
+  ]
+ }
+}

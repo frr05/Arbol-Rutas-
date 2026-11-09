@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "El plazo de concesión ofrecido y establecido es de 25 años [6], el cual no debe superar los 25 años contados desde la fecha de suscripción del Decreto de Adjudicación según las Bases de Licitación [4] [8]. No obstante, el Convenio Complementario N°1 establece que el plazo total de la concesión no podrá exceder el máximo de 50 años según el artículo 25 de la Ley de Concesiones [1].",
+  "fuentes": [
+   1,
+   4,
+   6,
+   8
+  ]
+ }
+}

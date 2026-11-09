@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 35,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 166,
+ "segundos": 9.6,
+ "fecha": "2026-10-27 19:06",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 58,
+  "conf_media": 0.254,
+  "frac_baja": 0.707,
+  "frac_rara": 0.0,
+  "tinta": 0.0224
+ },
+ "n_palabras_vlm": 124,
+ "frac_rara_vlm": 0.022,
+ "similitud": 0.04,
+ "truncado": false,
+ "texto_ocr": "IVOSIAUOLIIASNI\nSVIYVA ZVÍA SOTHVI\n\n/\n\nNOTO9 “AV\n\nIYONVSSITV “AV IVIAVH 0857 0008 NA 1319 NA ¡NONVSSITV LoN OINVANIMNIZTIANOSO\n\n(an) SaTWLOL INAIVANA A SVIHASNONI\n\nIDA Z oN IVIARHAYILNI OSVA || IVIATYSANALNI OSVA || TVIOTHAYNALNI OS VA AY NODCINOS. S VI NOIDOISYZLNI\n\nOINIANO9 SVEJO OCLASINANSIYA\n\nTOYINO9 A NOIOVYLSININOV 30 SITVNOIDIOWY SOLSVIO Q\nSINOISYJANI SVAJAN SV 30 OLSINANSIHUA\n\nLl ÍN OXINV",
+ "texto_vlm": "ANEXO N° 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\nf) GASTOS ADICIONALES DE ADMINISTRACION Y CONTROL\n\n| PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 | INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON | CONEXIÓN AV. ALESSANDRI | PASO INTERPREIAL KM 6,787 | PASO INTERPREIAL KM 8,000 | PASO INTERPREIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI | TOTALES (UF) |\n|---|---|---|---|---|---|---|\n| 1 | GASTOS ADMINISTRATIVOS | 7.647 | 1.821 | 1.456 | 1.214 | 12.138 |\n| TOTAL | | 7.647 | 1.821 | 1.456 | 1.214 | 12.138 |\n| | | | | | | 0 |\n| | | | | | | 0 |\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES\nA"
+}

@@ -1,0 +1,40 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 11:44",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "Primer Párrafo"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "será reajustado al 31 de Diciembre de cada año para el cálculo de la rentabilidad de referencia de acuerdo al polinomio de reajuste que se define en el Anexo lll",
+    "debe_decir": "será reajustado al 31 de Diciembre de cada año para el cálculo de la rentabilidad de referencia, según variación de la Unidad de Fomento",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "Segundo Párrafo"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "será reajustado al 31 de Diciembre de cada año para el cálculo de la rentabilidad de referencia de acuerdo al polinomio de reajuste que se define en el anexo 1!l",
+    "debe_decir": "será reajustado al 31 de Diciembre de cada año para el cálculo de la rentabilidad, según variación de la Unidad de Fomento",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

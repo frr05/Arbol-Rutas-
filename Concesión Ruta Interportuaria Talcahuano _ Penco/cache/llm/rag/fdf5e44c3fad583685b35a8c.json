@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "El Presupuesto Oficial Estimado de la Obra es de UF 517.700, cantidad que considera sólo las obras señaladas en el artículo 1.3.1, y de UF 648.250, cantidad que incluye además la obra opcional señalada en el artículo 1.3.2 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

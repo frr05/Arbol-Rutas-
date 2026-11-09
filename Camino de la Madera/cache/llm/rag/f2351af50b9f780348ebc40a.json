@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:23",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es variable, ya que mediante el Convenio Complementario N°1 se estableció un mecanismo de plazo variable de concesión basado en el Mecanismo de Distribución de Ingresos (MDI), que reemplazó el plazo fijo original de 25 años [3][5].",
+  "fuentes": [
+   3,
+   5
+  ]
+ }
+}

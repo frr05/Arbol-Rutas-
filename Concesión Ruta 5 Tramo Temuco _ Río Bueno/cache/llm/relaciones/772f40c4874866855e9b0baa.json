@@ -1,0 +1,100 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:02",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P24"
+    ],
+    "texto_nuevo": [
+     831,
+     873
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P26"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Durante los 10 primeros días de cada mes de Explotación, desde la Puesta en Servicio Provisoria de la Concesión, el Inspector Fiscal determinará el monto de IA,, del mes anterior en base a la información de ingresos mensuales de la Sociedad Concesionaria según la siguiente formula:",
+    "debe_decir": "Durante los 10 primeros días de cada mes de Explotación, desde la Puesta en Servicio Provisoria de la Concesión, el Inspector Fiscal determinará el monto de lAn del mes anterior en base a la información de ingresos mensuales de la Sociedad Concesionaria según la siguiente formula:",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "m IM, IA, = Y 1 ' 2 (+7 1",
+    "debe_decir": "m IM,\nIA, = Y 1 ' 2 (+7 1",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P29"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IM, Ingresos Mensuales por recaudación de peajes o tarifas en Unidades de Fomento (UF) en el mes i de Explotación de la Concesión, en base a la información señalada en 1.6.4 , punto 5, letra g). Adicionalmente serán considerados todos los pagos por concepto de Ingresos Mínimos Garantizados establecidos en el punto a) anterior y por eventuales autorizaciones a terceros de accesos y conexiones a la obra en Concesión.",
+    "debe_decir": "mM, Ingresos Mensuales por recaudación de peajes 0 tarifas en Unidades de Fomento (UF) en el mes\n¡ de Explotación de la Concesión, en base a la información señalada en 1.6.4, punto 3, letra 8):\nAdicionalmente serán considerados todos los pagos por concepto de Ingresos Mínimos\nGarantizados establecidos en el punto a) anterior y por eventuales autorizaciones a terceros de\naccesos y conexiones a la obra en Concesión.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P30"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IA, Valor Actualizado de los Ingresos Mensuales de la Sociedad Concesionaria (en UF), calculado en el mes m de Explotación de la Concesión.",
+    "debe_decir": "lAn Valor Actualizado de los Ingresos Mensuales de la Sociedad Concesionaria (en UP), calculado\nen el mes m de Explotación de la Concesión.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P31"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "r Corresponde a la tasa equivalente mensual para una tasa de actualización anual del 15% y que para efectos del presente cálculo corresponde a 1,1715%.",
+    "debe_decir": "Y Corresponde a la tasa equivalente mensual para una tasa de actualización anua\npara efectos del presente cálculo corresponde a 1,1715%.\nl del 15% y que",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P33"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IAn > 6.283.000+ R en UF Q) con: 240 TR(]yg y PrUro) para n<240 R = i=n+1 d+ B) 6) 0 para n2240 donde, T Corresponde a 1/12 del monto anual inicial del subsidio y que para efectos del presente cálculo corresponde a 20.833 UF, para los años en que efectivamente se paga subsidio. Para los años en que el subsidio es 0 (cero), según 1.11.1, el valor T es igual a O (cero). 19 Corresponde a la tasa equivalente mensual para una tasa de crecimiento anual del 5% y que para efectos del presente cálculo corresponde a 0,407%. B Corresponde a la tasa equivalente mensual para una tasa de actualización anual del 11% y que para efectos del presente cálculo corresponde a 0,873%. n Corresponde al Plazo de la Concesión expresado en meses, de acuerdo a lo señalado en 3.1.2",
+    "debe_decir": "lAn > 6.108.000 UF ()",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P34"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para el siguiente mes en que se cumpla la relación anterior, comenzará a regir la Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria, donde la Sociedad Concesionaria procederá a pagar al MOP el 50% de sus ingresos. El pago se efectuará a más tardar durante los primeros 10 días del mes siguiente. El no pago de dicho monto será causal de incumplimiento de contrato y dará derecho al cobro de las garantías y a las acciones legales correspondientes.",
+    "debe_decir": "Para el siguiente Mes en que se cumpla la relación anterior, comenzará 2 regir la\nCoparticipación del Estado en los Ingresos de la Sociedad Concesionaria, donde la Sociedad\nConcesionaria procederá a pagar al MOP el 50% de sus ingresos. El pa80 se efectuará 2 más\ntardar durante los primeros 10 días del mes siguiente. El no pago de dicho monto será causal\nde incumplimiento de contrato Y dará derecho al cobro de las garantías y A las acciones\nlegales correspondientes.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

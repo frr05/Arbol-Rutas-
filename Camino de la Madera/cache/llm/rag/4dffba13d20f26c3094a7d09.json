@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para autos (vehículos livianos) por sentido es de $1.500, propuesta inicialmente en la oferta del licitante [2], [4]. Esta tarifa base se ajusta mediante reajustes anuales y semestrales utilizando el IPC y otros factores según lo establecido en los convenios complementarios, alcanzando valores como P = 1.574,10 en 2006-2008 [1], [10] y P = 1.634,85 en 2010 [6].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   6,
+   8,
+   10
+  ]
+ }
+}

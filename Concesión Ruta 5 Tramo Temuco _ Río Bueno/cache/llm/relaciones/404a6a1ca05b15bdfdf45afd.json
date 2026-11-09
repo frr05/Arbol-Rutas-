@@ -1,0 +1,23 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:22",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "aclara",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     2987,
+     2992
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

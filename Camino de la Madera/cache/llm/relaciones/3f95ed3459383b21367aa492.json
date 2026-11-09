@@ -1,0 +1,18 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:14",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "11.3.2",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

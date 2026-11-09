@@ -1,0 +1,47 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 11,
+ "modelo": "google/gemini-2.5-flash-lite",
+ "version_prompt": 2,
+ "fecha": "2026-11-05 00:52",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Tipo",
+    "Clase de vehículo"
+   ],
+   "filas": [
+    [
+     "Tipo 1",
+     "Motos y motonetas"
+    ],
+    [
+     "Tipo 2",
+     "Autos y camionetas"
+    ],
+    [
+     "Tipo 3",
+     "Autos y camionetas con remolque"
+    ],
+    [
+     "Tipo 4",
+     "Buses de 2 ejes"
+    ],
+    [
+     "Tipo 5",
+     "Camiones de 2 ejes"
+    ],
+    [
+     "Tipo 6",
+     "Buses de más de 2 ejes"
+    ],
+    [
+     "Tipo 7",
+     "Camiones de más de 2 ejes"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

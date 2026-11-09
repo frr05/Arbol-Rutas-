@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:24",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Se mide con el índice IRI (International Roughness Index) usando perfilómetro óptico o Mays Meter para evaluar la condición del pavimento [1][6]. Las Bases de Licitación establecían originalmente un umbral máximo de IRI de 4, pero mediante el Convenio Complementario N°1 se acordó bajar este umbral máximo a 3,5 para mejorar las condiciones de servicio [1].",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

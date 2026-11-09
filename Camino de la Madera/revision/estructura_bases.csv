@@ -1,0 +1,159 @@
+numero;titulo;pagina;linea;parrafos;origen
+0;[Portada e índice de las Bases];;;70;sintetica
+1.1;1.1 ANTECEDENTES GENERALES DE LA LICITACION;6;191;0;regla
+1.1.1;1.1.1;6;192;33;regla
+1.1.3;1.1.3;10;304;17;regla
+1.2;1.2 DE LOS LICITANTES;12;380;0;regla
+1.2.1;1.2.1;12;381;4;regla
+1.2.1.1;1.2.1.1;12;390;7;regla
+1.2.3;1.2.3;13;418;19;regla
+1.2.7;1.2.7;14;462;5;regla
+1.2.8;1.2.8;14;474;3;regla
+1.2.9;1.2.9;15;483;56;regla
+1.2.10;I.2.10;20;640;13;regla
+1.2.12;1.2.12;21;679;2;regla
+1.2.13;1.2.13;21;687;2;regla
+1.2.14;I.2.14;22;700;5;regla
+1.2.15;1.2.15;22;717;1;regla
+1.3;1.3 EVALUACION DE LA OPERTA;22;721;0;regla
+1.3.1;1.3.1;22;722;2;regla
+1.3.2;1.3.2;23;735;11;regla
+1.3.3;1.3.3;23;765;6;regla
+1.3.4;1.3.4;24;786;8;regla
+1.3.5;1.3.5;25;816;1;regla
+1.3.6;1.3.6;25;822;1;regla
+1.3.7;1.3.7;25;826;3;regla
+1.3.8;1.3.8;25;837;2;regla
+1.4;1.4 DEL ADJUDICATARIO;26;853;1;regla
+1.4.2;I.4.2;26;859;3;regla
+1.4.3;1.4.3;26;872;0;regla
+1.5;1.5 DEL COMCESTOMARIO;26;873;0;regla
+1.5.1;1.5.1;26;874;2;regla
+1.5.2;1.5.2.;27;886;42;regla
+1.5.3;1.5.3;30;1009;4;regla
+1.5.4;1.5.4;31;1024;3;regla
+1.5.5;1.5.5;31;1040;3;regla
+1.5.6;1.5.6;31;1058;7;regla
+1.5.7;1.5.7 [PLAZOS DE CONSTRUCCION];32;1092;7;indice
+1.5.8;1.5.8 [EXPROPIACIONES];33;1134;9;indice
+1.5.9;1.5.9 [RESPONSABILIDAD DEL CONCESIONARIO FRENTE A LA];34;1170;2;indice
+1.5.10;1.5.10 [DEL PROYECTO DE INGENIERIA];35;1180;0;indice
+1.5.10.1;1.5.10.1 INSPECCIÓN PISCAL DE;35;1181;4;regla
+1.5.10.2;1.5.10.2;36;1219;1;regla
+1.5.11;1.5.11 [RECEPCION DEL PROYECTO DE INGENIERIA];36;1225;5;indice
+1.5.12;derivado del uso o supuesto uso, de cualquier patente, diseño,;37;1253;1;titulo
+1.5.13;1.5.13 [AMPLIACION DEL PLAZO DE INICIO DE CONSTRUCCION DE LAS];37;1256;1;indice
+1.5.14;1.5.14 [RELACION ENTRE EL CONCESIONARIO Y EL MINISTERIO];37;1268;1;indice
+1.5.15;1.5.15 [INSPECCION FISCAL DE LA CONSTRUCCION];37;1273;1;indice
+1.5.16;1.5.16 [INSPECCION TECNICA DE LA OBRA];38;1284;2;indice
+1.5.17;1.5.17 [LIBRO DE OBRA DURANTE LA ETAPA DE CONSTRUCCION];38;1303;3;indice
+1.5.19;1.5.19 [RESPONSABILIDAD LABORAL DEL CONCESIONARIO];39;1325;16;indice
+1.5.22;1.5.22 [SEÑALIZACION Y SEGURIDAD PARA EL TRANSITO];40;1371;6;indice
+1.5.24;1.5.24 [MODIFICACION DEL PLAZO DE PUESTA EN];40;1389;3;indice
+1.5.25;1.5.25 [SANCIONES POR INCUMPLIMIENTO DE LOS PLAZOS];41;1409;4;indice
+1.5.26;presentará al Inspector Fiscal los planos de construcción junto con;41;1428;5;titulo
+1.5.28;1.5.28 [AUTORIZACION DE PUESTA EN SERVICIO DEFINITIVA];42;1451;1;indice
+1.5.29;1.5.29 [GARANTIA DE EXPLOTACION];42;1456;5;indice
+1.5.30;1.5.30 [INSPECCION FISCAL DURANTE LA EXPLOTACION];43;1479;1;indice
+1.5.31;1.5.31 [INSPECCION TECNICA DE LA EXPLOTACION DE LA OBRA];43;1488;8;indice
+1.5.33;1.5.33 [OBLIGACION DE PROPORCIONAR INFORMACION];45;1546;4;indice
+1.5.34;1.5.34 [PLAZO DE ENTREGA DEL REGLAMENTO DE SERVICIO DE LA];45;1558;10;indice
+1.5.35;la obra (C), deberá entregar un programa de conservación de la obra;46;1608;3;titulo
+1.5.36;1.5.36 [ALTERACION EN LA PRESTACION DEL SERVICIO];47;1629;6;indice
+1.5.38;1.5.38 [SUBCONTRATOS EN LA EXPLOTACION Y/O CONSERVACION];48;1662;4;indice
+1.5.41;1.5.41;48;1680;2;regla
+1.5.42;1.5.42 [SEGUROS POR DAÑOS A TERCEROS];49;1694;4;indice
+1.5.43;1.5.43 [EFECTOS POR LA DESTRUCCION PARCIAL DE LA OBRA];49;1719;2;indice
+1.5.44;1.5.44 [SEGURO POR CATASTROFE];50;1730;4;indice
+1.5.45;1.5.45 [SANCIONES DURANTE EL PERIODO DE EXPLOTACION];50;1751;1;indice
+1.5.45.1;1.5.45.1;50;1756;45;regla
+1.5.46;1.5.46 [APLICACION DE MULTAS];55;1881;3;indice
+1.5.47;1.5,47 [PLAZO PARA PAGO DE MULTAS];55;1889;2;indice
+1.5.48;1.5,48 [54];55;1899;4;indice
+1.5.49;1.5.49;56;1918;15;regla
+1.5.52;1.5.52 [o];58;1991;35;indice
+11.3.2;11.3.2 [CARACTERISTICA EL EST EJ LNA, PAJ];62;2108;20;indice
+11.4;estudio a nivel preliminar para las obras (B) y (Cc), en las que se;63;2164;17;titulo
+11.4.2;11.4.2 [ARA. Ln, RAS];65;2221;16;indice
+11.5;11.5 DEL PROYECTO DEFINITIVO;66;2272;0;regla
+11.5.1;11.5.1;66;2273;3;indice
+11.5.2;711.5.2 DISPOSICIONES GMAIL;66;2283;15;llm
+11.5.5.1;11.5.5.1;68;2341;37;regla
+11.5.6;11.5.6;72;2494;1;regla
+11.5.6.1;11.5.6.1;72;2499;9;regla
+11.5.6.2;11.5.6.2;73;2551;4;regla
+11.5.6.3;11.5.6.3;74;2573;11;regla
+11.5.6.5;11.5.6.5;75;2616;4;regla
+11.5.7;11.5.7 [74];75;2627;13;indice
+11.5.7.2;11.5.7.2;77;2684;3;regla
+11.5.7.3;11.5.7.3;77;2704;4;regla
+11.5.7.4;11.5.7.4;78;2724;21;regla
+11.5.7.7;11.5.7.7;80;2799;4;regla
+11.5.7.8;11.5.7.8;81;2828;16;regla
+11.5.9;11.5.9;82;2874;14;regla
+11.6;11.6 [82];83;2916;0;indice
+11.6.1;11.6.1;83;2917;6;regla
+11.6.2;11.6.2;84;2935;11;regla
+11.7;11.7 [84];85;2972;12;indice
+11.8.2;11.8.2 [85];86;3009;8;indice
+11.8.3;11.8.3 [86];87;3041;1;indice
+11.8.4;11.8.4;87;3045;3;regla
+11.8.5;11.8.5;87;3058;11;regla
+11.8.6;11.8.6 [87];88;3106;13;indice
+11.8.7;11.8.7 [89];90;3159;2;indice
+11.8.8;11.8.8;90;3182;3;regla
+11.8.9;11.8.9;90;3188;2;indice
+11.8.10;11.8.10;91;3201;3;regla
+11.8.11;11.8.11;91;3215;2;regla
+11.8.12;11.8.12;92;3236;12;regla
+11.8.13;11.8.13;93;3288;3;regla
+11.8.14;11.8.14;93;3298;1;regla
+11.8.15;11.8.15;94;3311;1;regla
+11.8.16;11.8.16;94;3318;1;regla
+11.8.17;11.8.17;94;3325;1;regla
+11.9;11.9 DE LA EXPLOTACION DE LA CONCESION;94;3330;0;regla
+11.9.1;11.9.1;94;3331;0;regla
+11.9.1.1;11.9.1.1;94;3332;6;regla
+11.9.2;11.9.2;95;3367;0;regla
+11.9.2.1;11.9.2.1;95;3368;17;regla
+11.9.2.2;11.9.2.2;96;3396;6;regla
+11.9.2.4;11.9.2.4;96;3415;1;regla
+11.9.2.5;11.9.2.5;97;3425;10;regla
+11.9.3.2;11.9.3.2 PLAN;98;3489;5;regla
+11.9.3.3;11.9.3.3;99;3510;24;regla
+11.9.3.5;11.9.3.5;101;3590;8;regla
+11.9.3.6;11.9.3.6;101;3602;1;regla
+11.9.3.7;11.9.3.7;102;3617;6;regla
+11.9.3.8;11.9.3.8;102;3637;8;regla
+11.9.5;11.9.5;103;3670;1;regla
+11.9.5.1;11.9.5.1;103;3676;2;regla
+11.9.5.2;11.9.5.2;103;3685;6;regla
+11.9.5.3;11.9.5.3;104;3707;3;regla
+11.9.6;11.9.6;104;3717;6;regla
+11.9.7;11.9.7;105;3739;0;regla
+11.9.7.1;11.9.7.1;105;3740;2;regla
+11.9.7.2;11.9.7.2;105;3748;3;regla
+11.9.8;11.9.8;105;3759;1;regla
+11.9.9;11.9.9;106;3769;200;regla
+A1;ANEXO N*1;123;4360;90;regla
+1.5.18;RESPONSABILIDAD DEL CONCESIONARIO EN LA INSTALACION;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.20;OBLIGACION DE PROPORCIONAR INFORMACION;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.21;MANTENIMIENTO DE DESVIOS;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.23;DESPEJE Y LIMPIEZA FINAL;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.27;AUTORIZACION DE PUESTA EN SERVICIO PROVISORIA;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.32;LIBRO DE EXPLOTACION DE LA OBRA;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.37;ESTADISTICAS, MEDICIONES Y CONTROLES;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.39;CUIDADO DE LA OBRA;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.40;DAÑOS A TERCEROS DURANTE LA CONSTRUCCION Y LA;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.50;;;;;FALTA (agregar en estructura_correcciones.csv)
+1.5.51;o;;;;FALTA (agregar en estructura_correcciones.csv)
+11.1;INTRODUCCION ». . e;;;;FALTA (agregar en estructura_correcciones.csv)
+11.2;DEL AREA DE LA CONCESION' o;;;;FALTA (agregar en estructura_correcciones.csv)
+11.2.1;DEL TACIÍS 3): AE ESIO] o . o. . . . o;;;;FALTA (agregar en estructura_correcciones.csv)
+11.3;ido UD LO. PRELIMINA, AR 0)=): Lo o. o. o;;;;FALTA (agregar en estructura_correcciones.csv)
+11.3.1;DE LPCION. DE L2 BRA 2) e;;;;FALTA (agregar en estructura_correcciones.csv)
+11.5.3;o;;;;FALTA (agregar en estructura_correcciones.csv)
+11.5.4;2 AR;;;;FALTA (agregar en estructura_correcciones.csv)
+11.6.3;83;;;;FALTA (agregar en estructura_correcciones.csv)
+11.8;84;;;;FALTA (agregar en estructura_correcciones.csv)
+11.8.1;84;;;;FALTA (agregar en estructura_correcciones.csv)

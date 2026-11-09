@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:37",
+ "respuesta": {
+  "respuesta": "Se publicó una sola Puesta en Servicio Provisoria, identificada como Puesta en servicio N°1570 (2005-05-27) [11].",
+  "fuentes": [
+   11
+  ]
+ }
+}

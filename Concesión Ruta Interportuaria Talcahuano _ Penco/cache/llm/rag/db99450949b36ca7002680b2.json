@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "Los intereses devengados por los pagos atrasados varían según la parte responsable y el contexto específico del pago:\n\n1. Si el retraso es de la Sociedad Concesionaria al realizar pagos al Estado (MOP), devengan un interés real diario de 0,0198% [1].\n2. Si el retraso es del MOP en la emisión de la Resolución que reconoce valores devengados (dentro del Convenio Complementario N°71), se devenga un interés real diario de 0,02612% [3].\n3. En caso de retraso del MOP en el pago de cuotas específicas bajo el Convenio Complementario N°71, se paga un interés real diario de 0,02612% como indemnización de perjuicios [6].\n4. Para retrasos del MOP en fechas máximas de pago señaladas en convenios específicos (como el Decreto supremo N°136), el interés es real diario equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año, conforme a las tasas de la CMF [7].",
+  "fuentes": [
+   1,
+   3,
+   6,
+   7
+  ]
+ }
+}

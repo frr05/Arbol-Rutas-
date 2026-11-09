@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "En el Sobre o Paquete denominado Oferta Económica se debe incluir un (1) original y cinco (5) copias de la Oferta Económica [2]. Dentro de este paquete, los licitantes deben presentar el Documento en el que se hace constar el valor de cada uno de los Factores de Licitación definidos en las bases, según el modelo del Formulario entregado en el Anexo N°1, el cual debe ser el original firmado por el Director General de Obras Públicas sin enmiendas, tachaduras ni condicionamientos [1].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

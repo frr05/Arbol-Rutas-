@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato publicada fue el Convenio Complementario N°2, publicado en el año 2007 [3].",
+  "fuentes": [
+   3,
+   11
+  ]
+ }
+}

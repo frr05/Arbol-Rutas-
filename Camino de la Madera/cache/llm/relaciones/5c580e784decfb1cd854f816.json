@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-29 12:00",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.14",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "el Director de Vialidad del MOP o su representante",
+    "debe_decir": "un Jefe de Departamento de la Dirección de Vialidad",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

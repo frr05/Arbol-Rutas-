@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "Se exigen las siguientes Declaraciones de Avance para la ejecución de las obras señaladas en el artículo 1.3.1: una primera declaración a los 6 meses con un avance mínimo del 4%; una segunda a los 10 meses con un avance mínimo del 30%; una tercera a los 13 meses con un avance mínimo del 50%; y una cuarta a los 16 meses con un avance mínimo del 70% [1]. En caso de aceptar la obra opcional del artículo 1.3.2, se deben emitir declaraciones con reportes de avance del 4%, 30%, 530% (error OCR por 50%) y 70% en los plazos de 4, 6, 8 y 10 meses respectivamente contados desde el inicio de la Etapa de Construcción [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

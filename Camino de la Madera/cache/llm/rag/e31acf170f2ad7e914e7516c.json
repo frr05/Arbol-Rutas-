@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el Inspector Fiscal, quien las propone a la DGOP para que esta requiera el pronunciamiento de la Comisión Conciliadora, en conformidad con el Artículo 24 del DFL MOP N°164 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

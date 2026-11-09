@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "Camino de la Madera",
+  "fuentes": [
+   2,
+   3,
+   4,
+   9,
+   10
+  ]
+ }
+}

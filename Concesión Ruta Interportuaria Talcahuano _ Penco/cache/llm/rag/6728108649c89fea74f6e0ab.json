@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:13",
+ "respuesta": {
+  "respuesta": "Los factores por tipo de vehículo que se aplican a las tarifas máximas son los siguientes: Tipo 1 (Motos y Motonetas): 0,3; Tipo 2 (Autos y Camionetas): 1,0; Tipo 3 (Autos y Camionetas con Remolque): 1,0; Tipo 4 (Buses de 2 Ejes): 1,8; Tipo 5 (Camiones de 2 Ejes): 1,8; Tipo 6 (Buses de más de 2 Ejes): 3,2; y Tipo 7 (Camiones de más de 2 Ejes): 3,2 [2][3][4][5][6][7][8].",
+  "fuentes": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ]
+ }
+}

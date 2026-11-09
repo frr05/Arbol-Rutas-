@@ -1,0 +1,18 @@
+{
+ "tarea": "agente_respuesta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:36",
+ "respuesta": {
+  "respuesta": "Durante la etapa de explotación, la Sociedad Concesionaria debe entregar los siguientes informes al Inspector Fiscal:\n\n1. Informes Ambientales: Deben dar cuenta de la implementación y eficacia de las medidas del Plan de Manejo Ambiental [1]. La periodicidad varía según el año de explotación: durante el primer y segundo año, dentro de los primeros 15 días de cada trimestre [9]; entre el tercer y sexto año, con periodicidad semestral (dentro de los primeros 15 días de cada semestre) [9]; a partir del séptimo año hasta dos años antes del término máximo de la concesión, una vez por año [9]; y en los dos últimos años, con periodicidad semestral [9]. Estos informes deben incluir problemas ambientales registrados y propuestas de solución, así como la eficacia de nuevas medidas [1]. El atraso en su entrega genera multa [9].\n\n2. Informes Estadísticos Trimestrales: Deben entregarse dentro de los primeros 15 días del trimestre siguiente al informado [5]. Deben incluir el cumplimiento del Programa de Conservación, cantidades de obras ejecutadas y precios unitarios incurridos, presentados en formato escrito, medio magnético u óptico y formato establecido por el Inspector Fiscal [5]. Además, se debe entregar el informe específico sobre puentes según el artículo 2.6.1.6 [5]. El incumplimiento genera multa [8].\n\n3. Informes Anuales de Seguimiento de Pavimentos, Puentes y Estructuras: Deben presentar tanto en forma escrita como en medio magnético u óptico, informando sobre el estado de la carpeta de rodado (irregularidad superficial, ahuellamiento, agrietamiento, baches, resistencia al resbalamiento) y el estado de obras de arte, cortes y otras obras complementarias [3]. La fecha límite de entrega es el 31 de enero del año siguiente al informado [3].\n\n4. Informe de Actividades de Conservación: Debe entregarse durante el mes de enero de cada año calendario, correspondiente a las actividades realizadas en los últimos doce meses [4]. Si no es aprobado inicialmente, debe ser presentado nuevamente para su aprobación [4].\n\n5. Estados Financieros: Deben proporcionarse en el formato FECU y en la oportunidad exigida por la Superintendencia de Valores y Seguros, entregándose al Inspector Fiscal dentro de los 5 días contados desde su entrega a dicha Superintendencia [10]. Los estados anuales deben ser auditados y explicitar el tipo de deudas (monedas, plazos, intereses, tabla de amortización) [10]. Las notas deben individualizar ingresos de explotación desglosados en peajes, autorizaciones y cobros por accesos/conexiones solicitados por terceros [10].\n\n6. Información sobre Organización y Personal Superior: Se debe informar cada vez que se produzca un cambio en la organización o personal superior, dentro de los 15 días de producido el cambio [7].\n\n7. Información Adicional Solicitada: Cualquier información adicional que el Inspector Fiscal necesite para fiscalizar el adecuado cumplimiento del contrato, la cual deberá ser entregada dentro de los 15 días de la solicitud [7].\n\n8. Servicios Especiales Obligatorios: La Sociedad está obligada a proporcionar los servicios establecidos en el artículo 2.2.1.7 de las Bases Técnicas, instalados en terrenos fiscales o expropiados [6].",
+  "fuentes": [
+   1,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

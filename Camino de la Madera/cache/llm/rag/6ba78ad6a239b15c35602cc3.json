@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan semestralmente según el Índice de Precios al Consumidor (IPC) [3][10]. A partir de 2005, el reajuste se aplica semestralmente desde las 00:00 horas del 1° de enero de cada año [10]. Para el reajuste de enero se utiliza el IPC de noviembre del año anterior, y para julio se utiliza el IPC de mayo del mismo año [1][2][4]. El mecanismo incluye un sistema de fraccionamiento de las tarifas resultantes [1][2][10]. Si el IPC deja de existir como índice relevante, se aplicará el mecanismo que lo reemplace [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   10
+  ]
+ }
+}

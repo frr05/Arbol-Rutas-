@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "consultas": [
+   "costo por desempeño operacional nivel servicio insuficiente monto UF",
+   "incentivo buen desempeño operacional monto UF bases licitación"
+  ]
+ }
+}

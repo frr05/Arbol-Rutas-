@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Se establecen estándares del nivel de servicio que deben mantenerse dentro de rangos exigidos [6]. Para evaluar y gestionar la conservación con el propósito de restablecer las condiciones de servicio, se utilizan indicadores específicos como el IRI (Índice de Rugosidad Internacional), cuyo umbral es modificado por el Convenio Complementario N°1 [5]. La medición del IRI se realiza mediante un Perfilómetro óptico o Mays Meter [8]. Además, se evalúan otros indicadores como agrietamiento, desprendimiento de áridos, baches abiertos, resistencia al resbalamiento (medida con Mu-Meter) y ahuellamiento [8]. El programa de conservación se actualiza anualmente para cumplir con el nivel de servicio exigido [8].",
+  "fuentes": [
+   5,
+   6,
+   8
+  ]
+ }
+}

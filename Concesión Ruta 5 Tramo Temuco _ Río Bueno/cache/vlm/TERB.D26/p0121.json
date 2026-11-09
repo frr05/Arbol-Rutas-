@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 121,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 104,
+ "segundos": 27.6,
+ "fecha": "2026-10-27 12:16",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 63,
+  "conf_media": 0.571,
+  "frac_baja": 0.381,
+  "frac_rara": 0.029,
+  "tinta": 0.0156
+ },
+ "n_palabras_vlm": 66,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.523,
+ "truncado": false,
+ "texto_ocr": "mao RUTA MANUAL DE SEGURIDAD VIAL Y\nmu Na DE LOs RÍOS PROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\n8.4 ESAS TIPO - VÍAS RURALES\n\nTrabajo en la Berma 8.4.1 |\nCalzada Bidireccional | \"|\n\nobo.n o...\n\n300 mt! Opciona 650 mi\n\n(E) Eempatza de cenplización\n\nAE!\n\nAllernotrras de camallraerin.\n\n(5) Lian ds Velocidad pin Trabajos\nD) Lomilo de Wilocadad con Tmbijos\n\n33",
+ "texto_vlm": "MANUAL DE SEGURIDAD VIAL Y\nPROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n8.4 ESQUEMAS TIPO - VÍAS RURALES\nTrabajo en la Berma\nCalzada Bidireccional      8.4.1\n120\n[ilegible]\n[ilegible]\nÁrea de\nTrabajos\n50 mt\n[ilegible]\n[ilegible]\n300 mt   Opcional\n155 mt\n650 mt\n70\n[ilegible]\n650 mt\n© Elementos de canalización\nAlternativas de canalización.\n(X) Limite de Velocidad sin Trabajos\n(VV) Limite de Velocidad con Trabajos\n33"
+}

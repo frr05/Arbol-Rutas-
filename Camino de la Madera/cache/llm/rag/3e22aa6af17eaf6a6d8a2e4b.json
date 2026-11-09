@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio [3]. Se mide a través del índice IRI (International Roughness Index), cuya medición se realiza usando un Perfilómetro óptico o Mays Meter [8].",
+  "fuentes": [
+   3,
+   8
+  ]
+ }
+}

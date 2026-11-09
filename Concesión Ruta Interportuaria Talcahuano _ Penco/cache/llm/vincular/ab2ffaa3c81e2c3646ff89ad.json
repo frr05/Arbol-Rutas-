@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:18",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0032]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0033]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0034]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0035]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0036]",
+    "destino": "TEMA:garantias_y_seguros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0037]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0038]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0039]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0040]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0041]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0042]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0043]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0044]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0045]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[RITP.D10.F0046]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0047]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0048]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0049]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0050]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0051]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0054]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0055]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0056]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0057]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0058]",
+    "destino": "TEMA:obras"
+   }
+  ]
+ }
+}

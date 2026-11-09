@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "Los intereses devengados por los pagos atrasados varían según el documento y la parte responsable:\n\n1. Interés real diario de 0,0198%: Aplica para retrasos en pagos de la Sociedad Concesionaria al Estado [1] y para retrasos en pagos del MOP a la Sociedad Concesionaria conforme al artículo 1.14.4 de las Bases de Licitación originales [6].\n\n2. Interés real diario de 0,02612%: Aplica cuando el MOP no emite la Resolución de reconocimiento dentro del plazo establecido (Convenio Complementario N°1) [2], y como indemnización de perjuicios por retraso en el pago de cuotas por parte del MOP (Convenio Complementario N°1) [4]. También aplica como interés a favor del MOP si la Sociedad Concesionaria retrasa sus pagos [4].\n\n3. Tasa de interés corriente para operaciones reajustables: En el Convenio Ad-Referéndum (Decreto Supremo N°136), el MOP paga intereses basados en la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año (informada por la CMF o reemplazante) desde el día siguiente a la fecha máxima de pago hasta el efectivo [3]. En el Convenio Complementario N°2, el monto adeudado devenga el interés diario resultante de aplicar la porción diaria de la tasa de interés corriente para operaciones reajustables mayores de UF 2.000 y a un plazo mayor de un año (informada por la Superintendencia de Bancos) [5].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ }
+}

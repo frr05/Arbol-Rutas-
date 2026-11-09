@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:20",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D06.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D06.F0002]",
+    "destino": "BL:1.4"
+   },
+   {
+    "fragmento": "[CM.D06.F0003]",
+    "destino": "BL:1.4"
+   },
+   {
+    "fragmento": "[CM.D06.F0004]",
+    "destino": "TEMA:garantias_y_seguros"
+   },
+   {
+    "fragmento": "[CM.D06.F0005]",
+    "destino": "TEMA:multas"
+   },
+   {
+    "fragmento": "[CM.D07.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D07.F0004]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D07.F0005]",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D07.F0006]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D07.F0007]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D07.F0008]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D07.F0009]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D07.F0010]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D10.F0001]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0002]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0003]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0004]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0005]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0006]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0007]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0008]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0009]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0010]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0011]",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "[CM.D10.F0012]",
+    "destino": "BL:A1"
+   }
+  ]
+ }
+}

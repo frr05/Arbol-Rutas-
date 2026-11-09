@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:23",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "Contiene los montos principales (UF 3.800 y UF 2.400) y las etapas correspondientes sin contradicciones."
+   },
+   {
+    "n": 22,
+    "veredicto": "parcial",
+    "motivo": "Omite el monto base de UF 83.000 mencionado en la referencia, citando solo el adicional de UF 41.000."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el porcentaje del servicio de construcción (80%) pero omite la imputación al servicio de conservación (20%)."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Cambia los convenios complementarios mencionados (N°1 y N°2) respecto a la referencia (N°71), alterando el contexto específico aunque los intereses sean similares."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Coincide con el sistema de cobro a la salida y la tecnología de Control de Accesos Manual."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma que existen tarifas diferenciadas por tipo de vehículo y la facultad de alterarlas."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el IPC como índice de reajuste y menciona el mecanismo de reemplazo si el indicador desaparece."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Proporciona los valores exactos de tarifa máxima base ($50 punta, $35 fuera de punta) y la fecha base."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente la moneda (pesos) y la fecha base (31 de diciembre de 2000)."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "Menciona la longitud total aproximada de 14,4 km, dato principal de la referencia."
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por las expropiaciones. Debe pagar al Estado UF 83.000 por concepto de desembolsos, gastos o expensas que se originen con motivo de las expropiaciones o adquisición de terrenos para las obras del Anteproyecto Referencial [5][7]. Además, debe pagar el valor de indemnización definitiva más UF 60 por cada lote expropiado por concepto de gastos y desembolsos del MOP [2]. Los pagos deben realizarse en un plazo no superior a 60 días desde la notificación del Inspector Fiscal [2][3].",
+  "fuentes": [
+   2,
+   3,
+   5,
+   7
+  ]
+ }
+}

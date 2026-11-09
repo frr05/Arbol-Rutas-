@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 80,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 288,
+ "segundos": 14.4,
+ "fecha": "2026-11-05 00:45",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 194,
+  "conf_media": 0.879,
+  "frac_baja": 0.072,
+  "frac_rara": 0.045,
+  "tinta": 0.0264
+ },
+ "n_palabras_vlm": 196,
+ "frac_rara_vlm": 0.054,
+ "similitud": 0.871,
+ "truncado": false,
+ "texto_ocr": "Convenio Complementario N? 1 — Ruta Interportuaria Talcahuano — Penco por Isla Rocuant\n\nAnexo N* 8 — Modelo de Resolución DGOP\n\nGOBIERNO DE CHILE\nMINSSTERIO DL OSEAS PUSLICAS\n\nVISTOS:\n\nRef.:\n\nValores devengados a “Sociedad\nConcesionaria Autopista\nInterportuaria S.A.”, en el mes de -\ndiciembre de 2004, según Convenio\nComplementario N” 1 de la obra\npública fiscal denominada Ruta\nInterportuaria Talcahuano — Penco\npor Isla Rocuant.\n\nSANTIAGO,\n\nEl DFL MOP N”* 850, de 1997, que fijó\nel texto refundido, coordinado y\nsistematizado de la Ley N* 15.840, de\n1964, Orgánica del Ministerio de Obras\nPúblicas y del DFL N* 206, de 1960, Ley\nde Caminos.\n\nEl D.S. MOP N* 900, de 1996, que fijó\nel texto refundido, coordinado y\nsistematizado del DFL MOP N* 164, de\n1991, Ley de Concesiones de Obras\nPúblicas.\n\nEl DS. MOP N* 956, de 1997,\nReglamento de la Ley de Concesiones de\nObras Públicas.\n\nEl DS MOP N* 112 de fecha 31 de\nenero de 2002, que adjudicó el contrato\nde concesión para la ejecución,\nconservación y explotación de la obra\npública fiscal denominada “Ruta\nInterportuaria Talcahuano — Penco por\nIsla Rocuant”. :\n\nDatos simulados, sólo a título de ejemplo",
+ "texto_vlm": "GOBIERNO DE CHILE\nMINISTERIO DE OBRAS PÚBLICAS\n\nRef.: Valores devengados a “Sociedad\nConcesionaria\nAutopista\nInterportuaria S.A.”, en el mes de\ndiciembre de 2004, según Convenio\nComplementario N° 1 de la obra\npública fiscal denominada Ruta\nInterportuaria Talcahuano – Penco\npor Isla Rocuant.\n\nSANTIAGO,\n\nVISTOS: - El DFL MOP N° 850, de 1997, que fijó\nel texto refundido, coordinado y\nsistematizado de la Ley N° 15.840, de\n1964, Orgánica del Ministerio de Obras\nPúblicas y del DFL N° 206, de 1960, Ley\nde Caminos.\n\n- El D.S. MOP N° 900, de 1996, que fijó\nel texto refundido, coordinado y\nsistematizado del DFL MOP N° 164, de\n1991, Ley de Concesiones de Obras\nPúblicas.\n\n- El D.S. MOP N° 956, de 1997,\nReglamento de la Ley de Concesiones de\nObras Públicas.\n\n- El DS MOP N° 112 de fecha 31 de\nenero de 2002, que adjudicó el contrato\nde concesión para la ejecución,\nconservación y explotación de la obra\npública fiscal denominada “Ruta\nInterportuaria Talcahuano – Penco por\nIsla Rocuant”.\n\nConvenio Complementario N° 1 – Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\nAnexo N° 8 – Modelo de Resolución DGOP\nDatos simulados, sólo a título de ejemplo"
+}

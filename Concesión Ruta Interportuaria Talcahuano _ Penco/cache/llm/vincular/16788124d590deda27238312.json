@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 01:58",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0068]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0069]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0070]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0071]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0074]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0075]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0076]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0077]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0078]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D06.F0001]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0005]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D06.F0006]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0007]",
+    "destino": "BL:1.10.2"
+   },
+   {
+    "fragmento": "[RITP.D06.F0008]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D09.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D09.F0004]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D07.F0001]",
+    "destino": "BL:1.10.3"
+   },
+   {
+    "fragmento": "[RITP.D07.F0003]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D07.F0005]",
+    "destino": "BL:1.10.3"
+   },
+   {
+    "fragmento": "[RITP.D07.F0006]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D07.F0007]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D12.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D12.F0004]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D12.F0005]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D12.F0006]",
+    "destino": "TEMA:otros"
+   }
+  ]
+ }
+}

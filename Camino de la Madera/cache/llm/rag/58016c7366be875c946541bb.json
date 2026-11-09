@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "La concesión abarca las comunas de San Pedro de la Paz, Santa Juana y Negrete [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

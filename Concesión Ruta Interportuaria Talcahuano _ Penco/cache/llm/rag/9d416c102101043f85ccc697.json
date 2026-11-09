@@ -1,0 +1,18 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "Los intereses que devengan los pagos atrasados dependen del contexto y la normativa aplicable en cada momento:\n\n1. Según las Bases de Licitación (artículo 1.14.4), en caso de retrasos en los pagos establecidos, estos devengarán un interés real diario de 0,0198% [1]. Este mismo interés se menciona en el Decreto de Adjudicación N°112 como aplicable a los pagos del contrato de concesión [10].\n\n2. En el Convenio Complementario N°1 (2005-05-16), en caso de retraso por parte del MOP en la emisión de la Resolución que reconoce valores o en el pago de montos indicados en cuotas, se devenga un interés real diario de 0,02612% [3].\n\n3. En el Convenio Complementario N°2 (2007-04-30), para compensar el monto adeudado por el MOP, este devengará a partir del 1 de enero de 2007 el interés diario resultante de aplicar la porción diaria que corresponda de la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras [4]. Las tablas de ejemplo muestran tasas diarias calculadas a partir de esta tasa anual variable (por ejemplo, 0,012636%, 0,014098%, 0,014826%) [7], [8], [9].\n\n4. En el Decreto Supremo N°136 (2023-07-25), en caso de retraso por parte del MOP en la fecha máxima de pago señalada en el Convenio, deberá pagar intereses considerando un interés real diario equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año, conforme a las tasas que informe la Comisión para el Mercado Financiero [2].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

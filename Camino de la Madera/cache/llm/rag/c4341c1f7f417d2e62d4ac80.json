@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:30",
+ "respuesta": {
+  "respuesta": "La concesión abarca las comunas de San Pedro de la Paz, Negrete y Melipeuco. La ruta se inicia en la localidad de San Pedro, comuna de San Pedro de la Paz, y finaliza en la localidad de Coihue, Comuna de Negrete [10]. Además, existe una denegación de concesión de exploración geotérmica respecto del área denominada 'Wechu', ubicada en la Comuna de Melipeuco [3].",
+  "fuentes": [
+   3,
+   10
+  ]
+ }
+}

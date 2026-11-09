@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:14",
+ "respuesta": {
+  "respuesta": "El servicio del MOP que fiscaliza el contrato de concesión es el Inspector Fiscal, quien controla el cumplimiento del Contrato en todos sus aspectos [6]. Además, la Dirección General de Obras Públicas (DGOP) participa a través del Inspector Fiscal y puede incorporar profesionales o especialistas como asesores de la Inspección Técnica de la Explotación de la Obra (I.T.E.O.) para dicha fiscalización [6].",
+  "fuentes": [
+   3,
+   6
+  ]
+ }
+}

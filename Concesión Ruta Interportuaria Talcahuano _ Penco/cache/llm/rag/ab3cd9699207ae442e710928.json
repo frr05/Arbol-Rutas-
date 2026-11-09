@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "La concesión se adjudicó en el Tramo B, donde la variable de licitación fue el Subsidio del Estado al Oferente “S” [3]. La oferta ganadora presentó un monto de Subsidio solicitado de 287.000 UF [5].",
+  "fuentes": [
+   3,
+   5
+  ]
+ }
+}

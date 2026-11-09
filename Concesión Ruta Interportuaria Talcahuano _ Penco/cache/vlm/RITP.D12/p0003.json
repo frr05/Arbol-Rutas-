@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D12",
+ "pagina": 3,
+ "archivo": "4_modificacion_obras_convenios/2006-08-16-DS-N-663.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 323,
+ "segundos": 14.7,
+ "fecha": "2026-11-05 00:29",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 187,
+  "conf_media": 0.784,
+  "frac_baja": 0.176,
+  "frac_rara": 0.017,
+  "tinta": 0.0289
+ },
+ "n_palabras_vlm": 204,
+ "frac_rara_vlm": 0.015,
+ "similitud": 0.84,
+ "truncado": false,
+ "texto_ocr": "9\n\np” 2. ESTABLÉCESE que la Sociedad Concesionaria deberá suscribir ante Notario tres transcripciones\ndel presente Decreto Supremo, en señal de aceptación de gu contenido, debiendo protocolizar ante\nel mismo Notario uno de sus ejeniplares, dentro del plazo de 15 días corridos contados desde su\npublicación en el Diario Oficial. Una de las transcripciones referidas precedentemente será\nentregada para sn archivo a la Dirección de Concesiones de Óbras Públicas y otra a la Fiscalía del\nMinisterio de Obras Públicas, ambas deberán ser acompañadas de una copia autorizada de la\n\nprotocolización efectuada.\n\n3. SOLICÍTASIE la urgencia de 5 días para el trámile de “'oma de |Kazón del presente Decrelo\nSupremo, en atención a las razones expuestas en los Considerandos, conforme a Jo dispuesto en el\ninciso tercero del artículo 11I% del DFL MOP ¡N” 850, de 1997, que fija el texto refimdido,\ncoordinido y sistematizado de la Ley N* 15.840, de 1964, Orgánica del Ministerio de Obras\nPúblicas y del DIL, N* 206, de 1960, Ley de Caminos.\n\nANÓTESP 'TÓMESE RAZÓN Y PUBLÍQUESE\n\n()(reple lo\n\nMICHELLE BACHELET JERIA\nPRESIDENTE DE LA REPÚBLICA\n\nMinistro de Hacienda\n\nNAL\n\noutra also",
+ "texto_vlm": "2. ESTABLÉCESE que la Sociedad Concesionaria deberá suscribir ante Notario tres transcripciones del presente Decreto Supremo, en señal de aceptación de su contenido, debiendo protocolizar ante el mismo Notario uno de sus ejemplares, dentro del plazo de 15 días corridos desde su publicación en el Diario Oficial. Una de las transcripciones referidas precedentemente será entregada para su archivo a la Dirección de Concesiones de Obras Públicas y otra a la Fiscalía del Ministerio de Obras Públicas, ambas deberán ser acompañadas de una copia autorizada de la protocolización efectuada.\n\n3. SOLICÍTASE la urgencia de 5 días para el trámite de Toma de Razón del presente Decreto Supremo, en atención a las razones expuestas en los Considerandos, conforme a lo dispuesto en el inciso tercero del artículo 111º del DFL MOP N° 850, de 1997, que fija el texto refundido, coordinado y sistematizado de la Ley N° 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N° 206, de 1960, Ley de Caminos.\n\nANÓTESE TÓMESE RAZÓN Y PUBLÍQUESE\n\nMICHELLE BACHELET JERIA\nPRESIDENTE DE LA REPÚBLICA\n\nEDUARDO BITRÁN COLODRO\nMinistro de Obras Públicas\n\nANDRÉS VELASCO BRAÑES\nMinistro de Hacienda\n\nCONTRALORÍA GENERAL\nDivisión de Vialidad y Obras Públicas y Transportes\nOFICINA 12 OCT. 2003\n[ilegible]"
+}

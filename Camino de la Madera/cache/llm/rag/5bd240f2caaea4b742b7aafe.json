@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información específica sobre servicios especiales obligatorios que deba prestar el concesionario en la etapa de explotación. Los fragmentos mencionan servicios básicos de mantenimiento del tránsito, primeros auxilios y rescate de vehículos [1], así como la posibilidad de servicios complementarios [2][3][4], pero no detallan servicios especiales obligatorios.",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

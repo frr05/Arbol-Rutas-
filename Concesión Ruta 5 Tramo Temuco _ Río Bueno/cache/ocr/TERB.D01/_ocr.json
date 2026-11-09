@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D01",
+ "archivo": "1_licitacion/Bases-de-Licitacion-TERB.pdf",
+ "sha256": "b27d2cd71bdb32d76d7d8d42fb5437c06445ee46269523fd51d7695439bf2f59",
+ "paginas": 125,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:03"
+}

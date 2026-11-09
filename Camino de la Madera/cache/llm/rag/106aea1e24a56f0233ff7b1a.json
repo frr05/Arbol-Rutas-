@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. El Reglamento de Servicio establece una clasificación de vehículos en tipos y categorías para determinar la tarifa a cobrar [1]. Además, se menciona que todos los vehículos deberán cancelar las tarifas correspondientes a su categoría [2], y que el concesionario no podrá cobrar tarifas discriminatorias a usuarios de la misma categoría [3].",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

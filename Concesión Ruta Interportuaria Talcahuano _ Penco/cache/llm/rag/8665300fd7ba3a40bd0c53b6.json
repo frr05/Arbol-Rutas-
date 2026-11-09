@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:14",
+ "respuesta": {
+  "respuesta": "Forman parte del contrato de concesión las disposiciones pertinentes de los siguientes cuerpos legales: a) El decreto supremo MOP N° 200, de 1926, que fija el texto refundido, coordinado y sistematizado del DFL MOP N° 164, de 1991, Ley de Concesiones de Obras Públicas; b) El decreto supremo MOP N° 956, de 1997, Reglamento de la Ley de Concesiones de Obras Públicas; c) El DFL MOP N° 350, de 1997, que fija el texto refundido, coordinado y sistematizado de la ley N° 15.540, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N° 206, de 1960, Ley de Caminos [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

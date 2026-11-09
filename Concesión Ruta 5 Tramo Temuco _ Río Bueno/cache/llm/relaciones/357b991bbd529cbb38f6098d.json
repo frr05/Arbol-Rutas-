@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "El Inspector Fiscal deberá revisar los proyectos de ingeniería de detalle definitivos dentro del plazo de 60 días, contado desde la entrega de los mismos por parte de la Sociedad Concesionaria. Dentro de este período el Inspector Fiscal podrá realizar observaciones una sola vez a cada proyecto de ingeniería, las que deberán ser subsanadas por la Sociedad Concesionaria dentro de los 20 días siguientes, debiendo el Inspector Fiscal aprobarlos dentro de los 20 días siguientes contados desde la entrega de los proyectos corregidos por la Sociedad Concesionaria. En el evento que dichas correcciones no sean satisfactorias para el Inspector Fiscal, la Sociedad Concesionaria dispondrá de un plazo adicional de 15 días, disponiendo el Inspector Fiscal de un plazo similar para aprobarlos si ellos han sido corregidos correctamente. Sino lo fuera, se procederá de igual forma, esto es, en períodos de 15 días para que la Sociedad Concesionaria subsane las observaciones y/o la Inspección Fiscal apruebe el proyecto, según sea el caso.\nTratándose de los antecedentes y planimetría de expropiación, el plazo máximo para su entrega por parte de la Sociedad Concesionaria será de 30 días, contado desde la aprobación por parte del Inspector Fiscal de los correspondientes proyectos de ingeniería de detalle mediante anotación en el Libro de Explotación. Una vez entregados estos antecedentes, el Inspector Fiscal tendrá un plazo de 20 días para efectuar sus observaciones, por una sola vez, debiendo la Sociedad Concesionaria efectuar las modificaciones o correcciones que le sean requeridas en un plazo de 15 días. Entregadas las correcciones o modificaciones, el Inspector Fiscal tendrá un plazo de 20 días para su revisión y, si subsisten algunas de esas observaciones, la Sociedad Concesionaria tendrá 15 días más para efectuar las modificaciones correspondientes.\nEn caso que el Inspector Fiscal no se pronunciare dentro del respectivo plazo, esto es, no observare los anteproyectos y proyectos definitivos o no los rechazare dentro de los plazos máximos señalados, éstos se entenderán aprobados.\nEn caso que la fecha de entrega de los anteproyectos, de los proyectos de Ingeniería definitiva o de los antecedentes de expropiación y planimetría de expropiación al Inspector Fiscal supere el plazo máximo para la ejecución y entrega, indicados en el presente decreto supremo, o bien se produzcan retrasos en la entrega de las correcciones, se entenderá que",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

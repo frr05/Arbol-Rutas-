@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 20:37",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D02.F0002] (Circular aclaratoria N°1 (2001-10-23)) I. ACLARACIONES, RECTIFICACIONES, ENMIENDAS Y ADICIONES",
+    "destino": "BL:1.4.6"
+   },
+   {
+    "fragmento": "[RITP.D02.F0045] (Circular aclaratoria N°3 (2001-11-16)) - Claro Vicuña Valenzuela S.A. : — Forestales Regionales S.A. - Oficina de, Partes DGOP — Coordinación de Desarrollo y Gestión de Proyectos - Unidad Jurídica de Proyectos - Archivo División Licitación de Proyectos",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D02.F0078] (Circular aclaratoria N°4 (2001-11-22)) 31. Se adiciona el siguiente artículo 2.2.3.4 “Obras de Semaforización”, que dice: “2.2.3.4 Obras de Semaforización El Concesionario deberá ejecutar como parte de las obras de la presente concesión, a su entero costo, la totalidad «de las obras requeridas para la modificación de la intersección semaforizada Av. Colón-Calle Hualpén y la habilitación de semáforos en la intersección Av. Colón—Acceso al Puente Rocuant,”",
+    "destino": "BL:2.2.3"
+   },
+   {
+    "fragmento": "[RITP.D02.F0089] (Circular aclaratoria N°4 (2001-11-22)) - Sociedad Constructora B Y A Ingenieros Ltda. — Ingeniería y Construcción Icafal Ltda. — Sacyr Chile S.A, - Astilleros y Maestranza de la Armada (ASMAR) —, Constructora Mendes Junior y Asociados - Claro Vicuña Valenzuela S.A, — Forestales Regionales S.A. — Oficina de Partes DGOP - Coordinación de Desarrollo y Gestión de Proyectos — Unidad Jurídica de Proyectos - Archivo División Licitación de Proyectos",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0001] (Publicacion diario oficial N°47 (2002)) Núm. 47 240.- Año CXAV- N” 320,108 (M,R.) SUMARIO Normas Generales PODER EJECUTIVO MINISTERIO DE HACIENDA",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0002] (Publicacion diario oficial N°47 (2002)) Decreto número 229.- Ácep- ta renuncia y nombra director del Servicio de Impuestos In- LETTDOS ccccccccnnnnnnnnannnnnnncnononenos P.2 MINSTERIO DE OBRAS PUBLICAS",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0003] (Publicacion diario oficial N°47 (2002)) Decreto número 112.- Adjudi- ca contrato de concesión para la ejecución, conservación y explo- tación de la obra pública fiscal denominada “Ruta Interportua- ria Talcahuano-Penco por Isla Ko- QUAME a ccccnnnnnanannnnnnnncnnnononos P.2 MINISTERIO DE VIVIENDA Y URBANISMO",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "[RITP.D05.F0004] (Publicacion diario oficial N°47 (2002)) Decreto número 33.- Modifica decreto número 47, de 1992, Or- denanza General de Urbanismo y CONSÍITUCCIONES c..occcnnnncinnnnnn P.5",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D05.F0005] (Publicacion diario oficial N°47 (2002)) Decreto número 7%. - Modifi- ca decreto número 155, de 2001 Secretaría Regional Ministenal Y Región de Valparaiso Resolución número 375 exen- ta.- Modifica llamado a postula- ción número 12002 occ... P.7 CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE DIARIO OFICIAL DE LA REPUBLICA DE CHILE Normas Particulares MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCION SUBSECRETARIA DE ECONOMIA, FOMENTO Y RECONSTRUCCIÓN Rectific",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0006] (Publicacion diario oficial N°47 (2002)) Decreto número $2.- Deja sin efecto decreto que otorga a Lol- bún5.A. concesión definitiva para establecer línea de transporte de energía eléciTiCA .....ooocn...... P.12 SUBSECRETARIA DE PESCA Extracto de resolución número 616, de OO occ P. 12 MINISTERIO DE HACTENDA Servicio de Impuestos Internos A Dirección Regional Puerto Montt Extracto de resolución número 207 exenta, de 2002 000.0... P 12 MINISTERIO DE EDUCACION",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0007] (Publicacion diario oficial N°47 (2002)) Decreto número 111.- Nombra e mcluye en la Tercera Nómina Nacional de Síndicos a don César Gabriel Ortiz D'Amico ...... P.13",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0008] (Publicacion diario oficial N°47 (2002)) Decreto número 220,- Aprue- ba acuerdo de disolución y cance- la personalidad jurídica a ““Fun- dación Pro Ayuda Hospital San José”, de Santiago ............. P.13",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0009] (Publicacion diario oficial N°47 (2002)) Decreto número 261.- Conce- de personalidad jurídica y aprue- ba estatutos a Cuerpo de Bombe- ros de Quilaco ....oooocccccocionmm.o. P.13 Entidades Religiosas de Derecho Público e P. 13 MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES SUBSECRETARIA DE TELECOMUNICA CIONES",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0010] (Publicacion diario oficial N°47 (2002)) Decreto número 12.- Modifica concesión de servicio público de telefonía m óvil celular a Bellsouth Comunicaciones S.A... P.14",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0011] (Publicacion diario oficial N°47 (2002)) Decreto número 66.- Modifica concesión de servicio público de telefonía m óvil celular a Bellsouth Comunicaciones S.A... P.14 ASOCTACIONES GREMIALES Asociación Gremial de Agri- cultores de la Provincia de Chiloé PRECIO PREFERENCIAL A SUSCRIPTORES $ 1.500 IVA INCLUIDO ESCRITURAS SOCTA LES sociedades Anónimas Constituciones ACM Investments 5S.A., Agrí- cola y Forestal Martínez £ Martí- nez S.A., Centro de Prevención De",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0012] (Publicacion diario oficial N°47 (2002)) Comercial La Real Limitada, Comercializadora Las Palmas L1- mitada, Constructora Altec Mo- delo Limitada, D'ecoración y Ser- vicios Limitada, Del Vicente Li- mitada y Distribuciones Fas Limitada oooonncccnnnnnncnnnnncnns P.20 Empresa de Comunicaciones Indicio Limitada, Gallyas £ Cim- gel Sociedad Colectiva, laza Im- presos Limitada, Ibáñez £ Mén- dez Limitada, Importadora y Dis- tribuidora de Repuestos Áutomo- trices",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0013] (Publicacion diario oficial N°47 (2002)) Agricola Jaime del Villar y Compañía Limitada, Agrícola Santa Luisa Limitada y Buses Excalibur Ltda. .................. P.27 Centro Médico y Odontológi- co Corval Médica Limitada, Chris- tiansen y Compañía Limitada, Co- merclal Dec Limitada, Comercial Product Export Limitada, Comer- clal Ventanal y Compañía Limita- da, Comercializadora Funalbrón Limitada, Constructora Peña y Peña Limitada y Constructora Río Claro Lim",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0014] (Publicacion diario oficial N°47 (2002)) PUBLICA CIONES JUDICIA LES Juicios de Quiebras Electrónica, Música y Entrete- nimiento Limitada.............. P.32 Muerte presunta de: Á guile- ra Abarca Octavio René ..... P.32 Avisos de: Dirección de Prev1- $1ón de Carabineros de Chile, Mu- nicipalidades de Alto del Car- men, Cauquenes, Codegua, Co- plapó, Curepto, Curicó, Los An- des, Nacimiento, Natales, Padre Hurtado, Pencahue, Puerto Montt, san Antonio, San Pab",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0015] (Publicacion diario oficial N°47 (2002)) Decreto: 1* Acéptase, a contar desde el 7 de enero de 2002, la renuncia presentada por don Javier Etcheberry Celhay al cargo de Director del Servicio de Impuestos Internos. 2” Nómbrase, a contar desde el 15 de marzo de 2002, en el cargo de Director del Servicio de Impuestos Internos, a don Juan Ángel Toro Rivera, ingeniero civil industrial, RUT N” 9,212.049-K. El señor Toro Kivera, por razones impostergables de buen",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0017] (Publicacion diario oficial N°47 (2002)) Decreto:",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D05.F0018] (Publicacion diario oficial N°47 (2002)) 1. Adjudicase el Contrato de Concesión para la ejecu- ción, conservación y explotación de la obra pública fiscal denominada *“Ruta Interportuaria Talcahuano-Penco por Isla Rocuant”” al Grupo Licitante Consorcio Autopista Interpor- tuaria, formado por las empresas Besalco 5.A., Constructora EYA Ingenieros Ltda., y Proyectos de Infraestructura e Inver- siones Genera Ltda.",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "[RITP.D05.F0019] (Publicacion diario oficial N°47 (2002)) 2. Declárase que forman parte integrante de este decreto supremo de Adjudicación para la concesión de la obra pública fiscal denominada *“Ruta Interportuaria Talcahuano-Penco por Isla Rocuant””, las Bases de Licitación, aprobadas por resolución DGOP N* 261 del 16 de agosto de 2001; las Circulares Aclaratorias N*1,2,3y4, aprobadas por resolucio- nes DGOP N*340, 362 y 371, todas del año 2001; y las Ofertas Técnica y Ec",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "[RITP.D05.F0021] (Publicacion diario oficial N°47 (2002)) 1. Calzadas Nuevas 3. Defensas Fluviales 2.2.1.3 4. Obras Complementarias en Inter- 221.4 221,5 22 LÓ 22.17 secciones a Desnivel existentes 5, Pasos Interpredialezs ó. Cierros Perimetrales FT. Servicios Especiales Obligatorios A.2 Mejoramiento de Infraestructura IS superestructura Preexistente",
+    "destino": "BL:2.2.1"
+   },
+   {
+    "fragmento": "[RITP.D05.F0022] (Publicacion diario oficial N°47 (2002)) 1. Obras de Mejoramiento de Inter- secciones y Calzadas existentes 2, Mantenimiento de Puentes y",
+    "destino": "BL:2.2.2"
+   },
+   {
+    "fragmento": "[RITP.D05.F0023] (Publicacion diario oficial N°47 (2002)) 2.2,2,1 Estructuras 2",
+    "destino": "BL:2.2.2"
+   }
+  ]
+ }
+}

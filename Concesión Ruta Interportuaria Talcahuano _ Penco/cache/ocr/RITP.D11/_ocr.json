@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D11",
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "sha256": "2751330ba91a73f0c411a770faaa38d169829dba5ddf3bc3f4d65c9b6b11f7c8",
+ "paginas": 29,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:50"
+}

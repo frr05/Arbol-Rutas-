@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "La concesión utiliza un sistema de cobro por uso efectivo con control de accesos manual, donde se cobra a la salida según la distancia recorrida dentro de la vía concesionada [2][4]. El sistema incluye cobro manual obligatorio en al menos una pista [2][3][5], combinado potencialmente con tecnología automática (tarjeta, monedas, fichas) [1].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 11:59",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 decretos modificatorios del contrato: Decreto Supremo MOP N°892 (1996) [3] y Decreto Supremo MOP N°1.901 (2000) [3]. Además, se dictaron 3 resoluciones modificatorias: Resolución N°4333 (2007) [2][4][8], Resolución N°5066 (2008) [2][8][10] y Resolución N°2633 (2009) [1][2][8][10].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   10
+  ]
+ }
+}

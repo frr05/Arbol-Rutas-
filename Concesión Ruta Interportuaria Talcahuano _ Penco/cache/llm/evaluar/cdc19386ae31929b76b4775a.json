@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:16",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 11,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide exactamente con el dato principal de la referencia."
+   },
+   {
+    "n": 12,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye todos los plazos y condiciones específicas mencionados en la referencia."
+   },
+   {
+    "n": 13,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el plazo clave de 90 días antes de la solicitud, que es el dato principal."
+   },
+   {
+    "n": 14,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con el momento de inicio del cobro establecido en la referencia."
+   },
+   {
+    "n": 15,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente los porcentajes y plazos para ambas obras según la referencia."
+   },
+   {
+    "n": 16,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con el plazo de 60 días corridos y los requisitos de suscripción/protocolización."
+   },
+   {
+    "n": 17,
+    "veredicto": "correcta",
+    "motivo": "La respuesta cubre los requisitos principales: plazo de 6 meses, planos aprobados, inspección y resolución."
+   },
+   {
+    "n": 18,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el plazo máximo de 6 meses desde la publicación del decreto."
+   },
+   {
+    "n": 19,
+    "veredicto": "parcial",
+    "motivo": "Aunque menciona los 30 días generales, omite la consecuencia de no pago (hacer efectivas las garantías) que es parte esencial de la referencia."
+   },
+   {
+    "n": 20,
+    "veredicto": "correcta",
+    "motivo": "La respuesta enumera las cuatro causas de extinción coincidentes con la referencia."
+   }
+  ]
+ }
+}

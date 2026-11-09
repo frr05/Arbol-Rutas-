@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:13",
+ "respuesta": {
+  "respuesta": "El monto de la garantía de explotación es de 10.000 UF para la Obra (A), 3.000 UF para la Obra (B), 3.000 UF para la Obra (C) y 1.000 UF para la Obra (D) [1][7]. Además, según el Convenio complementario N°1, se establece una garantía de explotación adicional de UF 15.000 [6].",
+  "fuentes": [
+   1,
+   6,
+   7
+  ]
+ }
+}

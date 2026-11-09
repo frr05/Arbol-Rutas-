@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D13",
+ "archivo": "4_modificacion_obras_convenios/DS-No136_25-07-2023.pdf",
+ "sha256": "01d170eba8c7d4ee7c5d7e9cbac5555c98a218e989baf5d9b26c61ef17725cbb",
+ "paginas": 8,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:50"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "El tiempo máximo de espera en cola (TEC) que se exigirá a la Sociedad Concesionaria mantener es inferior a 2 minutos por vehículo, inclusive en las horas de mayor demanda [1]. Este diseño debe considerar un tiempo máximo de espera en cola de 2 minutos [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

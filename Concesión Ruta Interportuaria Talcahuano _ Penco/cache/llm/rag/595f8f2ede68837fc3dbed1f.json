@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:37",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para vehículos livianos (Tipo 2: Autos y Camionetas) es de $50 por kilómetro en periodo punta y $35 por kilómetro fuera de punta, expresados en pesos del 31 de diciembre de 2000 [3]. Además, se fija una tarifa máxima única de $300 (pesos al 31/12/2000) reajustable para los peajes en accesos para este tipo de vehículos [2].",
+  "fuentes": [
+   2,
+   3
+  ]
+ }
+}

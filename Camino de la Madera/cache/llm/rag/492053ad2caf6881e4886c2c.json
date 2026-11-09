@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es variable. Aunque las bases originales establecían un plazo máximo fijo de 25 años [1], el Convenio Complementario N°1 modificó el contrato para establecer un mecanismo de plazo variable de concesión, definiendo una fecha estimada de extinción que depende del cumplimiento de ciertas condiciones financieras y de tráfico, en lugar de la extinción automática por cumplimiento del plazo original [4].",
+  "fuentes": [
+   1,
+   4
+  ]
+ }
+}

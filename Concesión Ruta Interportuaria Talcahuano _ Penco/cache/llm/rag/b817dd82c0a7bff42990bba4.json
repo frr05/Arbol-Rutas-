@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "El monto mínimo que cubre el seguro de responsabilidad civil por daños a terceros es de UF 12.000 (doce mil Unidades de Fomento) [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

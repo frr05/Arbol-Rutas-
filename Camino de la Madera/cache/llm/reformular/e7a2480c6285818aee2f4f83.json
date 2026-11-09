@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "consultas": [
+   "multa interrupción servicio sin autorización Inspector Fiscal UTM",
+   "sanción suspensión parcial total concesión fiscalización"
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar dos tipos de seguros: el Seguro por Responsabilidad Civil por Daños a Terceros [3] y el Seguro por Catástrofe [1]. Estos deben entregarse en forma separada, ya que las pólizas de uno no pueden incluir ni ser incluidas en las del otro [5].",
+  "fuentes": [
+   1,
+   3,
+   5
+  ]
+ }
+}

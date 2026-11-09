@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "El decreto de adjudicación (DS MOP N° 112) se publicó en el Diario Oficial el día 20 de abril de 2002 [3].",
+  "fuentes": [
+   3,
+   1,
+   2
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:34",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.4.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "en base a dos peritajes, uno contratado por el MOP y otro por la Sociedad Concesionaria, del cual se elegirá uno.",
+    "debe_decir": "en base a dos peritajes, uno contratado por el MOP y otro por la Sociedad Concesionaria, pudiendo la comisión ordenar un tercer peritaje para los mismos efectos u establecer otro procedimiento en el mismo sentido.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 140,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 565,
+ "segundos": 30.9,
+ "fecha": "2026-10-27 12:14",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 156,
+  "conf_media": 0.591,
+  "frac_baja": 0.487,
+  "frac_rara": 0.0,
+  "tinta": 0.0812
+ },
+ "n_palabras_vlm": 386,
+ "frac_rara_vlm": 0.013,
+ "similitud": 0.246,
+ "truncado": false,
+ "texto_ocr": "PÚBLICA\na.\n\nE CURSA CON ALCANCES El a\n. e DECRETO. No. . 20 DE. 2018, DEL.\nCONTRALORÍA GENERAL DELLA REPÚBLICA e MINISTERIO DE OBRAS PÚ BLICAS. (\nREGIÓN 130 A\nUN 2018 N? 15.945\n\nMens E. a\n\n1\n\n213020180628158945\n\nCsnala E deneral ba, dedo curso.\nr razones de interés. público las\nseñal a del contrato. de a\n\n4\n\nanterior. Puno con.\nla fase e Infor rme\n\na da fiscal roma dá El\n. . , Lo último E ocL\n\npi , del: “apartado | a\nerale s el 7 1 y 6 estudio, conespnda al\nal del nur eral6 72. y no, como: en vete se:\n\n0 anal. dela numeral -\no on N 051134, de 29 de marzo de 20 17.\n\ne \"sabe, al tespeció 2 o o\no del apartado 4.3 del decreto\n9 es el o. ES a el, mon a a\n\n. conside en los. do\nie examinado, ade se entiend",
+ "texto_vlm": "CONTROLERÍA GENERAL DE LA REPÚBLICA\nDIVISIÓN DE INFRAESTRUCTURA Y REGULACIÓN\nMFP\nOCF\nCURSA CON ALCANCES EL\nDECRETO N° 20, DE 2018, DEL\nMINISTERIO DE OBRAS PÚBLICAS.\nCONTROLERÍA GENERAL DE LA REPÚBLICA\nREGIÓN 130\n26 JUN 2018 N° 15.945\n21302018062681945\nSANTIAGO,\nLa Contraloría General ha dado curso\nal instrumento del rubro, que modifica por razones de interés público las\ncaracterísticas de las obras y servicios que señala del contrato de concesión\nde la obra pública fiscal denominada \"Concesión Internacional Ruta 5 Tramo\nTemuco - Río Bueno\" y aprueba el convenio ad-referéndum N° 3.\nSin perjuicio de lo anterior, cumple con\nhacer presente que el plazo de entrega del informe de la fase 5 -Informe\nFinal de Estudio Definitivo- se contará desde la fecha en que el inspector\nfiscal notifique a la sociedad concesionaria la aprobación de la fase 3 o fase\n4, lo último que ocurra, o desde la fecha en que deba entenderse aprobada\nla fase 4, y no como se indica en el romano (iv), de la letra (a), del numeral 2\ndel citado decreto, atendido lo previsto en la letra (f) del mismo.\nDe igual forma, es menester anotar que\nla preceptiva aludida en la parte final del literal d., del apartado i., de los\nnumerales 3.7.1 y 6.7.1 del acto administrativo en estudio, corresponde al\ninciso final del numeral 6.7.2, y no como en aquellos se señala.\nTambién, es dable manifestar que se\nadvierte un error en la identificación del oficio señalado en el segundo\npárrafo del numeral 4.2 del presente instrumento, debiendo indicar oficio\nOrd. N° 051/34, de 29 de marzo de 2017.\nAsimismo, cabe precisar, respecto a lo\nconsignado en los párrafos séptimo y octavo del apartado 4.3 del decreto\nexaminado, que se entiende que el numeral 7.9 es el que regula el monto\nmáximo que reconocerá el Ministerio de Obras Públicas por concepto de\ncambios de servicios y modificación de canales, y no el que allí se\ncontempla.\nFinalmente, y en otro orden de\nconsideraciones, es del caso señalar que de los antecedentes adjuntos se\nadvierte que la obra denominada \"Camino de Servicio Las Violetas - La Paz\",\nordenada por el decreto N° 524, de 2005, del ministerio del ramo, se dispuso\nAL SEÑOR\nMINISTRO DE OBRAS PÚBLICAS\nPRESENTE\nSUBSECRETARIA GO.PP.\nOFICINA DE PARTES\nFECHA 27 JUN 2018\nPROCESO N°"
+}

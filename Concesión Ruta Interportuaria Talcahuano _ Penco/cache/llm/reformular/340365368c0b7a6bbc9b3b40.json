@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "consultas": [
+   "variable de licitación adjudicación",
+   "factor de adjudicación oferta económica"
+  ]
+ }
+}

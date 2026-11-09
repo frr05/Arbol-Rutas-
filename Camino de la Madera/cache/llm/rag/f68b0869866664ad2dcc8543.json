@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre las ofertas específicas presentadas por los licitantes, ni sus valores de factor de licitación, puntajes económicos o notas técnicas. Los documentos proporcionados son exclusivamente las Bases de Licitación y la Ficha de Actos, que establecen los criterios de evaluación (como la fórmula para calcular el puntaje [1], [4] y las ponderaciones de la oferta técnica [6]), pero no revelan los resultados numéricos de las ofertas presentadas.",
+  "fuentes": []
+ }
+}

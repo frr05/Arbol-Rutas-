@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D07",
+ "archivo": "2_adjudicacion/Decreto-Supremo-2633-Camino-de-la-Madera.pdf",
+ "sha256": "7b82d722b740870c102fd54444c8d8d79f3b8a3237003a36b59f1fe74b1a0d16",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:35"
+}

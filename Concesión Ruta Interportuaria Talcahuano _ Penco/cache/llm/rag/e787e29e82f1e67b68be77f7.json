@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:17",
+ "respuesta": {
+  "respuesta": "Durante la Etapa de Explotación, la Sociedad Concesionaria debe entregar al Inspector Fiscal los siguientes informes y antecedentes:\n\n1. Estados financieros trimestrales y anuales en formato FECU, entregados dentro de los 5 días posteriores a su entrega a la Superintendencia de Valores y Seguros, explicitando ingresos desglosados (peajes, autorizaciones, cobros por accesos) y tipo de deudas [1].\n2. Información sobre organización y personal superior cada vez que se produzca un cambio, dentro de los 15 días del hecho [1].\n3. Información adicional requerida por el Inspector Fiscal para fiscalizar el cumplimiento del contrato, dentro de los 15 días de la solicitud [1].\n4. Informes de avance de la gestión ambiental con periodicidad variable: trimestral durante el primer y segundo año; semestral entre el tercer y sexto año; anual desde el séptimo año hasta dos años antes del fin de la concesión; y semestral en los dos últimos años, todos dentro de los primeros 15 días del período siguiente (trimestre, semestre o año) [1], [2]. Estos informes deben incluir problemas ambientales registrados y propuestas de solución [2].\n5. Información mensual de reclamos de usuarios, identificando usuario, reclamo, fecha, respuesta y medidas adoptadas, entregada dentro de los primeros 15 días del mes siguiente al periodo informado [1].\n6. Información sobre estadísticas, mediciones y controles referida al artículo 1.10.8, en los plazos indicados en las Bases [1].\n7. Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas [1].\n8. Cualquier otra información relacionada con el Contrato que requiera el Inspector Fiscal, en el plazo indicado por este [1].\n\nAdicionalmente, según el artículo 2.6.6, se deben entregar específicamente:\n- Informes mensuales (dentro de los primeros 15 días de cada mes) con: flujo vehicular horario, diario y mensual clasificado; promedio horario de velocidad; información estadística de accidentes diarios; e información estadística de auxilios prestados a usuarios [3].\n- Informes trimestrales (dentro de los primeros 15 días del trimestre siguiente): cumplimiento del Programa de Conservación, cantidades de obras ejecutadas y precios unitarios incurridos, e informe específico de puentes según el artículo 2.6.1.6 [4].\n\nLa Sociedad Concesionaria también debe mantener permanentemente actualizada la información solicitada y facilitar el acceso a las mediciones, proporcionando archivos de operación en formatos preestablecidos si el Inspector Fiscal lo solicita [9].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   9
+  ]
+ }
+}

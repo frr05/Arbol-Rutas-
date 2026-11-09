@@ -1,0 +1,115 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 19:58",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1247,
+     1258
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "b) Elacceso y conexión a la obra deberán cumplir con la normativa vigente sobre la materia, en particular en los aspectos técnicos y de seguridad vial, debiendo, además, mantener los estándares definidos en las presentes Bases de Licitación. Dichos proyectos deberán someterse a la aprobación del Inspector Fiscal,",
+    "debe_decir": "b) Los accesos y conexiones a la obra deberán cumplir con la normativa vigente sobre la materia, en particular en los aspectos técnicos y de seguridad vial, debiendo, además, mantener los estándares definidos en las presentes Bases de Licitación, Dichos proyectos deberán someterse a la aprobación del Inspector Fiscal,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "d) Cuando un tercero solicite un acceso a una calle de servicio existente, la Sociedad Concesionaria realizará las obras necesarias para el nuevo acceso, conforme a la normativa vigente y solamente podrá cobrar a este tercero el costo de las obras necesarias para su habilitación, las cuales se valorizarán a los Precios Unitarios Oficiales de acuerdo al Anexo N93.",
+    "debe_decir": "e) Cuando un tercero solicite un acceso a una calle de servicio de la concesión, si la hubiere, la Sociedad Concesionaria podrá realizar las obras necesarias para el nuevo acceso, conforme a la normativa vigente y solamente podrá cobrar a este tercero el costo de las obras necesarias para su habilitación, las cuales se valorizarán a los Precios Unitarios Oficiales de acuerdo al Anexo N93.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "e) El MOP podrá permitir acceso directo a las calzadas de la o las vías concesionadas, sólo en los casos en que no sea posible la conexión con un camino secundario o una calle de servicio. En estos casos, la Sociedad Concesionaria realizará las obras necesarias para materializar el nuevo acceso, conforme a la normativa vigente, y podrá cobrar al tercero, además del costo de las mismas una cantidad adicional que no podrá ser superior al 25% del costo de la obra del acceso cuando se trate de accesos a nivel autorizados por el MOP y del 10% cuando se trate de accesos con estructuras a desnivel. Estas obras se valorizarán a los Precios Unitarios Oficiales de acuerdo al Anexo N93.",
+    "debe_decir": "d) La Sociedad Concesionaria podrá permitir accesos directos a las calzadas de la o las vías concesionadas, sólo en los casos en que no sea posible la conexión con un camino secundario o una calle de servicio. En estos casos, la Sociedad Concesionaria realizará las obras necesarias para materializar el nuevo acceso, conforme a la normativa vigente, y podrá cobrar al tercero, además del costo de las mismas una cantidad adicional que no podrá ser superior al 25% del costo de la obra del acceso cuando se trate de accesos a nivel autorizados por el MOP y del 10% cuando se trate de accesos con estructuras a desnivel. Estas obras se valorizarán a los Precios Unitarios Oficiales de acuerdo al Anexo N93,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P9"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "f La Sociedad Concesionaria podrá exigir los pagos de las obras a que se refieren las letras precedentes, al contado.",
+    "debe_decir": "e) La Sociedad Concesionaria podrá exigir los pagos de las obras a que se refieren las letras precedentes, al contado.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "a) Los accesos y conexiones a las calzadas de la o las vías concesionadas requerirán de un Estudio de Ingeniería, y si lo amerita, un Estudio de Impacto Vial, contratado y financiado por el interesado, que permita considerar medidas para garantizar seguridad en Su uso, realizado por una Consultora inscrita en los registros del MOP y el acceso o conexión deberá ser conforme a la normativa vigente.",
+    "debe_decir": "£) Los accesos y conexiones a las calzadas de la o las vías concesionadas requerirán de un Estudio de Ingeniería, y si lo amerita, un Estudio de Impacto Vial, contratados y financiados por el interesado, que permita considerar medidas para garantizar seguridad en su uso, realizado por una Consultora inscrita en los registros del MOP.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P11"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "h) La Sociedad Concesionaria no podrá rechazar a terceros interesados en accesos o conexiones a la o las vías concesionadas siempre que se cumpla con lo estipulado en las presentes Bases de Licitación. Dichos accesos no podrán estar localizados en puntos que puedan constituir variantes a las plazas de peaje e impedir de este modo el cobro de peajes por parte de la Sociedad Concesionaria.",
+    "debe_decir": "g) La Sociedad Concesionaria no podrá rechazar a terceros interesados en accesos o conexiones a la o las vías concesionadas siempre que se cumpla con lo estipulado en las presentes Bases de Licitación. Dichos accesos no podrán estar localizados en puntos que puedan constituir variantes a las plazas de peaje e impedir de. este modo el cobro de peajes por parte de la Sociedad Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P11"
+    ],
+    "texto_nuevo": [
+     1297,
+     1302
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "elimina",
+    "parrafos": [
+     "P5",
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

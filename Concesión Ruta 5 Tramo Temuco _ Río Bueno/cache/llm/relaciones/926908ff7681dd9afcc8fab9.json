@@ -1,0 +1,173 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash-lite",
+ "fecha": "2026-10-27 12:38",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1",
+     "P3"
+    ],
+    "texto_nuevo": [
+     7288,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     7289,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     7289,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     7289,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     7289,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     7289,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [
+     7288,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P9"
+    ],
+    "texto_nuevo": [
+     7288,
+     7290
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     7291,
+     7304
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     7305,
+     7308
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     7309,
+     7311
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

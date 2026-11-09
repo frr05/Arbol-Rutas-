@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:21",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D11.F0021]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0023]",
+    "destino": "BL:1.5.42"
+   },
+   {
+    "fragmento": "[CM.D11.F0024]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0025]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0026]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D11.F0027]",
+    "destino": "BL:1.5.9"
+   },
+   {
+    "fragmento": "[CM.D11.F0028]",
+    "destino": "BL:1.5.29"
+   },
+   {
+    "fragmento": "[CM.D11.F0029]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0030]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0031]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0032]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0033]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0034]",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0035]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0038]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D11.F0040]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0041]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0042]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0043]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0044]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0045]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0046]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0047]",
+    "destino": "A1"
+   },
+   {
+    "fragmento": "[CM.D11.F0048]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0049]",
+    "destino": "TEMA:obras"
+   }
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:25",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.4.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "las diferencias de cada uno de ellos se resolverán por la Comisión Conciliadora en base a dos peritajes. uno contratado por el MOP y otro por la Sociedad Concesionaria, del cual se elegirá uno.",
+    "debe_decir": "las diferencias de cada una de ellas se resolverán por la comisión conciliadora en base a dos peritajes, uno contratado por el MOP y otro por la Sociedad Concesionaria, pudiendo la comisión ordenar un tercer peritaje para los mismos efectos u establecer otro procedimiento en el mismo sentido.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

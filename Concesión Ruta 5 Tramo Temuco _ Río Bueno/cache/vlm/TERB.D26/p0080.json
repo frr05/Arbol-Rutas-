@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 80,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 68,
+ "segundos": 12.9,
+ "fecha": "2026-10-27 12:14",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 33,
+  "conf_media": 0.721,
+  "frac_baja": 0.364,
+  "frac_rara": 0.0,
+  "tinta": 0.0103
+ },
+ "n_palabras_vlm": 46,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.6,
+ "truncado": false,
+ "texto_ocr": "ANEXO N? 4\ninformación del Centro de Atención al Usuario\n\nTeleiona 53442250\n\nLocalización de oficinas en ruta.\n\nOficina N_\nlance |.\n2Rapaco_ lo.\n\n\" TSentido_\n| Norte Sur (Poniente\ne Norte Sur (Poniente).",
+ "texto_vlm": "ANEXO Nº 4\nInformación del Centro de Atención al Usuario\n\nTeléfono 63-442250\n\nLocalización de oficinas en ruta.\n\nOficina Nº | Kilometraje | Sentido | Ubicación\n1Lanco | 775,000 | Norte Sur (Poniente) | Sector Lanco\n2Rapaco | 876,000 | Norte Sur (Poniente) | Sector La Unión"
+}

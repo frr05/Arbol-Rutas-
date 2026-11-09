@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:11",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Durante la Etapa de Explotación, la Sociedad Concesionaria debe mantener los pavimentos dentro de los niveles establecidos en las Bases de Licitación [4]. Para el pavimento asfáltico, se utiliza como parámetro de medición el Índice de Rugosidad Superficial (IRI), cuyo valor máximo permitido es de 3,5 m/km [4].",
+  "fuentes": [
+   4
+  ]
+ }
+}

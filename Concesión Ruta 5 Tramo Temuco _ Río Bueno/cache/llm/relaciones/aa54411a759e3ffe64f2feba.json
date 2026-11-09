@@ -1,0 +1,129 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:46",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     62,
+     62
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     62,
+     62
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "6.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     65,
+     65
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     67,
+     71
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     72,
+     75
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     81,
+     84
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     81,
+     84
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     85,
+     88
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     85,
+     88
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     89,
+     90
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

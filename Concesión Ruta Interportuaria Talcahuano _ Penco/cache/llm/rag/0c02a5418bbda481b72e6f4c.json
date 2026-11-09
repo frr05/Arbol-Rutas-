@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "El Inspector Fiscal fija la cuantía de la multa y la propone al DGOP, el cual requiere el pronunciamiento de la Comisión Conciliadora en los casos previstos en los artículos 29 y 30 del DS MOP N°900 de 1996 [6]. El Inspector Fiscal tiene la facultad de proponer la aplicación de multas y fiscalizar el cumplimiento de las obligaciones emanadas de los documentos del contrato [10].",
+  "fuentes": [
+   6,
+   10
+  ]
+ }
+}

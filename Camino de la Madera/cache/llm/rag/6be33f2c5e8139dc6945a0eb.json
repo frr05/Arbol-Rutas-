@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "Se publicaron al menos 3 resoluciones modificatorias del contrato: Resolución DGOP (Exenta) N°4333 (2007-12-21), Resolución DGOP (Exenta) N°5066 (2008-12-09) y Resolución DGOP (Exenta) N°2633 (2009-06-05) [4][9][10]. Además, se mencionan decretos supremos modificatorios como el D.S. MOP N°1.901 (2000-05-16) y el D.S. MOP N°1.065 (2004-11-22) que aprueban convenios complementarios [3][4][8].",
+  "fuentes": [
+   3,
+   4,
+   8,
+   9,
+   10
+  ]
+ }
+}

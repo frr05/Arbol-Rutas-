@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. El reglamento establece una clasificación de vehículos en tipos y categorías (como autos, camionetas, camiones de dos ejes, buses, etc.) y define tarifas máximas para cada tipo [2]. Además, se menciona que no se puede cobrar discriminando a vehículos del mismo tipo dentro de la misma categoría, salvo excepciones específicas como los buses y camiones de más de dos ejes, donde se puede discriminar según el número de ejes dentro de la tarifa máxima [1]. También se establecen factores de equivalencia específicos para cada tipo de vehículo para el cálculo de tráfico equivalente y ajustes tarifarios [5].",
+  "fuentes": [
+   1,
+   2,
+   5
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:48",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.5.3",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "[P1]"
+    ],
+    "texto_nuevo": [
+     366,
+     371
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.5.3",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "[P2]"
+    ],
+    "texto_nuevo": [
+     372,
+     378
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

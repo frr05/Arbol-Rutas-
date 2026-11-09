@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones y adquisiciones de terrenos. El monto base establecido es de UF 83.000 (ochenta y tres mil Unidades de Fomento) por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos requeridas para el Estado [1]. Adicionalmente, si la Sociedad Concesionaria optó por la ejecución de las obras de Prolongación de Av. Alessandri en su Oferta Técnica, deberá pagar una cantidad adicional de UF 41.000 (cuarenta y un mil Unidades de Fomento) por los mismos conceptos relacionados con dichas obras [1]. Estos montos cubren los gastos del MOP hasta el valor pericial más UF 60 por lote, pero no incluyen las adquisiciones/expropiaciones para servicios especiales, plazas de peaje, oficinas ni nuevas inversiones, las cuales son de cargo exclusivo de la Sociedad Concesionaria [1]. Asimismo, cualquier mayor costo derivado de modificaciones al proyecto que requieran expropiaciones de mayor valor será asumido por la Sociedad Concesionaria [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

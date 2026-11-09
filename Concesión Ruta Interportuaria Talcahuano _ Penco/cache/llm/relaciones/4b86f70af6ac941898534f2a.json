@@ -1,0 +1,54 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 18:50",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.10.10.2",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1406,
+     1469
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.15.2",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "La Sociedad Concesionaria podrá, a lo más una vez al año, modificar los horarios en que está facultada para cobrar estas tarifa. Para tal efecto, deberá notificar al Inspector, mediante anotación en el Libro de Obra correspondiente, a más tardar el 30 de Noviembre de cada año, la modificación a los horarios propuesta, cuya aplicación sólo podrá comenzar a regir a partir del primer día hábil del mes de Enero del año siguiente.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.16",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Con la autorización de Puesta en Servicio Provisoria de la obra correspondiente según lo señalado en 1.10.2, el Concesionario tendrá derecho al inicio del cobro de las tarifas máximas autorizadas definidas en 1.15.2, ambos artículos de las presentes Bases,",
+    "debe_decir": "Con la autorización de Puesta en Servicio Provisoria de la obra correspondiente según lo señalado en 1.10.2, el Concesionario tendrá derecho al inicio del cobro de las tarifas máximas autorizadas definidas en 1.15.2, ambos artículos de las presentes Bases,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.16.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "D : Corresponde a la longitud de la vía concesionada (en km) para el caso del sistema de cobro por Derecho de Paso, o bien a la longitud recorrida (en km) dentro de la vía concesionada para el caso del sistema de cobro por Uso efectivo.",
+    "debe_decir": "D : Para el caso del sistema de cobro por Uso Efectivo, corresponderá a la distancia recorrida, en km, entre los puntos de control de acceso (entrada y salida) a la(s) vía(s) concesionada(s). Para el caso del sistema de cobro por",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D02",
+ "pagina": 32,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 635,
+ "segundos": 39.1,
+ "fecha": "2026-10-27 12:11",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 186,
+  "conf_media": 0.781,
+  "frac_baja": 0.306,
+  "frac_rara": 0.0,
+  "tinta": 0.0495
+ },
+ "n_palabras_vlm": 527,
+ "frac_rara_vlm": 0.015,
+ "similitud": 0.473,
+ "truncado": false,
+ "texto_ocr": "44. Se reemplaza lo contenido en 2.2.3.3 Iluminación, por lo siguiente:\n\n“La Sociedad Concesionaria deberá proyectar Y construir en las intersecciones desniveladas\n\nseñaladas en la Tabla 2.19, en los Accesos Direccionales y Calles de Servicio señalados en la\n\nTabla 2.20 y en las zonas de pasadas de peatones señaladas en la Tabla 2.21, la iluminación\n\nmínima para garantizar la visibilidad y seguridad de peatones y flujo vehicular, establecida\npor las normas y recomendaciones vigentes. El consumo de electricidad será de cargo de la\nSociedad Concesionaria.”\n\nTabla 2.19: Zonas a Mluminar en Intersecciones Desniveladas\n\nw — A\n7] Diamante Simple] |\no A FETO E\n, A A\n> — o e A\naldivia Norte (Est, Mariquina) r90Tes 1\n\nO E A\nA\nMulpún Sur - Pupunahue 819.342] Diamante Simple A]\nA\nEIBLIT A Diam Sima MM\nTDollinco - Paillaco\n\n| 839.805\n[Regina - PichirropuM! TA ram Smale —\nBifurcación Rapaco 879.592 — Diamante Simple |\nA\n\n\"\n|\n|\n\n|\n'\n\n|\n|\n|\n\n|\n\n2.20: Zonas a Iluminar en Accesos Direccionales y Calles de Servicio\n\nA\nUIROVE ARO LARATORIA Nx 3 CONOt SON RUTA $",
+ "texto_vlm": "44. Se reemplaza lo contenido en 2.2.3.3 Iluminación, por lo siguiente:\n\n\"La Sociedad Concesionaria deberá proyectar y construir en las intersecciones desniveladas señaladas en la Tabla 2.19, en los Accesos Direcccionales y Calles de Servicio señalados en la Tabla 2.20 y en las zonas de pasadas de peatones señaladas en la Tabla 2.21, la iluminación mínima para garantizar la visibilidad y seguridad de peatones y flujo vehicular, establecida por las normas y recomendaciones vigentes. El consumo de electricidad será de cargo de la Sociedad Concesionaria.\"\n\nTabla 2.19: Zonas a Iluminar en Intersecciones Desniveladas\n| N° | Ubicación | Km | Tipo | Volumen N° |\n|---|---|---|---|---|\n| 1 | Quitratue / 6ª faja | 725.497 | Diamante Simple | VII |\n| 2 | Villarrica | 747.258 | Trompeta | VII |\n| 3 | Loncoche - Afquintúe (P.S. Loncoche) | 752.364 | Trompeta | VII |\n| 4 | Loncoche - Cuesta Lastarria | 754.226 | Diamante Simple | VII |\n| 5 | La Paz | 762.775 | Trompeta | VII |\n| 6 | Lanco | 770.270 | Diamante Simple | VII |\n| 7 | Ciruelos - Pureo | 784.644 | Trébol | VII |\n| 8 | Valdivia Norte (Est. Mariquina) | 790.765 | Diamante Simple | VII |\n| 9 | Máfil - Folilco | 802.567 | Atravieso con ramales | VII |\n| 10 | Malihue - Santa Helena | 806.164 | Diamante Simple | VII |\n| 11 | Mulpún Sur - Pupunahue | 819.542 | Atravieso con ramales | VII |\n| 12 | La Balsa | 829.000 | Diamante Simple | VII |\n| 13 | El Salto - Lipingue | 840.117 | Diamante Simple | VII |\n| 14 | Futrono - Reumen | 849.164 | Diamante Simple | VII |\n| 15 | Dollinco - Paillaco | 858.344 | Atravieso | VII |\n| 16 | Valdivia Sur | 859.805 | Trompeta | VII |\n| 17 | Regina - Pichirropulli | 867.377 | Diamante Simple | VII |\n| 18 | Bifurcación Rapaco | 879.592 | Diamante Simple | VII |\n| 19 | Pto. Nuevo - La Unión | 886.000 | Atravieso | VII |\n| 20 | Río Bueno - La Unión | 887.707 | Trébol | VII |\n\nTabla 2.20: Zonas a Iluminar en Accesos Direcccionales y Calles de Servicio\n| N° | Km Inicio | Km Final | Obra | Lado |\n|---|---|---|---|---|\n| 1 | 762.712 | 763.803 | Calle de Servicio | Izquierdo |\n| 2 | 769.627 | 770.741 | Calle de Servicio | Izquierdo |\n| 3 | 770.743 | 771.554 | Calle de Servicio | Izquierdo |\n| 4 | 802.719 | 803.101 | Calle de Servicio | Izquierdo |\n| 5 | 856.849 | 857.526 | Calle de Servicio | Izquierdo |\n| 6 | 857.532 | 858.498 | Calle de Servicio | Ambos |\n| 7 | 832.350 | | Acceso a Los Lagos | Derecho |\n| 8 | 857.580 | 858.444 | Calle de Servicio | Derecho |\n\nCIRCULAR ACLARATORIA N° 5\nCONCESION RUTAS\nTRAMO TEMUCO - RIO BUENO\npag 24"
+}

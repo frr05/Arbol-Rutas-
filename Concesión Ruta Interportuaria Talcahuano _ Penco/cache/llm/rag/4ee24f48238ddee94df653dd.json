@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "Para la autorización de Puesta en Servicio Definitiva se requieren los siguientes requisitos y procedimientos:\n\n1. Plazo: Debe solicitarse dentro de los seis (6) meses contados desde la fecha de autorización de Puesta en Servicio Provisoria [1].\n2. Documentación técnica previa: Deben estar aprobados los planos de construcción definitivos y las memorias explicativas correspondientes [1]. Estos documentos deben presentarse al Inspector Fiscal dentro de los 90 días posteriores a la Puesta en Servicio Provisoria, y no se podrá solicitar la PSD sin su aprobación [6].\n3. Solicitud formal: El Concesionario debe solicitar la autorización al DGOP [1].\n4. Designación de Comisión: Se designará una Comisión de Autorización de Puesta en Servicio integrada por un representante del Director General de Obras Públicas, otro del Director de Vialidad y uno designado por el Ministro de Obras Públicas [1], [3].\n5. Inspección: Dentro de los 10 días corridos desde la recepción de la solicitud, se citará al Concesionario para la inspección de la obra [1].\n6. Verificación de cumplimiento ambiental y de servicio: Se debe haber verificado la existencia de la Resolución Ambiental, el cumplimiento del Plan de Gestión Ambiental durante la construcción, la aprobación del Plan de Gestión Ambiental para la Etapa de Explotación y la aprobación del Reglamento de Servicio de la totalidad de la obra [3].\n7. Estado de la obra: La Comisión debe comprobar el estado satisfactorio de las obras e instalaciones, su correspondencia con el proyecto aprobado, las especificaciones técnicas y las consideraciones ambientales [1]. Si hubiera omisiones o defectos, estos deben ser subsanados a satisfacción de la Comisión antes de autorizar la PSD [1].",
+  "fuentes": [
+   1,
+   3,
+   6
+  ]
+ }
+}

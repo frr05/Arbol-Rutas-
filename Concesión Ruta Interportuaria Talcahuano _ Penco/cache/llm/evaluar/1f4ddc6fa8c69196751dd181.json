@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:30",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene los montos principales (UF 3.800 y UF 2.400) y las condiciones temporales de la referencia sin contradicciones."
+   },
+   {
+    "n": 22,
+    "veredicto": "parcial",
+    "motivo": "Aunque menciona los montos base de UF 83.000 y UF 41.000, omite el detalle de las cuotas (primera de UF 37.000) y agrega información no solicitada sobre otros conceptos de pago."
+   },
+   {
+    "n": 23,
+    "veredicto": "incorrecta",
+    "motivo": "Introduce un dato contradictorio (imputación del 30%) que no aparece en la referencia y que confunde el porcentaje correcto del 80%."
+   },
+   {
+    "n": 24,
+    "veredicto": "correcta",
+    "motivo": "Refleja correctamente los tipos de interés y las condiciones específicas detalladas en la referencia para cada escenario de retraso."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Coincide con la referencia en el sistema de cobro (salida), tecnología (manual) y requisitos de pistas manuales."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma la diferenciación por tipo de vehículo y la facultad de alterar tarifas dentro de límites, tal como indica la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Incluye el índice de reajuste (IPC), la fecha base y el mecanismo de reajuste extraordinario por inflación acumulada superior al 15%."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Proporciona los valores exactos de las tarifas máximas base ($50/$35 por km y $300 acceso) y la fecha base de pesos."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente la moneda (pesos) y la fecha base (31 de Diciembre de 2000)."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "Menciona la longitud total del proyecto (14,4 km) desglosada o aclarada, cumpliendo con el dato principal de la referencia."
+   }
+  ]
+ }
+}

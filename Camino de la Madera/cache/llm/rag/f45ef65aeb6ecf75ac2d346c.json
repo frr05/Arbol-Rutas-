@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para autos (vehículos livianos) es de $1.500, valorada en moneda al 31 de marzo de 1993, que se reajusta según la opción de reajustabilidad propuesta por el licitante [1][6][7].",
+  "fuentes": [
+   1,
+   6,
+   7
+  ]
+ }
+}

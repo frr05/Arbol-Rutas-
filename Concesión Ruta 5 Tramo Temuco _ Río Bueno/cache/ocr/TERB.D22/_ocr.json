@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D22",
+ "archivo": "4_modificacion_obras_convenios/TERB-Resolucion-DGC-N_53.pdf",
+ "sha256": "83a2ae9082d4b988025ceaba8d049a4d96574622f8d11ece4d07abe82b36c5cb",
+ "paginas": 52,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:10"
+}

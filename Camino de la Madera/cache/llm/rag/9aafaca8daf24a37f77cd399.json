@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para autos (vehículos livianos) es de $1.500 por sentido para la obra A, según la oferta del licitante [3][7].",
+  "fuentes": [
+   3,
+   7
+  ]
+ }
+}

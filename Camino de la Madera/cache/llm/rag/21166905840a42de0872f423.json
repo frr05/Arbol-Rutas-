@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:27",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para autos (vehículos livianos) es de $1.500 pesos de marzo de 1993, según se establece en las Bases de Licitación [1]. Esta tarifa corresponde al valor máximo por sentido para la obra A, y sirve como referencia para calcular las tarifas máximas de los demás tipos de vehículos mediante factores de equivalencia.",
+  "fuentes": [
+   1
+  ]
+ }
+}

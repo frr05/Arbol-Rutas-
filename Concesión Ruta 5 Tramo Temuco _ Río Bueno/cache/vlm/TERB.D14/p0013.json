@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D14",
+ "pagina": 13,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_185-2010.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 247,
+ "segundos": 10.0,
+ "fecha": "2026-10-27 12:13",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 182,
+  "conf_media": 0.823,
+  "frac_baja": 0.308,
+  "frac_rara": 0.038,
+  "tinta": 0.0408
+ },
+ "n_palabras_vlm": 147,
+ "frac_rara_vlm": 0.009,
+ "similitud": 0.771,
+ "truncado": false,
+ "texto_ocr": "1 A\nÍ\n\nA AN NA E O TE AL MA ARPA A\n\nz -7T A\n\nDENTRO DEL PLAZO de 10 días hábiles contados desde la publicación en el Diario\nOficial del presente Decreto Supremo, tres transcripciónes de éste serán suscritas ante\nnotario por “Ruta de los Ríos Sociedad Concesionaria S.A.” en señal de aceptación de su\ncontenido, debiendo protocolizar ante el mismo \"notario uno de los ejemplares,\nconjuntamente con-un original del Convenio Ad -- Referéndum que se aprueba. Dentro\nde los cnco días hábiles siguientes, una de las transcripciones referidas\nprecedentemente será entregada para su archivo a la Dirección General de Obras\nPúblicas y la otra a la Fiscalía del Ministerio de Obras Públicas, ambas deberán\nacompañarse de una copia autorizada de la protocolización efectuada,\n\nANÓTESE, TÓMESE RAZÓN Y PUBLÍQUESE\n\nASAÍÁN PINEZA ECHENIQUE\nPRESIDENTE DÉ LA REPÚBLICA\n\n57\n\n. AA OS ¡\nSN a . z\n\nYAY MU pod :\n\nBR\n\nHERNÁN DE INIHAC TAMPIER FELIPE LARRAÍN BASCUNÁN\nMinistro de¡Obras Públicas pun de Hacienda\n\nAN.\n\nbarco Ano\nY rss E\n\n9\n\nA A A AN A NN A A A A",
+ "texto_vlm": "3. DENTRO DEL PLAZO de 10 días hábiles contados desde la publicación en el Diario Oficial del presente Decreto Supremo, tres transcripciones de éste serán suscritas ante notario por \"Ruta de los Ríos Sociedad Concesionaria S.A.\" en señal de aceptación de su contenido, debiendo protocolizar ante el mismo notario uno de los ejemplares, conjuntamente con un original del Convenio Ad – Referéndum que se aprueba. Dentro de los cinco días hábiles siguientes, una de las transcripciones referidas precedentemente sera entregada para su archivo a la Dirección General de Obras Públicas y la otra a la Fiscalía del Ministerio de Obras Públicas, ambas deberán acompañarse de una copia autorizada de la protocolización efectuada.\n\nANÓTESE, TÓMESE RAZÓN Y PÚBLÍQUESE\n\nSEBASTIAN PINERA ECHENIQUE\nPRESIDENTE DE LA REPÚBLICA\n\nHERNÁN DE SOLMINIHAC TAMPIER\nMinistro de Obras Públicas\n\nFELIPE LARRAÍN BASCUÑÁN\nMinistro de Hacienda\n\nPATRICIO LAHSEN MAIZA\nIngeniero Comercial...\nDirector de... [ilegible]\n\n9"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "La multa es de 100 UTM por día [1].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.1.8.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El Sociedad Concesionaria deberá complementar los",
+    "debe_decir": "La Sociedad Concesionaria deberá complementar los",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "la Sociedad Concesionaria estará obligado a remplazar de",
+    "debe_decir": "la Sociedad Concesionaria estará obligada a reemplazar de",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

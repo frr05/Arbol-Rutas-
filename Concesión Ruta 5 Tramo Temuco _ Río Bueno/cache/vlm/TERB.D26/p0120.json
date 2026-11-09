@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 120,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 85,
+ "segundos": 15.8,
+ "fecha": "2026-10-27 12:16",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 80,
+  "conf_media": 0.744,
+  "frac_baja": 0.388,
+  "frac_rara": 0.0,
+  "tinta": 0.0135
+ },
+ "n_palabras_vlm": 55,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.656,
+ "truncado": false,
+ "texto_ocr": "maña RUTA MANUAL DE SEGURIDAD VIAL Y\nDE LOS RIOS PROCEDIMIENTOS DE EMERGENCIA\nRUTADELOSRIOS\n\nANEXO 3\n8.2 Simbologia\nA El\nO! Cono Ñ Cilindro\n1] ! 1]\n>> .\nME\n| Delineador Vertical | Tambor\n] IRE\nFab\n(HTA Barrera Tipo) | rea ir l Barrera Tipo Il\nEi Tacto |\nLT AA Barrera Tipo Mi EIA Barrera Peatonal\nBanderero 2 Semáforo\n\nsa\n\nHito de Vértice\n\nMl\nFaro o Baliza a? Barrera Articulada\n\nNs Flecha Direccional Luminosa\n\nDelineador Direccional\n\n32",
+ "texto_vlm": "MANUAL DE SEGURIDAD VIAL Y\nPROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\nANEXO 3\n\n8.2 Simbologia\nCono | Cilindro\nDelineador Vertical | Tambor\nBarrera Tipo I | Barrera Tipo II\nBarrera Tipo III | Barrera Peatonal\nBanderero | Semáforo\nDelineador Direccional | Hito de Vértice\nFaro o Baliza | Barrera Articulada\nFlecha Direccional Luminosa\n\n32"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar dos tipos de seguros: 1) Seguro por Catástrofe que cubra riesgos catastróficos durante construcción y explotación, incluyendo disturbios populares y actos maliciosos, por un monto equivalente al valor total de la obra concesionada con deducible máximo del 1% [1]. 2) Seguro de Responsabilidad Civil por Daños a Terceros a favor del MOP y del Concesionario, por un monto mínimo de UF 12.000 con deducible máximo del 1%, durante construcción y explotación [2]. Ambos seguros deben entregarse por separado y no pueden incluirse mutuamente [1][2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

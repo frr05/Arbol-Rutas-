@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "Dentro del plazo máximo de sesenta días corridos, contados desde la publicación en el Diario Oficial del Decreto Supremo de Adjudicación del Contrato de Concesión, el adjudicatario procederá a suscribir ante Notario tres transcripciones del Decreto Supremo de Adjudicación de la Concesión, debiendo protocolizar ante el mismo Notario una de ellas [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

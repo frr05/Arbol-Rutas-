@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 183,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 117,
+ "segundos": 14.5,
+ "fecha": "2026-11-05 00:43",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 64,
+  "conf_media": 0.843,
+  "frac_baja": 0.25,
+  "frac_rara": 0.0,
+  "tinta": 0.0116
+ },
+ "n_palabras_vlm": 63,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.646,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESIÓN RUTA INTERPORTUARÍA TALCAHUANO - PENCO\n\nij\n\nFormulario N%1\nFormulario N%2\nFormulario N*3\nFormulario N*4\nFormulario N*5\n\nFormulario N%6\n\n..\n\nANEXO N*2\n\nIdentificación del Licitante o Grupo Licitante.\nDeclaración Jurada.\n\nIdentificación de Aportes.\n\nAntecedentes Financieros del Grupo Licitante.\nAnteproyecto Referencial.\n\nCronograma Referencial de Inversión Tipo\nCarta Gantt.\n\na\n\ny\neS\n\n144 Lonas\nMEMISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nANEXO N°2\n\nFormulario N°1 : Identificación del Licitante o Grupo Licitante.\nFormulario N°2 : Declaración Jurada.\nFormulario N°3 : Identificación de Aportes.\nFormulario N°4 : Antecedentes Financieros del Grupo Licitante.\nFormulario N°5 : Anteproyecto Referencial.\nFormulario N°6 : Cronograma Referencial de Inversión Tipo Carta Gantt.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+}

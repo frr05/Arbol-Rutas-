@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D09",
+ "archivo": "4_modificacion_obras_convenios/Res-1569.pdf",
+ "sha256": "d56793644ce53f53169678981c91e1ddd2436f12b0a506b211637d39ced0f3be",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:47"
+}

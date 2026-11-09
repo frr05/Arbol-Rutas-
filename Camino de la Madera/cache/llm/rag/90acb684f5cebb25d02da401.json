@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el Inspector Fiscal, quien propone la sanción a la DGOP para que requiera el pronunciamiento de la Comisión Conciliadora, y posteriormente notifica al concesionario [1]. La normativa aplicable es el Artículo 24 del DFL MOP N°164 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

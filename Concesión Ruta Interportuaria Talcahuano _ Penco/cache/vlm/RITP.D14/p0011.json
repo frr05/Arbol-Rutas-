@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 11,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 425,
+ "segundos": 15.9,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 256,
+  "conf_media": 0.898,
+  "frac_baja": 0.066,
+  "frac_rara": 0.006,
+  "tinta": 0.0511
+ },
+ "n_palabras_vlm": 295,
+ "frac_rara_vlm": 0.006,
+ "similitud": 0.953,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n3.17 Obligación de Notificar los Daños\n\nEl Usuario tiene la obligación de notificar a la autoridad de Carabineros o en su\ntotal ausencia al personal de la Concesionaria, sin pérdida de tiempo, cualquier\ndaño o deterioro que pudiera haber producido en las instalaciones, señales o\nelementos de la ruta concesionada.\n\n3.18 Circulación de vehículos\nLos Usuarios que deseen utilizar la Ruta deberán hacerlo siempre y\ncuando el vehiculo en el que lo hagan, corresponda a Una de\n\nlas categorias siguientes:\n\nClase de vehículo\n\nMotos y motonetas\n\nAutos y camionetas .\nAutos y camionetas con remol\nBuses de 2 ejes\n\nCamiones de 2 ejes ,\nBuses de más de 2 ejes\nCamiones de más de 2 ejes _\n\na. Vehículos y medios que tienen prohibición de transitar,\n\n- — Peatones (tanto en la calzada como la berma).\n- Bicicletas.\n\n- Tracción animal,\n\n- Maquinaria.\n\nb. Vehículos que deben solicitar autorización previa para transitar\npor la ruta.\n\n- — Aquellos vehiculos que excedan las dimensiones máximas\npermitidas por la ley o que excedan las cantidades de\nsustancias peligrosas, deberán solicitar previamente las\nautorizaciones pertinentes, establecidas en los respectivos\ncuerpos legales que los regulan. Todos los costos\nasociados a asegurar la vía durante su paso serán de\ncargo del interesado.\n\n3.19 Sistema de Reclamos y Sugerencias\n\nEl recinto cuenta con un Libro de Sugerencias y Reclamos disponible en todo\nmomento para el usuario. Este se encuentra en las oficinas de administración del\nrecinto y será puesto a disposición del usuario en cuanto lo solicite.",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n3.17 Obligación de Notificar los Daños\nEl Usuario tiene la obligación de notificar a la autoridad de Carabineros o en su total ausencia al personal de la Concesionaria, sin pérdida de tiempo, cualquier daño o deterioro que pudiera haber producido en las instalaciones, señales o elementos de la ruta concesionada.\n\n3.18 Circulación de vehículos\nLos Usuarios que deseen utilizar la Ruta deberán hacerlo siempre y cuando el vehículo en el que lo hagan, corresponda a una de las categorías siguientes:\n\n| Tipo | Clase de vehículo |\n| :--- | :--- |\n| Tipo 1 | Motos y motonetas |\n| Tipo 2 | Autos y camionetas |\n| Tipo 3 | Autos y camionetas con remolque |\n| Tipo 4 | Buses de 2 ejes |\n| Tipo 5 | Camiones de 2 ejes |\n| Tipo 6 | Buses de más de 2 ejes |\n| Tipo 7 | Camiones de más de 2 ejes |\n\na. Vehículos y medios que tienen prohibición de transitar.\n- Peatones (tanto en la calzada como la berma).\n- Bicicletas.\n- Tracción animal.\n- Maquinaria.\n\nb. Vehículos que deben solicitar autorización previa para transitar por la ruta.\n- Aquellos vehículos que excedan las dimensiones máximas permitidas por la ley o que excedan las cantidades de sustancias peligrosas, deberán solicitar previamente las autorizaciones pertinentes, establecidas en los respectivos cuerpos legales que los regulan. Todos los costos asociados a asegurar la vía durante su paso serán de cargo del interesado.\n\n3.19 Sistema de Reclamos y Sugerencias\nEl recinto cuenta con un Libro de Sugerencias y Reclamos disponible en todo momento para el usuario. Este se encuentra en las oficinas de administración del recinto y será puesto a disposición del usuario en cuanto lo solicite."
+}

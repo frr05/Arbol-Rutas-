@@ -1,0 +1,34 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:12",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     2037,
+     2043
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Áreas de Servicio obligatorias ubicadas según se detalla en 2.2.1.9.",
+    "debe_decir": "Áreas de Servicio obligatorias ubicadas según se detallan en 2.2.1.8.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

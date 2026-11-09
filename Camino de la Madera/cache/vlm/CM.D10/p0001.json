@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D10",
+ "pagina": 1,
+ "archivo": "4_modificacion_obras_convenios/Reglamento-de-Servicio-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 42,
+ "segundos": 5.5,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 31,
+  "conf_media": 0.689,
+  "frac_baja": 0.226,
+  "frac_rara": 0.083,
+  "tinta": 0.0287
+ },
+ "n_palabras_vlm": 31,
+ "frac_rara_vlm": 0.077,
+ "similitud": 0.386,
+ "truncado": false,
+ "texto_ocr": "4\nAMIA DE LA pmMaAADERA S.A.\n\nAMENTO DE\n\ní 2 ASA\n\nRENGO 94 Ob. 33 - FONO: 1411 2204604 - FONOFAX:\n\n(413 22040\n\nSERVICIO DE LA OBRA\n\nq CONCEPCION -\n\nCHILE",
+ "texto_vlm": "CAMINO DE LA MADERA S.A.\n\nREGLAMENTO DE SERVICIO DE LA OBRA\n\nConcepción, Noviembre de 1996\n\nRENGO 94 OE. 33 - FONO: (41) 220464 - FONOFAX: (41) 220465 - CONCEPCION - CHILE"
+}

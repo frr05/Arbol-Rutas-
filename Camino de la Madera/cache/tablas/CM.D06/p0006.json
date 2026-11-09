@@ -1,0 +1,35 @@
+{
+ "documento": "CM.D06",
+ "pagina": 6,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:44",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 3: Garantía de Explotación",
+   "encabezados": [
+    "Obra",
+    "Valor"
+   ],
+   "filas": [
+    [
+     "Obra (A):",
+     "10.000 UF"
+    ],
+    [
+     "Obra (B):",
+     "3.000 UF"
+    ],
+    [
+     "Obra (C):",
+     "3.000 UF"
+    ],
+    [
+     "Obra (D):",
+     "1.000 UF"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

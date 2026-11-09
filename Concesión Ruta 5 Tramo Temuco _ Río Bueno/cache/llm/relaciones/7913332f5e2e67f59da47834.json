@@ -1,0 +1,136 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:49",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "que se señala en el N* 3 del “Modelo de Decreto Supremo que se dictará al efecto que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "debe_decir": "que se señala en el N* 3 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "que se señala en el N* 6 del “Modelo de Decreto Supremo que se dictará al efecto que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "debe_decir": "que se señala en el N? 6 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "“Obras Normativas”, se fija la cantidad única, total y a suma alzada que resulte del proceso de licitación privada que se señala en el N” 6 del “Modelo de Decreto Supremo que se dictará al efecto que forma parte del Oficio Ord. N°332/EXPL.",
+    "debe_decir": "“Obras Normativas”, y “Obras de Servicialidad”, con excepción de la obra denominada “Construcción Pasarela Collico”, que forma parte de las obras denominadas “Obras de Seguridad Normativa con proyecto que requiere actualización”, y de las obras denominadas “Rampas Peatonales Atravieso Pon Pon”, “Sistema Evacuación de aguas Ciruelos Poniente” y “Paisajismo Enlaces Lanco Norte y Lanco Sur”, que forman parte de las obras denominadas “Obras Normativas”, se fija la cantidad única, total y a suma alzada que resulte del proceso de licitación privada que se señala en el NO 6 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N*",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "TCO-RB/2018, y que regulará el decreto supremo que apruebe el presente Convenio, con un monto máximo de UF 1.192.009,60 (Un Millón Ciento Noventa y Dos Mil Nueve Coma Sesenta Unidades de Fomento), neto de IVA.",
+    "debe_decir": "332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio, con un monto máximo de UF 1.192.009,60 (Un Millón Ciento Noventa y Dos Mil Nueve Coma Sesenta Unidades de Fomento), neto de IVA.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que se dispondrá en el Decreto Supremo que apruebe el presente Convenio.",
+    "debe_decir": "que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que se dispondrá en el Decreto Supremo que apruebe el presente Convenio.\nA DE LOS RIOS y",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "que se señala en el numeral 7.4 del “Modelo de Decreto Supremo que se dictará al efecto que forma parte del Oficio Ord. N°332/EXPL.",
+    "debe_decir": "que se señala en el numeral 7.4 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N*",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "TCO-RB/2018, y que regulará el decreto supremo que apruebe el presente Convenio, con un monto máximo de UF 37.451 (Treinta y Siete Mil Cuatrocientas Cincuenta y Una Unidades de Fomento), neta de IVA.",
+    "debe_decir": "332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio, con un monto máximo de UF 37.451 (Treinta y Siete Mil Cuatrocientas Cincuenta y Una Unidades de Fomento), neta de IVA.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [
+     7631,
+     7633
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P9"
+    ],
+    "texto_nuevo": [
+     7634,
+     7639
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Tabla N* 1: Montos de administración y control Gastos Administración y Control Concepto MN (UF) 1.- PID OSN con proyecto que requiere actualización, PID Obras Normativas y PID Obras de Servicialidad 3.209 2.- Obras de Seguridad Normativa con proyecto aprobado | 5.653",
+    "debe_decir": "Tabla N* 1: Montos de administración y control\nGastos\nAdministración y\nControl\nConcepto (UPF)\n1.- PID OSN con proyecto que requiere actualización,\nPID Obras Normativas y PID Obras de Servicialidad 3.209\n2.- Obras de Seguridad Normativa con proyecto\naprobado 5.653",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "2.- Obras de Seguridad Normativa con proyecto\naprobado 5.653",
+    "debe_decir": "\n3.- Obras de Seguridad Normativa que requiere\nactualización, Obras Normativas y Obras de\nServicialidad, con excepción de las obras del concepto\nA. - Obras denominadas “Construcción Pasarela\nPeatonal Collico” “Rampas Peatonales Atravieso Pon\nPon”, “Paisajismo Enlaces Lanco Norte y Lanco Sur” y\n“Sistema Evacuación de aguas Ciruelos Poniente”\nTOTAL\nRU A De LOS RIOS |\nSin perjuicio de lo anterior, los montos establecidos en la Tabla N%1 serán rebajados\nen los siguientes casos:\nEn el caso que la Sociedad Concesionaria quede liberada de la obligación\nde desarrollar los proyectos denominados “PID OSN con proyecto que\nrequiere actualización”, “PID Obras Normativas” y “PID Obras de\nServicialidad”, de conformidad a lo señalado en el numeral 3.7.3 del “Modelo\nde Decreto Supremo que se dictará al efecto” que forma parte del Oficio\nOrd. N* 332/EXPL. TCO-RB/2018, se descontará del monto indicado en la\nTabla N*1 anterior para el concepto N*1, la cantidad única y total de UF\n3.048,60 (Tres Mil Cuarenta y Ocho Coma Sesenta Unidades de Fomento),\nneta de IVA. Asimismo, no se reconocerá los montos indicados en la Tabla\nN*1 anterior para los conceptos N*3 y N*4.\nEn el caso que la Sociedad Concesionaria quede liberada de la obligación\nde ejecutar la obra denominada “Obras de Seguridad Normativa con\nproyecto aprobado”, de conformidad a lo señalado en el numeral 6.7.3 del\n“Modelo de Decreto Supremo que se dictará al efecto” que forma parte del\nOficio Ord. N* 332/EXPL. TCO-RB/2018, se descontará del monto indicado\nen la Tabla N*1 anterior para el concepto N?2, la cantidad única y total de\nUF 5.370,40 (Cinco Mil Trescientas Setenta Coma Cuarenta Unidades de\nFomento), neta de IVA.\nEn el caso que la Sociedad Concesionaria quede liberada de la obligación",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

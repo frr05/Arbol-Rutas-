@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:57",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no contiene datos sobre el umbral del Índice de Servicio Prestado (ISP) ni sus tramos. Los fragmentos disponibles se refieren al sistema tarifario, fórmulas de ajuste, conservación de pavimentos (IRI), definiciones generales y oferta económica, pero no mencionan el ISP.",
+  "fuentes": []
+ }
+}

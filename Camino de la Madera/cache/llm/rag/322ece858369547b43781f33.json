@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "Los pagos atrasados devengarán un interés equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional vigente a la fecha del pago efectivo [1]. Además, se menciona una tasa de interés real diaria de 0,0248% o 0,02487% para actualizaciones específicas en convenios posteriores [2], [7], [8], [10].",
+  "fuentes": [
+   1,
+   2,
+   7,
+   8,
+   10
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "Los fragmentos proporcionados no contienen información sobre el Índice de Servicio Prestado (ISP), sus umbrales o tramos.",
+  "fuentes": []
+ }
+}

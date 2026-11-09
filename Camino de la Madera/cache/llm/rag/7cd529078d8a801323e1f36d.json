@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "El número del decreto de adjudicación es el N° 133 y su fecha es 29 de abril de 1994 [2][6][9].",
+  "fuentes": [
+   2,
+   6,
+   9
+  ]
+ }
+}

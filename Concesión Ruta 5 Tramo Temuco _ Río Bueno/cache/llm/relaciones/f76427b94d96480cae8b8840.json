@@ -1,0 +1,64 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:41",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Durante la Concesión el MOP nombrará un Inspector Fiscal para la Etapa de Construcción y otro para la Etapa de Explotación y un Inspector Fiscal adjunto de cada uno de ellos, que actuará como subrogante del titular.",
+    "debe_decir": "Durante la Concesión el MOP nombrará un Inspector Fiscal para la Etapa de Construcción y otro para la Etapa de Explotación, y un Inspector Fiscal adjunto de cada uno de ellos, que actuará como subrogante del titular.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Se entenderá por Inspector Fiscal de la Construcción al profesional funcionario del MOP a quién el Director de Vialidad haya encargado velar directamente por la correcta ejecución del proyecto de ingeniería y por la calidad de la ejecución de las obras en relación al proyecto de ingeniería aprobado, y en general por el cumplimiento del Contrato en esta etapa.",
+    "debe_decir": "Se entenderá por Inspector Fiscal de la Construcción al profesional funcionario del MOP a quién el Director de Vialidad haya encargado velar directamente por la correcta ejecución del proyecto de ingeniería y por la calidad de la ejecución de las obras en relación al proyecto de ingeniería aprobado, y en general por el cumplimiento del Contrato de Concesión en esta etapa.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P15"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Aprobar, rechazar y sugerir modificaciones a los cronogramas, proyectos y otros documentos presentados por la Sociedad Concesionaria para los que las bases requieran su aprobación. No obstante la aprobación de algún proyecto o documento no implicará responsabilidad respecto de que las obras aprobadas cumplan, una vez construidas, los estándares establecidos en las bases técnicas.",
+    "debe_decir": "Aprobar, rechazar y sugerir modificaciones a los cronogramas, proyectos y otros documentos presentados por la Sociedad Concesionaria para los que las bases requieran su aprobación. No obstante, la aprobación de algún proyecto o documento no implicará responsabilidad alguna respecto de que las obras aprobadas cumplan, una vez construidas, los estándares establecidos en las bases técnicas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Se entenderá por Inspector Fiscal de la Explotación al profesional funcionario del MOP a quién el DGOP le haya encargado velar directamente por la correcta explotación de la Concesión, y en general por el cumplimiento del Contrato en esta etapa. El Inspector Fiscal de la Explotación se mantendrá durante todo el período de la Concesión, desde la fecha de la autorización de puesta en servicio provisoria.",
+    "debe_decir": "Se entenderá por Inspector Fiscal de la Explotación al profesional funcionario del MOP a quién el DGOP le haya encargado velar directamente por la correcta explotación de la Concesión, y en general por el cumplimiento del Contrato de Concesión en esta etapa. El Inspector Fiscal de la Explotación se mantendrá durante todo el período de la Concesión, desde la fecha de la autorización de puesta en servicio provisoria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P35"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria, a través de su Representante, se relacionará con el MOP mediante los Inspectores Fiscales respectivos.",
+    "debe_decir": "La Sociedad Concesionaria, a través de su Representante legal, se relacionará con el MOP mediante los Inspectores Fiscales respectivos.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

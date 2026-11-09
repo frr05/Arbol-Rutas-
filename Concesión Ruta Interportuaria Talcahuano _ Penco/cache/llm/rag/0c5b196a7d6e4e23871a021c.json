@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:37",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es variable, ya que depende del tramo en el que se adjudique. Si se adjudica en el Tramo A, el plazo máximo es de 498 meses [2], y puede extinguirse antes si se cumplen los Ingresos Totales de la Concesión (ITC) [5]. Si se adjudica en cualquier otro tramo (como el Tramo B), el plazo es fijo de 378 meses [1][2][5].",
+  "fuentes": [
+   1,
+   2,
+   5
+  ]
+ }
+}

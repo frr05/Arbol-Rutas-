@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 02:01",
+ "respuesta": {
+  "respuesta": "El Ministerio aplica las multas según lo establecido en las Bases de Licitación, específicamente en el artículo 1.8.5.1 [1][2][3][4][6][7][8][9][10].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

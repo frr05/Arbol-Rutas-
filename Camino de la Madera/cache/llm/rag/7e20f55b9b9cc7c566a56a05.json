@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:20",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no mencionan las comunas que abarca la concesión del Camino de la Madera. El fragmento [2] menciona comunas (Melipeuco, Cautín) pero se refiere a un área geográfica distinta para una concesión de energía geotérmica denegada, no a la obra pública fiscal \"Camino de La Madera\".",
+  "fuentes": []
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por tipo de vehículo. En el evento que la Sociedad Concesionaria opte por cobrar tarifas diferenciadas por tipo de vehículo, para la determinación de las tarifas máximas se deberá multiplicar la tarifa indicada por el factor correspondiente a cada clase de vehículo según la Tabla N° 6 [8]. Esta tabla clasifica los vehículos en tipos (desde Tipo 1 hasta Tipo 7) asignando un factor tarifario específico a cada uno, como motos y motonetas (Factor 0,3), autos y camionetas (Factor 1,0), buses de 2 ejes (Factor 1,8), entre otros [2], [3], [4], [5], [6], [7], [9], [10].",
+  "fuentes": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

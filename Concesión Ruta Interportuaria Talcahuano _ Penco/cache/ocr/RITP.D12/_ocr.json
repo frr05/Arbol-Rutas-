@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D12",
+ "archivo": "4_modificacion_obras_convenios/2006-08-16-DS-N-663.pdf",
+ "sha256": "a734dad1086e89a52d85b3b794bdc570a4cf077f05a58c41df200fd60b753c1f",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:50"
+}

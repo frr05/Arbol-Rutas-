@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:11",
+ "respuesta": {
+  "respuesta": "Se firmaron 2 convenios complementarios y 1 convenio ad referéndum, para un total de 3 instrumentos modificatorios del contrato [1], [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

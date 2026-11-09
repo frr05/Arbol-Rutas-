@@ -1,0 +1,100 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:42",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "2.2 del presente convento, el monto adeudado devengará hasta el día del pago- efectivo, un mterés real compuesto diario de 0,0198%.,",
+    "debe_decir": "2.3 del presente decreto supremo, según corresponda, se aplicará a la Sociedad Concesionaria una multa de 10 UTM por cada día o fracción de día de atraso, por cada obra atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación. Los días que emplee el Inspector Fiscal para inspeccionar y verificar la obra no serán contabilizados como días de atraso de la Sociedad Concesionaria para estos efectos.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "Una vez subsanadas las observaciones por parte de la Sociedad Concesionaria, ésta deberá informarlo por escrito al Inspector Fiscal. Este último, en un plazo de 10 días, contado desde la fecha de ingreso de la respectiva solicitud por parte de la Sociedad Concesionaria, deberá inspeccionar y verificar las correcciones ejecutadas y, si no hubiere observaciones, recepcionará la obra y autorizará su habilitación al uso público, dejando constancia de ello mediante anotación en el Libro de Explotación u oficio. Si el Inspector Fiscal considerare que la obra no cumple los estándares exigibles para su recepción, el procedimiento antes señalado será iterativo hasta que la Sociedad Concesionaria subsane las observaciones y el Inspector Fiscal recepcione la obra y autorice su habilitación al uso público, sin perjuicio de la multa señalada en la letra c) siguiente. c) En caso de que alguna de las obras dispuestas en el presente Nº 2 no fuere ejecutada y habilitada al uso público dentro del respectivo plazo máximo establecido en el primer o segundo párrafo del numeral ",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "d) Transcurridos 90 días desde que la obra sea recibida por el MOP, la Sociedad Concesionaria deberá entregar al Inspector Fiscal un “Informe Final”, que contenga las memorias explicativas de la totalidad de la obra y los Planos As Built. Los planos deberán ser entregados en dos copias en papel, con su respectivo formato digital DWG. El Inspector Fiscal deberá revisar y aprobar o rechazar el Informe Final, para lo cual dispondrá de un plazo de 15 días contados desde la recepción del mismo. Si el Informe Final fuera rechazado, la Sociedad Concesionaria tendrá un plazo de 15 días para subsanar las observaciones, a partir de la fecha de notificación del rechazo a la Sociedad Concesionaria, y el Inspector Fiscal tendrá un plazo de 20 días para revisar y aprobar o rechazar el Informe Final, contado desde la recepción del mismo. En caso de que el Informe Final sea nuevamente rechazado por el Inspector Fiscal, el procedimiento antes indicado será iterativo hasta que el Inspector Fiscal apruebe el referido informe, sin perjuicio de la multa señalada en el párrafo subsiguiente. En caso de que el Inspector Fiscal no hubiere efectuado observaciones o requerimientos dentro del respectivo plazo de revisión, el Informe Final se entenderá aprobado. En caso de atraso en la entrega del Informe Final, o de sus correcciones, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación. e) Una vez que se disponga del set completo de planos As Built de la respectiva obra, con todas sus firmas y timbres que corresponda, la Sociedad Concesionaria deberá generar una copia de cada uno de ellos en formato PDF, en colores, y entregárselos al Inspector Fiscal para los archivos del MOP. Esta labor deberá realizarse en el plazo de 30 días, contado desde que el Inspector Fiscal entregue todos los planos debidamente firmados y timbrados por quienes corresponda. En caso de atraso en la entrega de las copias de planos As Built en formato PDF, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1165,
+     1184
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.11"
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria deberá hacer entrega del borrador del Programa General de Conservación de la Obra al Inspector Fiscal antes de los 90 días de la solicitud de Puesta en Servicio Provisorio. Este documento deberá contener al menos lo establecido en 2.5.1.1. En un plazo no superior a los 60 días de recepcionado el Programa, el Inspector Fiscal notificará a la Sociedad Concesionaria de la aprobación o en caso de observaciones al mismo, dentro de los próximos 30 días corridos, la Sociedad Concesionaria deberá hacer entrega del nuevo borrador del programa al Inspector Fiscal para la aprobación de éste. El incumplimiento de esta obligación originará que el MOP no dé la autorización de la Puesta en Servicio Provisoria de la Concesión.",
+    "debe_decir": "Para efectos de lo dispuesto en el presente numeral, a más tardar junto con la solicitud de recepción de cada una de las obras que se ejecuten en virtud de lo establecido en el presente Nº 2, la Sociedad Concesionaria deberá presentar al Inspector Fiscal, para su aprobación, una actualización del Programa General de Conservación de la Obra y del Plan de Trabajo Anual indicados en los artículos 1.8.5 y 2.5.7 de las Bases de Licitación, incorporando en ellos la obra respectiva de acuerdo a las actividades y frecuencias detalladas en el documento “Costos, actividades y frecuencias de conservación” adjunto al oficio Ord. Nº 2.674/EXPL. TE-RB/2023, de fecha 20 de junio de 2023, del Inspector Fiscal, el cual se entiende que forma parte integrante del presente decreto supremo. El Inspector Fiscal tendrá un plazo de 10 días para revisar las actualizaciones presentadas, contado desde su recepción, plazo después del cual, si no hubiere",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Además, el último día hábil del mes de Noviembre de cada año, la Sociedad Concesionaria deberá hacer entrega para la aprobación del Inspector Fiscal, del Plan de Trabajo Anual a que hace referencia 2.5.7 de las Bases Técnicas. El Inspector Fiscal deberá controlar el cumplimiento del Plan de Trabajo anual y mensual que haya entregado la Concesionaria, verificando la ejecución, de todas las actividades que corresponda realizar, En concordancia con el Programa de Conservación. La Concesionaria deberá comunicar por escrito al Inspector Fiscal, con la debida anticipación, cualquier modificación que se realice al Plan de Trabajo",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "elimina",
+    "parrafos": [
+     "P4",
+     "P5",
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria entregará al Inspector Fiscal un Plan de Trabajo Anual, con desglose de actividades mensuales. Estos deberán contemplar todas las actividades que corresponda realizar de acuerdo a lo estipulado en las Bases y en concordancia con el Programa de Conservación. Cualquier modificación a este plan se comunicará por escrito al Inspector Fiscal con la debida anticipación.",
+    "debe_decir": "",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

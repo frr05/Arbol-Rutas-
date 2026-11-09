@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "La concesión abarca la comuna de San Pedro de la Paz, donde se inicia la ruta en la localidad de San Pedro, y la comuna de Negrete, donde finaliza en la localidad de Coihue [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

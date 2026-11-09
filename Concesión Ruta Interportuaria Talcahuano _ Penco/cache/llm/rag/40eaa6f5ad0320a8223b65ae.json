@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria deberá hacer entrega del borrador del Reglamento de Servicio de la totalidad de la obra al Inspector Fiscal, para su revisión y aprobación, al menos 90 días antes de la primera solicitud de Puesta en Servicio Provisoria de las obras [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

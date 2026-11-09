@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:20",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye el dato principal sobre la garantía del ingreso mínimo y la fecha de inicio (1° de enero del año de Puesta en Servicio Definitiva)."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el dato principal de que depende del tramo y no rige en Tramo A, además de detallar la coparticipación en la Banda Superior."
+   },
+   {
+    "n": 23,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con el monto mínimo de UF 12.000 y menciona las dos pólizas (construcción y explotación) como indica la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente los riesgos cubiertos y al MOP como beneficiario único, cumpliendo con los datos principales."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla todos los factores por tipo de vehículo mencionados en la referencia sin contradicciones."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce correctamente los tramos de costos (UF 12.000, entre 12k y 24k, sobre 24k) y la forma de valorización."
+   },
+   {
+    "n": 27,
+    "veredicto": "parcial",
+    "motivo": "La respuesta omite la información sobre las multas por espera superior a 5 minutos y la obligación de modificar el plan si supera los 2 minutos durante dos horas."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que sí se puede cobrar y detalla las condiciones: visto bueno de Hacienda y diferenciación por horario o periodo."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye correctamente el límite del 30% (y 10% en construcción), el presupuesto base y el plazo de dos años antes del término."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "La respuesta establece correctamente la periodicidad cada 2 años, los aspectos revisables y el rol del MOP consultando a Hacienda."
+   }
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:28",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     728,
+     739
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.8"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     744,
+     747
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.9"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     748,
+     751
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.10"
+   }
+  ]
+ }
+}

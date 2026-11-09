@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "El sistema de cobro se realiza en forma directa al usuario en las plazas de peaje mediante cobro manual, entregándole un comprobante de cancelación [1]. No obstante, la concesionaria podrá implementar sistemas de Pre o Post Pago con empresas usuarias de la ruta, previa comunicación y aprobación del Inspector Fiscal [1]. Además, el control a la clasificación manual y automático se realizará a través del Sistema de Peaje - PXNET2S [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

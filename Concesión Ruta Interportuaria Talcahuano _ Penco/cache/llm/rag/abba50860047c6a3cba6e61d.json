@@ -1,0 +1,20 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el Inspector Fiscal, quien notifica al concesionario en un plazo no superior a 60 días [6]. La normativa que regula estas infracciones y multas se encuentra en las Bases de Licitación, específicamente en el artículo 1.8.5 sobre infracciones y multas y sus subsecciones (como el artículo 1.8.5.1) [1], [2], [3], [4], [5], [6], [7], [8], [9], [10].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

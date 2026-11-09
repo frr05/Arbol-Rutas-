@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "La coparticipación del Estado en los ingresos es un mecanismo que opera como contrapartida a los Ingresos Mínimos Garantizados [6]. Su aplicación depende del tramo de licitación adjudicado; si se adjudica en el Tramo A, no rige este mecanismo [1]. En los demás casos, se aplica una Banda Superior de Ingresos (BSY) definida según la Tabla N° 4 de las Bases o el cuadro correspondiente en el Diario Oficial y el Decreto de Adjudicación [1], [2], [4]. Si los ingresos anuales de la Sociedad Concesionaria (Yt) superan esta Banda Superior de Ingresos (BSYt), la Sociedad debe pagar al MOP el 50% de la diferencia entre ambos montos [1], [2], [4]. El cálculo para el primer año de explotación se ajusta proporcionalmente si la operación fue menor a 12 meses [1], [2]. El pago debe realizarse el último día hábil de junio del año calendario siguiente al de la verificación de las condiciones [1].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   6
+  ]
+ }
+}

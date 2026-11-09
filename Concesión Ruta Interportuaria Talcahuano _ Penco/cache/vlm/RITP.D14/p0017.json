@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 17,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 284,
+ "segundos": 13.2,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 180,
+  "conf_media": 0.828,
+  "frac_baja": 0.144,
+  "frac_rara": 0.035,
+  "tinta": 0.0331
+ },
+ "n_palabras_vlm": 176,
+ "frac_rara_vlm": 0.035,
+ "similitud": 0.964,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Inundaciones/Aludes/Desprendimientos de Barro\n- Incendios\n\nAcción Criminal\n\n- — Asalto/famenaza al cobrador\n- WYandalismo\n- Amenaza de bomba\n\nIncidentes en Carreteras\n\n- Accidente Vehicular\n\n- Uno o múltiples vehículos\n\n- Peatón/bicicleta\n\n- — Materiales peligrosos\n\n- — Obstrucciones\n\n- —Ánimales (vivos, heridos o muertos)\n\nOtros\n\n- — Corte de energía\n- Otras situaciones\n\n5.5 Procedimiento general de evacuación\n\nCada edificio contará con Mapas de Evacuación en Emergencias exhibidos en\nlugares claramente visibles,\n\nNotificación alos Empleados\n\nCuando sea hecesario evacuar, activar la alarma de incendio más cercana O\navisar puerta a puerta.\n\nSalida del Edificio\n\n(1). Todos los empleados deben salir del edificio si se da una orden de\nevacuar,\n\n(2) De ser posible, sin arriesgar la seguridad, los empleados que se\nencuentren en el proceso de contar el dinero, deben colocar rápidamente\nel dinero en la caja fuerte y cerrar la puerta de la misma.\n\n(3) — Asistir a aquellos que requieren ayuda,\n\n(4 — Dirigirse a la salida más cercana,\n\n(5) De haber visitas en el edificio, acompañarlas a la salida del edificio.",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n- Inundaciones/Aludes/Desprendimientos de Barro\n- Incendios\nAcción Criminal\n- Asalto/amenza al cobrador\n- Vandalismo\n- Amenaza de bomba\nIncidentes en Carreteras\n- Accidente Vehicular\n- Uno o múltiples vehículos\n- Peatón/bicicleta\n- Materiales peligrosos\n- Obstrucciones\n- Animales (vivos, heridos o muertos)\nOtros\n- Corte de energía\n- Otras situaciones\n5.5 Procedimiento general de evacuación\nCada edificio contará con Mapas de Evacuación en Emergencias exhibidos en lugares claramente visibles.\nNotificación a los Empleados\nCuando sea necesario evacuar, activar la alarma de incendio más cercana o avisar puerta a puerta.\nSalida del Edificio\n(1) Todos los empleados deben salir del edificio si se da una orden de evacuar.\n(2) De ser posible, sin arriesgar la seguridad, los empleados que se encuentren en el proceso de contar el dinero, deben colocar rápidamente el dinero en la caja fuerte y cerrar la puerta de la misma.\n(3) Asistir a aquellos que requieren ayuda.\n(4) Dirigirse a la salida más cercana.\n(5) De haber visitas en el edificio, acompañarlas a la salida del edificio.\n16"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 33,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 150,
+ "segundos": 11.0,
+ "fecha": "2026-11-05 00:45",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 56,
+  "conf_media": 0.884,
+  "frac_baja": 0.071,
+  "frac_rara": 0.0,
+  "tinta": 0.0215
+ },
+ "n_palabras_vlm": 108,
+ "frac_rara_vlm": 0.023,
+ "similitud": 0.371,
+ "truncado": false,
+ "texto_ocr": "ANEXO N? 1\n\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\nd) SEGUROS ADICIONALES\n\nPRESUPUESTO OBRAS CONVENIO CONEXIÓN AV. PASO INTERPREDIAL || PASO INTERPREDIAL || PASO INTERPREDIAL N* 2 KM TOTALES (UF)\nCOMPLEMENTARIO N? 4 ALESSANDRI KM 6,787 KM 8,000 2,580 RAMAL AV, ALESSANDRI\n\n4.090 1.034 6.513\n\nINTERSECCION LAS\nINDUSTRIAS Y EMPALME\nAV. COLON\n\nCARLOS DIAZ VARGAS\nINSPECTOR ISCAL",
+ "texto_vlm": "ANEXO N° 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\nd) SEGUROS ADICIONALES\n\n| PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 | INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON | CONEXIÓN AV. ALESSANDRI | PASO INTERPREDIAL KM 6,787 | PASO INTERPREDIAL KM 8,000 | PASO INTERPREDIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI | TOTALES (UF) |\n|---|---|---|---|---|---|---|\n| 1 | SEGURO DE OBRAS (3,8%) | 4.090 | 1.034 | 652 | 577 | 160 | 6.513 |\n| TOTAL | | 4.090 | 1.034 | 652 | 577 | 160 | 6.513 |\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO\nDE OBRAS\nPÚBLICAS\nDIRECCIÓN\nGENERAL\nDE CONCESIONES\nDEPTO. DE\n00 36"
+}

@@ -1,0 +1,121 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:43",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Director General de Obras Públicas",
+    "debe_decir": "Director General de Concesiones de Obras Públicas",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "por un valor total de 300.000 UF, la cual reemplazará la Garantía de Seriedad de la Oferta. La Garantía de Seriedad de la Oferta, será devuelta dentro de los 15 días posteriores a la recepción por el MOP de la Garantía de Construcción. El plazo de la garantía será de 45 meses.",
+    "debe_decir": "y, en lo demás, deberá cumplir con las demás exigencias y requisitos establecidos en las Bases de Licitación, en todo lo que le sea aplicable. En el caso de la póliza de seguro de garantía a Primer Requerimiento, ésta deberá tener como afianzado a la Sociedad Concesionaria y como asegurado al Director General de Concesiones de Obras Públicas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Ella estará integrada, por una o más boletas de garantía bancarias, emitidas por un banco de la plaza a nombre del Director General de Concesiones de Obras Públicas",
+    "debe_decir": "La garantía de construcción deberá ser tomada por la Sociedad Concesionaria, o bien, por sus accionistas o sus matrices, pagadera a la vista, emitida en la ciudad de Santiago de Chile por un banco de la plaza o compañía de seguros, a nombre del Director General de Concesiones de Obras Públicas",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1357,
+     1362
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1363,
+     1369
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1370,
+     1373
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "elimina",
+    "parrafos": [
+     "P2",
+     "P3",
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1387,
+     1399
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1401,
+     1413
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.2.5"
+   }
+  ]
+ }
+}

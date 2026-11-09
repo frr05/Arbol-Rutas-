@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "El Inspector Fiscal del Ministerio de Obras Públicas (MOP) es quien fiscaliza el contrato de concesión, a través del cumplimiento del Reglamento de Servicio y otras funciones de control [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

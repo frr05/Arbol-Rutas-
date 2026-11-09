@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 05:23",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D12.F0006] (Convenio extincion N°342) 1.2. Con fecha 29 de julio de 2004, el MOP y la Sociedad Concesionaria suscribieron el Convenio Complementario N* 1 que modificó el contrato de concesión de la obra pública fiscal denominada \"Camino de La Madera\", por el cual la Sociedad Concesionaria se obligó a efectuar una ampliación y modificación de las obras del contrato, las que fueron compensadas mediante el denominado Mecanismo de Distribución de Ingresos (M",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D12.F0007] (Convenio extincion N°342) 1.10.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0008] (Convenio extincion N°342) 1.11.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0009] (Convenio extincion N°342) 1.12.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0010] (Convenio extincion N°342) 1.13. pronunciamiento en relación a las Resoluciones DGOP (Exentas) N* 4333, N* 5066 y N* 2633 y de los Decretos Supremos MOP N* 255 y N\" 215; que ordenase al MOP dejar sin efecto esas resoluciones y decretos por estar fuera del marco legal de las concesiones; que se restableciera la validez inmediata de las tarifas reajustadas según la normas del contrato; que se declarara la procedencia de las indemnizaciones que e",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D12.F0011] (Convenio extincion N°342) 1.14.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0012] (Convenio extincion N°342) 1.15.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0013] (Convenio extincion N°342) 1.16.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0014] (Convenio extincion N°342) 1.17.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0015] (Convenio extincion N°342) 1.18.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0016] (Convenio extincion N°342) 1.19. Con fecha 9 de marzo de 2011, la Comisión del artículo 36% de la Ley de Concesiones se pronunció favorablemente respecto de las compensaciones que debe efectuar el MOP a la Sociedad Concesionaria por el concepto de las diferencias producidas por la tarifa rebajada en relación a su valor contractual, por el periodo comprendido entre el 1 de junio de 2010 y el 31 de diciembre de 2010, por la suma de UF 77.894,20.",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0017] (Convenio extincion N°342) Anexo N? 1: Cálculos Numéricos. Ítem 1: Ítem 2: Ítem 3: Ejemplo numérico del cálculo del valor presente de la concesión actualizado hasta el 31 de diciembre de 2012. Ejemplo numérico de los flujos netos trimestrales actualizados hasta el 31 de diciembre de 2012. Ejemplo de los pagos por congelamiento tarifario impuesto entre el segundo semestre del año 2007 y el primer semestre del año 2010 efectuados por el MOP, act",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0018] (Convenio extincion N°342) el Diario Oficial el Decreto Supremo que apruebe el presente Convenio de Extinción de la Concesión, lo que ocurriere último, considerando para ello una tasa de interés real mensual de 0,7591%. Para una mejor comprensión respecto a la fórmula de cálculo señalada en el presente numeral, se incluye un ejemplo numérico en el Anexo N* 1 Ítem 1 del presente Convenio. La Sociedad Concesionaria ha estado y estará percibiendo",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0019] (Convenio extincion N°342) Para una mejor comprensión respecto a la fórmula de cálculo señalada en el párrafo precedente, se incluye el Anexo N* 1 Íítem 3 del presente Convenio con el cálculo numérico. De conformidad con lo establecido en el numeral 10 del epígrafe lll de la presentación conjunta efectuada por las partes ante la H. Comisión del artículo 36% de the Ley de Concesiones con fecha 6 de diciembre de 2010, por resoluciones de la misma",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0020] (Convenio extincion N°342) Para una mejor comprensión respecto a la fórmula de cálculo señalada en el párrafo precedente, se incluye el Anexo N* 1 Ítem 5 del presente Convenio con el cálculo numérico. Las partes acuerdan dejar sin efecto la obligación del MOP de compensar a la Sociedad Concesionaria por las diferencias producidas por las rebajas tarifarias del segundo semestre del 2012 y hasta la extinción de la concesión. En consecuencia, no",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0023] (Convenio extincion N°342) Anexo N* 1: Cálculos Numéricos. Ítem 1: Ejemplo numérico del cálculo del valor presente de la concesión actualizado hasta el 31 de diciembre de 2012. Ítem 2: Ejemplo numérico de los flujos netos trimestrales actualizados hasta el 31 de diciembre de 2012. Ítem 3: Ejemplo de los pagos por congelamiento tarifario impuesto entre el segundo semestre del año 2007 y el primer semestre del año 2010 efectuados por el MOP, act",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0024] (Convenio extincion N°342) ANEXO N* 1 CONVENIO DE EXTINCIÓN Ítem 1: Ejemplo numérico del cálculo del valor presente de la concesión actualizado hasta el 31 de diciembre de 2012 Tasa de interés mensual (Tm 0,7591 % Valor presente de la concesión: Fech interés Total echa Mensual UF 30/06/2010 | [| _ 736.34300 | Nota; - Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba £ pre",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0025] (Convenio extincion N°342) ANEXO N* 1 CONVENIO DE EXTINCIÓN Ítem 2: Ejemplo numérico de los flujos netos trimestrales actualizados hasta el 31 de diciembre de 2012 Tasa de interés mensual (Tm 0,7591% Flujos Trimestrales: oct-10 a dic-10 N\"? de meses desde el último día del UF Trimestre al 31-12- 1478684 27 | 3.349,55 18.136,39 2154822 24 | 4.288,31 25.836,53 1 21 Flujo Neto del Trimestre interés hasta el 31-12-12 56921 2 ___ |] 980,91 6.680,12",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0026] (Convenio extincion N°342) ANEXO N* 1 CONVENIO DE EXTINCIÓN Ítem 3: Ejemplo de los pagos por congelamiento tarifario impuesto entre el segundo semestre de! año 2007 y el primer semestre del año 2010 efectuados por el MOP, actualizados desde su fecha efectiva de pago hasta el 31 de diciembre de 2012 Tasa de interés anual (Ta 9,5% Tasa de interés diaria (Td 0,0248% N? de dias al Monto Total 09/01/2012 44.905,18 4.156,49 49.061,67 09/01/2012 16.9",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0027] (Convenio extincion N°342) ANEXO N* 1 CONVENIO DE EXTINCIÓN Ítem 4: Ejemplo de las diferencias producidas por las rebajas tarifarias dispuestas por el MOP en el segundo semestre de 2010 y el año 2011 pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012 'Tasa de interés anual (Ta 9,5% Tasa de interés diaria (Td 2,0248 % Monto N? de días al Total Poema de! Poo 3112-12 18/01/2012 77.894,20 348 7.020,29",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0028] (Convenio extincion N°342) ANEXO N* 4 CONVENIO de EXTINCIÓN Ítern 5: Ejemplo de las diferencias producidas por la rebaja tarifaria dispuesta por el MOP en el primer semestre de 2012 que será pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012 Tasa de interés anual (Ta) 9,5% Tasa de interés diaria (Td 9,0248% Monto N* de dias al Total Note - Para efectos del presente ejerpío se supone como fecha de p",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0029] (Convenio extincion N°342) ANEXO N* 1 CONVENIO DE EXTINCIÓN item 6: Ejemplo numérico del pago realizado por el MOP en virtud de la facultad que le otorgan los numerales 5.3 y 5.5 del Convenio Complementario N? 1, actualizado desde la fecha efectiva de pago hasta el 31 de diciembre de 2012 Tasa de interés anual (Ta, 9,5% Tasa de interés diaria (Td, 9,0248% Pagos en virtud de la facultad que le otorgan los numerales 5.3 y 5.5 del Convenio Comple",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0030] (Convenio extincion N°342) Anexo N\" 1 Precios Unitarios de las obras denominadas \"Conservación Mayor de pavimentos de la concesión\" (1 hoja) PRESUPUESTO OBRAS CONSERVACIÓN MAYOR PAVIMENTOS PRECIO PRECIO TOTAL TRAMO ¡TEM UN CANTIDAD un Seño gratas ! ELE ma9t] Sello grietas 53.78 Bacheo Simple 3 672,48 3 Reposición Astalica M2 11795 1239.65 Reconstrucción M2 45710 5.111,29 Siurry Calzada Ma 231.945.0l 13 522.39 Stumy Bermas mi Mo 39,480.0 230158",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D12.F0031] (Convenio extincion N°342) ANEXO N* 1 CONVENIO DE EXTINCIÓN hem 8: Ejemplo numérico de los estados de avance de las obras señaladas en numeral 3.1, actualizados hasta el 31 de diciembre de 2012 Avance mensual de la Avance Total Avance Acumulado y Avance mensual de la Ejecución de obras de Tana de interés del | — Actualizado al Actualizado al 31-12-12 conservación mayor | Elecución de obras de Periodo 31/1212 34-12-12 UF mejoramiento ur UE uE L",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D12.F0032] (Convenio extincion N°342) ANEXO N? 1 CONVENIO DE EXTINCIÓN Íftem 9: Ejemplo de los estados de avance de las obras de conservación señaladas en el numeral 3.2, actualizados hasta el 31 de diciembre de 2012 Ayanos Total Avance mensual de la N” de meses al] Ejecución de obras de | Tasa de interás del conservación mayor Avance Acumulado y Actualizado al Actualizado al an2n2 31-42-12 UF uF 31-12-12 0,4074% 30.050,9: 0,4074%] 16171,35 40.221,37 0.4",
+    "destino": "TEMA:obras"
+   }
+  ]
+ }
+}

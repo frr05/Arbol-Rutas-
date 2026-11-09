@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 03:26",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 convenios complementarios modificatorios del contrato: Convenio Complementario N°1 (aprobado por Decreto Supremo N°71 de 2005-02-01) [8] y Convenio Complementario N°2 (aprobado por Decreto Supremo N°316 de 2007-04-30) [1][4][8].",
+  "fuentes": [
+   1,
+   4,
+   8
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:28",
+ "respuesta": {
+  "respuesta": "La concesión se ubica en el borde costero de la Bahía de Concepción, a través del sector de Isla Rocuant [8].",
+  "fuentes": [
+   8
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "El proyecto incluirá, a lo menos, obras como movimientos de tierra, pavimentaciones, confección de bermas, obras de drenaje, señalización y defensas camineras [3]. Además, el concesionario deberá realizar un Estudio de Ingeniería Definitivo de cada una de las obras que se comprometa a realizar, específicamente las obras (A), (B), (C) y (D) [10].",
+  "fuentes": [
+   3,
+   10
+  ]
+ }
+}

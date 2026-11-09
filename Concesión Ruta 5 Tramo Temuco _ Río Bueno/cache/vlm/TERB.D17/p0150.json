@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 150,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 412,
+ "segundos": 19.5,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 265,
+  "conf_media": 0.91,
+  "frac_baja": 0.083,
+  "frac_rara": 0.007,
+  "tinta": 0.02
+ },
+ "n_palabras_vlm": 270,
+ "frac_rara_vlm": 0.007,
+ "similitud": 0.873,
+ "truncado": false,
+ "texto_ocr": "neta de IVA, por cada obra que no se ejecute. No se descontará ninguna\ncantidad en caso que no se ejecuten 4 o menos obras.\n\n2.7 Por concepto de administración y control de la ejecución de las obras denominadas\n“Mallas Antivandálicas”, se fija la cantidad única, total y a suma alzada de UF 823\n(Ochocientas Veintitrés Unidades de Fomento), neta de IVA.\n\n2.8 Por concepto de conservación, mantención, operación, explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de las obras denominadas “Obras de Seguridad Normativa con proyecto\naprobado”, “Obras de Seguridad Normativa con proyecto que requiere\nactualización”, “Obras Normativas”, “Obras de Servicialidad” y “Mallas\nAntivandálicas”, se fijan las cantidades únicas, totales y mensuales, expresadas en\nUnidades de Fomento, netas de ¡VA, según se resume en las Tablas N* 2, N*3, N%4,\nN*5 y N*6 siguientes:\n\nTabla N* 2\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y\nseguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe\ndurante la etapa de explotación de “Obras de Seguridad Normativa con\nproyecto aprobado”\n\n| a Costos mensuales de 7\nUbicación\n, Conservación,\nN* Obra según DS Ml o\nOBRA Mantención, Operación\nMOP N*524/2005 o\n[km] y Explotación\n(UF)\n+ l\n10 Calle de Servicio R 879,592 - 19,55\nalle de Servicio Rapaco ,\np 880,242\nDS MOP . Costos mensuales de\nN*336/2008 Ubicación Conservación,\nOBRA Mantención, Operación\nN? N? y Explotación\n[km] (UF)\nProyecto | Obra\n_—b\n, Varios\n2 7 instalación de Tachas Reflectantes 53,99\nsectores\n\nm0 os Los eros /\nSOCIEDAD CONCESIONARIA S.A. — [ray",
+ "texto_vlm": "neta de IVA, por cada obra que no se ejecute. No se descontará ninguna\ncantidad en caso que no se ejecuten 4 o menos obras.\n\n2.7 Por concepto de administración y control de la ejecución de las obras denominadas\n\"Mallas Antivandálicas\", se fija la cantidad única, total y a suma alzada de UF 823\n(Ochocientas Veintitrés Unidades de Fomento), neta de IVA.\n\n2.8 Por concepto de conservación, mantención, operación, explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de las obras denominadas \"Obras de Seguridad Normativa con proyecto\nactualización\", \"Obras de Seguridad Normativa con proyecto que requiere\nactualización\", \"Obras Normativas\", \"Obras de Servicialidad\" y \"Mallas\nAntivandálicas\", se fijan las cantidades únicas, totales y mensuales, expresadas en\nUnidades de Fomento, netas de IVA, según se resume en las Tablas N° 2, N°3, N°4,\nN°5 y N°6 siguientes:\n\nTabla N° 2\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y\nseguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe\ndurante la etapa de explotación de “Obras de Seguridad Normativa con\nproyecto aprobado”\n\n| N° Obra según DS MOP N°524/2005 | OBRA | Ubicación | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|---|\n| 10 | Calle de Servicio Rapaco | 879,592 - 880,242 | 19,55 |\n| DS MOP N°336/2008 | OBRA | Ubicación | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n| N° Proyecto | N° Obra | | |\n| 2 | 7 | Instalación de Tachas Reflectantes | Varios sectores | 53,99 |\n\nRUTA DE LOS RIOS\nSOCIEDAD CONCESIONARIA S. A. 9"
+}

@@ -1,0 +1,37 @@
+{
+ "documento": "TERB.D03",
+ "fragmentos": [
+  {
+   "id": "TERB.D03.F0001",
+   "acto": "TERB.D03.A1",
+   "lineas": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    19
+   ],
+   "pags": [
+    1
+   ],
+   "refs": [
+    "1.12"
+   ],
+   "verbo": false,
+   "ajeno": false
+  }
+ ]
+}

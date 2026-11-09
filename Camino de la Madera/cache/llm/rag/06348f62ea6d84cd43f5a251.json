@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar los siguientes seguros: 1) Seguro de responsabilidad civil por daños a terceros, tanto en la etapa de construcción (con un monto mínimo de UF 30.000 y deducible máximo del 1%) como desde la recepción definitiva hasta el término de la concesión (con un monto de UF 50.000 y deducible máximo del 1%), incluyendo explícitamente la responsabilidad por vehículos motorizados [5], [6]. 2) Seguro por catástrofe, que debe entregarse en forma separada de la póliza de responsabilidad civil, contener cláusulas de rehabilitación automática, renuncia a subrogación, gastos de aceleración e imposibilidad de cancelar sin aprobación del MOP [9]. Además, se menciona la obligación de mantener vigentes los seguros de responsabilidad civil por daños a terceros y de catástrofe hasta la extinción o publicación del decreto correspondiente [1], y garantizar inmunidad efectiva por perjuicios a terceros [2].",
+  "fuentes": [
+   1,
+   2,
+   5,
+   6,
+   9
+  ]
+ }
+}

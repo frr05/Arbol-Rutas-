@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:12",
+ "respuesta": {
+  "respuesta": "La variable de licitación con que se adjudicó fue el Monto del Subsidio solicitado (S), cuyo valor fue de 287.000 UF, lo cual corresponde al Tramo B donde la variable es el Subsidio del Estado al Oferente [2]. Esto se confirma en la oferta económica presentada, donde se consigna un monto de subsidio de 287.000 UF [8] y [10].",
+  "fuentes": [
+   2,
+   8,
+   10
+  ]
+ }
+}

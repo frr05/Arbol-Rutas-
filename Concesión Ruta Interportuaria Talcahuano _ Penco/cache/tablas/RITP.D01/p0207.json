@@ -1,0 +1,303 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 207,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:04",
+ "tablas": [
+  {
+   "titulo": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO",
+   "encabezados": [
+    "ITEM",
+    "DESCRIPCION",
+    "UNIDAD",
+    "PRECIO UNITARIO (UF)"
+   ],
+   "filas": [
+    [
+     "334",
+     "Vigas postensadas L=34 m",
+     "Nº",
+     "615,00"
+    ],
+    [
+     "335",
+     "Vigas postensadas L=35 m",
+     "Nº",
+     "652,50"
+    ],
+    [
+     "335",
+     "Vigas postensadas L=36 m",
+     "Nº",
+     "690,00"
+    ],
+    [
+     "335",
+     "Vigas postensadas L=37 m",
+     "Nº",
+     "727,50"
+    ],
+    [
+     "335",
+     "Vigas postensadas L=38 m",
+     "Nº",
+     "765,00"
+    ],
+    [
+     "335",
+     "Vigas postensadas L=39 m",
+     "Nº",
+     "802,50"
+    ],
+    [
+     "336",
+     "Vigas postensadas L=40 m",
+     "Nº",
+     "840,00"
+    ],
+    [
+     "341",
+     "Vigas metálicas y arriostramientos",
+     "Kg",
+     "0,08"
+    ],
+    [
+     "342",
+     "Lanzamiento y colocación de vigas metálicas",
+     "Nº",
+     "1.206,27"
+    ],
+    [
+     "351",
+     "Suministro y colocación de cantoneras",
+     "m",
+     "8,01"
+    ],
+    [
+     "352-354",
+     "Barandas antimpactos – barandas mixtas",
+     "m",
+     "5,20"
+    ],
+    [
+     "339",
+     "Barbacanas 1,0m",
+     "Nº",
+     "3,93"
+    ],
+    [
+     "360",
+     "Placas de neopreno",
+     "dm²",
+     "0,81"
+    ],
+    [
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "620",
+     "Impermeabilización de tablero",
+     "m²",
+     "0,36"
+    ],
+    [
+     "801",
+     "Limpieza y pintura barandas",
+     "m",
+     "0,30"
+    ],
+    [
+     "287",
+     "Cantonera tipo jeene",
+     "m",
+     "9,00"
+    ],
+    [
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "101-1",
+     "Remoción de estructuras",
+     "m³",
+     "1,24"
+    ],
+    [
+     "101-2",
+     "Remoción de ductos",
+     "m",
+     "0,30"
+    ],
+    [
+     "101-3",
+     "Remoción de pavimentos de hormigón",
+     "m²",
+     "0,11"
+    ],
+    [
+     "101-4",
+     "Remoción de pavimentos asfálticos",
+     "m²",
+     "0,06"
+    ],
+    [
+     "101-5",
+     "Remoción de defensas camineras simples",
+     "m",
+     "0,27"
+    ],
+    [
+     "101-6",
+     "Remoción de defensas camineras dobles",
+     "m",
+     "0,27"
+    ],
+    [
+     "101-7",
+     "Remoción de señalización vertical sobre la calzada",
+     "Nº",
+     "0,41"
+    ],
+    [
+     "101-8",
+     "Remoción de aceras",
+     "m",
+     "0,50"
+    ],
+    [
+     "101-9",
+     "Remoción de cercos",
+     "m",
+     "0,02"
+    ],
+    [
+     "101-10",
+     "Remoción de casetas de paraderos para la locomoción colectiva",
+     "Nº",
+     "9,22"
+    ],
+    [
+     "101-11",
+     "Traslado de postación",
+     "Nº",
+     "32,26"
+    ],
+    [
+     "101-13",
+     "Suministro Demolición de construcciones",
+     "m²",
+     "0,60"
+    ],
+    [
+     "101-14",
+     "Remoción de soleras",
+     "m",
+     "0,06"
+    ],
+    [
+     "101-15",
+     "Remoción Barreras Antiruido",
+     "ml",
+     "0,54"
+    ],
+    [
+     "101-17",
+     "Remoción Bermas TSD",
+     "m²",
+     "0,05"
+    ],
+    [
+     "102-1",
+     "Despeje y limpieza de la faja",
+     "Km",
+     "17,60"
+    ],
+    [
+     "102-3",
+     "Remoción de arboles",
+     "Há",
+     "248,99"
+    ],
+    [
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "201-1",
+     "Excavación de escarpe",
+     "m³",
+     "0,11"
+    ],
+    [
+     "201-2",
+     "Remoción de material inadecuado",
+     "m³",
+     "0,30"
+    ],
+    [
+     "201-3",
+     "Excavación de corte en terreno de cualquier naturaleza",
+     "m³",
+     "0,09"
+    ],
+    [
+     "202-1",
+     "Excavación especial",
+     "m³",
+     "0,18"
+    ],
+    [
+     "202-3",
+     "Excavación especial con agotamiento",
+     "m³",
+     "0,21"
+    ],
+    [
+     "204-1",
+     "Suministro y Colocación Geotextil para estabilización de suelos",
+     "m²",
+     "0,04"
+    ],
+    [
+     "204-3",
+     "Geotextil para drenaje",
+     "m²",
+     "0,05"
+    ],
+    [
+     "205-1",
+     "Formación y compactación de terraplenes",
+     "m³",
+     "0,13"
+    ],
+    [
+     "205-1a",
+     "Espigones de Encauzamiento",
+     "m³",
+     "0,17"
+    ],
+    [
+     "206-1",
+     "Relleno estructural",
+     "m³",
+     "0,46"
+    ],
+    [
+     "207-3",
+     "Enrocados de protección",
+     "",
+     "0,86"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

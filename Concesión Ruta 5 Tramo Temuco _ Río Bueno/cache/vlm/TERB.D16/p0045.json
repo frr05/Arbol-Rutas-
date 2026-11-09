@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D16",
+ "pagina": 45,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_123-2015.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 193,
+ "segundos": 49.4,
+ "fecha": "2026-10-27 12:13",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 84,
+  "conf_media": 0.592,
+  "frac_baja": 0.571,
+  "frac_rara": 0.033,
+  "tinta": 0.0329
+ },
+ "n_palabras_vlm": 141,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.223,
+ "truncado": false,
+ "texto_ocr": "CONTRALORIA GENERAL\nTOMA DE RAZON\nNUEVA RECEPCION\n\nDEPART.\n\nA]\nE\n\nCI\nY REGISTRO o]\n\nDi\n\n[0\n€\nm\no\npa\n\ne\nE\n5\n\n> | Ez\nou\n<a | Es\n<A\n\nza\n\n=\n€\na\no\nE\n\nREFRENDAGION\n\nREF POR $\nIMPUTAG\n\n9.\nras\n\nCoordinación «e €\n\nPágina 30 de 30\n\nParar:\n\n¿nro\n3\n\nMXN ta aro emo\n\njes Mi moduretica\n\nAS o\nCE a ua\n\nse DE\n. - 4 S]\n\nLor: CONCESIÓN\n£ cuco de Obras Públicas\n\n3\nPAS\n¡ss paa\n\nEME",
+ "texto_vlm": "CONTRALORIA GENERAL\nTOMA DE RAZON\nNUEVA RECEPCION\n\nCon Oficio N°\n\nDEPART. JURIDICO | |\nDEP. T. R. Y REGISTRO | |\nDEPART. CONTABIL. | |\nSUB. DEP. C. CENTRAL | |\nSUB. DEP. E. CUENTAS | |\nSUB. DEP. C. P. Y BIENES NAC. | |\nDEPART. AUDITORIA | |\nDEPART. V. O. P. U y T. | |\nSUB. DEP. MUNICIP. | |\n | |\nREFRENDACION\nREF. POR $ |\nIMPUTAC ANOT. POR IMPUTAC. $ |\nDEDUC DTO: |\n | |\n\n26/03/14\n\nMARIO GODOY BURGOS\nJefe División de Implementación\nde Obras Concesionadas del MOP\n\nALEXANDER GUILLAUME RICHAUD\nJefe División Jurídica\nCoordinación de Concesiones\nde Obras Públicas\n\nDIVISIÓN DE ANÁLISIS DE\nCONCESIÓN\nConcesiones de Obras Públicas\n\nOSCAR NEIRA SILVA\nJefe Unidad de Obras Viales\nDivisión de Explotación - CCOP\n\nPágina 30 de 30\n\nMINISTERIO DE OBRAS PÚBLICAS\n15 MAR 2016\n[ilegible]"
+}

@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe pagar por expropiaciones y adquisiciones de terrenos según los siguientes montos y condiciones:\n\n1. Monto base: Debe pagar al Estado la cantidad de UF 83.000 (ochenta y tres mil Unidades de Fomento) por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos requeridas para la ejecución de todas las obras incluidas en el Anteproyecto Referencial [10].\n\n2. Adicional por Prolongación de Av. Alessandri: Si la Sociedad Concesionaria optó por ejecutar las obras de Prolongación de Av. Alessandri en su Oferta Técnica, deberá pagar adicionalmente la cantidad de UF 41.000 (cuarenta y un mil Unidades de Fomento) por concepto similar para las obras señaladas en el artículo 2.2.4 [10].\n\n3. Gastos administrativos por lotes expropiados: La Sociedad Concesionaria deberá pagar un monto ascendente a UF 60 (sesenta Unidades de Fomento) por cada lote sujeto a expropiación, por concepto de gastos y desembolsos que incurrirá el MOP para concretar cada expropiación [7], [2]. Este monto se puede deducir de los pagos principales si se trata de bienes adquiridos directamente para el Fisco antes de la adjudicación [7].\n\n4. Costos adicionales no incluidos en los montos fijos: No están contenidas en las cantidades de UF 83.000 ni UF 41.000 los valores de las adquisiciones o expropiaciones necesarias para instalar servicios (artículos 1.10.10 y 2.2.1.7), puntos de cobro, oficinas del Concesionario y áreas adicionales (artículo 1.9.1.4), siendo de cargo exclusivo de la Sociedad Concesionaria el pago del valor de dichas adquisiciones o expropiaciones [2]. Tampoco están incluidas las adquisiciones o expropiaciones requeridas para nuevas inversiones señaladas en el artículo 1.14.2.1 [3].\n\n5. Modificaciones al proyecto: Si la Sociedad Concesionaria realiza modificaciones al Anteproyecto Referencial o Alternativo que requieran expropiar terrenos con mayor valor de tasación, estos mayores costos serán de cargo de la Sociedad Concesionaria, pagando la diferencia entre el valor pericial del proyecto modificado y el del anteproyecto original [3]. Asimismo, asumirá el costo de antecedentes y pago de expropiaciones adicionales si se solicitan modificaciones al Proyecto de Ingeniería Definitiva una vez iniciado el procedimiento expropiatorio, o si las áreas iniciales resultan insuficientes [5], [6]. También será responsable de los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas que no se requieran por modificaciones al proyecto aprobado [1], [5].\n\n6. Plazos de pago: Los pagos correspondientes a indemnizaciones definitivas más los gastos administrativos (UF 60 por lote), así como los mayores valores por expropiaciones derivadas de modificaciones, deberán realizarse en un plazo no superior a 60 días desde la notificación del Inspector Fiscal mediante el Libro de Obras [2], [3]. El pago inicial de UF 83.000 (y UF 41.000 si aplica) debe hacerse mediante Vale Vista al DGOP dentro de los 240 días contados desde la publicación en el Diario Oficial del Decreto Supremo de Adjudicación [7].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7,
+   10
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "El plazo de concesión ofrecido y establecido es de 25 años [6], el cual no debe superar los 25 años según las bases de licitación [4] [8]. No obstante, existe un máximo legal absoluto de 50 años establecido en la Ley de Concesiones, el cual no puede ser excedido por el plazo total de la concesión [1].",
+  "fuentes": [
+   1,
+   4,
+   6,
+   8
+  ]
+ }
+}

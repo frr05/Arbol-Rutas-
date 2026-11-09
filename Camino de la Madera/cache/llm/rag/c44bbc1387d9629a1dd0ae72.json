@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:13",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar: 1) Seguro de responsabilidad civil por daños a terceros con un monto mínimo de UF 30.000 durante la construcción y UF 50.000 durante la explotación, con deducible máximo del 1% [5]. 2) Seguro por catástrofe por un monto equivalente al costo total de la obra concesionada, con deducible máximo del 1%, con beneficiario único al Ministerio de Obras Públicas [6][8]. Ambos seguros deben mantenerse vigentes hasta el 31 de diciembre de 2012 o hasta 5 días hábiles después de la publicación del Decreto Supremo que apruebe el Convenio de Extinción [1].",
+  "fuentes": [
+   1,
+   5,
+   6,
+   8
+  ]
+ }
+}

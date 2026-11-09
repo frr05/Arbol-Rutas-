@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D20",
+ "archivo": "4_modificacion_obras_convenios/TERB-Resolucion-DGOP-N_3662-2006.pdf",
+ "sha256": "587bf9e89b77a1da48944b53d1a87494096b44f6089f9d162e40d813ce0a3085",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:09"
+}

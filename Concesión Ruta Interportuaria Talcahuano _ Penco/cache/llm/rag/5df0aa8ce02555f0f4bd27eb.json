@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:16",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Para los pavimentos asfálticos, se mide mediante el Índice de Rugosidad Superficial (IRI), cuyo máximo permitido es de 3,5 m/km [1]. El reajuste tarifario anual se calcula utilizando una fórmula que incluye la variación del Índice de Precios al Consumidor (IPC) y un reajuste máximo real anual de las tarifas (RR), que para el primer año es cero y para años posteriores es del 3% [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

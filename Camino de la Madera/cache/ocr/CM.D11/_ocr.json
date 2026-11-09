@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D11",
+ "archivo": "4_modificacion_obras_convenios/Convenio-Complementario-N_1-MDI-Camino-de-la-Madera.pdf",
+ "sha256": "f482ee11d11f69aa85fa06169340d4badf5f0e35b0d94cf0887e232e901a94ee",
+ "paginas": 74,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:38"
+}

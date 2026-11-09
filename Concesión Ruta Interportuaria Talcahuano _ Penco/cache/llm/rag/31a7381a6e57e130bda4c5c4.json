@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "El sistema de cobro de peajes corresponde al equivalente al uso efectivo de la vía, con cobro a la salida a los usuarios mediante un sistema de tickets en plazas de peaje manuales [8]. La tecnología para el cobro bajo este sistema debe ser Control de Accesos Manual [2].",
+  "fuentes": [
+   2,
+   8
+  ]
+ }
+}

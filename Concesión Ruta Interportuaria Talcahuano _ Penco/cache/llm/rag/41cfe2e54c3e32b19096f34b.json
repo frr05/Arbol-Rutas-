@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "Se adjudicó al Grupo Licitante Consorcio Autopista Interportuaria, formado por las empresas Besalco S.A., Constructora EYA Ingenieros Ltda. (también referida como BY A en el decreto) y Proyectos de Infraestructura e Inversiones Genera Ltda.",
+  "fuentes": [
+   2,
+   4
+  ]
+ }
+}

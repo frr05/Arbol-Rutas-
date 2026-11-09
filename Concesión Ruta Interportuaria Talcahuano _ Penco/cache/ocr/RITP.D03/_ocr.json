@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D03",
+ "archivo": "2_adjudicacion/Oferta-economica-Interportuaria.pdf",
+ "sha256": "7f445b684517f6a240d2aaa2d83961151f69dde1e4df0f7a89a986368443973b",
+ "paginas": 1,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:46"
+}

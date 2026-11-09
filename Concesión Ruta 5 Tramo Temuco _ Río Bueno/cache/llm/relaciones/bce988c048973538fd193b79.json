@@ -1,0 +1,86 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P29"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "por razones no imputables a hecho o culpa de la",
+    "debe_decir": "Sociedad Concesionaria, ésta tendrá derecho a solicitar una ampliación del plazo de",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4599,
+     4604
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "4.4.1."
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P30"
+    ],
+    "texto_nuevo": [
+     4605,
+     4608
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P30"
+    ],
+    "texto_nuevo": [
+     4609,
+     4625
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4643,
+     4650
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "4.4.2."
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P30"
+    ],
+    "texto_nuevo": [
+     4651,
+     4652
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

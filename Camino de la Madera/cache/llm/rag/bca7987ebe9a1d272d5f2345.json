@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:23",
+ "respuesta": {
+  "respuesta": "El plazo de concesión propuesto por el licitante y adjudicado es de 25 años, contados desde la fecha de suscripción y protocolización del Decreto de Adjudicación [1], [7]. Sin embargo, el Convenio Complementario N°1 establece que el plazo total de la concesión no podrá exceder el máximo de 50 años establecido en la Ley de Concesiones [2]. Además, se define un mecanismo de plazo variable donde la fecha estimada de extinción depende del cumplimiento de condiciones financieras (Ingreso Mínimo Garantizado), pudiendo la concesión terminar antes o después de los 25 años iniciales, pero siempre dentro del límite legal de 50 años [2]. Finalmente, el Convenio de Extinción N°342 formaliza el término de la concesión con vigencia hasta el 31 de diciembre de 2012 [8].",
+  "fuentes": [
+   1,
+   2,
+   7,
+   8
+  ]
+ }
+}

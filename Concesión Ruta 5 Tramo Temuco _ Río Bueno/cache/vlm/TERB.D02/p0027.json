@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D02",
+ "pagina": 27,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 798,
+ "segundos": 70.6,
+ "fecha": "2026-10-27 12:09",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 179,
+  "conf_media": 0.707,
+  "frac_baja": 0.542,
+  "frac_rara": 0.0,
+  "tinta": 0.071
+ },
+ "n_palabras_vlm": 561,
+ "frac_rara_vlm": 0.321,
+ "similitud": 0.236,
+ "truncado": false,
+ "texto_ocr": "e\n\n40. Se reemplaza to contenido en 2.2.2.1 Obras de Pavimentación, por lo siguiente:\n\n“La Sociedad Concesionaria deberá realizar los mejoramientos de la calzada preexistente,\ntales como reconstrucción y recapado, en los sectores que S€ indican en las Tablas 2.11 y 2.12\n\nTabla 2.11: Obras de Pavimentación €N Calzada Izquierda\n\nKm Inicio Km Final Longitud Obra Volumen N*\n(km)\n\nE\n\nE 733.826 | 6.694 Recapado |\nA Ts A Renca | ERA\n\nA\n\nA |\n030 econsacón | EN\n\n756.800\n\n'\n'\n\nO\nIET IEEE O A SS\nA e\n758.820 A\nA a\nA\nA a\nA\n\nda\n\nHA A\nSO O\n\n,\n\nE\n\n768.360 768.960 0.600 [Reconstrucción |\nz :\n\nA\n0380 Reconstrucción |\n— 0 conaeción\nHA\nHA\nA o o\n\nA\nA e o\n\n21.359\n\n'\n\n'\n\n.\n\nm\n\n2.12: Obras de Pavimentación en Calzada Derecha\n\nO\n\nVolumen N”\nocn AS\n\nA o\n\nE E O\n\nES] econsracción [HEEE |\nA\nA |\nA\n\nMATE A e e\nA\nA\nMES HT\n\n0200 Reconsimeción 7\n\nTabla\n\nCIRCULAR MOLARA TORES Ns ESION RUTA Sl\n\nA me",
+ "texto_vlm": "40. Se reemplaza lo contenido en 2.2.2.1 Obras de Pavimentación, por lo siguiente:\n\n\"La Sociedad Concesionaria deberá realizar los mejoramientos de la calzada preexistente,\ntales como reconstrucción y recapado, en los sectores que se indican en las Tablas 2.11 y 2.12\n\nTabla 2.11: Obras de Pavimentación en Calzada Izquierda\n| Km Inicio | Km Final | Longitud (km) | Obra | Volumen N° |\n|---|---|---|---|---|\n| 727.073 | 727.133 | 0.060 | Reconstrucción | I-III-IV:IX-X |\n| 727.133 | 733.826 | 6.694 | Recapado | I-III-IV:IX-X |\n| 733.826 | 734.526 | 0.699 | Reconstrucción | I-III-IV:IX-X |\n| 755.039 | 755.580 | 0.541 | Reconstrucción | I-III-IV:IX-X |\n| 756.800 | 757.660 | 0.860 | Recapado | I-III-IV:IX-X |\n| 757.660 | 758.080 | 0.420 | Reconstrucción | I-III-IV:IX-X |\n| 758.080 | 758.200 | 0.500 | Recapado | I-III-IV:IX-X |\n| 758.200 | 759.000 | 0.180 | Reconstrucción | I-III-IV:IX-X |\n| 759.000 | 759.500 | 0.500 | Recapado | I-III-IV:IX-X |\n| 759.500 | 761.180 | 1.680 | Reconstrucción | I-III-IV:IX-X |\n| 762.680 | 763.000 | 0.320 | Reconstrucción | I-III-IV:IX-X |\n| 763.901 | 764.201 | 0.300 | Recapado | I-III-IV:IX-X |\n| 764.201 | 764.561 | 0.060 | Reconstrucción | I-III-IV:IX-X |\n| 765.441 | 765.841 | 0.400 | Reconstrucción | I-III-IV:IX-X |\n| 767.081 | 767.141 | 0.060 | Reconstrucción | I-III-IV:IX-X |\n| 767.141 | 768.360 | 1.219 | Recapado | I-III-IV:IX-X |\n| 768.360 | 768.960 | 0.600 | Reconstrucción | I-III-IV:IX-X |\n| 770.501 | 770.840 | 0.340 | Reconstrucción | I-III-IV:IX-X |\n| 771.900 | 772.480 | 0.580 | Reconstrucción | I-III-IV:IX-X |\n| 776.304 | 776.780 | 0.476 | Reconstrucción | I-III-IV:IX-X |\n| 782.280 | 783.107 | 0.360 | Reconstrucción | I-III-IV:IX-X |\n| 801.623 | 802.263 | 0.640 | Reconstrucción | I-III-IV:IX-X |\n| 823.488 | 831.107 | 0.560 | Reconstrucción | I-III-IV:IX-X |\n| 841.728 | 842.787 | 1.060 | Reconstrucción | I-III-IV:IX-X |\n| 843.367 | 843.848 | 0.480 | Reconstrucción | I-III-IV:IX-X |\n| 889.688 | 890.000 | 0.312 | Reconstrucción | I-III-IV:IX-X |\n| Total Calzada Izquierda | | 21.359 | m | |\n\nTabla 2.12: Obras de Pavimentación en Calzada Derecha\n| Km Inicio | Km Final | Longitud (km) | Obra | Volumen N° |\n|---|---|---|---|---|\n| 721.297 | 721.937 | 0.640 | Reconstrucción | I-III-IV:IX-X |\n| 734.526 | 744.917 | 10.391 | Recapado | I-III-IV:IX-X |\n| 744.917 | 745.056 | 0.139 | Reconstrucción | I-III-IV:IX-X |\n| 750.197 | 751.018 | 0.821 | Reconstrucción | I-III-IV:IX-X |\n| 755.580 | 756.800 | 1.220 | Reconstrucción | I-III-IV:IX-X |\n| 763.000 | 763.901 | 0.900 | Reconstrucción | I-III-IV:IX-X |\n| 783.280 | 787.280 | 4.000 | Reconstrucción | I-III-IV:IX-X |\n| 803.884 | 804.583 | 0.700 | Reconstrucción | I-III-IV:IX-X |\n| 824.887 | 825.687 | 0.800 | Reconstrucción | I-III-IV:IX-X |\n| 831.767 | 832.408 | 1.100 | Reconstrucción | I-III-IV:IX-X |\n| 836.908 | 838.008 | 0.420 | Reconstrucción | I-III-IV:IX-X |\n| 840.348 | 841.168 | 0.820 | Reconstrucción | I-III-IV:IX-X |\n| 843.027 | 843.367 | 0.340 | Reconstrucción | I-III-IV:IX-X |\n| 846.228 | 846.948 | 0.720 | Reconstrucción | I-III-IV:IX-X |\n| 847.627 | 847.888 | 0.260 | Reconstrucción | I-III-IV:IX-X |\n\nCIRCULAR ACLARATORIA N° 1\nCONCESION RUTA 5\npág. 21\nD.G.O.P."
+}

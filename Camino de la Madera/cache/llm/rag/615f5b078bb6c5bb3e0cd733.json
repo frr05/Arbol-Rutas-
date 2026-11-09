@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:28",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar: 1) Seguro por catástrofe por un monto equivalente al costo total de la obra concesionada, con deducible máximo del 1% [6]; 2) Seguro de responsabilidad civil por daños a terceros con un monto mínimo de UF 30.000 durante la etapa de construcción y UF 50.000 durante la etapa de explotación, con deducible máximo del 1% [7]. Ambos seguros deben tener como beneficiario único al Ministerio de Obras Públicas y cumplir con las cláusulas específicas establecidas en las Bases de Licitación.",
+  "fuentes": [
+   6,
+   7
+  ]
+ }
+}

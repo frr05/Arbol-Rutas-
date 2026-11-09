@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:17",
+ "respuesta": {
+  "respuesta": "La concesión se ubica en la Octava Región del Bío-Bío, específicamente a través de las comunas de Penco y Talcahuano, por el borde costero de la Bahía de Concepción (sector de Isla Rocuant) [2], [10].",
+  "fuentes": [
+   2,
+   10
+  ]
+ }
+}

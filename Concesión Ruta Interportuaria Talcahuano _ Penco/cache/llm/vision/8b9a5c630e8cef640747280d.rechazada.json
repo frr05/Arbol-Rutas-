@@ -1,0 +1,14 @@
+[
+ {
+  "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+  "costo": 0.0007638,
+  "error": "filas [0, 1] con largo distinto a los 7 encabezados",
+  "texto": "{\"tablas\": [{\"titulo\": \"ANEXO N° 1 PRESUPUESTO DE LAS NUEVAS INVERSIONES\", \"encabezados\": [\"PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1\", \"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\", \"CONEXIÓN AV. ALESSANDRI\", \"PASO INTERPREDIAL KM 6,787\", \"PASO INTERPREDIAL KM 8,000\", \"PASO INTERPREDIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI\", \"TOTALES (UF)\"], \"filas\": [[\"1\", \"SEGURO DE OBRAS (3,8%)\", \"4.090\", \"1.034\", \"652\", \"577\", \"160\", \"6.513\"], [\"TOTAL\", \"\", \"4.090\", \"1.034\", \"652\", \"577\", \"160\", \"6.513\"]], \"notas\": null}]}"
+ },
+ {
+  "modelo": "google/gemini-2.5-flash-lite",
+  "costo": 0.0001592,
+  "error": "filas [0, 1] con largo distinto a los 7 encabezados",
+  "texto": "```json\n{\"tablas\": [{\"titulo\": \"ANEXO N° 1\", \"encabezados\": [\"PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1\", \"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\", \"CONEXIÓN AV. ALESSANDRI\", \"PASO INTERPREDIAL KM 6,787\", \"PASO INTERPREDIAL KM 8,000\", \"PASO INTERPREDIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI\", \"TOTALES (UF)\"], \"filas\": [[\"1\", \"SEGURO DE OBRAS (3,8%)\", \"4.090\", \"1.034\", \"652\", \"577\", \"160\", \"6.513\"], [\"TOTAL\", \"\", \"4.090\", \"1.034\", \"652\", \"577\", \"160\", \"6.513\"]], \"notas\": null}]}\n```"
+ }
+]

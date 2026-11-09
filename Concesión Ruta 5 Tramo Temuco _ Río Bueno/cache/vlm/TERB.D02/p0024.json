@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D02",
+ "pagina": 24,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 536,
+ "segundos": 37.8,
+ "fecha": "2026-10-27 12:09",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 180,
+  "conf_media": 0.769,
+  "frac_baja": 0.322,
+  "frac_rara": 0.024,
+  "tinta": 0.0428
+ },
+ "n_palabras_vlm": 484,
+ "frac_rara_vlm": 0.04,
+ "similitud": 0.277,
+ "truncado": false,
+ "texto_ocr": "37. En 2.2.1.6 Pasadas de\nla siguiente:\n\n116 |\nA\n\n38.En 2.2.1 7 Pasadas de Ganado\n\nNotas :\nO.A.: Pasadas de Ganado. Maquinaria Agricola y Pe\n\nAT.: Pasadas de Ganado. Maquinaria Agricola y Pe\n(my Atraviesos existente\n\nCIRCULAR ACLARA TORÍ A oñ\n\n(21 |\n25 Quesquecian\n\n57\nA as\n\n07\nA\nE A\n\n113] Escuela Agrícola\n\nPeatones, Se reemplaza la\n\nTabla 2.8: Ubicación de Pasarelas Peatonales\n\nAs\n135,756 |El Prado A\n\n50211] Pon Pón ————\n| 798.044 e NM\n\n846.072 a MM\n17 857.632 | Paillaco Norte\n\n+ km de proyecto de la calzada oriente\n\ny Maquinaria Agricola, se reemplaza la Tabla\n\nTablas 2.9: Pasadas de Ganado y Maquinaria Agríe\n\n|\n\n862.300\n869,149\n873.088\n\nO malo —\n\npara este efecto\n\ns que deben ser ampliados 2 Segunda Calza\n\nCONCESION RLiN*\n\nCI A\n\n] [TOA\n“| Demaihue |\nPichirropulli\n\naronal correspondientes 2 Obras de\n\natonal adicionales. diseñadas especialmente pargyeste efecto > y\nSS\n\nEa:\n\nTabla 2.8: Ubicación de Pasarelas Peatonales, por\n\n2.9 por la siguiente:\n\nola\n\nAnte para drenaje. ampliadas\n\n.»\n\npág 18\n\nPA\n\npr\npa MO AN DO RIO BUENO",
+ "texto_vlm": "37. En 2.2.1.6 Pasadas de Peatones, se reemplaza la Tabla 2.8: Ubicación de Pasarelas Peatonales, por\nla siguiente:\n\nTabla 2.8: Ubicación de Pasarelas Peatonales\n| N° | Km(*) | Ubicación | Volumen N° |\n|---|---|---|---|\n| 1 | 728,294 | Liuco | VIII |\n| 2 | 735,756 | El Prado | VIII |\n| 3 | 738,496 | Quesquechan | VIII |\n| 4 | 744,962 | Collimallín | VIII |\n| 5 | 750,799 | Loncoche Norte | VIII |\n| 6 | 770,653 | Lanco | VIII |\n| 7 | 771,500 | Lanco Sur | VIII |\n| 8 | 780,211 | Pon Pón | VIII |\n| 9 | 788,193 | Rucaco | VIII |\n| 10 | 798,044 | Malinto | VIII |\n| 11 | 810,146 | Mulpún Norte | VIII |\n| 12 | 832,389 | Los Lagos (Liceo) | VIII |\n| 13 | 839,131 | Escuela Agrícola | VIII |\n| 14 | 846,072 | El Trébol | VIII |\n| 15 | 852,567 | Demaihue | VIII |\n| 16 | 857,632 | Paillaco Norte | VIII |\n| 17 | 865,712 | Paihuén | VIII |\n| 18 | 872,714 | Tronlico | VIII |\n| 19 | 874,311 | Pichichoroico | VIII |\n\n* km de proyecto de la calzada oriente\n\n38. En 2.2.1.7 Pasadas de Ganado y Maquinaria Agrícola, se reemplaza la Tabla 2.9 por la siguiente:\n\nTablas 2.9: Pasadas de Ganado y Maquinaria Agrícola\n| N° | Km | Lugar | Tipo |\n|---|---|---|---|\n| 1 | 730,221 | El Liuco (*) | AT. |\n| 2 | 746,371 | Villarrica | O.A. |\n| 3 | 753,822 | E. Fourcade (*) | AT. |\n| 4 | 774,653 | Lanco Sur | AT. |\n| 5 | 776,432 | Puente Negro | AT. |\n| 6 | 782,550 | Mariquina | AT. |\n| 7 | 788,000 | Mafíl | AT. |\n| 8 | 803,375 | Iñaque | O.A. |\n| 9 | 812,027 | Mafíl | AT. |\n| 10 | 812,142 | Mafíl | O.A. |\n| 11 | 848,047 | Demaihue | AT. |\n| 12 | 851,727 | Agrícola Reumen | AT. |\n| 13 | 862,300 | Pichirropulli | AT. |\n| 14 | 869,149 | Los Esteros | AT. |\n| 15 | 873,088 | Cuño - Cuño | AT. |\n| 16 | 876,311 | Llollelhue | AT. |\n| 17 | 877,851 | Rofuco | AT. |\n\nNotas:\nO.A.: Pasadas de Ganado, Maquinaria Agrícola y Peatonal correspondientes a Obras de Arte para drenaje, ampliadas para este efecto\nAT.: Pasadas de Ganado, Maquinaria Agrícola y Peatonal adicionales, diseñadas especialmente para este efecto\n(*) : Atraviesos existentes que deben ser ampliados a Segunda Calzada\n\npág. 18\nCIRCULAR ACLARATORIA N° 3\nCONCESION RUTA 5\n7P AMO 11 M (0) - RIO BUENO"
+}

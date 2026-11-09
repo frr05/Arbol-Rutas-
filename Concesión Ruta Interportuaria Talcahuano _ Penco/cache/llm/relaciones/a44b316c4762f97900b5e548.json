@@ -1,0 +1,43 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 19:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.3",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "0) Cada vez que se compruebe el incumplimiento de las obligaciones señaladas en el artículo 1.7.3 de las presentes Bases de Licitación;",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P17"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "p) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.",
+    "debe_decir": "o) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.14.3",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     868,
+     924
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

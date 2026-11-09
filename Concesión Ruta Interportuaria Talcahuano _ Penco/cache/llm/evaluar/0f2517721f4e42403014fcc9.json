@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:12",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene los montos anuales principales (UF 3.800 y UF 2.400) correspondientes a las etapas definidas en la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye el monto principal de UF 83.000 y el adicional de UF 41.000 mencionados en la referencia, además de detalles complementarios correctos."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "La respuesta omite el porcentaje restante del 20% destinado a conservación, reparación y explotación que especifica la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta atribuye incorrectamente la tasa del 0,0198% a retrasos de ambas partes según Bases, cuando la referencia indica que esa tasa es solo para la Sociedad Concesionaria."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia en el sistema de cobro (salida), tecnología (manual) y requisitos de pistas manuales."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma la diferenciación por categoría y la facultad de alterar tarifas dentro de límites, coincidiendo con la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el IPC como índice base y el reajuste extraordinario por inflación acumulada superior al 15%."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce exactamente los valores de tarifa máxima base ($50 punta, $35 fuera punta) y la fecha base indicados en la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide plenamente con la referencia en moneda y fecha base de las tarifas."
+   },
+   {
+    "n": 30,
+    "veredicto": "parcial",
+    "motivo": "La respuesta menciona la longitud parcial (10,9 km) pero también cita la longitud total correcta (14,4 km) en el mismo párrafo, proporcionando la información completa."
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:20",
+ "respuesta": {
+  "respuesta": "La adjudicación se resolvió evaluando las ofertas determinadas como técnicamente aceptables, atendidos los factores señalados en el Artículo 7 del DFL MOP N° 164, de 1991 [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

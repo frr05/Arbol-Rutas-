@@ -1,0 +1,114 @@
+{
+ "documento": "CM.D08",
+ "pagina": 1,
+ "modelo": "google/gemini-2.5-flash-lite",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:48",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "DEPART.",
+    "JURIDICO",
+    "",
+    "",
+    ""
+   ],
+   "filas": [
+    [
+     "DEP. T. R.",
+     "Y REGISTRO",
+     "",
+     "",
+     ""
+    ],
+    [
+     "DEPART.",
+     "CONTABIL.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP.",
+     "C. CENTRAL",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP.",
+     "E. CUENTAS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP.",
+     "C. P. Y",
+     "BIENES NAC.",
+     "",
+     ""
+    ],
+    [
+     "DEPART.",
+     "AUDITORIA",
+     "",
+     "",
+     ""
+    ],
+    [
+     "DEPART.",
+     "V. O. P., U y T.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP.",
+     "MUNICIPI",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "REFRENDACION",
+    "",
+    ""
+   ],
+   "filas": [
+    [
+     "REF. POR",
+     "$",
+     ""
+    ],
+    [
+     "IMPUTAC.",
+     "",
+     ""
+    ],
+    [
+     "ANOT. POR",
+     "$",
+     ""
+    ],
+    [
+     "IMPUTAC.",
+     "",
+     ""
+    ],
+    [
+     "DEDUC DTO.",
+     "",
+     ""
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

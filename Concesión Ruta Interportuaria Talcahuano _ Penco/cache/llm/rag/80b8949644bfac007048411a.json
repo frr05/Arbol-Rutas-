@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:22",
+ "respuesta": {
+  "respuesta": "Ruta Interportuaria Talcahuano — Penco por Isla Rocuant",
+  "fuentes": [
+   3,
+   5,
+   7
+  ]
+ }
+}

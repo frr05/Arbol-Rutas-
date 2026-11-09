@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre el monto en UF por nivel de servicio insuficiente (Costo por Desempeño Operacional) ni sobre incentivos por buen desempeño.",
+  "fuentes": []
+ }
+}

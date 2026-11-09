@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:34",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre la ponderación específica de cada servicio en el Nivel de Servicio de la Concesión.",
+  "fuentes": []
+ }
+}

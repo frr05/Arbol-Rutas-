@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:37",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe pagar por expropiaciones y adquisiciones de terrenos los siguientes montos: UF 83.000 (ochenta y tres mil Unidades de Fomento) por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos para la ejecución de todas las obras incluidas en el Anteproyecto Referencial [10]; adicionalmente, si optó por la Prolongación de Av. Alessandri, deberá pagar UF 41.000 (cuarenta y un mil Unidades de Fomento) por concepto similar para las obras señaladas en el artículo 2.2.4 [8]. Estos pagos se realizan mediante cuotas dentro de plazos específicos contados desde la publicación del Decreto Supremo de Adjudicación [9]. Asimismo, la Sociedad Concesionaria es responsable exclusivo del pago del valor de indemnización definitiva más UF 60 por cada lote expropiado por gastos del MOP cuando los terrenos no estén cubiertos por los montos anteriores (como los necesarios para puntos de cobro, oficinas y áreas adicionales), debiendo realizar este pago en un plazo no superior a 60 días desde la notificación del Inspector Fiscal [1]. También debe cubrir mayores costos por expropiaciones derivadas de modificaciones al proyecto que requieran terrenos de mayor tasación, pagando la diferencia en un plazo no superior a 60 días [3]. Finalmente, debe asumir los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas pero no requeridas por modificaciones aprobadas, incluyendo indemnizaciones del MOP, pagando en un plazo no superior a 60 días [4].",
+  "fuentes": [
+   1,
+   3,
+   4,
+   8,
+   9,
+   10
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:36",
+ "respuesta": {
+  "respuesta": "La concesión abarca las comunas de Penco y Talcahuano, en la Octava Región del Bío-Bío [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

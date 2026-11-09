@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "Se imputa un 80% de los ingresos por concepto de peaje al pago del precio del servicio de construcción, mientras exista saldo deudor por este concepto [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

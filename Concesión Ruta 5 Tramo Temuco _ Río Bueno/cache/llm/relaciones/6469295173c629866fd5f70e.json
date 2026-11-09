@@ -1,0 +1,46 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:36",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IVA, las que se considerarán según su valor proforma, es decir, según los desembolsos que efectivamente realice la Sociedad Concesionaria por este concepto, previa aprobación del Inspector Fiscal del presupuesto que se le presente. El Inspector Fiscal tendrá un plazo de 5 dias para aprobar o rechazar el presupuesto correspondiente. En caso de que el presupuesto fuera rechazado, la Sociedad Concesionaria deberá presentar un nuevo presupuesto corregido al Inspector Fiscal para su aprobación o rechazo",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6",
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "EL IVA correspondiente a las obras de mantención y reparación deberá ser facturado cada 30 días al MOP. El Inspector Fiscal tendrá 15 días para aprobar o rechazar dicha factura. Después de su aprobación, el pago del\nIVA de la factura se efectuará dentro de los 15 días contados desde la fecha de aprobación por parte : del . Inspector Fiscal. A QUE",
+    "debe_decir": "IVA que corresponda en relación a los costos por concepto de conservación, mantenimiento, operación, explotación (incluido el mantenimiento o la conservación mayor) y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de las obras, el que será regulado conforme se dispone en el artículo 1.11.5 de las Bases de Licitación. A mayor abundamiento, el IVA que corresponda, con la excepción antes señalada, será de cargo de la Sociedad Concesionaria y será compensado por el MOP en virtud de lo dispuesto en el Convenio Ad-Referéndum N°3, de fecha 26 de enero de 2018, que se aprueba en el N°12 del presente decreto supremo.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     2205,
+     2221
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-28 02:52",
+ "respuesta": {
+  "respuesta": "El Ingreso Mínimo Garantizado del año 3 sin Av. Alessandri es de 15.264 UF [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

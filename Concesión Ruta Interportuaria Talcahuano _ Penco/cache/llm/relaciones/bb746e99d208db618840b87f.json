@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 18:35",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.4",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": " de dicho estudio o declaración, así como los relacionados tanto con la tramitación y eventuales medidas adicionales que exija la COREMA VIH Región serán de exclusivo cargo del Concesionario. Del mismo modo, en caso de requerirse terrenos adicionales para la materialización de estas obras opcionales, los antecedentes de expropiaciones asociados deberán ser elaborados por el Concesionario, de acuerdo a lo establecido en el artículo 2.4 de las presentes Bases, y presentados al Inspector Fiscal para su aprobación. Los costos asociados a la elaboración de dichos antecedentes así como el valor de las expropiaciones y adquisiciones de los terrenos adicionales necesarios para la materialización de las obras descritas en el presente artículo, serán de entero cargo del Concésionario.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "El sistema de cobro utilizado es manual, con la posibilidad de implementar sistemas de Pre o Post Pago. El reglamento establece que el cobro se realizará en forma directa al usuario mediante cobro manual, entregándole un comprobante de cancelación [1]. Además, indica que la concesionaria podrá implantar o modificar los sistemas de cobro previa aprobación del Inspector Fiscal [1], y que no obstante podrá establecer en el futuro otras modalidades de prepago o postpago [7]. En caso de fallas en el sistema automático, se realizarán los cobros en forma manual mediante planilla y tickets manuales foliados [3].",
+  "fuentes": [
+   1,
+   3,
+   7
+  ]
+ }
+}

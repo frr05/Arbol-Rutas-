@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:39",
+ "respuesta": {
+  "respuesta": "La conservación de pavimentos exige mantener los pavimentos dentro de niveles establecidos fiscalizados por el MOP, utilizando el Instructivo de Inspección Visual de Caminos Pavimentados vigente [1]. Se deben controlar las grietas que causan daños estructurales y efectuar acciones correctivas mayores como el reemplazo del pavimento en el área afectada [2], [3], [4], [5]. Los parámetros específicos varían según el tipo de pavimento: para Asfáltico, el IRI máximo es 3,5 m/km, se acepta máximo un 10% de grietas tipo Piel de Cocodrilo/bloque y 10% de agrietamiento lineal por kilómetro, ningún bache abierto, coeficiente de fricción entre 0,40 y 0,55, no exudación de asfalto, y en bermas no se permiten baches abiertos ni descensos superiores a 1 cm [2]. Para Hormigón, el IRI máximo es 3,5 m/km [2]. En incisos adicionales se menciona que no se aceptan grietas medias ni anchas, no más del 15% de losas con grietas angostas, ningún bache abierto, coeficiente de fricción entre 0,40 y 0,55, no descensos superiores a 1 cm en bermas, escalonamiento máximo de 6 mm, y para Doble Tratamiento Superficial, IRI máximo de 4,0 m/km y sin exudación [3]. También se exige realizar acciones de conservación antes que la media móvil de 5 tramos supere el IRI de 3,5 m/km, calculado por sectores homogéneos de 200 m excluyendo singularidades [4], [5]. Además, se debe llevar control del programa de seguimiento de pavimentos mediante informes anuales que detallen irregularidad superficial, ahuellamiento, agrietamiento, baches y resistencia al resbalamiento, entregados a más tardar el 31 de enero del año siguiente [9]. El Inspector Fiscal puede solicitar reparaciones o sustituciones de elementos deteriorados, y el incumplimiento genera multas [10].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   10
+  ]
+ }
+}

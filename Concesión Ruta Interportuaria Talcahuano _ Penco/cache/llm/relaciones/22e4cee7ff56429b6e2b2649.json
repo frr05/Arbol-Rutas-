@@ -1,0 +1,65 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 00:56",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.3.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     35,
+     42
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.9.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [
+     48,
+     53
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.14.7",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     57,
+     59
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.14.7",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     61,
+     64
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

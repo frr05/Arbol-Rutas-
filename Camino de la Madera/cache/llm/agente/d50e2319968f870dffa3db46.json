@@ -1,0 +1,10 @@
+{
+ "tarea": "agente",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-04 02:40",
+ "respuesta": {
+  "falta": "número y nombres de empresas o grupos licitantes que presentaron oferta",
+  "accion": "buscar",
+  "argumento": "empresas licitantes oferta Camino de la Madera"
+ }
+}

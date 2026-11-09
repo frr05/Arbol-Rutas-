@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:19",
+ "respuesta": {
+  "respuesta": "Se emitieron al menos 4 circulares aclaratorias, identificadas como Circular aclaratoria N°1 (2001-10-23), Circular aclaratoria N°2 (2001-11-09) y Circular aclaratoria N°4 (2001-11-22) [1], [2], [3], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

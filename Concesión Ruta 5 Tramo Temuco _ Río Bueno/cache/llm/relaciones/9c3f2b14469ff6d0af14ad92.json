@@ -1,0 +1,55 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La suma de los Ingresos Minimos Actualizados Garantizados (E AY sim ).\nsolicitados por el Adjudicatario en ningún caso podrá ser superior a UF 3.856.000",
+    "debe_decir": "La suma de los Ingresos Mínimos Actualizados Garantizados (E AY vin )\nsolicitados por el Adjudicatario en ningún caso podrá ser superior a UF\n3.932.000",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P14"
+    ],
+    "texto_nuevo": [
+     807,
+     808
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P17",
+     "P18",
+     "P19",
+     "P20",
+     "P21",
+     "P22",
+     "P23",
+     "P24"
+    ],
+    "texto_nuevo": [
+     810,
+     823
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

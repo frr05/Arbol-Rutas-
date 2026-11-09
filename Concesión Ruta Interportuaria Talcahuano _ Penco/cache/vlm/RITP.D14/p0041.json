@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 41,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 481,
+ "segundos": 17.2,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 308,
+  "conf_media": 0.895,
+  "frac_baja": 0.065,
+  "frac_rara": 0.005,
+  "tinta": 0.0532
+ },
+ "n_palabras_vlm": 307,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.967,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nruta despejada y expedita por lo que él patrullero deberá llevar el vehículo hasta\nla berma más próxima y segura. Posteriormente se darán las facilidades al\nusuario para que contacte al servicio de grúa externa más próxima.\n\nCc. Rescate y primeros auxilios\n\nEn caso de accidentes mayores donde hay presencia de heridos, Es la\nasistencia al vehículo y usuarios siniestrados que requiera un esfuerzo mayor\nque la de un remolque común.\n\n- ASEGURE LA ZONA. Es fundamental que tome las medidas apropiadas\npara que su seguridad ni la de otros usuarios estén en riesgo.\n\n- Desconectar el sistema de ignición o baterías de los vehículos\nsiniestrados y del propio vehículo de emergencia. En caso de derrame de\ncombustible esto puede generar una catástrofe aun mayor.\n\n- —Ál hacer la evaluación del siniestro determine llamar por más asistencia\ncomunicando esto inmediatamente al Administrador Jefe de Plaza o\ndirectamente a la Central de Emergencias.\n\n- — Estacione su vehículo en un lugar seguro, fuera de las vlas y encienda las\nluces intermitentes de emergencia,\n\n- Si el vehículo siniestrado está en llamas o hay riesgo inminente de fuego,\nutilice los extintores de acuerdo al procedimiento indicado.\n\n- Ántes de mover de la posición original a las victimas, es conveniente\nexaminarla tomando el pulso en el cuello e la muñeca, observando su\nrespiración. Debe tratar de visualizar heridas, fracturas o hemorragias.\n\na. Si el afectado tiene una posible lesión a la columna, no intente\nmoverlo. El movimiento puede provocarle serios daños internos\nal accidentado y en algunos casos una invalidez crónica,\n\nb. Si la víctima está dentro del vehículo, podrá rescatarse\ndesmontando asientos y el parabrisas delantero 0 trasero,\n\nc. Se debe solicitar la asistencia médica más cercana, entregando\n\ninformación en cuanto a daños, número de lesionados y la\nubicación exacta del lugar del accidente.\n\n0",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\nruta despejada y expedida por lo que el patrullero deberá llevar el vehículo hasta\nla berma más próxima y segura. Posteriormente se darán las facilidades al\nusuario para que contacte al servicio de grúa externa más próxima.\n\nc. Rescate y primeros auxilios\nEn caso de accidentes mayores donde hay presencia de heridos. Es la\nasistencia al vehículo y usuarios siniestrados que requiera un esfuerzo mayor\nque la de un remolque común.\n- ASEGURE LA ZONA. Es fundamental que tome las medidas apropiadas\npara que su seguridad ni la de otros usuarios estén en riesgo.\n- Desconectar el sistema de ignición o baterías de los vehículos\nsiniestrados y del propio vehículo de emergencia. En caso de derrame de\ncombustible esto puede generar una catástrofe aun mayor.\n- Al hacer la evaluación del siniestro determine llamar por más asistencia\ncomunicando esto inmediatamente al Administrador Jefe de Plaza o\ndirectamente a la Central de Emergencias.\n- Estacione su vehículo en un lugar seguro, fuera de las vías y encienda las\nluces intermitentes de emergencia.\n- Si el vehículo siniestrado está en llamas o hay riesgo inminente de fuego,\nutilice los extintores de acuerdo al procedimiento indicado.\n- Antes de mover de la posición original a las víctimas, es conveniente\nexaminarla tomando el pulso en el cuello o la muñeca, observando su\nrespiración. Debe tratar de visualizar heridas, fracturas o hemorragias.\na. Si el afectado tiene una posible lesión a la columna, no intente\nmoverlo. El movimiento puede provocarle serios daños internos\nal accidentado y en algunos casos una invalidez crónica.\nb. Si la víctima está dentro del vehículo, podrá rescatarse\ndesmontando asientos y el parabrisas delantero o trasero.\nc. Se debe solicitar la asistencia médica más cercana, entregando\ninformación en cuanto a daños, número de lesionados y la\nubicación exacta del lugar del accidente.\n40"
+}

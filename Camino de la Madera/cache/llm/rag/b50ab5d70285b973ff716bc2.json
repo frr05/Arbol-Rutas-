@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "La información sobre la longitud total del proyecto no se encuentra explícitamente en los fragmentos entregados. Sin embargo, el Reglamento de Servicio indica que la ruta finaliza en la localidad de Coihue [3], y el Convenio Complementario N°1 menciona obras en el tramo comprendido entre el km 26,5 al 45,4 [7].",
+  "fuentes": [
+   3,
+   7
+  ]
+ }
+}

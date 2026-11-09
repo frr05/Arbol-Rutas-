@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:13",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se publicaron 2 convenios complementarios (que son decretos supremos modificatorios) y 2 resoluciones. El Convenio Complementario N°1 fue aprobado por DS N°71 y el Convenio Complementario N°2 por DS N°316 [2]. Las resoluciones mencionadas son la Resolucion N°2965 y la Resolucion N°1569 [2]. Por lo tanto, hubo 2 decretos supremos y 2 resoluciones que actuaron como actos modificatorios o de aprobación de modificaciones.",
+  "fuentes": [
+   2
+  ]
+ }
+}

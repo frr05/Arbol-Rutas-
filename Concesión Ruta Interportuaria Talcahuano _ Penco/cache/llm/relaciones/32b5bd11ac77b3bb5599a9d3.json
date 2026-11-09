@@ -1,0 +1,37 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 17:58",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     328,
+     335
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.3.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     342,
+     358
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

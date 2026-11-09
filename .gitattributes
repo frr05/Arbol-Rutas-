@@ -1,0 +1,4 @@
+# Finales de línea LF en el repositorio (Colab corre en Linux)
+* text=auto eol=lf
+*.pdf binary
+*.png binary

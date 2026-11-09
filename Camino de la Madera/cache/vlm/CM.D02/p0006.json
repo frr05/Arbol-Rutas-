@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D02",
+ "pagina": 6,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 551,
+ "segundos": 22.4,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 414,
+  "conf_media": 0.676,
+  "frac_baja": 0.326,
+  "frac_rara": 0.019,
+  "tinta": 0.0511
+ },
+ "n_palabras_vlm": 364,
+ "frac_rara_vlm": 0.018,
+ "similitud": 0.657,
+ "truncado": false,
+ "texto_ocr": ")\n\nLo ee pe Pe e EE:\n\nZo UR PROCION NORMATIVA Lua\npS DEPTO, (META DIRECTO app, Elo\ne Sd.2.216.93 D.N. ANT. Ord. NO 422, de (20,04,43, de\n. 4.5,93 Hinistf. Director General de bras Pu\nDS 222.3 S.A. blicas.\nn [.1. 7.43 or, HO AE, de 21.000,97, Lepor\n> €, 92 1.D. tamento de Impuestos Indirec\n- . tos del SII..\n- MAT. Régimen tributario (IVA y Pep\na _— mm Fa) aplicable a la concesión\na DIRTCCHO. Cr VO BL OCoOLaS Yaco\nA DL CEA PUALICAS para construir, mantener y ex\nNM A EA TaL plotar el \"Camino de la\n> AC AS Madera\" en la VII] Región del\na TT país.\n> SANTIAGO, 20 JUL 1993\n1 2. DE: DIRECTOR DEL SERVICIO DE IMPUESTOS TNTERHOS\n\nnn\nGA n,\n\ne”\nA SN SP. DIRECTOR GEMERAL DE OBRAS PUBLICAS\n\n..\n\n“e ha recibida oficio. ordinario delo anleceodente, o bruezos del\nevatose ha solicitado se instruya respecta de ta tribulacion o.» la\nrenta yal valor agregado que afectará a la concesión para\nconstruir. mantener yv explotar el \"Camino de la Madera\"\n\nproyectado en la VI1lI Región del pais.\n\nSe refiere en especial a la recuperacion del IVA de las\ninversiones Y gastos de mantención Y operación de la obra en\nconcesión.\n\nManifiesta que se ha programado que la construcción deta\nfacturarse al Ministerio de Obras Públicas al momento de la\nrecepcion de la obra, pagándosze 3u valor neto cou un. eventual\nsubsidio del Estado y el saldo con el ochenta por ciento (207)\n\nNN del peaie que se autorice cobrar al concesionario. El impuesto al\n\n5 valor asregado lo pagaría el Hinisterio de Obras Públicas al\n\na concesionario. dentra de los treinta (20) dias siguientes a la\n\npa emision de la factura.\n\n_ El. servicio de mantención y operacion de la concesión ¡deberá\n\no facturarse mensualmente al Ministerio de Obras Publicas (HOP).\n\n> . una ez iniciada la.exploftacion. El precio de esta prestacion\n\nMe corresponderá al. veinte por ciento (20%) de los ingresos por\n\n=> concepto de peaje. al que se recargara el IVA.\n\na\n\nLuezo de cubierto el “valor de la construccion con 2) ochenta Pol\nciento (80%) del prajo, este porcentaie se aplicará también al\n\nÑ paco de la mantención y operacion, que habrian de fachurarse\n\ne rerargeando el IVA. Posteriormente. la factura de rcerviclos por\n\n” mantención y operacion Jeberá extenlerse por el 100% de los\n\n> ingresos por concepto de peajes cobrados por sl concesionario maz\n\nmn IVA.\n\na\n\na",
+ "texto_vlm": "SERVICIO DE IMPUESTOS INTERNO\nSUBDIRECCION NORMATIVA\nDEPTO. LIMITES DIRECTOR\n\nSd.2.216.93 D.N.\n4.5.93 Minist.\n222.93 S.N.\nI.I. 7.43\n69.93 I.D.\n\nORD. Nº\n602514\n\nANT. Ord. Nº 423. de 29.04.93. de\nDirector General de Obras Públicas.\nOrd. Nº 16. de 21.06.93, Departamento de Impuestos Indirectos del SII..\n\nMAT. Régimen tributario (IVA y Renta) aplicable a la concesión para construir, mantener y explotar el \"Camino de la Madera\" en la VIII Región del país.\n\nDIRECCION GENERAL DE OBRAS PUBLICAS\nOFICINA DE TAREAS\nFecha: 20 JUL 1993\nFolio Línea\nA 4\n\nSANTIAGO, 20 JUL 1993\n\nDE : DIRECTOR DEL SERVICIO DE IMPUESTOS INTERNOS\n: SR. DIRECTOR GENERAL DE OBRAS PUBLICAS\n\nSe ha recibido oficio ordinario del antecedente, a través del cual se ha solicitado se instruya respecto de la tributación a la renta y al valor agregado que afectará a la concesión para construir, mantener y explotar el \"Camino de la Madera\" proyectado en la VIII Región del país.\n\nSe refiere en especial a la recuperación del IVA de las inversiones y gastos de mantención y operación de la obra en concesión.\n\nManifiesta que se ha programado que la construcción deba facturarse al Ministerio de Obras Públicas al momento de la recepción de la obra, pagándose su valor neto con un eventual subsidio del Estado y el saldo con el ochenta por ciento (80%) del peaje que se autorice cobrar al concesionario. El impuesto al valor agregado lo pagaría el Ministerio de Obras Públicas al concesionario, dentro de los treinta (30) días siguientes a la emisión de la factura.\n\nEl servicio de mantención y operación de la concesión deberá facturarse mensualmente al Ministerio de Obras Públicas (MOP), una vez iniciada la explotación. El precio de esta prestación corresponderá al veinte por ciento (20%) de los ingresos por concepto de peaje, al que se recargará el IVA.\n\nLuego de cubierto el valor de la construcción con el ochenta por ciento (80%) del peaje, este porcentaje se aplicará también al pago de la mantención y operación, que habrán de facturarse recargando el IVA. Posteriormente, la factura de servicios por mantención y operación deberá extenderse por el 100% de los ingresos por concepto de peajes cobrados por el concesionario más IVA."
+}

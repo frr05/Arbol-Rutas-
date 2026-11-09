@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 62,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 217,
+ "segundos": 21.9,
+ "fecha": "2026-10-27 19:09",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 122,
+  "conf_media": 0.685,
+  "frac_baja": 0.369,
+  "frac_rara": 0.057,
+  "tinta": 0.0864
+ },
+ "n_palabras_vlm": 123,
+ "frac_rara_vlm": 0.036,
+ "similitud": 0.648,
+ "truncado": false,
+ "texto_ocr": "10\n\n«> Fiscalia: del “MOP\n\n€__P-IPPTTPtTII[[L(«*T—Á\n\nCOMUNIQUESE lá presente Resolución a la Sociedad Concesionaria Acrostr S.A. ,2:\n\"Sociedad Concesionaria “Autopista Interportuaria $. A, a la Coordinación General “de”.\nConcesiones, a la Coordinación de Administración de Contratos de Concesión, a las,\n\ncalia: .al Inspector Fiscal de' la concesión denominada “Terminal: dei\n- Pasajeros Acropucrto Carriel Sur de Concepción”, al Inspector Fiscal de la concesión\n- denominada “Ruta Interportuaria Talcahuano-Penco por Isla Rocuant” y demás servicios .\n- Que corresponda. ON : 7\n\nANOTESE Y COMUNIQUESE\n\nGÉRpA a MILLAS PEREZ\nDirector General de\nObras Públicas\n\nB” Sr. Ministro\n\nCOPIA FIEL DEL ORIGINAL D.G.O.P,\n\no , >\nXX mlraz. Tudela Kibilar\n\nES nO\nL- licicato “arica\ny\n\nDGORP\n\nNM |\nE o Y\n!\n\nTT",
+ "texto_vlm": "8. COMUNIQUESE la presente Resolución a la Sociedad Concesionaria Aerosur S. A., a Sociedad Concesionaria Autopista Interportuaria S. A, a la Coordinación General de Concesioncs, a la Coordinación de Administración de Contratos de Concesión, a la Fiscalía del MOP, al Inspector Fiscal de la concesión denominada \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\", al Inspector Fiscal de la concesión denominada \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\" y demás servicios que corresponda.\n\nANOTESE Y COMUNIQUESE\n\nGERMAN MILLAN PEREZ\nDirector General de Obras Públicas\n\nVº Bº Sr. Ministro de Obras Públicas\n\nREPUBLICA DE CHILE\nMINISTRO\nMINISTERIO DE HACIENDA\nMinistro de Hacienda\n\nCOPIA FIEL DEL ORIGINAL D.G.O.P.\n\nXimena Tucela Rubilar\nOficial Partes\nD.G.O.P.\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nDEPTO. DE CONCESIONES"
+}

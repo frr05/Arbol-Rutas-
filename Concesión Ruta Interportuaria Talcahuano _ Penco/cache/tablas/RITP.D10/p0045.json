@@ -1,0 +1,129 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 45,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:12",
+ "tablas": [
+  {
+   "titulo": "ANEXO N° 3",
+   "encabezados": [
+    "OBRA",
+    "ENTREGADO",
+    "ENTREGA",
+    "OBSERVACIONES"
+   ],
+   "filas": [
+    [
+     "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "DOCUMENTO",
+     "FECHA",
+     ""
+    ],
+    [
+     "LOTE 10",
+     "L.O. Nº 14 FOLIO Nº 16",
+     "15-10-2004",
+     "FISCO DE CHILE"
+    ],
+    [
+     "LOTE 10 - 1",
+     "L.O. Nº 14 FOLIO Nº 16",
+     "15-10-2004",
+     "FISCO DE CHILE"
+    ],
+    [
+     "LOTE 10 - 2",
+     "L.O. Nº 14 FOLIO Nº 16",
+     "15-10-2004",
+     "FISCO DE CHILE"
+    ],
+    [
+     "LOTE 7 A",
+     "L.O. Nº 15 FOLIO Nº 33",
+     "16-11-2004",
+     "ASMAR"
+    ],
+    [
+     "CONEXIÓN AV. ALESSANDRI",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LOTE 15 - Nvo",
+     "L.O. Nº 14 FOLIO Nº 28",
+     "19-10-2004",
+     "ING. Y CONSTRUCCION SAN ANDRES LTDA"
+    ],
+    [
+     "LOTE 14B - Nvo",
+     "L.O. Nº 14 FOLIO Nº 28",
+     "19-10-2004",
+     "ING. Y CONSTRUCCION SAN ANDRES LTDA"
+    ],
+    [
+     "LOTE 7 - A",
+     "L.O. Nº 17 FOLIO Nº 22",
+     "10-12-2004",
+     "CONCESIONARIA AEROSUR S.A."
+    ],
+    [
+     "LOTE 8 - A",
+     "L.O. Nº 17 FOLIO Nº 22",
+     "10-12-2004",
+     "CONCESIONARIA AEROSUR S.A."
+    ],
+    [
+     "LOTE 13 - A",
+     "L.O. Nº 17 FOLIO Nº 22",
+     "10-12-2004",
+     "CONCESIONARIA AEROSUR S.A."
+    ],
+    [
+     "PASO INTERPREDIAL KM 6,787",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LOTE 5 A",
+     "L.O. Nº 15 FOLIO Nº 33",
+     "16-11-2004",
+     "ASMAR"
+    ],
+    [
+     "PASO INTERPREDIAL KM 8,000",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LOTE 5 B",
+     "L.O. Nº 15 FOLIO Nº 33",
+     "16-11-2004",
+     "ASMAR"
+    ],
+    [
+     "PASO INTERPREDIAL Nº 2 KM 2,580 AV. ALESSANDRI",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LOTE 13",
+     "L.O. Nº 14 FOLIO Nº 16",
+     "15-10-2004",
+     "NO REQUIERE DE EXPROPIACION"
+    ]
+   ],
+   "notas": ""
+  }
+ ]
+}

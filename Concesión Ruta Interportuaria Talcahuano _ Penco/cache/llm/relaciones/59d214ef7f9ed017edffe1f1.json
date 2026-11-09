@@ -1,0 +1,25 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:59",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.14.2.3.3",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "[P1]",
+     "[P2]",
+     "[P3]"
+    ],
+    "texto_nuevo": [
+     437,
+     446
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

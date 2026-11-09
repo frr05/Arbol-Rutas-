@@ -1,0 +1,38 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 11:59",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2.8",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Los valores monetarios señalados en los documentos que forman parte de la Oferta Técnica y Económica deberán venir expresados en",
+    "debe_decir": "Los valores monetarios señalados en los documentos que forman parte de la Oferta Técnica y Económica, a excepción de la Tarifa máxima que proponga el Licitante (la cuál deberá venir de acuerdo a lo expresado en el capítulo 111,1.1), deberán venir expresados en",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

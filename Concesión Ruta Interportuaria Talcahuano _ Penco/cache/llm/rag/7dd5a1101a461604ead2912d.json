@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "Las transcripciones del decreto de adjudicación deben suscribirse ante Notario dentro del plazo máximo de sesenta días corridos contados desde la publicación en el Diario Oficial del Decreto Supremo de Adjudicación [1]. Deben protocolizarse ante el mismo Notario una de ellas dentro de ese mismo plazo, y luego ser entregada para su archivo al Departamento de Concesiones de la DGOP en un plazo adicional de 15 días contados desde la protocolización [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

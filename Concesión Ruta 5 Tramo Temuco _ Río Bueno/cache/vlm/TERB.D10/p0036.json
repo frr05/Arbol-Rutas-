@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D10",
+ "pagina": 36,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 41,
+ "segundos": 10.4,
+ "fecha": "2026-10-27 12:11",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 32,
+  "conf_media": 0.629,
+  "frac_baja": 0.625,
+  "frac_rara": 0.0,
+  "tinta": 0.0053
+ },
+ "n_palabras_vlm": 24,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.364,
+ "truncado": false,
+ "texto_ocr": "ANEXO áÁ\n\nDISMINUCIONES DE OBF\n\n(Una Hoja)\n\nf\n\ni\nf\n\nPoo.\nCARLOS DIAZ VARGAS AN\nINSPECTOR FISCAL 9\n\nIS o”\n\ny YO Basta “e\nOl\nA Ze Lencos unsz Ep!\n\nÁL\n|",
+ "texto_vlm": "ANEXO 4\nDISMINUCIONES DE OBRAS\n(Una Hoja)\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nDpto. Concesiones\n98"
+}

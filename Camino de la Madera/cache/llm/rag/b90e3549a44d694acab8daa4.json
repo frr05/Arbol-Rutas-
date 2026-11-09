@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "El sistema de cobro es manual, con entrega de comprobante al usuario en las plazas de peaje [1]. En caso de falla del sistema automático o eléctrico, se realiza el cobro manualmente mediante planilla para control de flujo y tickets manuales foliados [4].",
+  "fuentes": [
+   1,
+   4
+  ]
+ }
+}

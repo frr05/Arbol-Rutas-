@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:25",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se publicaron 2 convenios complementarios (que son decretos modificatorios): el Convenio complementario N°1 (aprobado por DS N°71) y el Convenio complementario N°2 (aprobado por DS N°316) [6]. Además, existe un Decreto supremo N°136 que aprueba otro convenio complementario en 2023 [6], lo que suma un total de 3 decretos supremos aprobatorios de convenios complementarios. La ficha de actos lista explícitamente los convenios complementarios como actos modificatorios: 'Convenio complementario: 2' referidos a los años 2005 y 2007, pero también lista 'Decreto supremo: 2', uno de los cuales es el DS N°136 de 2023 que firma un nuevo convenio [6]. Por lo tanto, hay 3 decretos supremos que aprueban modificaciones al contrato (DS 71, DS 316, DS 136).",
+  "fuentes": [
+   6
+  ]
+ }
+}

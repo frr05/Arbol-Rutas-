@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Es una primera concesión, ya que las Bases de Licitación (1993-06-08) constituyen el primer acto de la concesión [11] y no hay evidencia de concesiones anteriores en los fragmentos.",
+  "fuentes": [
+   11
+  ]
+ }
+}

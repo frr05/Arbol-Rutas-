@@ -1,0 +1,86 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1",
+     "P2",
+     "P3"
+    ],
+    "texto_nuevo": [
+     914,
+     917
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "La Concesionaria está obligada a mantener permanentemente en servicio Estaciones de Atención de Emergencias radicadas en las áreas de los Servicios Generales así como Teléfonos de Emergencia (Llamados ahora también Postes S0S) en los términos establecidos cn los numerales 2.2.1.8.4 y 22185 de las Bases de Licitación, respectivamente. La Concesionaria dispondrá de sistemas de vigilancia permanente y sistemas de patrullaje en los términos establecidos en el mumeral 2.5.3,2 de las Bases de Licitación, es decir centradas en las áreas de servicio, El esquema de funcionamiento es el siguiente: e la labor activa de vigilancia para detectar emergencias en Tula 0 daños en la infraestructura se efectuará mediante salidas de patrullaje de los Furgones, los que estarán ordenados y coordinados de manera que En todo momento haya móviles en la mta. Estas salidas serán independientes de la atención de emergencias solicitadas por los usuarios mediante llamadas de los postes 505, o 4 las Mamadas de Carabineros, « A lo anterior se agrega la cooperación activa de los vehiculos del Departamento de Mantenimiento, que rutinariamente están trabajando en la ruta. * La labor pasiva de vigilancia y delceción está a cargo de una Central de Pastes $05, que administra el mencionado sistema, A cargo de la recepción de las Mamadas de usuarios que requieren de ayuda 0 desean informar a su vez de emergencias en la ruta, il Concesionario dispondrá de un Manual! de Seguridad y Procedimientos de Emergencias, el cual estará a disposición de los usuarios, en el lugar que indique el Centro de Atención al Usuario. Dicho manual complementa lo estipulado en el presente Reglamento de DOTTACICA. respecto de emergencias y contendrá lo siguiente” ncias, lales coma, accidentes de tránsito, incendios y explosiones. detección, vehiculos de transporte de aceidentados y vehiculos especiales. « Recursos humanos, tales comio, personal 1écnico. personal de señalización . Medios eléctricos. tales como, cun haninación. personal de primeros auxilios y pos de comunicación. balizas. sirenas. allavoces € demora posible ante emergencias, yá sés, producto El Concestonario actuará con la menor kquiera atra situación que no de caso fortuito o fucrza Mayor. accidentes. incendios 0 Cua admita espera.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     958,
+     975
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.4",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     918,
+     922
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     959,
+     964
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     965,
+     968
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "respuesta": "El tiempo máximo de espera en cola (TEC) que se debe mantener es inferior a 2 minutos por vehículo, inclusive en las horas de mayor demanda [1]. Este valor también se considera como el tiempo máximo de espera en cola para el diseño de las pistas de cobro [7].",
+  "fuentes": [
+   1,
+   7
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "Los fragmentos proporcionados no contienen información específica sobre las ofertas presentadas, el valor del factor de licitación ni el puntaje o nota técnica obtenida por los licitantes en la concesión Camino de la Madera.",
+  "fuentes": []
+ }
+}

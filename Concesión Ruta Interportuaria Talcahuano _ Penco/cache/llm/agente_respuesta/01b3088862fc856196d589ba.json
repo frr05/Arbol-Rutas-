@@ -1,0 +1,16 @@
+{
+ "tarea": "agente_respuesta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:36",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. La Sociedad Concesionaria debe mantener los pavimentos dentro de los niveles establecidos, fiscalizados por el MOP en forma aleatoria durante todo el período de concesión [3]. El índice principal para medir el nivel de servicio del pavimento asfáltico es el Índice de Rugosidad Superficial (IRI), cuyo valor máximo permitido es de 3,5 m/km [8]. Para su medición, se utilizan equipos como el Mays Meter (realizando tres mediciones sucesivas e informando el promedio por tramo de 200 m) o un Perfilómetro Óptico (registrando ambas huellas separadamente y el promedio cada 200 m) [6]. Las acciones de conservación deben efectuarse antes que la media móvil de 5 tramos de 200 m supere el IRI de 3,5 m/km [9]. Además, se establecen otros parámetros como un Ahuellamiento Máximo de 15 mm y el control de grietas estructurales [12]. También se menciona una fórmula de ajuste tarifario basada en el IPC y otros factores para el reajuste de la tarifa, pero esta no es un índice de nivel de servicio técnico sino financiero [1].",
+  "fuentes": [
+   1,
+   3,
+   6,
+   8,
+   9,
+   12
+  ]
+ }
+}

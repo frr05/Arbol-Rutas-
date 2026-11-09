@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Se mencionan los niveles de servicio del tránsito con observaciones relativas a capacidad y hora [3]. Para medir el estado del pavimento y mantener los indicadores de servicio dentro de los rangos exigidos, se utiliza el índice IRI (International Roughness Index), cuya medición se realiza mediante un Perfilómetro óptico o Mays Meter [8]. Además, se establece que cuando los indicadores del estado de los pavimentos sobrepasen los umbrales establecidos en el contrato, la concesionaria debe ejecutar obras de conservación para restablecer las condiciones de servicio [9].",
+  "fuentes": [
+   3,
+   8,
+   9
+  ]
+ }
+}

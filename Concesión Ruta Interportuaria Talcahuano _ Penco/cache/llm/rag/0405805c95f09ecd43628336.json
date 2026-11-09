@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "Los intereses devengados por los pagos atrasados varían según el concepto y la normativa aplicable:\n\n1. Para retrasos en pagos generales establecidos en las Bases de Licitación, se devenga un interés real diario de 0,0198% [1].\n2. En caso de que el MOP no emita la Resolución que reconoce los valores devengados dentro de los plazos establecidos (15 días desde la entrega del informe), se devenga un interés real diario de 0,02612% [2].\n3. Según el Decreto Supremo N°136, en caso de retraso por parte del MOP en la fecha máxima de pago señalada en el Convenio Ad-Referéndum, se paga un interés real diario equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año, conforme a las tasas que informe la Comisión para el Mercado Financiero [3].\n4. Respecto a los pagos específicos del Convenio Complementario N°1, si hay retraso por parte del MOP en la fecha de pago de las cuotas, se debe pagar un interés real diario de 0,02612% [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

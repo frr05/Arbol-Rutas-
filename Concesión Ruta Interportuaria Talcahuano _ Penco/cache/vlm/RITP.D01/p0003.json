@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 3,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 57,
+ "segundos": 9.4,
+ "fecha": "2026-11-05 00:42",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 41,
+  "conf_media": 0.869,
+  "frac_baja": 0.22,
+  "frac_rara": 0.0,
+  "tinta": 0.012
+ },
+ "n_palabras_vlm": 31,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.87,
+ "truncado": false,
+ "texto_ocr": "REPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nBASES DE LICITACION\n\n“RUTA INTERPORTUARIA TALCAHUANO - PENCO,\n| POR ISLA ROCUANT”\n\nAgosto 2001\n\nSANTIAGO, CHILE EBRO. .\nSS de)\n\na\ny\n\na\n\ndl\n\nO/8308",
+ "texto_vlm": "REPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nBASES DE LICITACION\n\"RUTA INTERPORTUARIA TALCAHUANO - PENCO,\nPOR ISLA ROCUANT\"\n\nAgosto 2001\n\nSANTIAGO, CHILE"
+}

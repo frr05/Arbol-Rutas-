@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:22",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no especifican el número total de empresas o grupos licitantes que presentaron oferta, ni listan sus nombres completos. Únicamente se menciona en el Anexo N°1 que la Oferta Económica corresponde al 'CONSORCIO AUTOPISTA INTERPORTUARIA' [10]. El artículo 1.6.3 indica que se levantará un Acta con constancia de quiénes presentaron ofertas, pero dicho acta no está incluida en los fragmentos [6].",
+  "fuentes": [
+   6,
+   10
+  ]
+ }
+}

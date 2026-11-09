@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 120,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 391,
+ "segundos": 23.2,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 202,
+  "conf_media": 0.926,
+  "frac_baja": 0.03,
+  "frac_rara": 0.045,
+  "tinta": 0.0329
+ },
+ "n_palabras_vlm": 291,
+ "frac_rara_vlm": 0.071,
+ "similitud": 0.917,
+ "truncado": false,
+ "texto_ocr": "5 Atravieso El Tumi 758,840 166,91 |\nAtravieso Collico 766,800 ] 166,91 |\nMejoramiento Enlace Lanco norte 770,000 24,65\nMejoramiento Enlace Valdivia Norte 790,450 35,60\nPaso Ganado 3 x 3 Est. Mariquina 792,400 35,12\n\n10 Área de Control Máfil 804,000 90,55\n\n11 Mejoramiento Enlace Sur Máfil ( Malihue - 806.000 11.25\nSanta Elena)\n\n+ -\nEnlace Los Lagos (Incluyendo conexión\n831,50 178,21\n\n12 peatonal ciclista desde Puente San Pedro) 0\n\n13 Atravieso Los Lagos 836,000 166,91\n\n14 Atravieso El Trébol 846,050 166,91\n\n15 Mejoramiento Atravieso Puerto Nuevo (Ex 886,000 242,17\nobra Acceso y ramal Puerto Nuevo)\n\nTabla N* 6\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Mallas Antivandálicas”\n\nCostos mensuales de\nUbicación Conservación,\nOBRA [km] Mantención, Operación y\nExplotación\n(UF)\nEnlace Quitratue / 6a faja 725,497 1,91\nEnlace Villarrica Sur 747,258 1,91\n“Enlace Pon-Pón 780,410 1,91\nEnlace Ciruelos-Pureo 784,644 1,91\nEnlace Valdivia Norte 790,765 1,91\nEnlace Mafil Folilco 802,567 1,91\nEnlace Malihue- Sta. Elena 806,164 1,91\nEnlace La Balsa 829,300 1,91\nEnlace Futrono-Reumen 850,164 1,91\nAtravieso Dollinco-Paillaco 858,344 1,91\nEnlace Valdivia Sur\nEnlace Regina-Pichirropulli 867,423\nEnlace Rapaco 879,592 1,91\n\nPágina 59 de 78",
+ "texto_vlm": "5 | Atravieso El Tumi | 758,840 | 166,91\n---|---|---|---\n6 | Atravieso Collico | 766,800 | 166,91\n7 | Mejoramiento Enlace Lanco norte | 770,000 | 24,65\n8 | Mejoramiento Enlace Valdivia Norte | 790,450 | 35,60\n9 | Paso Ganado 3 x 3 Est. Mariquina | 792,400 | 35,12\n10 | Área de Control Máfil | 804,000 | 90,55\n11 | Mejoramiento Enlace Sur Máfil ( Malihue - Santa Elena) | 806,000 | 11,25\n12 | Enlace Los Lagos (Incluyendo conexión peatonal-ciclista desde Puente San Pedro) | 831,500 | 178,21\n13 | Atravieso Los Lagos | 836,000 | 166,91\n14 | Atravieso El Trébol | 846,050 | 166,91\n15 | Mejoramiento Atravieso Puerto Nuevo (Ex obra Acceso y ramal Puerto Nuevo) | 886,000 | 242,17\n\nTabla N° 6\nCostos Mensuales de Conservación, Mantención, Operación y Seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de “Mallas Antivandálicas”\n\n| OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|\n| Enlace Quitratue / 6a faja | 725,497 | 1,91 |\n| Enlace Villarrica Sur | 747,258 | 1,91 |\n| Enlace Pon-Pón | 780,410 | 1,91 |\n| Enlace Ciruelos-Pureo | 784,644 | 1,91 |\n| Enlace Valdivia Norte | 790,765 | 1,91 |\n| Enlace Mafil Folilco | 802,567 | 1,91 |\n| Enlace Malihue- Sta. Elena | 806,164 | 1,91 |\n| Enlace La Balsa | 829,300 | 1,91 |\n| Enlace Futrono-Reumen | 850,164 | 1,91 |\n| Atravieso Dollinco-Paillaco | 858,344 | 1,91 |\n| Enlace Valdivia Sur | 859,805 | 1,91 |\n| Enlace Regina-Pichirropulli | 867,423 | 1,91 |\n| Enlace Rapaco | 879,592 | 1,91 |\n\nPágina 59 de 78"
+}

@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:13",
+ "respuesta": {
+  "respuesta": "No se indica una fecha específica de 'llamado a licitación' en los fragmentos proporcionados. El documento [4] menciona que el Doc. N°1 es el 'Llamado a licitación por concesión', pero no asigna una fecha a este acto específico dentro del texto visible. Por otro lado, el fragmento [5] y la ficha de actos [11] indican que la 'Convocatoria primera licitación' (que es un acto equivalente o posterior al llamado) tuvo lugar el 30 de noviembre de 2003, como parte del Convenio Complementario N°1 [5]. Las bases originales de 1993/1994 mencionan fechas de apertura de ofertas [3], pero no la fecha del llamado inicial para esa primera licitación.",
+  "fuentes": [
+   3,
+   4,
+   5,
+   11
+  ]
+ }
+}

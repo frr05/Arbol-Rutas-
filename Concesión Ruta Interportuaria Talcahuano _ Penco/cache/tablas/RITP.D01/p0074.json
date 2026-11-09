@@ -1,0 +1,8 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 74,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:00",
+ "tablas": []
+}

@@ -1,0 +1,45 @@
+{
+ "documento": "CM.D11",
+ "pagina": 39,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:48",
+ "tablas": [
+  {
+   "titulo": "ANEXO N° 1",
+   "encabezados": [
+    "Item 5",
+    "Monto UF"
+   ],
+   "filas": [
+    [
+     "1 Costos de Administración e Inspección Licitación y Ejecución Obras",
+     "5.163"
+    ],
+    [
+     "TOTAL",
+     "5.163"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Item N°5: Costos de Administración Sociedad Concesionaria",
+   "encabezados": [
+    "Item 5",
+    "Monto UF"
+   ],
+   "filas": [
+    [
+     "1 Costos de Administración e Inspección Licitación y Ejecución Obras",
+     "5.163"
+    ],
+    [
+     "TOTAL",
+     "5.163"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

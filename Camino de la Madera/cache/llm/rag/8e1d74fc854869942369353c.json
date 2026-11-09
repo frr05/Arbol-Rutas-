@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:24",
+ "respuesta": {
+  "respuesta": "La Dirección General de Obras Públicas (DGOP) y la Dirección de Vialidad son los servicios del MOP que fiscalizan el contrato de concesión [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

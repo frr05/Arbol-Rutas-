@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:26",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Para los pavimentos asfálticos y de hormigón, se mide mediante el Índice de Rugosidad Superficial (IRI), cuyo valor máximo permitido es de 3,5 m/km [2]. El IRI se obtiene de mediciones efectuadas para cada pista y por sectores homogéneos de 200 m, excluyendo puentes y badenes, y se informa en m/km con un decimal [2]. Las acciones de conservación deben realizarse antes que la media móvil de 5 tramos de 200 m supere este límite [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

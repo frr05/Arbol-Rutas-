@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D02",
+ "pagina": 4,
+ "archivo": "1_licitacion/Ruta-Interportuaria-Talcahuano-Penco-CA-1.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 257,
+ "segundos": 13.3,
+ "fecha": "2026-11-05 00:44",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 179,
+  "conf_media": 0.837,
+  "frac_baja": 0.162,
+  "frac_rara": 0.06,
+  "tinta": 0.0217
+ },
+ "n_palabras_vlm": 165,
+ "frac_rara_vlm": 0.061,
+ "similitud": 0.832,
+ "truncado": false,
+ "texto_ocr": "1-1227 UNACION GENETAL 02 -OMCOSIONES\n\n7.- De acuerdo a lo indicado en el artículo 1.6.1 de las Bases de Licitación, y considerando los\ndocumentos a preparar y el plazo necesario para desarrollar un adecuado Estudio de Demanda de\n\nTránsito, solicitamos otorgar un aplazamiento de 30 días a la fecha de Apertura de las Ofertas\nTécnicas.\n\nRespuesta:\n\nVéase las Rectificaciones N'1 y N2 del\n\n4\n\nSaluda atentament\n\nALIRO VERDUGO LAY\nDimtlor Gerez\n\n> z do Obras Públicas\nÑ . Subrogante\na\nNW 5% rd\nDYSTRIBUCION:\n\nBrotec S.A.\n— Figueroa Vial y Cía. Ltda.\n— Besalco S.A.\n— Cofiroute '\n— Empresa Constructora Tecsa S.A.\n—- Sociedad Constructora B Y A Ingenieros Ltda.\n— Ingeniería y Construcción Icafal Ltda.\n— Sacyr Chile S.A.\n— Astilleros y Maestranza de la Armada (ASMAR)\n— Constructora Mendes Junior y Asociados\n— Claro Vicuña Valenzuela S.A.\n— Oficina de Partes DGOP\n— Coordinación de Desarrollo y Gestión de Proyectos\n— Unidad Jurídica de Proyectos\n— Archivo División Licitación de Proyectos\n\nA A zx _ — e QBP€E€y[t[uenqX$O(Óq\nCircular Aclaratoria NI . Página 4 de 4",
+ "texto_vlm": "7.- De acuerdo a lo indicado en el artículo 1.6.1 de las Bases de Licitación, y considerando los documentos a preparar y el plazo necesario para desarrollar un adecuado Estudio de Demanda de Tránsito, solicitamos otorgar un aplazamiento de 30 días a la fecha de Apertura de las Ofertas Técnicas.\n\nRespuesta:\n\nVéase las Rectificaciones N°1 y N°2 de la presente Circular Aclaratoria.\n\nSaluda atentamente a Ud.,\n\nALIRO VERDUGO LAY\nDirector General de Obras Públicas\nSubrogante\n\nGMV/JTE/LVM/JAV/EAB\nDISTRIBUCIÓN:\n- Brotec S.A.\n- Figueroa Vial y Cía. Ltda.\n- Besalco S.A.\n- Cofiroute\n- Empresa Constructora Tecsa S.A.\n- Sociedad Constructora B Y A Ingenieros Ltda.\n- Ingeniería y Construcción Icafal Ltda.\n- Sacyr Chile S.A.\n- Astilleros y Maestranza de la Armada (ASMAR)\n- Constructora Mendes Junior y Asociados\n- Claro Vicuña Valenzuela S.A.\n- Oficina de Partes DGOP\n- Coordinación de Desarrollo y Gestión de Proyectos\n- Unidad Jurídica de Proyectos\n- Archivo División Licitación de Proyectos\n\nCircul ar Aclaratoria N°1\nPágina 4 de 4"
+}

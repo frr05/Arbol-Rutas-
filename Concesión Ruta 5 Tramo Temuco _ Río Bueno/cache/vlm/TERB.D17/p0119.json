@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 119,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 403,
+ "segundos": 27.1,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 284,
+  "conf_media": 0.918,
+  "frac_baja": 0.07,
+  "frac_rara": 0.014,
+  "tinta": 0.0369
+ },
+ "n_palabras_vlm": 248,
+ "frac_rara_vlm": 0.015,
+ "similitud": 0.813,
+ "truncado": false,
+ "texto_ocr": "Tabla N* 4\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras Normativas”\n\nCostos mensuales de\nConservación\nN? Ubicació >\nOBRA Icación Mantención, Operación y\nProyecto Aprox.[km] .\nExplotación\n(UF)\n1 Mejoramiento Pantallas Acústicas Pobl. San 755,000 - 52.01\nAntonio, Loncoche 755,500 ?\n——— , —\n> Mejoramiento Saneamiento Sector CS Lanco 769,200 - 2.64\nNor Poniente 769,500 ?\nI 770.000 y |\nLos ,UYU y\n3 Paisajismo Enlaces Lanco Norte y Lanco Sur 773,200 11,54\n4 Modificación de la descarga de aguas lluvias del | 770,800 - 935\nbypass de la Ruta 5 771,700 ?\n5 | Instalación de compuertas en obras de arte By 771,000 - 3,15\nPass Lanco 774,000 ?\n6 Rampas Peatonales Atravieso Pon Pon Ú 780,120 T 13,05\n7 Sistema Evacuación de aguas Ciruelos Poniente 784,644 il 6,83\n8 Pavimentación en DTS y Obras de Saneamiento | 830,200 - 31.83\nCS Los Lagos Oriente (Pancul) 831,050 ?\n9 Mejoramiento conectividad peatonal y ciclista, 831.100 86,79\nsector Puente San Pedro\nInstalación de señales informativas de servicio Varios\n10 1,73\nen la Ruta 5 sectores\nTabla N* 5\n\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras de Servicialidad”\n\nCostos Mensuales de\nConservación\nNO Ubicació ,\nOBRA Icación Mantención, Operación y\nProyecto Aprox. [km] .\nExplotación\n(UF)\n1 Atravieso Rinconada 720,750 167,85\n1 734,000 7\n. » . t , -\n2 Calle de servicio Oriente sector El Prado 734.300 8,26\n3 Atravieso Quesquechán 738,100 166,36\n4 Atravieso Collimallín 742,900 166,53\n\nPágina 58 de 78",
+ "texto_vlm": "Tabla N° 4\nCostos Mensuales de Conservación, Mantención, Operación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras Normativas”\nN°\nProyecto\tOBRA\tUbicación\nAprox.[km]\tCostos mensuales de\nConservación,\nMantención, Operación y\nExplotación\n(UF)\n1\tMejoramiento Pantallas Acústicas Pobl. San\nAntonio, Loncoche\t755,000 -\n755,500\t52,01\n2\tMejoramiento Saneamiento Sector CS Lanco\nNor Poniente\t769,200 -\n769,500\t2,64\n3\tPaisajismo Enlaces Lanco Norte y Lanco Sur\t770,000 y\n773,200\t11,54\n4\tModificación de la descarga de aguas lluvias del\nbypass de la Ruta 5\t770,800 -\n771,700\t9,35\n5\tInstalación de compuertas en obras de arte By\nPass Lanco\t771,000 -\n774,000\t3,15\n6\tRampas Peatonales Atravieso Pon Pon\t780,120\t13,05\n7\tSistema Evacuación de aguas Ciruelos Poniente\t784,644\t6,83\n8\tPavimentación en DTS y Obras de Saneamiento\nCS Los Lagos Oriente (Pancul)\t830,200 -\n831,050\t31,83\n9\tMejoramiento conectividad peatonal y ciclista,\nsector Puente San Pedro\t831,100\t86,79\n10\tInstalación de señales informativas de servicio\nen la Ruta 5\tVarios\nsectores\t1,73\n\nTabla N° 5\nCostos Mensuales de Conservación, Mantención, Operación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras de Servicialidad”\nN°\nProyecto\tOBRA\tUbicación\nAprox. [km]\tCostos Mensuales de\nConservación,\nMantención, Operación y\nExplotación\n(UF)\n1\tAtravieso Rinconada\t720,750\t167,85\n2\tCalle de servicio Oriente sector El Prado\t734,000 -\n734,300\t8,26\n3\tAtravieso Quesquechán\t738,100\t166,36\n4\tAtravieso Collimallín\t742,900\t166,53\nPágina 58 de 78"
+}

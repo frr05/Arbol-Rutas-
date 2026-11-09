@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:13",
+ "respuesta": {
+  "respuesta": "El mecanismo de coparticipación del Estado en los ingresos de la Sociedad Concesionaria se aplica según el tramo de licitación adjudicado; no rige si la concesión se adjudica en el Tramo A [1]. Si los ingresos anuales de explotación (Y) superan la Banda Superior de Ingresos (BSY) establecida en la Tabla N° 4, la Sociedad Concesionaria debe pagar al MOP el 50% de la diferencia entre ambos montos, calculado mediante la expresión PC = 0,5 x (Y - BSY) [3], [5]. Este pago se realiza el último día hábil del mes de junio del año calendario siguiente a aquél en que se verifiquen las condiciones [4], [7]. Para el primer año de explotación, si este tiene menos de 12 meses, la Banda Superior de Ingresos se ajusta proporcionalmente por los meses efectivos de operación, considerando un mes equivalente a 30 días [3], [4]. El incumplimiento en el pago constituye causal de incumplimiento de contrato y da derecho al MOP al cobro de multas y garantías [6], [7].",
+  "fuentes": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   7
+  ]
+ }
+}

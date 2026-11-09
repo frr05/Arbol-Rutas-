@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "Las ofertas económicas se abrieron el día 28 de diciembre de 2001 [2].",
+  "fuentes": [
+   2,
+   10
+  ]
+ }
+}

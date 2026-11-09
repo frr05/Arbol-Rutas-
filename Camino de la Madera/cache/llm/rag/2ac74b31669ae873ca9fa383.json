@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "El porcentaje de los ingresos por concepto de peaje que se imputa al servicio de construcción es del 80% [1], [2], [4], [5], [7]. Este valor corresponde al saldo a pagar después de deducir un eventual subsidio, y sobre este monto se recarga el IVA que paga el MOP [1], [2], [7].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   5,
+   7
+  ]
+ }
+}

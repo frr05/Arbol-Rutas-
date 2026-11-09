@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D11",
+ "pagina": 19,
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 91,
+ "segundos": 5.8,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 49,
+  "conf_media": 0.866,
+  "frac_baja": 0.204,
+  "frac_rara": 0.0,
+  "tinta": 0.0187
+ },
+ "n_palabras_vlm": 55,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.755,
+ "truncado": false,
+ "texto_ocr": "CONVENIO COMPLEMENTARIO N* 2 DE MODIFICACIÓN DEL CONTRATO\nDE CONCESIÓN DE LA OBRA PUBLICA FISCAL DENOMINADA\n\"RUTA INTERPORTUARIA TALCAHUANO - PENCO POR ISLA ROCUANT”\n\nANEXO NP? 2\n\nDESCRIPCIÓN DE LAS NUEVAS INVERSIONES Y\nGASTOS ASOCIADOS AL PRESENTE CONVENIO\n\nA Y\n\n¡ A\nA (Ocho Hojas) ¿ o\n<Q |",
+ "texto_vlm": "CONVENIO COMPLEMENTARIO N° 2 DE MODIFICACIÓN DEL CONTRATO\nDE CONCESIÓN DE LA OBRA PÚBLICA FISCAL DENOMINADA\n\"RUTA INTERPORTUARIA TALCAHUANO – PENCO POR ISLA ROCUANT\"\n\nANEXO N° 2\n\nDESCRIPCIÓN DE LAS NUEVAS INVERSIONES Y\nGASTOS ASOCIADOS AL PRESENTE CONVENIO\n\n(Ocho Hojas)\nCARLOS DIAZ MORA\nIngeniero Civil de Chile\n\nMINISTERIO DE OBRAS PUBLICAS\nDEPTO. DE CONCESIONES\n★"
+}

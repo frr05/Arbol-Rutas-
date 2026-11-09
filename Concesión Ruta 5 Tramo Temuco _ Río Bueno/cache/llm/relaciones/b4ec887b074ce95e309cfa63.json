@@ -1,0 +1,66 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:50",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     493,
+     514
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.10."
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     531,
+     544
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.11."
+   },
+   {
+    "articulo": "1.8.5 — 1.8.8 CONSERVACIÓN DE LAS OBRAS",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P11"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "A más tardar junto con la solicitud de recepción de la Fase 1 señalada en el numeral 3.3.1 de la presente resolución, la Sociedad Concesionaria deberá presentar al Inspector Fiscal, para su aprobación, una actualización del Programa General de Conservación de la Obra y del Plan de Trabajo Anual mencionados en los artículos 1.8.5 y 2.5.7 de las Bases de Licitación, incorporando en ellos las “Obras CCTV Etapa 1”. El Inspector Fiscal tendrá un plazo de 10 días hábiles para revisar las actualizaciones presentadas, plazo después del cual, si no hubiere observaciones, se entenderán aprobadas. En caso de que alguna actualización sea observada, la Sociedad Concesionaria tendrá un plazo de 10 días hábiles para corregirla, incorporando las observaciones realizadas por el Inspector Fiscal. Con ocasión de la revisión que haga el Inspector Fiscal, este último no podrá formular observaciones al resto del Plan de Trabajo Anual ni al Programa General de Conservación de la Obra.",
+    "debe_decir": "A más tardar junto con la solicitud de recepción de la Fase 1 señalada en el numeral 3.3.1 de la presente resolución, la Sociedad Concesionaria deberá presentar al Inspector Fiscal, para su aprobación, una actualización del Programa General de Conservación de la Obra y del Plan de Trabajo Anual mencionados en los artículos 1.8.5 y 2.5.7 de las Bases de Licitación, incorporando en ellos las “Obras CCTV Etapa 1”. El Inspector Fiscal tendrá un plazo de 10 días hábiles para revisar las actualizaciones presentadas, plazo después del cual, si no hubiere observaciones, se entenderán aprobadas. En caso de que alguna actualización sea observada, la Sociedad Concesionaria tendrá un plazo de 10 días hábiles para corregirla, incorporando las observaciones realizadas por el Inspector Fiscal. Con ocasión de la revisión que haga el Inspector Fiscal, este último no podrá formular observaciones al resto del Plan de Trabajo Anual ni al Programa General de Conservación de la Obra.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5 — 1.8.8 CONSERVACIÓN DE LAS OBRAS",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En caso de atraso en la entrega de las actualizaciones del Programa General de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos si las hubiere, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "debe_decir": "En caso de atraso en la entrega de las actualizaciones del Programa General de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos si las hubiere, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7 — 2.5.7 PLAN DE TRABAJO ANUAL",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En caso de atraso en la entrega de las actualizaciones del Programa General de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos si las hubiere, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación",
+    "debe_decir": "En caso de atraso en la entrega de las actualizaciones del Programa General de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos si las hubiere, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

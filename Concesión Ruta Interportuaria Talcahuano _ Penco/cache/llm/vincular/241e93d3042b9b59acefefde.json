@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 01:47",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D08.F0005]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0002]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0003]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0004]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0005]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0006]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0007]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0008]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D14.F0009]",
+    "destino": "BL:1.10.5"
+   },
+   {
+    "fragmento": "[RITP.D14.F0010]",
+    "destino": "BL:1.10.5"
+   },
+   {
+    "fragmento": "[RITP.D14.F0011]",
+    "destino": "BL:1.2.2"
+   },
+   {
+    "fragmento": "[RITP.D14.F0012]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0013]",
+    "destino": "BL:1.3.1"
+   },
+   {
+    "fragmento": "[RITP.D14.F0014]",
+    "destino": "BL:1.2.2"
+   },
+   {
+    "fragmento": "[RITP.D14.F0015]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0016]",
+    "destino": "BL:1.8.15"
+   },
+   {
+    "fragmento": "[RITP.D14.F0017]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0018]",
+    "destino": "BL:1.14.1"
+   },
+   {
+    "fragmento": "[RITP.D14.F0019]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0020]",
+    "destino": "BL:2.2.1.7.2"
+   },
+   {
+    "fragmento": "[RITP.D14.F0021]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0022]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0023]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0024]",
+    "destino": "TEMA:otros"
+   }
+  ]
+ }
+}

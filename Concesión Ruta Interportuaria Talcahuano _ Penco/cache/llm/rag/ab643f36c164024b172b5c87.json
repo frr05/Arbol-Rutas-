@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:12",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no especifican una ponderación numérica o porcentual para cada servicio dentro del Nivel de Servicio. Se menciona que el concesionario debe mantener un nivel de servicio óptimo y un tiempo de servicio inferior a 2 minutos por vehículo [1], y que el Reglamento de Servicio debe contemplar medidas para mantener dicho nivel óptimo [3] [4], pero no se detalla una ponderación específica por tipo de servicio.",
+  "fuentes": [
+   1,
+   3,
+   4
+  ]
+ }
+}

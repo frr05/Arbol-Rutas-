@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:56",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones y adquisiciones de terrenos bajo los siguientes conceptos y montos:\n\n1. Monto base por el Anteproyecto Referencial: UF 83.000 (ochenta y tres mil Unidades de Fomento) por desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos para todas las obras incluidas en dicho anteproyecto [10].\n2. Monto adicional si opta por la Prolongación de Av. Alessandri: UF 41.000 (cuarenta y un mil Unidades de Fomento) por concepto de desembolsos, gastos o expensas requeridas para la ejecución de las obras señaladas en el artículo 2.2.4 [6]. Este monto se paga al MOP mediante Vale Vista dentro de los 240 días desde la publicación del Decreto Supremo de Adjudicación [5].\n3. Terrenos adicionales no incluidos en los montos anteriores: La Sociedad Concesionaria asume el costo exclusivo de las adquisiciones o expropiaciones necesarias para instalar puntos de cobro, oficinas del Concesionario y áreas adicionales referidas en el artículo 1.9.1.4 [1].\n4. Nuevas inversiones: No están incluidas en los montos anteriores las adquisiciones o expropiaciones requeridas para materializar nuevas inversiones señaladas en el artículo 14.2.1 [2].\n5. Modificaciones al Anteproyecto: Si la Sociedad Concesionaria modifica el Anteproyecto Referencial o Alternativo requiriendo expropiar terrenos con mayor valor de tasación, estos mayores costos son de su cargo, determinados por la diferencia entre el valor pericial del proyecto original y el modificado [2]. Debe pagar este mayor valor en un plazo no superior a 60 días desde la notificación del Inspector Fiscal [2].\n6. Suspensión o desistimiento: Los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas que no se requieran por modificaciones aprobadas son de exclusiva responsabilidad y cargo de la Sociedad Concesionaria, incluyendo gastos de tramitación e indemnizaciones por desistimiento. El pago debe realizarse en un plazo no superior a 60 días desde la notificación del Inspector Fiscal [3].\n7. Gastos administrativos y deducciones: De los pagos segundo y tercero, la Sociedad Concesionaria puede deducir los gastos de adquisición directa para el Fisco hasta el valor pericial más UF 60 por concepto de gastos de administración respecto de cada lote sujeto a expropiación adquirido para el Fisco [4]. Además, en caso de expropiación formal, debe pagar el valor de indemnización definitiva más UF 60 por cada lote expropiado por concepto de gastos y desembolsos del MOP, en un plazo no superior a 60 días desde la notificación [1].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   10
+  ]
+ }
+}

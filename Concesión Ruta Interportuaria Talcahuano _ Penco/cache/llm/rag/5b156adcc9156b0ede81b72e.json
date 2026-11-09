@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:39",
+ "respuesta": {
+  "respuesta": "El tiempo máximo de espera en cola (TEC) que se exigirá mantener es inferior a 2 minutos por vehículo, inclusive en las horas de mayor demanda [1]. Este valor de TEC será calculado cuando el Inspector Fiscal lo estime conveniente y deberá ser anotado en el Libro de Explotación de la Obra, debiendo recalcularse a lo menos una vez cada dos años y cuando se modifiquen las características de las plazas de peaje [6].",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

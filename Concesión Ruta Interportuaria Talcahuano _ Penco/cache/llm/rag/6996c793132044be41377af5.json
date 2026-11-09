@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:13",
+ "respuesta": {
+  "respuesta": "La Oferta permanecerá válida por un plazo de 150 días a contar de la fecha de la apertura de la Oferta [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

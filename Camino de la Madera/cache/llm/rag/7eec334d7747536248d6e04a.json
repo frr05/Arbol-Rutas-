@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:27",
+ "respuesta": {
+  "respuesta": "Las bases de licitación para la Concesión de la obra pública \"Camino de la Madera\" fueron aprobadas por Resolución MOP N°2394 de fecha 8 de Junio de 1993 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

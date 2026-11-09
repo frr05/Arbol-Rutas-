@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:12",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se publicaron 2 convenios complementarios (que son decretos supremos modificatorios): el Convenio complementario N°1 (aprobado por DS N°71) y el Convenio complementario N°2 (aprobado por DS N°316) [5]. Además, la ficha menciona un Decreto supremo N°136 de 2023 como último acto, el cual modifica el sistema tarifario mediante un convenio [5], [10]. Por lo tanto, hay al menos 3 actos de naturaleza modificatoria aprobados por Decreto Supremo: DS N°71, DS N°316 y DS N°136. La pregunta especifica 'decretos o resoluciones'. En la lista de actos se cuentan 2 convenios complementarios (DS) y 1 decreto supremo adicional (N°136). No se mencionan resoluciones modificatorias del contrato en la lista de actos publicados, solo resoluciones de puesta en servicio y otras no contractuales. Los convenios complementarios son los principales instrumentos modificatorios. La ficha enumera explícitamente 2 convenios complementarios [5]. El DS 136 también es una modificación [10]. Total: 3 decretos supremos modificatorios.",
+  "fuentes": [
+   5,
+   10
+  ]
+ }
+}

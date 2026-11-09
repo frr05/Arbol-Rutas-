@@ -1,0 +1,5 @@
+fragmento;articulo;operacion;parrafos;texto_nuevo;donde_dice;debe_decir;numero_nuevo
+RITP.D02.F0010;1.7.6;reemplaza_articulo;;216-225;;;
+RITP.D02.F0011;;agrega_articulo;;227-275;;;1.7.6.1
+RITP.D02.F0012;;agrega_articulo;;277-284;;;1.7.6.2
+RITP.D02.F0014;1.8.2;reemplaza_parrafo;P40;295-303;;;

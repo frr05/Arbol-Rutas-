@@ -1,0 +1,12 @@
+{
+ "tarea": "agente_respuesta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:39",
+ "respuesta": {
+  "respuesta": "El tiempo máximo de espera en las plazas de peaje se mide mediante el \"Tiempo de Espera en Cola\" (TEC). La Sociedad Concesionaria debe mantener un tiempo de servicio inferior a 2 minutos por vehículo, inclusive en horas de mayor demanda [6]. Se exigirá la modificación del Plan de Atención si se determina un TEC superior a 2 minutos durante dos horas en una plaza dentro de un mismo mes [6]. Si se comprueba un valor de TEC superior a 5 minutos y están vencidos los plazos para modificar el plan o construir nuevas pistas, se cobra multa [3], [6]. No obstante, el Inspector Fiscal puede determinar que el alza del TEC se debió a una circunstancia extraordinaria y no proceder a exigir la modificación del plan ni la construcción de nuevas pistas ni aplicar la multa por superar los 5 minutos [3], [6].",
+  "fuentes": [
+   3,
+   6
+  ]
+ }
+}

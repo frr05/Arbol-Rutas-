@@ -1,0 +1,72 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.15 — 1.15 FÓRMULA DE AJUSTE TARIFARIO",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P7",
+     "P8",
+     "P9"
+    ],
+    "texto_nuevo": [
+     1303,
+     1314
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.15 — 1.15 FÓRMULA DE AJUSTE TARIFARIO",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.17.2 — 1.17.2 DERECHOS Y DEBERES DE LA SOCIEDAD CONCESIONARIA",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "30",
+    "debe_decir": "20",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.4.2 — 1.11,4,2 Nuevas Inversiones Exigidas por el Estado.",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.7 — 1.11.7 PROCEDIMIENTO PARA LA REALIZACIÓN DE PAGOS POR EL MOP Y LA SOCIEDAD CONCESIONARIA",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

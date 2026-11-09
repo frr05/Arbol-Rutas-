@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 78,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 241,
+ "segundos": 21.0,
+ "fecha": "2026-10-27 12:14",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 125,
+  "conf_media": 0.667,
+  "frac_baja": 0.264,
+  "frac_rara": 0.034,
+  "tinta": 0.0201
+ },
+ "n_palabras_vlm": 165,
+ "frac_rara_vlm": 0.049,
+ "similitud": 0.657,
+ "truncado": false,
+ "texto_ocr": "- Regina- Pichirropulli BO7. 377\nMfurcación Rapaco 819.592\nio Bueno: La Unión 887.707\n\nPuentes y Pasos de Ferrocarril Nuevos\n\nDonguil 719.290\nLo Vazquez 2 795.370\nLo Vazquez 3 755.919\nCruces 769.640\nLeuyfucade 1 774.576\nLeulucade 2 772.191\nAllegro 776.164\nEucaco 787.696\nPS.FRCE Mafr 800.582\nRucapichio 501.455\nmaque 803.905\nMatfil 1 804.043\nMafil 2 809,251\nMañii 3 208.598\nPatricio Hios 224 426\nHuiña-d4uiña 233,145\nEl Trebol 344,199\nLlolielhite 268,736\nChoroy 870.230\nNiscon 872,206\n'Cuño-Cuño 8/3,124\nLa Poza 262.936\nTralguen 996,775\nRio Bueno 898.506\nPASARELAS:\nLiuco 728.294\nEl Prado 735,756\nQuesquechan 718.496\nCoilimallin 744.962\nLoncoche- Horle 750.799\nLas Violetas 761.690\nCobico 763.300\nRucaco 738,193\nMalinto 798.044\nLos Lagos 832,389\nEscuela Agricola 839,131\nEl Trebol 248.072\nDemaihue 092.567\nPaillaco Norte ES7632\nPaihuen 855,712\nTronlinco 872 714\n\nPichichoroica 874.311",
+ "texto_vlm": "Regina- Pichimopulli | 867.377\nBifurcación Rapaco | 879.592\nRío Bueno- La Unión | 887.707\n\nPuentes y Pasos de Fierocarril Nuevos\n\nDonguil | 719.290\nLo Vazquez 2 | 755.370\nLo Vazquez 3 | 755.819\nCruces | 768.640\nLeufucade 1 | 771.576\nLeufucade 2 | 772.191\nNegro | 776.164\nRucaco | 787.696\nP.S.FF.CC Mafi | 800.582\nRucapichio | 801.455\nIñaque | 803.805\nMafi 1 | 808.083\nMafi 2 | 808.251\nMafi 3 | 808.598\nPatricio Rios | 824.826\nHuiña-Huiña | 833.145\nEl Trebol | 844.189\nLioñehue | 868.736\nChoroy | 870.280\nNiscon | 872.206\nCuño-Cuño | 873.124\nLa Poza | 882.936\nTraiguen | 886.775\nRío Bueno | 888.596\n\nPASARELAS:\n\nLiuco | 728.294\nEl Prado | 735.756\nQuesquechan | 738.496\nCoillmallin | 744.962\nLoncoche- Norte | 750.799\nLas Violetas | 761.680\nCollico | 763.300\nRucaco | 788.193\nMalinto | 798.044\nLos Lagos | 832.389\nEscuela Agricola | 839.131\nEl Trebol | 846.072\nDemaihue | 852.567\nPaillaco Norte | 857.632\nPaihuen | 865.712\nTronlincó | 872.714\nPichichoroico | 874.311"
+}

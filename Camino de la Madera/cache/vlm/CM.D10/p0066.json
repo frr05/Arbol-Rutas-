@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D10",
+ "pagina": 66,
+ "archivo": "4_modificacion_obras_convenios/Reglamento-de-Servicio-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 133,
+ "segundos": 7.6,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "pocas_palabras,conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 8,
+  "conf_media": 0.139,
+  "frac_baja": 1.0,
+  "frac_rara": 0.0,
+  "tinta": 0.0779
+ },
+ "n_palabras_vlm": 77,
+ "frac_rara_vlm": 0.036,
+ "similitud": 0.0,
+ "truncado": false,
+ "texto_ocr": "E\n\neonogad uponooÍ3\nSAUOJDRAJ9EJO\nuaad ase\n\n: SINOIDINIJIO",
+ "texto_vlm": "CONSERVACION RUTINARIA CAMINO DE LA MADERA\nFicha N° ___ /CR\n\nOPERACIÓN :\nUNIDAD DE MEDIDA : PRODUCCION DIARIA CUADRILLA :\nCANTIDAD DE OPERACION ANUAL\nNIVEL ANUAL\nPRODUCCION HOMBRE/DIA :\nCOSTO ACTIVIDAD ANUAL\nPERIODO DE EJECUCION\nFECHA DE INICIO\nFECHA DE TERMINO\nSEMANA DE TERMINO\nHORAS HOMBRE\nMATERIALES 4\nOtras actividades\nACTIVIDADES\n1\n2\n3\n4\n5\nDescripción\nPERSONAL\nCANT.\nEQUIPO\nHERRAMIENTAS\nMATERIAL\nCOSTOS UNITARIOS\nDescripción\nCant.\nUnid.\n$/Km\nPrecio\nTotal\nOBSERVACIONES\nDEFINICIONES :\nDescripción\nObservaciones\nEjecución práctica"
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "La multa por interrumpir total o parcialmente el servicio sin autorización previa del MOP es de 200 UTM, aplicable cada día [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

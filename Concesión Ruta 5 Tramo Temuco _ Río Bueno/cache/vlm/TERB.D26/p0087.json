@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 87,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 188,
+ "segundos": 8.4,
+ "fecha": "2026-10-27 12:24",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 98,
+  "conf_media": 0.581,
+  "frac_baja": 0.51,
+  "frac_rara": 0.02,
+  "tinta": 0.0712
+ },
+ "n_palabras_vlm": 111,
+ "frac_rara_vlm": 0.049,
+ "similitud": 0.462,
+ "truncado": false,
+ "texto_ocr": "«tos\n\nDo e a A PAN ; A\n\nA O\n\nRECLAMOS Y UGERENCIAS DE LOS USUARIOS\ncoMeasionaria wrouo D0O0OL\n\n9 «RIO (Sia A\nCONCESIONARIA TEMUCO « RIO BUENO $.A, (renma || . uN\nTIPO DE TRAMITE: RECLAMO C.) SUGEAENCIA [)\n\nIdantiticación del vauarlo\n\nDomicillo Particular del usuearo\nCiudad\n\n( ON FL, _ A——\n\nCarga o Función:\n\nObservaciones del Concesionario; A IA q A A\n\nep Polen his 247% Terra\n\nOFICINAS GENERALES: KM. 775 - RUTA 5 + FONO: (63) 442250 / FAX (63) 442260 - GASILLA 54 + LANCO\n\nSe edjunla respuesta al usuario [—) cima\nOriginal: Concesionaria",
+ "texto_vlm": "RECLAMOS Y SUGERENCIAS DE LOS USUARIOS\nNº FOLIO 00001\nCONCESIONARIA\nO - RIO BUENO S.A.\nConcesión CONCESIONARIA TEMUCO - RIO BUENO S.A.\nTIPO DE TRAMITE: RECLAMO\nSUGERENCIA\nIdentificación del usuario\nR.U.T. Apellido Paterno Apellido Materno Nombres\nDomicilio Particular del usuario\nCalle Nº Depto. Comuna Ciudad Región\nFax: E-mail: Casilla Postal:\nDatos del vehículo\nTipo de vehículo Patente\nReclamo o sugerencia:\nFirma\nUso exclusivo del Concesionario\nIdentificación del funcionario de la Concesionaria\nRut Apellido Paterno Apellido Materno Nombres\nCargo o Función:\nObservaciones del Concesionario:\nOFICINAS GENERALES: KM. 775 - RUTA 5 - FONO: (63) 442250 / FAX (63) 442260 - CASILLA 54 - LANCO\nSe adjunta respuesta al usuario\nFirma\nOriginal: Concesionaria"
+}

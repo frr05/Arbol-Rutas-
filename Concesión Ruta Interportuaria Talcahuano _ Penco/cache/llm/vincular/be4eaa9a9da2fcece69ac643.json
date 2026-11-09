@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:11",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D12.F0007]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0002]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0003]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D11.F0004]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D11.F0005]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D11.F0006]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0007]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D11.F0009]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0010]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D11.F0011]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D11.F0012]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D11.F0013]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0014]",
+    "destino": "BL:1.2.2"
+   },
+   {
+    "fragmento": "[RITP.D11.F0015]",
+    "destino": "BL:1.14.2.3.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0016]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D11.F0017]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D11.F0018]",
+    "destino": "BL:1.14.2.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0019]",
+    "destino": "BL:1.14.2.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0023]",
+    "destino": "BL:1.10.5"
+   },
+   {
+    "fragmento": "[RITP.D11.F0024]",
+    "destino": "BL:1.14.2.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0025]",
+    "destino": "BL:1.14.2.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0026]",
+    "destino": "BL:1.14.2.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0027]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0028]",
+    "destino": "BL:1.14.2.3"
+   },
+   {
+    "fragmento": "[RITP.D11.F0029]",
+    "destino": "BL:1.14.2.3"
+   }
+  ]
+ }
+}

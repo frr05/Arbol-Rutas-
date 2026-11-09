@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D01",
+ "pagina": 1,
+ "archivo": "1_licitacion/Bases-de-Licitacion-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 65,
+ "segundos": 8.0,
+ "fecha": "2026-10-27 12:02",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 95,
+  "conf_media": 0.309,
+  "frac_baja": 0.853,
+  "frac_rara": 0.083,
+  "tinta": 0.1482
+ },
+ "n_palabras_vlm": 36,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.016,
+ "truncado": false,
+ "texto_ocr": "ys)\n\n(\n\n(\npb\nle\njo\npr\nha\nye\n[vt]\nde\nea]\neb\nel\npe\n“o\nsus\n[ee]\n\npers\ny a\nMg\n4 a\n“das\n\nJean\n\n1d\n\n0\n\nposa]\npasad\n\nslk\n\nFu]\n\nE\n\nPrssviad\n(a,\n\nEn y ».\nes Un\npu puujesá\npr Y\n\nE,\n0) E\n\n7 O\nad pu es\n\na ej\n4?\n\npue\no\na pa\nPo 1) q y\nya .\n\ndu plo\nBages 0%\nAd\n\npl\n(9%\n\nJura\ngot,\n>\n\n(\n,\n\nee\n|\n\npos\nh.\n\n7\n\npupa\n\nHa\nvic\n\npas,\n\ntu\n\npul\n\ne)\n\nppjusl\npodas\nhasi\nPica\n\nJal\n\n11",
+ "texto_vlm": "REPÚBLICA DE CHILE\nMINISTERIO DE OBRAS PÚBLICAS\nDIRECCIÓN GENERAL DE OBRAS PÚBLICAS\nCOORDINACIÓN GENERAL DE CONCESIONES\nUNIDAD EJECUTIVA CONCESIONES DE CARRETERAS\nCONCESIÓN INTERNACIONAL RUTAS\nTRAMO TEMUCO - RÍO BUENO\nBASES DE LICITACIÓN\nSantiago, Febrero de 1997"
+}

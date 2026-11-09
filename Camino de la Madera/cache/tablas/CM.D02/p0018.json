@@ -1,0 +1,111 @@
+{
+ "documento": "CM.D02",
+ "pagina": 18,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:44",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 3: Detalle de la faja fiscal",
+   "encabezados": [
+    "TRAMO",
+    "KILOMETRAJE",
+    "ANCHO FAJA",
+    "ARCHIVADOR",
+    "EXPEDIENTE",
+    "UBICACION"
+   ],
+   "filas": [
+    [
+     "CONCEPCION - SANTA JUANA",
+     "0,0 ———>5",
+     "20 m",
+     "C3 - 78",
+     "Nº 2903",
+     "FISCALIA"
+    ],
+    [
+     "",
+     "16,8 ———>37,3",
+     "20 m",
+     "C4 - 78",
+     "Nº 3831",
+     "FISCALIA"
+    ],
+    [
+     "SANTA JUANA - NACIMIENTO",
+     "0,0 ———>9,32",
+     "20 m",
+     "S1 - 78",
+     "Nº 31 51",
+     "FISCALIA"
+    ],
+    [
+     "",
+     "9,32———>13,71",
+     "30 m",
+     "S1 - 78",
+     "Nº 3280",
+     "FISCALIA"
+    ],
+    [
+     "NACIMIENTO - SANTA JUANA",
+     "0,0 ———>8,612",
+     "20 m",
+     "N1 - 78",
+     "Nº 2372",
+     "FISCALIA"
+    ],
+    [
+     "(Sector Culenco - Santa Juana )",
+     "8,570———>14,780",
+     "20 m",
+     "N1 - 78",
+     "Nº 3612",
+     "FISCALIA"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "COIHUE - NACIMIENTO",
+     "0,519———>9,706",
+     "30 m",
+     "C6 - 78",
+     "Nº 3673",
+     "FISCALIA"
+    ],
+    [
+     "SANTA JUANA - BALSEADERO LAJA",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Portezuelo - Sta. Juana",
+     "0,0———>13,391",
+     "30 m",
+     "S1 - 78",
+     "Nº 3835",
+     "FISCALIA"
+    ],
+    [
+     "Portezuelo - Balseadero Laja",
+     "0,0———>15,12",
+     "30 m",
+     "S1 - 78",
+     "Nº 3835",
+     "FISCALIA"
+    ]
+   ],
+   "notas": "Nota: El kilometraje se mide desde la ciudad o localidad nombrada en primer término"
+  }
+ ]
+}

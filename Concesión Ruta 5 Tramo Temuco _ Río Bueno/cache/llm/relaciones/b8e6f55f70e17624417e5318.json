@@ -1,0 +1,82 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash-lite",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6",
+    "operacion": "aclara",
+    "parrafos": [
+     "P1",
+     "P3",
+     "P5",
+     "P6",
+     "P7",
+     "P8"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     5996,
+     6002
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [
+     5996,
+     6002
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "aclara",
+    "parrafos": [
+     "P1",
+     "P2",
+     "P3",
+     "P4",
+     "P5",
+     "P6",
+     "P7",
+     "P8",
+     "P9",
+     "P10",
+     "P11",
+     "P12",
+     "P13",
+     "P14",
+     "P15",
+     "P16",
+     "P17",
+     "P18",
+     "P19"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

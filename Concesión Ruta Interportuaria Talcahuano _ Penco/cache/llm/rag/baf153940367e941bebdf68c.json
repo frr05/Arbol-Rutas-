@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:33",
+ "respuesta": {
+  "respuesta": "La variable de licitación con que se adjudicó fue el monto del Subsidio del Estado al Oferente 'S', con un valor de 287.000 UF [3][4][9].",
+  "fuentes": [
+   3,
+   4,
+   9
+  ]
+ }
+}

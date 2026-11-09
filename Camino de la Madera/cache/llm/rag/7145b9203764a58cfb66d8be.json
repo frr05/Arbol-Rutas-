@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:30",
+ "respuesta": {
+  "respuesta": "El nombre oficial de la obra pública fiscal concesionada es \"Camino de la Madera\" [2][3].",
+  "fuentes": [
+   2,
+   3
+  ]
+ }
+}

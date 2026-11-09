@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 123,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 87,
+ "segundos": 34.0,
+ "fecha": "2026-10-27 12:16",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 54,
+  "conf_media": 0.613,
+  "frac_baja": 0.37,
+  "frac_rara": 0.0,
+  "tinta": 0.0153
+ },
+ "n_palabras_vlm": 57,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.463,
+ "truncado": false,
+ "texto_ocr": "muaa RUTA MANUAL DE SEGURIDAD VIAL Y\nmu Na DE LOs RÍOS PROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\n[— Desvio or Cierre Calzada |\nde Doble Calzada |\"\n\ndeca de Trabajos\n\npe\n\nf izza El\n\nMsrriras de canalicación\n\n(5) Lines de Vtecidód sí Trajes |\n(5 Limia de Velocidad con Trstajos |\n\n35",
+ "texto_vlm": "MANUAL DE SEGURIDAD VIAL Y\nPROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\nDesvío por Cierre Calzada\nde Doble Calzada\n8.4.8\n\n120\nFin Restricción\nAdelantamiento\n\nArco de Trabajos\n\nElementos de canalización\nAlternativas de canalización.\nLímite de Velocidad sin Trabajos\nLímite de Velocidad con Trabajos\n\n100 MT\n70\n300 MT\nDESVÍO A\n500 MT\n650 MT\n650 MT\n\n35"
+}

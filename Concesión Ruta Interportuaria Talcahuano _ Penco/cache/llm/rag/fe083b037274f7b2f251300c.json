@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan utilizando la variación del Índice de Precios al Consumidor (IPC) publicado por el Instituto Nacional de Estadísticas (INE) [1]. El IPC se calcula como la variación entre el 1° de Enero del año 2001 y el 31 de Diciembre del año anterior al comienzo de la explotación, o entre la fecha del último reajuste tarifario y el 31 de Diciembre del año t-1 de explotación [1]. En caso de que el indicador IPC deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace [1].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

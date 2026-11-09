@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "Los pagos atrasados devengan diferentes intereses según el documento y la parte que incurra en el retraso: [1] Para retrasos de la Sociedad Concesionaria en pagos al Estado, devenga un interés real diario de 0,0198%. [2] Para retrasos del MOP en pagos a la Sociedad Concesionaria según el Decreto Supremo N°136, devenga un interés real diario equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año informada por la Comisión para el Mercado Financiero. [3] Para retrasos del MOP en pagos según el Convenio Complementario N°1, devenga un interés real diario de 0,02612%. [4] Para retrasos de la Sociedad Concesionaria en pagos según el Convenio Complementario N°1, devenga el mismo interés real diario de 0,02612% a favor del MOP.",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

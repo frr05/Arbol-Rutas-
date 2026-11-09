@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:22",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones. Debe pagar un monto de UF 41.000 (cuarenta y un mil Unidades de Fomento) adicional a la cantidad señalada en el párrafo primero del artículo, por concepto de desembolsos, gastos o expensas que se originen con motivo de las expropiaciones o adquisición de terrenos para el Estado [6]. Además, si optó por la ejecución de las obras de Prolongación de Av. Alessandri, deberá pagar este mismo monto adicional de UF 41.000 [9]. Para los bienes adquiridos que no están contenidos en las cantidades de UF 83.000 y UF 41.000 (como puntos de cobro, oficinas y áreas adicionales), el pago es de cargo exclusivo de la Sociedad Concesionaria [1]. En caso de expropiación, además del valor de indemnización definitiva, deberá pagar un monto de UF 60 por cada lote expropiado por concepto de gastos y desembolsos del MOP [1]. También deberá pagar mayores costos si realiza modificaciones al proyecto que requieran expropiar terrenos con mayor valor de tasación [4], y asumir el costo de expropiaciones adicionales producto de la Ingeniería Definitiva aprobada [10]. Asimismo, asumirá los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas que no se requieran por modificaciones al Proyecto de Ingeniería Definitiva [3]. Los pagos por estos conceptos adicionales deben realizarse en un plazo no superior a 60 días desde la notificación del Inspector Fiscal [2].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   9,
+   10
+  ]
+ }
+}

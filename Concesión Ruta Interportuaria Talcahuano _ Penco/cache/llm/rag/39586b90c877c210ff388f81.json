@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "Las tarifas máximas se expresan en pesos al 31 de Diciembre de 2000 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

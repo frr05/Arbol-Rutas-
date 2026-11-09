@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se registran 1 convenio complementario [2]. Sin embargo, el fragmento que cita los actos sin PDF propio menciona también un Convenio Ad-Referéndum N° 1 suscrito con fecha 1 de abril de 2009 y aprobado por Decreto Supremo N° 155 de 2009 [2]. Por lo tanto, se firmaron al menos un convenio complementario y un convenio ad referéndum.",
+  "fuentes": [
+   2
+  ]
+ }
+}

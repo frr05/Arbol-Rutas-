@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D10",
+ "pagina": 41,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 40,
+ "segundos": 6.7,
+ "fecha": "2026-10-27 12:19",
+ "motivos": "pocas_palabras",
+ "calidad_ocr": {
+  "n_palabras": 10,
+  "conf_media": 0.934,
+  "frac_baja": 0.1,
+  "frac_rara": 0.0,
+  "tinta": 0.0062
+ },
+ "n_palabras_vlm": 24,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.471,
+ "truncado": false,
+ "texto_ocr": "So\n\nANEXO 6\n\nRAMA DE ENTREGA DE TERRENOS\n\n(Dos Hojas)",
+ "texto_vlm": "ANEXO 6\nPROGRAMA DE ENTREGA DE TERRENOS\n(Dos Hojas)\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OOO.\nDepto.\nConcesiones"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "El plazo para el pago de las multas depende del tipo de infracción. En general, las multas o sanciones aplicadas por el MOP deberán ser pagadas dentro de los 30 días siguientes a la fecha de su notificación por escrito [1]. Sin embargo, existen plazos específicos establecidos en la Tabla N° 2; por ejemplo, para el desistimiento de adquisiciones sin causa justificada o fuera de plazo, el pago debe realizarse en un plazo no superior a 60 días desde que sea notificado por el Inspector Fiscal [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

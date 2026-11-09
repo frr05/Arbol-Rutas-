@@ -1,0 +1,106 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:30",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "N' 3.791, de fecha 16 de septiembre de 2013",
+    "debe_decir": "N* 3791, de fecha 18 de septiembre de 2013",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "(1) elaborar",
+    "debe_decir": "(1)\nelaborar",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "; y, (1) ejecutar",
+    "debe_decir": "; y, (ii) ejecutar",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "N* 3.791, de fecha 16 de septiembre de 2013",
+    "debe_decir": "N* 3791, de fecha 18 de septiembre de 2013",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "don Flumberto Santelices Narducci",
+    "debe_decir": "don Humberto Santellces Narducci",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     2771,
+     2777
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     2778,
+     2781
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     2782,
+     2783
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

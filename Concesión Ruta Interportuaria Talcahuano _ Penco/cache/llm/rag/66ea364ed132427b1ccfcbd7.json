@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:39",
+ "respuesta": {
+  "respuesta": "La Resolución DGOP N°2965 de 2004 dispuso lo siguiente: 1) Modificar por razones de urgencia el área de la concesión \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\", eliminando un área de 13.769 m² correspondiente a una franja de 40 metros de ancho [3]. 2) Establecer que las condiciones para dicha eliminación se regularán en un convenio complementario a suscribirse en un plazo máximo de 90 días, y que Aerosur S.A. dejará de ser responsable respecto del área eliminada [3]. 3) Modificar por razones de urgencia el área de la concesión \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\", incorporándose a ésta la superficie de 13.769 m² señalada anteriormente [5]. 4) Establecer que las condiciones para la incorporación del área se regularán en un convenio complementario entre el MOP y Autopista Interportuaria S.A. en un plazo máximo de 90 días, y que esta sociedad pasará a ser responsable del área incorporada [5], [7]. 5) Explotación del área agregada no corresponderá a Autopista Interportuaria S.A., regulándose en el convenio complementario [5]. 6) Establecer plazos y requisitos de protocolización ante Notario para la aceptación del contenido de la resolución por parte de las sociedades concesionarias Aerosur S.A. y Autopista Interportuaria S.A. [2], [7].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   5,
+   7
+  ]
+ }
+}

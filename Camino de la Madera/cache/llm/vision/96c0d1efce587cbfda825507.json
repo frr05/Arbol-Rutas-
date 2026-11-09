@@ -1,0 +1,6 @@
+{
+ "modelo": "google/gemini-2.5-flash-lite",
+ "fecha": "2026-10-29 04:44",
+ "costo": 0.0001384,
+ "texto": "```json\n{\"tablas\": [{\"titulo\": \"ANEXO 1\", \"encabezados\": [\"\", \"Monto\", \"\"], \"filas\": [[\"Item N°1\", \"Obras Adicionales Sujetas a un Proceso de Licitación\", \"71.793\"], [\"Item N°2\", \"Proyectos Ejecutados\", \"19.184\"], [\"Item N°3\", \"Costos de Proyectos de Ingeniería por Ejecutar\", \"1.122\"], [\"Item N°4\", \"Presupuestos de Conservación, Mantención, Operación y Explotación\", \"988\"], [\"Item N°5\", \"Costos de Administración de la Sociedad Concesionaria\", \"5.163\"], [\"Total\", \"\", \"98.249\"]], \"notas\": null}]}\n```"
+}

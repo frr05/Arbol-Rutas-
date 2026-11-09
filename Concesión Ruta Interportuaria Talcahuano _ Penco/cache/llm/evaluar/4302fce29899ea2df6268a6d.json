@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:34",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "Contiene los montos principales de UF 3.800 y UF 2.400 correspondientes a las etapas definidas en la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "Incluye los datos principales de UF 83.000 y UF 41.000 mencionados en la referencia sin contradicciones."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el porcentaje del 80% pero omite el dato principal del 20% restante para conservación y explotación."
+   },
+   {
+    "n": 24,
+    "veredicto": "incorrecta",
+    "motivo": "Cita incorrectamente el Convenio Complementario N°2 en lugar del N°71 mencionado en la referencia para ese caso específico."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Coincide con la referencia en el sistema de cobro, tecnología manual y obligación de pistas manuales."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma que sí hay diferenciación por categoría y menciona la facultad de alterar tarifas, coherente con la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "parcial",
+    "motivo": "Menciona el IPC como índice pero omite el dato principal sobre el Reajuste Extraordinario por inflación acumulada superior al 15%."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Repite exactamente los valores base ($50/$35) y la tarifa única ($300) indicados en la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente la moneda (pesos) y la fecha base (31 de Diciembre de 2000)."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "Aunque prioriza los 10,9 km, aclara correctamente el total de 14,4 km mencionado en la referencia."
+   }
+  ]
+ }
+}

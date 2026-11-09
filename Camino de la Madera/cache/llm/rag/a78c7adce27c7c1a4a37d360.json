@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 14:14",
+ "respuesta": {
+  "respuesta": "La multa por atraso en el plazo máximo de la Puesta en Servicio Provisoria es del 1 por 1000 sobre el presupuesto oficial de la obra respectiva por cada día de atraso [3][4].",
+  "fuentes": [
+   3,
+   4
+  ]
+ }
+}

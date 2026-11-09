@@ -1,0 +1,61 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 20:27",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D10.F0010",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D10.F0011",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D10.F0012",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "RITP.D10.F0013",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "RITP.D10.F0014",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "RITP.D10.F0015",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "RITP.D10.F0016",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D10.F0017",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "RITP.D10.F0021",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0022",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0024",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0025",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0026",
+    "destino": "TEMA:regimen_economico"
+   }
+  ]
+ }
+}

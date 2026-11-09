@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D02",
+ "pagina": 44,
+ "archivo": "1_licitacion/Ruta-Interportuaria-Talcahuano-Penco-CA-1.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 369,
+ "segundos": 16.4,
+ "fecha": "2026-11-05 00:44",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 240,
+  "conf_media": 0.883,
+  "frac_baja": 0.113,
+  "frac_rara": 0.062,
+  "tinta": 0.031
+ },
+ "n_palabras_vlm": 229,
+ "frac_rara_vlm": 0.068,
+ "similitud": 0.942,
+ "truncado": false,
+ "texto_ocr": "24.- De las expropiaciones:\n\na) Están consideradas las áreas de servicio para la Soc. Concesionaria.\n\nb) Está considerada el área de emplazamiento para la(s) Plaza(s) de Peaje,\n\nc) Está considerada el área a ocupar por el Enlace Prolongación Av. Alessandri con Ruta\nInterportuaria,\n\nRespuesta: |\n\na) y b) Remítase a lo establecido en las Bases de Licitación.\n\nc) En los montos de expropiaciones asociados al eje Av. Alessandri, se incluyen los\nterrenos necesarios para ejecutar el Enlace Rocuant,\n\n25.- De quién será la responsabilidad de la mantención de las áreas verdes del Enlace Penco, debido a |\nque existe en este enlace otro concesionario,\n\nRespuesta:\n\nRemítase a lo establecido en las Bases de Licitación, sus Circulares Aclaratorias y el\nAnteproyecto Referencial.\n\nSaluda grénabente a Ud.,\n' US\n]\n| . 1\n; Morcto ¡VANNIA GOLES B: RRIENTOS\n. Arquit o\nCIÓN: Directdra General de Cíbras Públicas\nee. Subrogante\n— Figueroa Vial y Cía. Ltda.\n- Concesionaria Tribasa-Inela S.A.\n— Besalco.S.A.\n- Cofiroute\npa — “Empresa Constructora Tecsa S.A.\n\n- Sociedad Constructora B Y A Ingenieros Ltda.\n— Ingeniería y Construcción Icafal Ltda.\n\n— Sacyr Chile S.A,\n\n- Astilleros y Maestranza de la Armada (ASMAR)\n—, Constructora Mendes Junior y Asociados\n\n- Claro Vicuña Valenzuela S.A,\n\n— Forestales Regionales S.A.\n\n— Oficina de Partes DGOP\n\n- Coordinación de Desarrollo y Gestión de Proyectos\n— Unidad Jurídica de Proyectos\n\n- Archivo División Licitación de Proyectos\n\nCircular Aclaratoria N*4 Página 20 de 20",
+ "texto_vlm": "24.- De las expropiaciones:\na) Están consideradas las áreas de servicio para la Soc. Concesionaria.\nb) Está considerada el área de emplazamiento para la(s) Plaza(s) de Peaje.\nc) Está considerada el área a ocupar por el Enlace Prolongación Av. Alessandri con Ruta Interportuaria.\n\nRespuesta:\na) y b) Remítase a lo establecido en las Bases de Licitación.\nc) En los montos de expropiaciones asociados al eje Av. Alessandri, se incluyen los terrenos necesarios para ejecutar el Enlace Rocuant.\n\n25.- De quién será la responsabilidad de la mantención de las áreas verdes del Enlace Penco, debido a que existe en este enlace otro concesionario.\n\nRespuesta:\nRemítase a lo establecido en las Bases de Licitación, sus Circulares Aclaratorias y el Anteproyecto Referencial.\n\nSaluda atentamente a Ud.,\n\nIVANNA GOLES BARRIENTOS\nArquitecto\nDirectora General de Obras Públicas\nSubrogante\n\nDISTRIBUCIÓN:\n- Brotec S.A.\n- Figueroa Vial y Cía. Ltda.\n- Concesionaria Tribasa-Inela S.A.\n- Besalco S.A.\n- Cofiroute\n- Empresa Constructora Tecsa S.A.\n- Sociedad Constructora B Y A Ingenieros Ltda.\n- Ingeniería y Construcción Icafal Ltda.\n- Sacyr Chile S.A.\n- Astilleros y Maestranza de la Armada (ASMAR)\n- Constructora Mendes Junior y Asociados\n- Claro Vicuña Valenzuela S.A.\n- Forestales Regionales S.A.\n- Oficina de Partes DGOP\n- Coordinación de Desarrollo y Gestión de Proyectos\n- Unidad Jurídica de Proyectos\n- Archivo División Licitación de Proyectos\n\nCircuclar Aclaratoria N°4\nPágina 20 de 20"
+}

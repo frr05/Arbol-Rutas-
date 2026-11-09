@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "La concesión se adjudicó con el factor de licitación 'Monto del Subsidio solicitado (S)', con un valor de 287.000 UF, correspondiente al Tramo B [2][8].",
+  "fuentes": [
+   2,
+   8
+  ]
+ }
+}

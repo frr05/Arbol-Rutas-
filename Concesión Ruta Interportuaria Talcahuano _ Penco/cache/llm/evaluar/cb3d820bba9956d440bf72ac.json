@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:26",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los montos anuales principales (3.800 y 2.400 UF) y las condiciones temporales de la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma el pago por expropiaciones e incluye los montos fijos específicos (83.000 y 41.000 UF) mencionados en la referencia."
+   },
+   {
+    "n": 23,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el porcentaje del 80% imputado al servicio de construcción."
+   },
+   {
+    "n": 24,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla los distintos tipos de interés diario según el responsable y el contexto, coincidiendo con los datos numéricos de la referencia."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el sistema de cobro a la salida y la tecnología de Control de Accesos Manual."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que las tarifas se diferencian por vehículo y menciona la facultad de alterar relaciones dentro de límites, acorde a la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "La respuesta menciona el reajuste por IPC y el mecanismo extraordinario por inflación acumulada superior al 15%, cumpliendo con los datos clave."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "La respuesta proporciona las tarifas máximas base ($50 punta, $35 fuera de punta) para vehículos livianos expresadas en pesos del 2000."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide exactamente con la moneda y fecha base indicadas en la referencia."
+   },
+   {
+    "n": 30,
+    "veredicto": "parcial",
+    "motivo": "La respuesta omite inicialmente la longitud total del proyecto (14,4 km) mencionando solo la vía principal (10,9 km), aunque luego aclara el total."
+   }
+  ]
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "tarea": "actos_meta",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:25",
+ "respuesta": {
+  "tipo": "bases de licitación",
+  "numero": null,
+  "fecha": "1997-02-01"
+ }
+}

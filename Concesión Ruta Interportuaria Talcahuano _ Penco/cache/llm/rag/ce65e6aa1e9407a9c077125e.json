@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "El valor de las tarifas se reajustará a partir del día 10 de enero de cada año de explotación, en virtud, entre otros factores, de la variación del Índice de Precios al Consumidor (IPC) [1]. El IPC es aquel determinado por el Instituto Nacional de Estadística o el organismo que lo reemplace o suceda legalmente [8]. Para valores de t mayores que 1, la variación del IPC se calcula entre la fecha del último reajuste tarifario y el último día del mes anterior a la fecha que se compruebe una variación acumulada del IPC igual o superior al 15% [2], o bien entre la fecha del último reajuste tarifario y el 31 de Diciembre del año t-1 de explotación de la concesión [3]. En caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace [2].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   8
+  ]
+ }
+}

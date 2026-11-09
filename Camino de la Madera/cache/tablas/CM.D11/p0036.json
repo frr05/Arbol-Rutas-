@@ -1,0 +1,50 @@
+{
+ "documento": "CM.D11",
+ "pagina": 36,
+ "modelo": "google/gemini-2.5-flash-lite",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:48",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Item 2",
+    "Monto",
+    "UF"
+   ],
+   "filas": [
+    [
+     "1",
+     "Proyecto de Ingeniería Vial",
+     "9.620"
+    ],
+    [
+     "2",
+     "Estudio de Tránsito",
+     "1.577"
+    ],
+    [
+     "3",
+     "Estudio de Impacto Ambiental",
+     "1.183"
+    ],
+    [
+     "4",
+     "Estudio Estado y Conservación Pavimentos Ruta 160",
+     "1.913"
+    ],
+    [
+     "4",
+     "Administración",
+     "4.892"
+    ],
+    [
+     "TOTAL",
+     "",
+     "19.184"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

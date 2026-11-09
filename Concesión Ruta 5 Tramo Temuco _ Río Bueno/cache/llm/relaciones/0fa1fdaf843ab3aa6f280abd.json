@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Estudio de Impacto Ambiental 718,30 - 890,00 Geotécnica",
+    "debe_decir": "Estudio Referencial de Impacto Ambiental 718.30 - Geotécnica | 4 Tomos | Tramo Temuco - Puerto Montt 1.020,00 Consultores",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

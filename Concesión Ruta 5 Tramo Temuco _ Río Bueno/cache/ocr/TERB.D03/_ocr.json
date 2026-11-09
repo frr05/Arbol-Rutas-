@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D03",
+ "archivo": "2_adjudicacion/Oferta-Economica-TERB.pdf",
+ "sha256": "2a28c5d6890a7e2deb5ccb2836c80d514255b0acef41cab6a05e9da07ddf3a0d",
+ "paginas": 1,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:04"
+}

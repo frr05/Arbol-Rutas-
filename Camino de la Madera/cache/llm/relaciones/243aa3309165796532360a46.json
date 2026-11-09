@@ -1,0 +1,42 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:11",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.8",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Los valores monetarios señalados en los documentos que forman parte de la Ofertas Técnica y Económica deberán venir expresados en",
+    "debe_decir": "Los valores monetarios señalados en los documentos que forman parte de la Oferta Técnica y Económica, a excepción de la Tarifa máxima que proponga el Licitante (la cuál deberá venir de acuerdo a lo expresado en el capítulo 111,1.1), deberan venir expresados en",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2.13",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Las ofertas serán recibidas y abiertas en acto público por la Comisión de Apertura el día 7 de Marzo de 1994 a las 12 horas en el Auditorium del Ministerio de Obras Publicas (Morandé 71, 3erx piso, Santiago).",
+    "debe_decir": "Las ofertas serán recibidas y abiertas en acto público por la Comisión de Apertura el día 22 de Marzo de 1994 a las 12 horas en el Auditorium del Ministerio de Obras Publicas (Morandé 71, 3erx piso, Santiago).",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La apertura de la oferta económica se realizará el día 07 de Abril de 1994 a las 12 horas en el Auditorium del Ministerio de",
+    "debe_decir": "La apertura de la oferta económica se realizará el día 21 de Abril de 1994 a las 12 horas en el Auditorium del Ministerio de",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

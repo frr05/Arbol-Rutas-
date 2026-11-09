@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no especifica el monto exacto en UF correspondiente al nivel de servicio insuficiente (Costo por Desempeño Operacional) ni el incentivo por buen desempeño. Los fragmentos mencionan que existen niveles mínimos de servicio [6] y costos operacionales anuales en pesos chilenos [1], pero no detallan las tablas o montos específicos de incentivos y penalidades en Unidades de Fomento para este concepto.",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

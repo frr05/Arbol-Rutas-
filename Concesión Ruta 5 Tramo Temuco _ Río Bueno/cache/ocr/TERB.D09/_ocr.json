@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D09",
+ "archivo": "3_ejecucion/Puesta-en-Servicio-Definitiva-TERB.pdf",
+ "sha256": "46d9b538b3552bfe0eeb3d61f86500729a678243ea8868a41ce6fd5b962fd056",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:04"
+}

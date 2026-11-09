@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 02:01",
+ "respuesta": {
+  "respuesta": "El porcentaje de los ingresos totales de explotación que se imputa al servicio de construcción para efectos tributarios del IVA es del 80%, según lo establecido en el artículo 1.143 de las Bases de Licitación [1][3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

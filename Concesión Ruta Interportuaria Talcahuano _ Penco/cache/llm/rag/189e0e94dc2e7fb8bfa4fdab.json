@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es fijo. Según las bases, el plazo será igual a 378 meses para los tramos B y C [1] [2], y se extinguirá al cumplirse este plazo máximo salvo que se adjudique en el Tramo A, donde podría extinguirse antes por cumplimiento de ingresos totales o al cumplir el plazo máximo de 498 meses [5]. Además, se confirma que la concesión tendrá un plazo de duración de 378 meses según lo señalado en las bases y la oferta económica [7].",
+  "fuentes": [
+   1,
+   2,
+   5,
+   7
+  ]
+ }
+}

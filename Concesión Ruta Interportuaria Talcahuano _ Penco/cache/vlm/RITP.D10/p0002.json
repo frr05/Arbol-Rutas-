@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 2,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 436,
+ "segundos": 24.3,
+ "fecha": "2026-11-05 00:28",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 287,
+  "conf_media": 0.787,
+  "frac_baja": 0.216,
+  "frac_rara": 0.048,
+  "tinta": 0.0372
+ },
+ "n_palabras_vlm": 300,
+ "frac_rara_vlm": 0.042,
+ "similitud": 0.746,
+ "truncado": false,
+ "texto_ocr": "SUBSECRETARIA DE 00.\nÑO OFICINA DE PARTES\n\nO MINISTERIO DE HACIENDA |\nOFICINA DE PARTES 1\n\n..\n\n+\n\nCONTRALORÍA GENERAL\nTOMA DE RAZON\n\n00 ba 2035\n\nVISTOS:\n\nRECEPCION\n\nDEPART\nJURIDICO\n\n8 Y REGISTRO\n\nÍ DEPART.\nE CONTABIL.\n\nE SUB.DER\nE O. CENTRAL\n\nE SUB, DER\ndE. CUENTAS\n\nSUS, DER.\no.P y\n\n| DIENES NAC,\n\nDEPART +\n\nE AUDITORIA\n\nSUB. DEP.\nMUNICIP.\n\nFEFRENDACION\n\nA ANOPOR\nE IMPUTAC,\n\nÍ DECUCOTO.\n\nAEVUELTO CON OFICIÓ\n28 048 209714918\n\nGOBILRUO DE CHILE\nMABISUERICO DI OSRAS. PUBLICAS\n\nRef:\n\n/ SANTIAGO, : Cs\n\nNO\n\nA\nCoordinación (\nCOINA- NE\n\nFl E\n\nCT MAY 2005 |\n\nO\n\nPS\n\nAprueba Convenio Complementario N* 1,\nque modifica el contrato de concesión de\nla obra pública fiscal denominada “Ruta\n\nInterportuaria Talcahwano — Penco por\nsla Rocuant”.\n\nEl artículo -87 del DFL MOP N* 859, de\n1997, que fijó el texto refundido, coordinado\ny sistematizado de la Ley N” 15.840, de\n1964, Orgánica del Ministerio de Obras\nPúblicas y del DFL N* 206, de 1960, Ley de\nCaminos.\n\nEl D.S. MOP N? 900, de 1996, que fijó. el\ntexto refundido, coordinado y sistematizado\ndel DFL. MOP: N* 164, de 1991, Ley de\nConcesiones de Obras Públicas, y en\nparticular su artículo 20.\n\nEl D.S. MOP N* 956, de 1997, Reglamento\nde la Ley de Concesiones,\n\nEl DS MOP N* 112 de fecha 31 de enero\nde 2002, que adjudicó el contrato de\nconcesión para la ejecución, conservación y\nexplotación de la obra pública fiscal\ndenominada “Ruta Interportuania\nTalcahuano — Penco por Isla Rocuant””\n\nLa Resolución N* 520 de 1996, de la\nContraloría General de la República, que fijó\nel texto refundido, coordinado y\nsistematizado de la Resolución N* $55 de\n1992\n\nContralor\n\n! e la República\n: e Subrogante",
+ "texto_vlm": "SUBSECRETARIA DE OO.PP.\nOFICINA DE PARTES\nTRAMITADO\nFECHA -9 MAYO 2005\n\nMINISTERIO DE HACIENDA\nOFICINA DE PARTES\nRECIBIDO\n\nCONTRALORIA GENERAL\nTOMA DE RAZON\n0 9 MAR. 2005\n\nRECEPCION\nDEPART.\nJURIDICO\nDEP. T. R.\nY REGISTRO\nDEPART.\nCONTABIL..\nSUB. DEP.\nC. CENTRAL\nSUB. DEP.\nE. CUENTAS\nSUB. DEP.\nC. P. Y\nBIENES NAC.\nDEPART\nAUDITORIA\nDEPART.\nV. O. P. U y f.\nSUB. DEP.\nMUNICIP.\n\nREFRENDACION\nREF. POR $\nIMPUTAC.\nANOT. POR $\nIMPUTAC.\nDECUC DTO.\n\n184723 CGC\n\nGOBIERNO DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\n\nRef: Aprueba Convenio Complementario N° 1,\nque modifica el contrato de concesión de\nla obra pública fiscal denominada \"Ruta\nInterportuaria Talcahuano - Penco por\nIsla Rocuant\".\n\nSANTIAGO,\n71\nN°\n\nVISTOS:\n- El artículo 87 del DFL MOP N° 850, de\n1997, que fijó el texto refundido, coordinado\ny sistematizado de la Ley N° 15.840, de\n1964, Orgánica del Ministerio de Obras\nPúblicas y del DFL N° 206, de 1960, Ley de\nCaminos.\n\n- El D.S. MOP N° 900, de 1996, que fijó el\ntexto refundido, coordinado y sistematizado\ndel DFL MOP N° 164, de 1991, Ley de\nConcesiones de Obras Públicas, y en\nparticular su artículo 20.\n\n- El D.S. MOP N° 956, de 1997, Reglamento\nde la Ley de Concesiones.\n\n- El DS MOP N° 112 de fecha 31 de enero\nde 2002, que adjudicó el contrato de\nconcesión para la ejecución, conservación y\nexplotación de la obra pública fiscal\ndenominada \"Ruta Interportuaria\nTalcahuano - Penco por Isla Rocuant\".\n\n- La Resolución N° 520 de 1996, de la\nContraloría General de la República, que fijó\nel texto refundido, coordinado y\nsistematizado de la Resolución N° 55 de\n1992\n\nTOMADO RAZON\n11 MAYO 2005\nContralor General\nde la República\nSubrogante\n\nDEVUELTO CON OFICIO\n28 MAR 2005 *14915\n\nCoordinación General de Contralorías\nOFICINA DE PARTES\n12207\nN°"
+}

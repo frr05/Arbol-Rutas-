@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. La empresa concesionaria dispone de un sistema automático de clasificación para determinar la tarifa a cobrar según la categoría del vehículo [1]. Además, dentro de las tarifas máximas para cada tipo de vehículo, el concesionario puede establecer cobros diferenciados por hora, día de la semana y/o época del año, pero no podrá discriminar entre vehículos del mismo tipo que usen los servicios en las mismas condiciones, salvo excepciones específicas para buses y camiones de más de dos ejes [2] [3] [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

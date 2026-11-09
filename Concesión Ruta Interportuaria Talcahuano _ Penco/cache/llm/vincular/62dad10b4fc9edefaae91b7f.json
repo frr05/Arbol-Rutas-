@@ -1,0 +1,37 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 20:38",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D14.F0035]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0036]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0037]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0038]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0039]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0040]",
+    "destino": "BL:1.16.1.2"
+   },
+   {
+    "fragmento": "[RITP.D14.F0041]",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

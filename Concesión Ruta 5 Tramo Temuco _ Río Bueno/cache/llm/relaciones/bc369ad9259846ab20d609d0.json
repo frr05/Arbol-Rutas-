@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.8.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Norma Chilena NCH N*409 de 1984 del IN.N (no publicada)",
+    "debe_decir": "Norma Chilena NCH N*409 de 1984 del LN.N (D.O. 3.3.84)",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.8.4",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Norma Chilena NCH N*409 de 1984 del LN.N (D.O. 3.3.84)",
+    "debe_decir": "Norma Chilena NCH N*1333 de 1978 del LN.N (D.O. 22.5.87)",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

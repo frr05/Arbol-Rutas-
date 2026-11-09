@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "La cobertura por sobrecostos de medidas ambientales adicionales se distribuye según los siguientes tramos [1]:\n\n1. Hasta UF 12.000: Son de entero cargo del Concesionario [1]. El saldo inicial de la cuenta de sobrecostos, debido a medidas ejecutadas hasta el 31 de diciembre de 2006, es de UF 5.010,88 [3]. Una vez que el valor total contabilizado en la \"Cuenta Sobrecostos por Medidas Adicionales\" alcanza el máximo de UF 12.000, el MOP deja de compensar el 100% de los montos [3].\n\n2. De UF 12.000 a UF 24.000: La parte de los costos adicionales entre estos límites será asumida y pagada directamente por el MOP a la Sociedad Concesionaria una vez que el Inspector Fiscal compruebe la correcta ejecución de las medidas, en un plazo máximo de 120 días posteriores a la aprobación por el Inspector Fiscal [1].\n\n3. Por sobre UF 24.000: Los costos adicionales serán asumidos en partes iguales (50%) por el Concesionario y el MOP [1].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5.1.7",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "según el modelo que se incluye en el software",
+    "debe_decir": " no más allá de los días 15 de julio y 15 de enero de cada año de vigencia de la Concesión",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.1.9",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "al respecto",
+    "debe_decir": " a más tardar el día 31 de octubre de cada año de vigencia de la Concesión",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.5.4",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "al informado",
+    "debe_decir": " a más tardar el día 31 de octubre de cada año de vigencia de la Concesión",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta entrega los montos anuales correctos para ambos periodos solicitados por la pregunta."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma el pago y detalla los montos principales (83.000 y 41.000 UF) coincidentes con la referencia."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": true,
+    "veredicto": "parcial",
+    "motivo": "Afirmar que existe un documento con imputación del 30% contradice la referencia que establece el 80% como regla general sin mencionar excepciones de ese porcentaje."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": true,
+    "veredicto": "parcial",
+    "motivo": "Indica que el retraso de la Sociedad Concesionaria devenga 0,02612%, dato que contradice la referencia que fija 0,0198% para ese caso."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta describe correctamente el sistema de cobro a la salida y el uso de tecnología manual según la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Confirma que las tarifas se diferencian por categoría y menciona la facultad de alterar relaciones tarifarias, coherente con la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el IPC como índice base y menciona el reajuste extraordinario por inflación acumulada."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Entrega los valores exactos de tarifa máxima base ($50/$35) y la fecha base ($300) coincidentes con la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Responde directamente con la moneda y fecha base solicitadas."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Aunque inicia con el tramo principal, aclara inmediatamente la longitud total de 14,4 km que coincide con la referencia."
+   }
+  ]
+ }
+}

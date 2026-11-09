@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 151,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 339,
+ "segundos": 18.3,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 216,
+  "conf_media": 0.912,
+  "frac_baja": 0.097,
+  "frac_rara": 0.0,
+  "tinta": 0.017
+ },
+ "n_palabras_vlm": 235,
+ "frac_rara_vlm": 0.02,
+ "similitud": 0.79,
+ "truncado": false,
+ "texto_ocr": "4 12 Instalación señales 769,725 y ' 633\nComplementarias Enlace Lanco 774,220\nConstrucción paraderos de buses r\n5 13 (*) . P 720,850 11,85\n(Rinconada)\n= — 7\nConstrucción paraderos de buses\n5 13 (*) . 724,000 22,06\n(El Liuco)\n[Construcción paraderos de buses i\n5 13 (*) , 740,000 23,05\n(Quesquechán)\nConstrucción paraderos de buses T 7\n5 13 (*) . 806,000 7,91\n(Malihue - Santa Elena)\n= —\nConstrucción paraderos de buses\n5 13 (*) . 858,300 34,03\n(Paillaco)\n\n(*) Para efectos de detallar la ubicación de los paraderos, cuya ejecución se dispone en el\nDecreto Supremo que apruebe el presente Convenio, se explicita el nombre\nrepresentativo entre paréntesis a continuación del nombre de la obra “()”.\n\nTabla N* 3\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y\nseguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe\ndurante la etapa de explotación de “Obras Seguridad Normativa con\nproyecto que requiere actualización”.\n\nUbicación Costos mensuales de\n, Conservación,\nN? Obra según DS Ml o\nMOP N*524/2005 OBRA Mantención, Operación\n[km] y Explotación\n(UF)\n2 | Atravieso La Montañita 735,597 165,49\n4 TAtravieso Mulpún Norte 810,050 107,07\n9 A lle de Servicio Paihué 865,644 - 39,68\nalle de Servicio Paihuén 867,443 ,\n\nRUTA DE LOS RIOS [pi\n\ná 10\nSOCIEDAD CONCESIONARIA $. A.",
+ "texto_vlm": "4 | 12 | Instalación Señales Complementarias Enlace Lanco | 769,725 y 774,220 | 6,33\n---|---|---|---|---\n5 | 13 (*) | Construcción paraderos de buses (Rinconada) | 720,850 | 11,85\n5 | 13 (*) | Construcción paraderos de buses (El Liuco) | 724,000 | 22,06\n5 | 13 (*) | Construcción paraderos de buses (Quesquechán) | 740,000 | 23,05\n5 | 13 (*) | Construcción paraderos de buses (Malihue - Santa Elena) | 806,000 | 7,91\n5 | 13 (*) | Construcción paraderos de buses (Paillaco) | 858,300 | 34,03\n\n(*) Para efectos de detallar la ubicación de los paraderos, cuya ejecución se dispone en el Decreto Supremo que apruebe el presente Convenio, se explicita el nombre representativo entre paréntesis a continuación del nombre de la obra \"( )\".\n\nTabla N° 3\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de “Obras Seguridad Normativa con proyecto que requiere actualización”.\n\n| N° Obra según DS MOP N°524/2005 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|---|\n| 2 | Atravieso La Montañita | 735,597 | 165,49 |\n| 4 | Atravieso Mulpún Norte | 810,050 | 107,07 |\n| 9 | Calle de Servicio Paihuén | 865,644 - 867,443 | 39,68 |\n\nRUTA DE LOS RIOS\nSOCIEDAD CONCESIONARIA S. A. 10"
+}

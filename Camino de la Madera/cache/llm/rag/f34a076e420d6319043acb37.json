@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "El llamado a licitación se hizo el 30 de noviembre de 2003 [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

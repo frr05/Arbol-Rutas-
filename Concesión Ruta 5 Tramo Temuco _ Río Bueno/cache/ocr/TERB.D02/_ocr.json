@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D02",
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "sha256": "048de2d3f36f85a8e7050ed8ddd2deee824c2f03eb76474e7f3f67fb119fbf57",
+ "paginas": 60,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:04"
+}

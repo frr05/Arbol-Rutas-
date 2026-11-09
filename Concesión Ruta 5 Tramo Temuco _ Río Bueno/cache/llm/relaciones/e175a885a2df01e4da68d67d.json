@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.8.4.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P17"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Se deberá realizar un (1) monitoreo al mes para verificar la calidad de las aguas subterráneas, a fin de cumplir con la Norma Chilena NCH N* 409 de 1984 del L.N.N. (no publicada) que determina la calidad de las aguas para consumo humano",
+    "debe_decir": "Se deberán realizar monitoreos aguas arriba y aguas abajo de la zona del vertedero, los que serán supervisados por el Servicio de Salud correspondiente. Las normas a aplicar serán determinadas según el uso que se haga de las aguas.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

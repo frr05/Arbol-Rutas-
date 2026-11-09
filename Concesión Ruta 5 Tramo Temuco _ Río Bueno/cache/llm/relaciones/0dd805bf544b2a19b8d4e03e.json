@@ -1,0 +1,95 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:30",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1 INTRODUCCIÓN",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     223,
+     229
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.1"
+   },
+   {
+    "articulo": "2.1 INTRODUCCIÓN",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     230,
+     245
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.2"
+   },
+   {
+    "articulo": "2.1 INTRODUCCIÓN",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     246,
+     248
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.3"
+   },
+   {
+    "articulo": "2.1 INTRODUCCIÓN",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     249,
+     252
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.4"
+   },
+   {
+    "articulo": "2.1 INTRODUCCIÓN",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     253,
+     258
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.5"
+   },
+   {
+    "articulo": "2.1 INTRODUCCIÓN",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [
+     259,
+     261
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     263,
+     288
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

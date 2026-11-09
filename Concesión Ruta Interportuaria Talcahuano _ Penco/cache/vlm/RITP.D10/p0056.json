@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 56,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 58,
+ "segundos": 3.9,
+ "fecha": "2026-11-05 00:45",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 29,
+  "conf_media": 0.877,
+  "frac_baja": 0.103,
+  "frac_rara": 0.0,
+  "tinta": 0.0083
+ },
+ "n_palabras_vlm": 35,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.719,
+ "truncado": false,
+ "texto_ocr": "ANEXO N* 6\nMONOGRAFIAS DESCRIPTIVAS\n\nITEM 2. EMPALME CON LA AV. ALESSANDRI EN SECTOR CARRIEL SUR\na) Monografía Descriptiva\n\nCARLO ZAARGAS\nIN CTOR FISCAL\n\nDEPTO. DE\n\nri\nCONCESIONES O—",
+ "texto_vlm": "ANEXO N° 6\nMONOGRAFIAS DESCRIPTIVAS\nITEM 2. EMPALME CON LA AV. ALESSANDRI EN SECTOR CARRIEL SUR\na) Monografía Descriptiva\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OOO\nDEPTO. DE\nCONCESIONES"
+}

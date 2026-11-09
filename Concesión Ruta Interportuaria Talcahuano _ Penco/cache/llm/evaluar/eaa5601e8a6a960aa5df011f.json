@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:26",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente los montos anuales de UF 3.800 y UF 2.400 según la etapa del contrato."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los montos base y adicionales solicitados por la pregunta, coincidiendo con la referencia."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": true,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta afirma un porcentaje diferente (30%) al establecido en la referencia (80%), contradiciendo el dato principal."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente las tasas de interés aplicables según cada contexto y parte responsable, alineándose con la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el sistema de cobro (uso efectivo, control manual, pago a la salida) descrito en la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que sí hay diferenciación por categoría de vehículo, coherente con la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el IPC como índice de reajuste, cumpliendo con lo pedido."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta proporciona los valores correctos de tarifa máxima para vehículos livianos según la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide exactamente con la moneda y fecha base indicadas en la referencia."
+   },
+   {
+    "n": 30,
+    "falta": "longitud total del proyecto",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "La pregunta pide la longitud del proyecto (total), pero la respuesta solo menciona la vía principal (10,9 km), omitiendo la prolongación que suma el total de 14,4 km indicado en la referencia."
+   }
+  ]
+ }
+}

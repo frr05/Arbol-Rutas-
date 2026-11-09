@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "El valor ofertado para el factor de licitación Ingresos Totales de la Concesión (ITC) no se especifica numéricamente en los fragmentos proporcionados, ya que la tabla de la oferta económica muestra el campo pero omite el valor numérico correspondiente a las UF [1], [3], [6]. Sin embargo, se indica que el monto del Subsidio solicitado fue de 287.000 UF [3], [6], [7].",
+  "fuentes": [
+   1,
+   3,
+   6,
+   7
+  ]
+ }
+}

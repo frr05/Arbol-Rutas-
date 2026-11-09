@@ -1,0 +1,10 @@
+{
+ "tarea": "agente",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:36",
+ "respuesta": {
+  "falta": "",
+  "accion": "responder",
+  "argumento": "El tiempo máximo de espera (Tiempo de Espera en Cola - TEC) que se exige mantener es inferior a 2 minutos por vehículo. Si el TEC supera los 2 minutos durante dos horas en un mismo mes, se obliga a modificar el Plan de Atención o construir nuevas pistas. Si el TEC supera los 5 minutos y se han vencido los plazos de corrección, se aplica una multa."
+ }
+}

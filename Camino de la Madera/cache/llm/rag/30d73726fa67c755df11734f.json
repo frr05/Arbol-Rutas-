@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "El sistema de cobro inicial es manual, donde se entrega un comprobante al usuario en las plazas de peaje [1]. Sin embargo, la concesionaria podrá implementar sistemas de Pre o Post Pago con empresas usuarias de la ruta [1] y establecer otras modalidades de prepago o postpago en el futuro [10]. Además, existe un Sistema de Peaje - PXNET2S para el control a la clasificación manual y automático [3], y se menciona la posibilidad de convenir otras fórmulas de pago respetando las tarifas vigentes [10].",
+  "fuentes": [
+   1,
+   3,
+   10
+  ]
+ }
+}

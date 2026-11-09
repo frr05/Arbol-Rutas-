@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es fijo, ya que se establece un número determinado de meses dependiendo del tramo en que se adjudique. Si la concesión se adjudica en el Tramo A, el plazo máximo es de 498 meses [2]. En los demás casos (Tramos B o C), el plazo será de 378 meses [1], [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:01",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se publicaron un total de 4 actos que son decretos o resoluciones modificatorias del contrato: dos Resoluciones (N°2965 y N°1569) y dos Decretos Supremos (N°663 y N°136) [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "Se emitieron 5 circulares aclaratorias [7].",
+  "fuentes": [
+   7
+  ]
+ }
+}

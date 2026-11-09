@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "Sí, el concesionario debe pagar por las expropiaciones, ya que los pagos de expropiación, los desembolsos, gastos o expensas que se originen son de cargo exclusivo del concesionario [1]. El monto específico no está definido en los fragmentos como una cifra única fija, sino que depende de la cantidad de terreno a expropiar y los antecedentes proporcionados (planos, certificados de avalúo, etc.) [1]. Las Bases incluyen un precio unitario oficial para expropiaciones de $200 por m² con fecha del 31 de agosto de 1992 [7], pero esto es un referencia para la oferta y no el costo final total, el cual varía según los predios afectados [1].",
+  "fuentes": [
+   1,
+   7
+  ]
+ }
+}

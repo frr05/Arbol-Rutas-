@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+.ipynb_checkpoints/
+
+# Estado de cuotas y gasto del cliente LLM (propio de cada máquina)
+*/cache/llm/_router.json
+
+# Los PDF de cada concesión están en doc-unico / doc-unico-v2 / extractor-dgc
+*.pdf

@@ -1,0 +1,42 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:36",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Puente Leufucade N* 1",
+    "debe_decir": "Puente Lo Vázquez N° 2 Puente Lo Vázquez N° 3 Puente Cruces",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "elimina",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Puente Patricio Ríos Puente Huiña-Huiña",
+    "debe_decir": "Puente San Pedro Paso Superior Los Lagos",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

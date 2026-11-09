@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:37",
+ "respuesta": {
+  "respuesta": "Según los fragmentos entregados, se estipula una imputación del 80% de los ingresos totales de explotación para pagar el precio del servicio de construcción [1], [5]. Sin embargo, también existe un documento que establece una imputación del 30% para dicho servicio [2].",
+  "fuentes": [
+   1,
+   2,
+   5
+  ]
+ }
+}

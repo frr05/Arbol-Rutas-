@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "Se firmó un convenio complementario N°1 [3][5] y se menciona un convenio ad-referéndum N°1 [1], pero los fragmentos solo contienen información sobre el convenio complementario N°1 firmado el 29 de julio de 2004.",
+  "fuentes": [
+   1,
+   3,
+   5
+  ]
+ }
+}

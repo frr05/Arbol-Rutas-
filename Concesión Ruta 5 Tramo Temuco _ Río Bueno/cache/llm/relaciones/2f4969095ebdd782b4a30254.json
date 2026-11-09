@@ -1,0 +1,93 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:30",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5 — 1.8.8 CONSERVACIÓN DE LAS OBRAS",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     871,
+     887
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7 — 2.5.7 PLAN DE TRABAJO ANUAL",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     871,
+     887
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2.6 — 1.2.6 ACLARACIONES A LAS BASES DE LICITACIÓN",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     928,
+     938
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     864,
+     870
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     888,
+     893
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     894,
+     927
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     939,
+     971
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

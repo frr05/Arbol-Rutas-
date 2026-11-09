@@ -1,0 +1,99 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 55,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:00",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Artículo Bases de Licitación",
+    "Monto Multa (UTM)",
+    "Tipo de Infracción",
+    "Criterio de Aplicación",
+    "Otros"
+   ],
+   "filas": [
+    [
+     "1.10.6, 2.6.8",
+     "200",
+     "Incumplimiento de la Sociedad Concesionaria del Plan de Conservación de las Obras y/o Programa Anual de Conservación.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.10.7",
+     "200",
+     "Interrupción total o parcial del servicio por parte de la Sociedad Concesionaria para realizar trabajos de conservación sin la autorización previa del MOP.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.10.10.2",
+     "20",
+     "No prestación de servicios complementarios propuestos por el licitante o grupo licitante y aprobados por la Comisión de Evaluación de la Oferta Técnica, en las condiciones establecidas en su Oferta.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.13.2.1",
+     "450",
+     "Incumplimiento en las condiciones de entrega de la concesión en el caso de extinción de la misma.",
+     "Cada vez",
+     "Sin perjuicio del cobro de la garantía correspondiente."
+    ],
+    [
+     "1.14.6.1.2",
+     "450",
+     "Atraso en el Pago que la Sociedad Concesionaria deberá realizar al MOP por concepto de Coparticipación de Ingresos con el Estado.",
+     "Cada día",
+     "Sin perjuicio del cobro de las garantías establecidas en el artículo 1.8.3 y las acciones legales correspondientes."
+    ],
+    [
+     "1.15, 1.16",
+     "1.000",
+     "Cobro de tarifas discriminados o superiores a las máximas autorizadas.",
+     "Cada vez",
+     "Sin perjuicio de la extinción de la concesión por incumplimiento grave, según el artículo 1.13.3."
+    ],
+    [
+     "1.16",
+     "450",
+     "Incumplimiento en las exigencias establecidas para los sistemas y tecnologías de cobro.",
+     "Cada vez",
+     ""
+    ],
+    [
+     "1.18",
+     "100",
+     "Incumplimiento a lo estipulado en Derechos y Deberes de la Sociedad Concesionaria.",
+     "Cada vez",
+     ""
+    ],
+    [
+     "1.19",
+     "20",
+     "No modificación del Plan de Atención de los puntos de cobro cuando se hayan cumplido las condiciones previstas para ello.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.19",
+     "100",
+     "Atraso en la construcción o instalación de nuevas pistas en los puntos de cobro según lo previsto.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.19",
+     "250",
+     "Cuando el Tiempo de Espera en Cola (TEC) sea superior a 5 minutos y no se esté dentro de los plazos que se indican, salvo circunstancias extraordinarias calificadas por el Inspector Fiscal.",
+     "Cada vez",
+     ""
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

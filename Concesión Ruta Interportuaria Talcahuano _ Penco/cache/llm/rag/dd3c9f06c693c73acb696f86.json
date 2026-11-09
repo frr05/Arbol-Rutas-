@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "Los servicios especiales obligatorios que debe prestar en la etapa de explotación son: 1) Servicio de Patrullaje y de Emergencia [2], que incluye inspección del estado de la carretera, atención primaria en emergencias, control de tránsito, aseo periódico, mantención expedita del tránsito, rescate y primeros auxilios, auxilio de vehículos accidentados, instalación de señalización de emergencia y auxilio de vehículos con fallas mecánicas; y 2) Teléfonos de Emergencia [9], consistentes en una red de postes S.O.S. conectada a las oficinas de la plaza de peaje, con al menos una unidad cada tres kilómetros, operativa las 24 horas durante toda la concesión.",
+  "fuentes": [
+   1,
+   2,
+   3,
+   9
+  ]
+ }
+}

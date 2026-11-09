@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "Se adjudicó el contrato al consorcio licitante formado por las sociedades Empresa Constructora Belfi S.A., Las Américas Administradora de Fondos de Inversiones S.A., y Asesorías e Inversiones C.M.B. S.A.",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

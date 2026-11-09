@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre el umbral del Índice de Servicio Prestado (ISP) ni sus tramos. Los documentos mencionan umbrales para el Índice de Rugosidad Internacional (IRI), como un valor máximo de 4 m/km en las Bases de Licitación [6] y [7], y un umbral modificado a 3,5 m/km mediante el Convenio Complementario N°1 [1] y [3], pero no definen parámetros específicos para el ISP.",
+  "fuentes": [
+   1,
+   2,
+   3,
+   6,
+   7
+  ]
+ }
+}

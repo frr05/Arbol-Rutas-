@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:14",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "11.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P20"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para la presentación de la oferta, el licitante deberá presentar, un estudio a nivel de anteproyecto para la obra (A)",
+    "debe_decir": "Para la presentación de la oferta, el licitante deberá presentar, un estudio a nivel preliminar para la obra (A)",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

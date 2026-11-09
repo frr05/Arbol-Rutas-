@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:27",
+ "respuesta": {
+  "respuesta": "La Dirección General de Obras Públicas a través de su Departamento de Concesiones y la Dirección de Vialidad serán los servicios del MOP que fiscalizarán el Contrato de Concesión en sus diversos aspectos [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

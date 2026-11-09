@@ -1,0 +1,102 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:40",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IVA, la que se reconocerá según su valor proforma, es decir, según los desembolsos que efectivamente realice la Sociedad Concesionaria por este concepto previa aprobación del Inspector Fiscal del presupuesto que se le presentare, de acuerdo al procedimiento señalado en el numeral 7.12 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N” 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     8261,
+     8282
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     8261,
+     8282
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [
+     8287,
+     8293
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [
+     8297,
+     8303
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P14"
+    ],
+    "texto_nuevo": [
+     8304,
+     8313
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [],
+    "texto_nuevo": [
+     8314,
+     8316
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

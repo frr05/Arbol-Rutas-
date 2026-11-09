@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Según las bases de licitación, los estándares de nivel de servicio deben incluir medidas, procedimientos, horarios y métodos para mantener el mejor nivel de operación del Camino [1]. Para la evaluación del estado del pavimento y la gestión de la conservación, se utilizan indicadores específicos medidos a través de muestreos aleatorios. El índice principal mencionado es el IRI (International Roughness Index), cuya medición se realiza mediante un Perfilómetro Óptico o Mays Meter [8]. Otros indicadores incluyen agrietamiento, desprendimiento de áridos, baches abiertos, resistencia al resbalamiento (medida con Mu-Meter) y ahuellamiento (medido con perfilógrafo transversal) [8]. Además, se establece que si los indicadores sobrepasan ciertos umbrales, la concesionaria debe ejecutar obras de conservación para restablecer las condiciones de servicio [4].",
+  "fuentes": [
+   1,
+   4,
+   8
+  ]
+ }
+}

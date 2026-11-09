@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:14",
+ "respuesta": {
+  "respuesta": "Es una primera concesión, ya que el decreto supremo MOP N° 345 de fecha 8 de febrero de 2000 adjudicó el contrato de concesión [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

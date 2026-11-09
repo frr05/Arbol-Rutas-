@@ -1,0 +1,10 @@
+{
+ "tarea": "agente",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:36",
+ "respuesta": {
+  "falta": "Fecha límite de consultas y entidad responsable de responderlas",
+  "accion": "buscar",
+  "argumento": "consultas bases plazo fecha respuesta"
+ }
+}

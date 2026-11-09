@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "Los servicios básicos consisten en circular por la obra vial, utilizar o recibir los servicios de asistencia al usuario en las vías tarificadas, tales como servicios de información, asistencia en ruta, asistencia en caso de accidentes, entre otros [6]. Además, incluye el servicio de patrullaje y emergencia que permite inspeccionar el estado de la carretera y prestar atención primaria en caso de emergencia dentro del área de concesión [2].",
+  "fuentes": [
+   6,
+   2
+  ]
+ }
+}

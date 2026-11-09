@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:22",
+ "respuesta": {
+  "respuesta": "Se imputa un 80% de los ingresos totales de explotación para pagar el precio del servicio de construcción [1], [6]. Sin embargo, en la Publicación del Diario Oficial N°37.240 (2002) se estipula una imputación diferente de un 30% para este mismo servicio [2].",
+  "fuentes": [
+   1,
+   2,
+   6
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "La garantía de construcción corresponde al 4% de los presupuestos oficiales de las obras respectivas [1]. Según la tabla transcrita con visión de la misma página, los valores de las obras son: Obra A: 10.000 UF, Obra B: 3.000 UF, Obra C: 3.000 UF y Obra D: 1.000 UF [2]. Por lo tanto, el monto total de la garantía de construcción es del 4% sobre la suma de estos presupuestos (17.000 UF), lo que equivale a 680 UF en total distribuido entre las boletas individuales para cada obra.",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 03:22",
+ "respuesta": {
+  "respuesta": "Es una primera concesión, ya que el primer acto corresponde a las Bases de Licitación del año 2001 [11].",
+  "fuentes": [
+   11
+  ]
+ }
+}

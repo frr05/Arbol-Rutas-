@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:12",
+ "respuesta": {
+  "respuesta": "El decreto de adjudicación se publicó en el Diario Oficial N° 37.240 el día 20 de abril de 2002 [1][2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

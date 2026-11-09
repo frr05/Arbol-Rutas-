@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:33",
+ "respuesta": {
+  "respuesta": "Durante la etapa de explotación, la Sociedad Concesionaria está obligada a prestar los siguientes Servicios Especiales Obligatorios:\n\n1. Servicio de Patrullaje y de Emergencia: Debe mantenerse y operarse en forma permanente para inspeccionar el estado de la carretera y prestar atención primaria en caso de emergencia, coordinándose con Carabineros, Centros Asistenciales y/o Bomberos [3].\n2. Rescate y auxilio de vehículos accidentados [6].\n3. Instalación de señalización de emergencia y reordenamiento del tránsito en casos de accidentes [6].\n4. Auxilio y retiro de los vehículos detenidos en la ruta por fallas mecánicas [6].\n5. Prestar asistencia caminera al Usuario que así lo requiera [8].\n6. Apoyar y coordinar en conjunto con Carabineros el retiro de la ruta de cualquier vehículo que pudiere amenazar la seguridad para el usuario o de terceros (vehículos averiados principalmente) [8].\n7. En caso de emergencia, destinar todos los recursos disponibles para dar atención y solución rápida al problema presentado [8].",
+  "fuentes": [
+   3,
+   6,
+   8
+  ]
+ }
+}

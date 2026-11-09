@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe realizar un pago anual al MOP por concepto de control y administración del contrato de concesión con los siguientes montos según la etapa: durante la etapa de construcción (desde la suscripción del decreto supremo de adjudicación hasta la autorización de la Puesta en Servicio Provisoria), el monto es de UF 3.800 anuales [1], [4]. Para el último año de construcción, se paga en enero el monto completo de UF 3.800 [1], [4]. En el primer mes de enero siguiente a la suscripción, además del pago del año en curso, se paga la proporción del año anterior a razón de UF 317 mensuales [1], [4]. Una vez autorizada la Puesta en Servicio Provisoria y hasta la extinción de la concesión, el pago anual disminuye a UF 2.400 [1], [10]. Además, en caso de nuevas inversiones exigidas por el Estado, existen gastos adicionales de administración y control que ascienden a UF 12.138 [2], [6].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   6,
+   10
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D05",
+ "archivo": "2_adjudicacion/Publicacion-Diario-Oficial-TERB.pdf",
+ "sha256": "f010dd56b8442c8cc4412401c6ed165d2f9caad96ddd34da6231c6c71df49e3b",
+ "paginas": 1,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:04"
+}

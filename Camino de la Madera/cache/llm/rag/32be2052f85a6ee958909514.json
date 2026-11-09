@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "Según la oferta económica presentada, se identifican tres empresas o grupos licitantes: EMPRESA CONSTRUCTORA BELFI S.A., LAS AMERICAS ADMINISTRADORA DE FONDOS DE INVERSION S.A. y ASESORIAS E INVERSIONES C.M.B. S.A. [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

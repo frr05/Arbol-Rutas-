@@ -1,0 +1,20 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no especifican qué ponderación tiene cada servicio en el Nivel de Servicio de la Concesión. Solo mencionan la obligación de mantener un nivel óptimo [2], [3], [6] y las consecuencias del incumplimiento de los niveles mínimos de servicio establecidos en las Bases y el Reglamento [5], pero no detallan la ponderación específica de cada servicio.",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

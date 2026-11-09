@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D04",
+ "pagina": 9,
+ "archivo": "2_adjudicacion/Decreto-de-Adjudicacion-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 108,
+ "segundos": 59.9,
+ "fecha": "2026-10-27 12:11",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 60,
+  "conf_media": 0.694,
+  "frac_baja": 0.317,
+  "frac_rara": 0.03,
+  "tinta": 0.0249
+ },
+ "n_palabras_vlm": 64,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.409,
+ "truncado": false,
+ "texto_ocr": "Lui hol\n\nEDUARDO FRE1 Ruiz - TAGCI\nPRESIDENTE DB LA Reróni:\n\nA\nE\nass\nq ens dias EDUARDO ARAU Usas\nMinistro de Obras Públicas\n\nMinistro de Hacienda\n\n“ TOMADO RAZON\n\n¿ 1 GCT. 1997\n\nTRALOR GENERAL\nE TA REPÚBLICA\n\nuan Jose Mi a Gómez ,\n\nAutorizo la firma 21-8 en representación\n19%\n\nde extranjgria N\nSantiago, 20 «e\nEnmendado-30-Dicf\nVale.-",
+ "texto_vlm": "EDUARDO FREI RUIZ - TAGLE\nPRESIDENTE DE LA REPÚBLICA\n\nRICARDO LAGOS ESCOBAR\nMinistro de Obras Públicas\n\nEDUARDO ANINAT URETA\nMinistro de Hacienda\n\nTOMADO RAZON\n21 OCT. 1997\nCONTRALOR GENERAL\nDE LA REPUBLICA\n\nAutorizo la firma de Juan José Gallardo Gómez, cédula de identidad\nde extranjería Nº 14.935.351-8 en representación de Enrique Morgan\nSantiago, 30 de Diciembre de 1997.\nEnmendado-30-Diciembre\nVale.-\n\nCONFORME CON SU ORIGINAL"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:13",
+ "respuesta": {
+  "respuesta": "El sistema de cobro es manual, entregando al usuario un comprobante de cancelación, aunque la concesionaria podrá implementar sistemas de Pre o Post Pago con empresas usuarias previa aprobación del Inspector Fiscal [1]. Además, se menciona que en caso de falla generalizada del sistema, el cobro se realizará en forma manual mediante planilla y tickets manuales foliados [4].",
+  "fuentes": [
+   1,
+   4
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.5",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "No obstante, cuando la Sociedad Concesionaria proponga modificaciones a los Proyectos Referenciales de Ingeniería Definitiva a que se refiere 1.2.5, que requieran adquisiciones o expropiaciones adicionales a las contempladas en ellos, éstas constituirán UN desembolso adicional, no incluido en la cifra anterior, que será de cargo exclusivo de la Sociedad Concesionaria, la cual, en caso de no adquirir el inmueble, terreno 0 bien, deberá en un plazo de 60 días después de recibida una carta certificada, por parte del Inspector Fiscal, realizar tales pagos. A estos efectos, se considerarán también como adquisiciones O expropiaciones adicionales las necesarias para instalar las plazas de peaje O puntos de cobro propuestos por la Sociedad Concesionaria que no estén considerados en los Proyectos Referenciales de Ingeniería Definitiva entregados por el MOP.”",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

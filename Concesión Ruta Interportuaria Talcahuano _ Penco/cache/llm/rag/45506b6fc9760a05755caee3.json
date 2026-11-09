@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:16",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre la ponderación específica que tiene cada servicio en el Nivel de Servicio de la Concesión. Solo se menciona que el usuario tiene derecho a obtener el nivel de servicio estipulado y mantener una circulación expedita [3], y que el concesionario debe establecer medidas para mantener un nivel de servicio óptimo [9], pero no se detallan ponderaciones numéricas o porcentuales por servicio.",
+  "fuentes": [
+   3,
+   9
+  ]
+ }
+}

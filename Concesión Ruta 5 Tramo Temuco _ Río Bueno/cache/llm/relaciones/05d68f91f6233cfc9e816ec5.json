@@ -1,0 +1,122 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:38",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     7585,
+     7592
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     7593,
+     7599
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.2"
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     7600,
+     7617
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.3"
+   },
+   {
+    "articulo": "2.4",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     7620,
+     7630
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.4"
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     7631,
+     7633
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.5"
+   },
+   {
+    "articulo": "2.6",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     7634,
+     7657
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.6"
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     7662,
+     7683
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "elimina",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.3",
+    "operacion": "elimina",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.4",
+    "operacion": "elimina",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

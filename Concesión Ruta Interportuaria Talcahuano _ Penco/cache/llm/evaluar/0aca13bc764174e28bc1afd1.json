@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:17",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el mecanismo de garantía y el año de inicio (primer año calendario de explotación)."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Explica correctamente la coparticipación, la excepción del Tramo A y el mecanismo de Banda Superior."
+   },
+   {
+    "n": 23,
+    "falta": "deducible máximo y pólizas",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Responde el monto principal solicitado pero omite detalles adicionales como el deducible y las pólizas requeridas."
+   },
+   {
+    "n": 24,
+    "falta": "valor total de la obra y deducible",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Identifica los riesgos y beneficiario, pero no menciona que cubre el valor total de la obra ni el deducible."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Lista correctamente todos los factores por tipo de vehículo según la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Describe con precisión los tramos de cobertura y responsabilidad de costos según la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente el tiempo máximo de espera inferior a 2 minutos."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Confirma que sí se puede cobrar y detalla las condiciones de congestión y procedimiento."
+   },
+   {
+    "n": 29,
+    "falta": "plazo temporal",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Cita los porcentajes correctos pero omite el límite temporal de 'hasta dos años antes del término'."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Explica correctamente la periodicidad bianual y el proceso de revisión con consulta a Hacienda."
+   }
+  ]
+ }
+}

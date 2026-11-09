@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D25",
+ "archivo": "4_modificacion_obras_convenios/DS-N_14_-09-02-2026.-Publicacion.pdf",
+ "sha256": "95ad081576684c21346846876be038dee6d5177723bfc0d6b9afd8519861e081",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:10"
+}

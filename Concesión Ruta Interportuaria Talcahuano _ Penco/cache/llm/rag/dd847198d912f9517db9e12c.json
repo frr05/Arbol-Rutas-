@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:20",
+ "respuesta": {
+  "respuesta": "Se emitieron 4 circulares aclaratorias: N°1 (2001-10-23), N°2 (2001-11-09), N°3 (2001-11-16) y N°4 (2001-11-22) [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "No se puede determinar cuántas Puestas en Servicio Provisorias se publicaron basándose únicamente en los fragmentos entregados, ya que estos contienen las bases del contrato y reglamentos pero no listan los actos administrativos de puesta en servicio realizados. La ficha de actos no menciona específicamente resoluciones o decretos de 'Puesta en Servicio Provisoria', sino que enumera otros tipos de documentos como Bases, Circulares, Oferta, Decreto de Adjudicación, Resoluciones genéricas, Reglamento de Servicio, Convenios y Extinción [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

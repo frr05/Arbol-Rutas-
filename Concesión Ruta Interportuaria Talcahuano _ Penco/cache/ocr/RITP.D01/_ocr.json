@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D01",
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "sha256": "f53b85891b4657980274afcf8e2ec068c4b88c1f354033ca18e5a459f1bac96b",
+ "paginas": 222,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:46"
+}

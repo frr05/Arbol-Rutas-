@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para autos (vehículos livianos) por sentido es de $1.500 [2], [4].",
+  "fuentes": [
+   2,
+   4
+  ]
+ }
+}

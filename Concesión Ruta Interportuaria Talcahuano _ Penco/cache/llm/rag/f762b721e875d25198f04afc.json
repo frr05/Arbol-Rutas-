@@ -1,0 +1,20 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:33",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen la información sobre las ofertas específicas presentadas por los licitantes, es decir, no se detallan el valor del factor de licitación ni el puntaje o nota técnica obtenida por cada oferente. Los textos solo describen la metodología de evaluación y adjudicación [1], [2], [3], [4], [5], [6], [7], [8], [9], [10].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

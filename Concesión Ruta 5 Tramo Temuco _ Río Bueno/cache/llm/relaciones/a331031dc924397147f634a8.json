@@ -1,0 +1,123 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 12:42",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     717,
+     726
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     764,
+     767
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     750,
+     755
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     756,
+     763
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "elimina",
+    "parrafos": [
+     "P5",
+     "P6",
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [
+     768,
+     777
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "elimina",
+    "parrafos": [
+     "P9",
+     "P10",
+     "P11",
+     "P12",
+     "P13",
+     "P14",
+     "P15"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "elimina",
+    "parrafos": [
+     "P16",
+     "P17",
+     "P18",
+     "P19"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

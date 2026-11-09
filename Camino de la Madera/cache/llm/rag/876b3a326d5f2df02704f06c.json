@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:28",
+ "respuesta": {
+  "respuesta": "La multa por atraso en el plazo máximo para la puesta en servicio provisorio es de 1/1000 (un milésimo) del presupuesto oficial de la obra respectiva, cobrada diariamente [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 18:02",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.3.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     342,
+     358
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "momento de la constitución de la Sociedad.",
+    "debe_decir": "Sin perjuicio del cobro de las garantías señaladas en el artículo 1.8.3, según corresponda.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 42,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 524,
+ "segundos": 16.8,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 336,
+  "conf_media": 0.891,
+  "frac_baja": 0.068,
+  "frac_rara": 0.004,
+  "tinta": 0.0578
+ },
+ "n_palabras_vlm": 332,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.977,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n7.7 Medidas de precaución para el patrullero\n\nLa primera responsabilidad del patrullero es cuidar y proteger su propia\nseguridad y la de quienes trabajan con él. Estas medidas dicen relación con un\nmanejo seguro y responsable,\n\nEs importante, que la mente del conductor este en función de la conducción en\n\ntodo momento y no permitir que otras preocupaciones lo lleva a distracciones\nque pueden derivar en graves consecuencias.\n\nEstar atentos a las condiciones del tránsito\n\nLos accidentes automovilísticos presentan causas de ocurrencias que involucran\nal conductor, a las condiciones del camino, al tipo de vehículo y su estado\nmecánico.\n\nMás del 90% de los accidentes automovilísticos tienen su origen en alguna falla\nhumana. Los errores más comunes son factores de control de velocidad y\nadelantamiento. Sín embargo, la causa más peligrosa reside en la falte de\natención del conductor mientras conduce.\n\nEsta característica, aparentemente inofensiva, como separar la vista de la via,\nsobretodo volviendo la cabeza, ocuparse de otra cosa distinta de la conducción y\nno tener las dos manos en el volante, resultan ser esenciales.\n\nA continuación, se incluyen los siguientes fenómenos que pueden ocurrir\nmientras el conductor está al volante:\n\n- Echar fuera un insecto que está molestando.\n\n- Comer o Beber al mismo tiempo que se conduce.\n\n- Encender un cigarro.\n\n- — Frotarse los ojos,\n\n- — Divagar con la imaginación.\n\n- Jugar con un niño o un perro.\n\n- Mirar con atención a un peatón y hacerle señas.\n\n- Inclinarss para hojear un diario.\n\n- — Conducir con flojera, sin mantener tensos los músculos.\n\nEl concentrarse en la conducción del vehículo, da más tranquilidad, seguridad y\npermite evitar la ocurrencia de hechos tan desagradables como un accidente,\n\nLa percepción y reacción se traduce en un tiempo que fluctúa entre 0.5 y 1.5\nsegundos, considerándose como tiempo normal de reacción 4 de segundo, El\nlapso transcurre desde el instante en que es posible advertir el peligro que\npotencialmente genera un accidente, hasta la posible acción evasiva.\n\n41",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n7.7 Medidas de precaución para el patrullero\n\nLa primera responsabilidad del patrullero es cuidar y proteger su propia seguridad y la de quienes trabajan con él. Estas medidas dicen relación con un manejo seguro y responsable.\n\nEs importante, que la mente del conductor este en función de la conducción en todo momento y no permitir que otras preocupaciones lo lleve a distracciones que pueden derivar en graves consecuencias.\n\nEstar atentos a las condiciones del tránsito\n\nLos accidentes automovilísticos presentan causas de ocurrencias que involucran al conductor, a las condiciones del camino, al tipo de vehículo y su estado mecánico.\n\nMás del 90% de los accidentes automovilísticos tienen su origen en alguna falla humana. Los errores más comunes son factores de control de velocidad y adelantamiento. Sin embargo, la causa más peligrosa reside en la falta de atención del conductor mientras conduce.\n\nEsta característica, aparentemente inofensiva, como separar la vista de la vía, sobretodo volviendo la cabeza, ocuparse de otra cosa distinta de la conducción y no tener las dos manos en el volante, resultan ser esenciales.\n\nA continuación, se incluyen los siguientes fenómenos que pueden ocurrir mientras el conductor está al volante:\n\n- Echar fuera un insecto que está molestando.\n- Comer o Beber al mismo tiempo que se conduce.\n- Encender un cigarrillo.\n- Frotarse los ojos.\n- Divagar con la imaginación.\n- Jugar con un niño o un perro.\n- Mirar con atención a un peatón y hacerle señas.\n- Inclinarse para hojear un diario.\n- Conducir con flojera, sin mantener tensos los músculos.\n\nEl concentrarse en la conducción del vehículo, da más tranquilidad, seguridad y permite evitar la ocurrencia de hechos tan desagradables como un accidente.\n\nLa percepción y reacción se traduce en un tiempo que fluctúa entre 0.5 y 1.5 segundos, considerándose como tiempo normal de reacción ¾ de segundo. El lapso transcurre desde el instante en que es posible advertir el peligro que potencialmente genera un accidente, hasta la posible acción evasiva."
+}

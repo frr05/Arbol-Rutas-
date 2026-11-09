@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "El inicio del plazo de la concesión se contará desde la fecha de publicación en el Diario Oficial del Decreto Supremo de Adjudicación de la Concesión [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

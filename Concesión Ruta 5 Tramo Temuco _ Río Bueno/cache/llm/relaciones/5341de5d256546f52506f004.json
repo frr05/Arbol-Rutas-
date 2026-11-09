@@ -1,0 +1,107 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:46",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     723,
+     737
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     741,
+     744
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     745,
+     749
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.6",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     751,
+     752
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.7",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     753,
+     760
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.8",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     761,
+     768
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.9",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [
+     769,
+     771
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

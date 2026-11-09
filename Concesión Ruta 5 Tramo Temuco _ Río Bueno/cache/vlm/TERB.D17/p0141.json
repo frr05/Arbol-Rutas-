@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 141,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 139,
+ "segundos": 25.0,
+ "fecha": "2026-10-27 12:14",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 368,
+  "conf_media": 0.3,
+  "frac_baja": 0.88,
+  "frac_rara": 0.0,
+  "tinta": 0.0635
+ },
+ "n_palabras_vlm": 88,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.061,
+ "truncado": false,
+ "texto_ocr": "o . a : a . : e a ooo\na : a : : ooo\no o\n\no\n. a E o a a\n\nlos C pa y he + a La So ES Aa a a o 0 A. a ha nL a\no : Do E E A o 210 dalt 0 el Ú eo Yi > de\nmbi eS de S bajo pto de\n\nO\n\nA a\n\ncom a ES a apro or a Strurt E , por lo e\n\no 1 Ella a a a\nda\n\n| a pt -m 4 y an c A o o que se: o\ne ae a a las medi das qu n luce ntes. o ._ de a ñ re o\n\no da a a\n\no\n\n€ ir el dl a a o á\ne a el nume a a a comemo\ne . y A o LS n y AE; bios nv a a\no E o o\nE a\n\nRia\n\n, oi o dd\n\n— reteracónd : o a\n\nAN de e y Ñ E qe 7 3 di da zS A a a o\nCN a Sa > pa : E E de de dl A o o a\na $ E E\n\ndl\n\no , E Ad\na\n\no\na ad\na\ne\n\na o a de Poo o a\na o\na o a da a\na o\no ,\n\nAR\n\na o de\no A E o ..\n\ndad a\n\no\n\nad\nad\no aid o lA\n\na. as ad UE po a ES Pa e\no dE ES z en a\nde > As ¿ de A A a ae : A A\no a a y Es EE $ o A a cd a A E a o a dd ad a\n\na\n\ndd a\n\no o de CO\n\na o\n\nA e ..\n\ndd a o o o Lu\no o\n\no a a a\n\na .\no. a\no\n\nE cd\no a a o lo dl\nO cn a no\na da dd o\nE y do dd o o a\no , o\no\n\no\nsa a Ñ\nEE E a d La o",
+ "texto_vlm": "CONTRALORÍA GENERAL DE LA REPÚBLICA\nDIVISIÓN DE INFRAESTRUCTURA Y REGULACIÓN\n\nejecutar, en los hechos y sin que ello correspondiera, bajo el concepto de\n'Cambios de Servicios\" regulado en el numeral 2.1.1 del convenio\ncomplementario N° 3, aprobado por el citado instrumento, por lo que se\ndeberán adoptar las medidas que sean conducentes a fin de evitar la\nreiteración de situaciones como la indicada.\n\nCon los alcances que preceden, se ha\ntomado razón del decreto del epígrafe.\n\nSaluda atentamente a Ud.,\nJORGE BERMUDEZ SOTO\nContralor General de la República"
+}

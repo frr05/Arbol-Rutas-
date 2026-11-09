@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "El Inspector Fiscal propone a la DGOP que requiera el pronunciamiento de la Comisión Conciliadora, en conformidad con el Artículo 24 del DFL MOP N°164 [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

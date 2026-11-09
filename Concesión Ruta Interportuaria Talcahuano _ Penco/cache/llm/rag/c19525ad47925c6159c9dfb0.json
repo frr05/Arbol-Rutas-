@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe asumir el pago de las expropiaciones y adquisiciones de terrenos necesarios para la ejecución de las obras, siendo este cargo exclusivo suyo [1]. El monto base que debe pagar al Estado por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos es de UF 41.000 (cuarenta y un mil Unidades de Fomento) [7] [8]. Además, la Sociedad Concesionaria puede deducir de los pagos correspondientes a segundo y tercer pago los gastos de adquisición directa hasta el valor pericial más un monto de UF 60 por cada lote sujeto a expropiación adquirido para el Fisco [5] [6]. En caso de modificaciones al proyecto que requieran mayores costos de expropiación, estos serán cargados a la Sociedad Concesionaria según la diferencia entre el valor pericial del Anteproyecto Referencial/Alternativo y el del Proyecto Modificado [4]. Asimismo, si se requieren expropiaciones adicionales producto de la Ingeniería Definitiva aprobada, la Sociedad Concesionaria debe asumir el pago de dichas expropiaciones adicionales [9]. También deberá pagar el valor de indemnización definitiva más UF 60 por cada lote expropiado en un plazo no superior a 60 días desde la notificación del Inspector Fiscal [1]. Los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas también son de exclusiva responsabilidad y cargo de la Sociedad Concesionaria, debiendo pagarlos al MOP en un plazo no superior a 60 días desde la notificación [3].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ }
+}

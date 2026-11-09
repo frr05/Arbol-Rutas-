@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no especifica el monto de la multa por interrumpir total o parcialmente el servicio sin autorización del Inspector Fiscal.",
+  "fuentes": []
+ }
+}

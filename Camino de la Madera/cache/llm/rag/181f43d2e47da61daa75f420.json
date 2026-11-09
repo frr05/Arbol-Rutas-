@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "Los cuerpos legales que forman parte del contrato de concesión son: Ley de Concesiones, DFL MOP N°164, de 1991 y sus modificaciones posteriores en lo pertinente; Reglamento de Concesiones, Decreto Supremo MOP N°240, de 1991; Código del Trabajo y Leyes Laborales Vigentes; Pautas y Normas Técnicas vigentes de la Dirección de Vialidad; y el Decreto Supremo de Adjudicación del MOP N°133 del 29/04/1994 [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

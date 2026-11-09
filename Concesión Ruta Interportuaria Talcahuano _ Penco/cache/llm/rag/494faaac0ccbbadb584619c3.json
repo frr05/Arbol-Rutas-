@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:11",
+ "respuesta": {
+  "respuesta": "El monto de la garantía de explotación es de UF 20.000 (veinte mil Unidades de Fomento) si el licitante optó por ejecutar la obra opcional de Prolongación Av. Alessandri, o de UF 15.000 (quince mil Unidades de Fomento) si no optó por dicha obra [5]. Además, existe una garantía de explotación adicional cuyo valor total es de UF 15.000 (quince mil Unidades de Fomento) [1], [2], [3], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+}

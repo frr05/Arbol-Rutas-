@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "La infraestructura es vial interurbana, ya que el proyecto conecta tramos sin pasar por la zona urbana de Sta. Juana [2] y se refiere al mantenimiento de caminos de acceso a la red vial nacional [9].",
+  "fuentes": [
+   2,
+   9
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "La longitud de la vía concesionada es del orden de 14,4 km [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

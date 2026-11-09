@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:33",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante niveles de servicio fiscalizados por el MOP [5]. Para el pavimento asfáltico, se mide utilizando el Índice de Rugosidad Superficial (IRI), cuyo valor máximo permitido es de 3,5 m/km [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

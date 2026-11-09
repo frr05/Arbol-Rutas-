@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:56",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. La Sociedad Concesionaria deberá adoptar las categorías para la clasificación de tipos de vehículos indicadas en la Tabla N°5 [1]. Además, en el evento que la Sociedad Concesionaria opte por cobrar tarifas diferenciadas por tipo de vehículo, se determinarán las tarifas máximas multiplicando la tarifa base por un factor correspondiente a cada tipo de vehículo según la Tabla N°6 [2]. Este fraccionamiento y ajuste tarifario se realizará independientemente para cada categoría de vehículo [10].",
+  "fuentes": [
+   1,
+   2,
+   10
+  ]
+ }
+}

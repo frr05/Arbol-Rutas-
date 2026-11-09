@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen la información sobre el nombre del grupo licitante o las empresas a las que se adjudicó el contrato de Concesión Camino de la Madera. Los textos proporcionados describen las bases, definiciones y actos generales, pero no identifican al adjudicatario específico.",
+  "fuentes": []
+ }
+}

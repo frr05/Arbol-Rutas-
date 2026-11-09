@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:16",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 decretos supremos modificatorios del contrato: DS MOP N°71 de 2005-02-01 que aprobó el Convenio Complementario N°1 [11] y DS MOP N°316 de 2007-04-30 que aprobó el Convenio Complementario N°2 [1][2][6][7][9][11]. Además, se menciona un DS N°136 de 2023-07-25 [10][11], pero los fragmentos no especifican si es modificatorio.",
+  "fuentes": [
+   1,
+   2,
+   6,
+   7,
+   9,
+   10,
+   11
+  ]
+ }
+}

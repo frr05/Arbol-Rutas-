@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 16,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 350,
+ "segundos": 16.9,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 193,
+  "conf_media": 0.885,
+  "frac_baja": 0.073,
+  "frac_rara": 0.008,
+  "tinta": 0.0449
+ },
+ "n_palabras_vlm": 229,
+ "frac_rara_vlm": 0.023,
+ "similitud": 0.872,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARÍA S.A.\n\nTELÉFONO\n\nNOMBRE DIRECCIÓN\n\n__. CONTACTO\n\nAMBULANCIA\n(Coordinación directa con\nBomberos]\n\n(Coordinación con\nBomberos)\n\n¿Coordinación con\nBomberos)\n\nASOCIACIÓN CHILENA DE\nSEGURIDAD\n\nMesa Central Cardenio Avello Nro, 46 (410- 402322\n\nEOMBEROS Orompello Nro, 135\n\nCARABINEROS\n\nPrefectura Lomas\nWerdes\n\n(41) - 481799\n\nAyda. Alessand rs tn 6 13\n\nJEFE DE PLAZA Nelson Duffau Oficina Concesionaria (41)- 466996\n\nJEFE DE MANTENCIÓN\n\n(Por Contratar]\n\nOtfleina Concesionaria\n\n(41)- 466996\n\nEf primer paso en la elaboración de un plan de prevención de riesgos y\naccidentes es identificar el tipo de emergencia al que se está expuesto,\n\n3.2 Alcance\n\nEstos procedimientos cubren la seguridad en terreno de las instalaciones de\ncobro de peajes con el fin de aminorar daños; documenta la forma en que los\nempleados deben responder para proteger al público y protegerse a ellos\nmismos; y establece un plan de acción.\n\n5.3 identificando las emergencias\n\nEl primer paso del Plan es identificar los potenciales riesgos que existen y el\nhecho que se trate de una operación de peajes:\n\nEmergencias Generales. 5e identifican aquellas emergencias que surgirían\ndebido a causas naturales o del hombre.\n\n5.4 Identificación de una emergencia general\n\nDesastres Naturales\n\n- Terremoto\n\nES",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n| | NOMBRE CONTACTO | DIRECCIÓN | TELÉFONO |\n|---|---|---|---|\n| AMBULANCIA (Coordinación directa con Bomberos) | (Coordinación con Bomberos) | (Coordinación con Bomberos) | 131 |\n| ASOCIACIÓN CHILENA DE SEGURIDAD | Mesa Central | Cardenal Avelló Nro. 36 | (41)- 402222 |\n| BOMBEROS | | Orompello Nro. 136 | 132 |\n| CARABINEROS (COMISARIA) | Prefectura Lomas Verdes | Avda. Alessandri s/n | (41)- 481799 ó 133 |\n| JEFE DE PLAZA | Nelson Duffau | Oficina Concesionaria | (41)- 466996 |\n| JEFE DE MANTENCIÓN | (Por Contratar) | Oficina Concesionaria | (41)- 466996 |\n\nEl primer paso en la elaboración de un plan de prevención de riesgos y accidentes es identificar el tipo de emergencia al que se está expuesto.\n\n5.2 Alcance\n\nEstos procedimientos cubren la seguridad en terreno de las instalaciones de cobro de peajes con el fin de aminorar daños; documenta la forma en que los empleados deben responder para proteger al público y protegerse a ellos mismos; y establece un plan de acción.\n\n5.3 Identificando las emergencias\n\nEl primer paso del Plan es identificar los potenciales riesgos que existen y el hecho que se trate de una operación de peajes:\n\nEmergencias Generales. Se identifican aquellas emergencias que surgirían debido a causas naturales o del hombre.\n\n5.4 Identificación de una emergencia general\n\nDesastres Naturales\n- Terremoto\n\n15"
+}

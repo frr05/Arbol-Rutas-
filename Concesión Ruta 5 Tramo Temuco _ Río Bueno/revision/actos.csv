@@ -1,0 +1,29 @@
+acto;documento;pag_inicio;pag_fin;tipo;numero;fecha;origen;titulo
+TERB.D01.A1;TERB.D01;1;125;bases licitacion;;1997-02-01;llm;Bases de Licitacion – TERB
+TERB.D02.A1;TERB.D02;1;2;circular aclaratoria;1;1997-03-13;texto;Circulares Aclaratorias 1 a 3 – TERB
+TERB.D02.A2;TERB.D02;3;6;circular aclaratoria;2;;sin fecha;Circulares Aclaratorias 1 a 3 – TERB
+TERB.D02.A3;TERB.D02;7;60;circular aclaratoria;3;;manual;Circulares Aclaratorias 1 a 3 – TERB
+TERB.D04.A1;TERB.D04;1;9;decreto adjudicacion;;1997-08-14;archivo;Decreto de Adjudicación – TERB
+TERB.D05.A1;TERB.D05;1;1;publicacion diario oficial;35.902;1997-10-28;texto;Publicación Diario Oficial – TERB
+TERB.D03.A1;TERB.D03;1;1;oferta economica;;;sin fecha;Oferta Económica – TERB
+TERB.D08.A1;TERB.D08;1;3;puesta en servicio;900;1997-08-14;texto;Puesta en Servicio Provisoria by pass Lanco – TERB
+TERB.D10.A1;TERB.D10;1;47;convenio complementario;4938;2000-10-31;texto;TERB Decreto Supremo N°4938-2000 y Convenio Complementari
+TERB.D06.A1;TERB.D06;1;4;puesta en servicio;900;2001-01-15;texto;Puesta en Servicio Provisoria tramo 1 – TERB
+TERB.D26.A1;TERB.D26;1;163;reglamento servicio;;2001-03-01;llm;Reglamento de Servicio – TERB
+TERB.D07.A1;TERB.D07;1;3;puesta en servicio;900;2001-09-14;texto;Puesta en Servicio Provisoria tramo 2 – TERB
+TERB.D11.A1;TERB.D11;1;14;convenio complementario;786;2003-06-30;texto;TERB Decreto Supremo N°786-2003 y Convenio Complementario
+TERB.D18.A1;TERB.D18;1;4;resolucion;1385;2004;archivo;TERB Resolución DGOP N°1385-2004
+TERB.D19.A1;TERB.D19;1;4;resolucion;494;2005-02-23;texto;TERB Resolución DGOP N°494-2005
+TERB.D12.A1;TERB.D12;1;68;convenio complementario;524;2005-09-06;texto;TERB Decreto Supremo N°524-2005 y Convenio Complementario
+TERB.D20.A1;TERB.D20;1;3;resolucion;3662;2006;archivo;TERB Resolución DGOP N°3662-2006
+TERB.D13.A1;TERB.D13;1;7;decreto supremo;336;2008-05-26;texto;TERB Decreto Supremo N°336-2008
+TERB.D14.A1;TERB.D14;1;14;decreto supremo;185;2010-11-17;texto;TERB Decreto Supremo N°185-2010
+TERB.D15.A1;TERB.D15;1;7;decreto supremo;329;2011-10-24;llm;TERB Decreto Supremo N°329-2011
+TERB.D21.A1;TERB.D21;1;26;resolucion;3791;2013-10-03;llm;TERB Resolución DGOP N°3791-2013
+TERB.D16.A1;TERB.D16;1;62;decreto supremo;123;2015-08-04;texto;TERB Decreto Supremo N°123-2015
+TERB.D17.A1;TERB.D17;1;182;decreto supremo;20;2018-02-13;texto;TERB Decreto Supremo N°20-2018
+TERB.D22.A1;TERB.D22;1;52;resolucion;53;2023-06-22;texto;TERB Resolución DGC N°53
+TERB.D23.A1;TERB.D23;1;50;decreto supremo;124;2023-07-13;texto;TERB DS MOP N°124 de fecha 13-07-2023
+TERB.D24.A1;TERB.D24;1;10;decreto supremo;31;2024-04-03;texto;TERB DS MOP N°31 de fecha 03-04-2024
+TERB.D25.A1;TERB.D25;1;4;publicacion diario oficial;14;2026-02-09;texto;DS MOP N°14 de fecha 09-02-2026
+TERB.D09.A1;TERB.D09;1;3;puesta en servicio;;;sin fecha;Puesta en Servicio Definitiva – TERB

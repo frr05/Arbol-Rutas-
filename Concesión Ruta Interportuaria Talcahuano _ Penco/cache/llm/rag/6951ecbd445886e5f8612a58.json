@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:23",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 Puestas en Servicio Provisorias [11].",
+  "fuentes": [
+   11
+  ]
+ }
+}

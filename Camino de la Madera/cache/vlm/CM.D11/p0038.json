@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D11",
+ "pagina": 38,
+ "archivo": "4_modificacion_obras_convenios/Convenio-Complementario-N_1-MDI-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 147,
+ "segundos": 9.6,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 79,
+  "conf_media": 0.754,
+  "frac_baja": 0.38,
+  "frac_rara": 0.0,
+  "tinta": 0.0182
+ },
+ "n_palabras_vlm": 119,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.667,
+ "truncado": false,
+ "texto_ocr": "ANEXO NO 1\n\nltem N%4: Presupuestos de Conservación, Mantención,\nOperación y Explotación\n\n__ 1] Mejoramiento de Estándar Km. 26,5 al 45,4 | o ol\n__2| Reparación Losa Paso Superior Colihue o | _ o\n3| Defensa Fluvial Km. 4,0 DO\n4] Mejoramiento Seguridad Vial A Ñ 7001\n\n_5| Estabilidad Talud Km. 58 o A o] OA\n\nMejoramiento Nacimiento - Cruce Hospital | 138\n\nÍ\nÍ\n1\n\n'\n[a\n\nSHANUEL ZAMBRANO SOTO\nAéreérisirador Contratos de Concesión\nInspector Fiscal de Explotación",
+ "texto_vlm": "ANEXO N° 1\nItem N°4: Presupuestos de Conservación, Mantención,\nOperación y Explotación\n\n| Item 4 | Monto UF |\n| :--- | :--- |\n| 1 | Mejoramiento de Estándar Km. 26,5 al 45,4 | 0 |\n| 2 | Reparación Losa Paso Superior Coihue | 0 |\n| 3 | Defensa Fluvial Km. 4,0 | 0 |\n| 4 | Mejoramiento Seguridad Vial | 700 |\n| 5 | Estabilidad Talud Km. 58 | 0 |\n| 6 | Mejoramiento Nacimiento - Cruce Hospital | 138 |\n| 7 | Mejoramiento Nacimiento - Cruce Anibal Pinto | 150 |\n| | TOTAL | 988 |\n\nMANUEL ZAMBRANO SOTO\nAdministrador Contratos de Concesión\nInspector Fiscal de Explotación\n\n[ilegible]\n\n[illegible]"
+}

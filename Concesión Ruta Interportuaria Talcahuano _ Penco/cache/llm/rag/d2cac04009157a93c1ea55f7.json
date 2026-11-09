@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "El postulante individualizado tiene derecho a un premio consistente en un incremento del diez por ciento (10%) del puntaje final obtenido en la evaluación de su Oferta Económica [1]. Este incremento se aplica al puntaje final obtenido para cualquiera de los tramos en que haya presentado su oferta, de conformidad con lo señalado en los artículos 8° y 23° del DS MOP N°240 de 1991 [2]. El factor ponderador utilizado para calcular este puntaje incrementado es igual a 0,9 [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

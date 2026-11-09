@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:22",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que no hay pago de administración y control al MOP, coincidiendo con la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "parcial",
+    "motivo": "Acierta en que el concesionario paga, pero agrega un dato específico ($200/m²) que no está en la referencia y contradice implícitamente que no hay monto global fijado."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Cita el porcentaje correcto (80%) pero omite la condición clave de que este porcentaje cambia a conservación una vez cubierta la construcción."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Menciona solo la tasa corriente para atrasos del MOP/concesionaria, omitiendo la regla sobre multas impagas mencionada en la referencia."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Coincide en que el sistema principal es manual y detalla el procedimiento ante fallas, sin contradicciones."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma que las tarifas se diferencian por categoría de vehículo, coherente con la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "incorrecta",
+    "motivo": "Presenta las opciones como válidas simultáneamente, mientras la referencia indica que se eligió específicamente la Opción 1."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Indica el monto base de $1.500, dato principal presente en la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Coincide en moneda (pesos) y fecha base (31 de marzo de 1993)."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "Ambas indican que no existe información sobre la longitud total en los documentos."
+   }
+  ]
+ }
+}

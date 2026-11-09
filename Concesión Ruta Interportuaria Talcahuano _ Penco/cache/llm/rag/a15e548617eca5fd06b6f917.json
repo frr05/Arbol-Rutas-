@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "Durante la etapa de explotación, la Sociedad Concesionaria está obligada a prestar los Servicios Especiales Obligatorios establecidos en las Bases de Licitación [1]. Estos incluyen principalmente el Servicio de Patrullaje y de Emergencia, que debe mantenerse y operarse en forma permanente para inspeccionar el estado de la carretera y prestar atención primaria en caso de emergencia [3]. Las funciones de este servicio comprenden: control del tránsito e instalación de señalización en obras de mantenimiento; aseo periódico y retiro oportuno de objetos que interfieran con la seguridad del tráfico; mantención expedita del tránsito en emergencias; rescate y prestación de primeros auxilios a personas accidentadas; rescate y auxilio de vehículos accidentados; instalación de señalización de emergencia y reordenamiento del tránsito; y auxilio y retiro de vehículos detenidos por fallas mecánicas [3]. Adicionalmente, se debe prestar asistencia caminera al usuario, cumplir con las Normas de Derecho Laboral, y apoyar y coordinar con Carabineros el retiro de vehículos que amenacen la seguridad [5]. Para ello, se requiere personal entrenado y equipamiento mínimo específico como vehículos tipo camioneta con levante hidráulico, extintores, conos, herramientas y elementos de primeros auxilios [9], así como grúas con características técnicas definidas (pluma telescópica, capacidad de levante, etc.) y personal con capacitación específica (conductor profesional, combate de incendios, derrames, manejo defensivo) y uniformes adecuados [8].",
+  "fuentes": [
+   1,
+   3,
+   5,
+   8,
+   9
+  ]
+ }
+}

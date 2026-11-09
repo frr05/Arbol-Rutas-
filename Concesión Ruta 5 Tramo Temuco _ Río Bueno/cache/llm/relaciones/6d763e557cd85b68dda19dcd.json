@@ -1,0 +1,149 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash-lite",
+ "fecha": "2026-10-27 12:36",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "3.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     3619,
+     3621
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     3630,
+     3642
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     3653,
+     3654
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     3655,
+     3665
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     3670,
+     3672
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     3673,
+     3681
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     3682,
+     3689
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     3690,
+     3702
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     3703,
+     3715
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     3716,
+     3723
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

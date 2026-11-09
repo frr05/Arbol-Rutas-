@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre cuántas empresas o grupos licitantes presentaron oferta. Solo se menciona un consorcio formado por Empresa Constructora Belfi S.A., Las Américas Administradora de Fondos de Inversión S.A. y Asesorías e Inversiones C.M.B. S.A. [5], pero no se indica si fue el único oferente o si hubo otros.",
+  "fuentes": [
+   5
+  ]
+ }
+}

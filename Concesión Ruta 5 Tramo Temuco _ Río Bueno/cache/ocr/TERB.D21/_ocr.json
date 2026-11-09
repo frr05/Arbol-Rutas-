@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D21",
+ "archivo": "4_modificacion_obras_convenios/TERB-Resolucion-DGOP-N_3791-2013.pdf",
+ "sha256": "f9a9632c929191411b03509bdc0a5f3d370e3633078889c698fc9f40514a1ca8",
+ "paginas": 26,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:09"
+}

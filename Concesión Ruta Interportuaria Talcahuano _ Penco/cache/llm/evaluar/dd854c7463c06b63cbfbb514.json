@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye el dato principal sobre el inicio del primer año de explotación coincidiendo con la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el dato principal sobre la aplicación según tramos y la Banda Superior mencionada en la referencia."
+   },
+   {
+    "n": 23,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con el monto mínimo de UF 12.000 establecido en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Falta mencionar el valor total de la obra como base de cobertura y el deducible máximo del 1% presentes en la referencia."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente todos los factores por tipo de vehículo indicados en la referencia."
+   },
+   {
+    "n": 26,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta describe un esquema de copago con tramos específicos que contradice la referencia, la cual indica que el MOP cubre los sobrecostos sin mencionar esos límites o porcentajes."
+   },
+   {
+    "n": 27,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el tiempo menor a 2 minutos, pero omite las consecuencias de exceder ese límite (modificación del plan o multas) detalladas en la referencia."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma la posibilidad de tarifas diferenciadas por congestión con visto bueno de Hacienda, coincidiendo con la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye correctamente los porcentajes máximos (30% y 10%) y el plazo de dos años antes del término."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "La respuesta refleja adecuadamente la periodicidad bienal y la consulta al Ministerio de Hacienda para la revisión tarifaria."
+   }
+  ]
+ }
+}

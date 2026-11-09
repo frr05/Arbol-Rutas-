@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre la longitud total del proyecto en kilómetros.",
+  "fuentes": []
+ }
+}

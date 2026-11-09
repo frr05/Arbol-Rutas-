@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D01",
+ "archivo": "1_licitacion/Bases-de-Licitacion-Camino-de-la-Madera.pdf",
+ "sha256": "c89be7c044b82eb9dd96cb8769482508305875f1886a139e27752b003ea097ed",
+ "paginas": 131,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:35"
+}

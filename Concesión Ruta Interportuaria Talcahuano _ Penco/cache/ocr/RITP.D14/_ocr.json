@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D14",
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "sha256": "e9147459fed12d8c839f6faff5dc24ba65e00e944f2bd4a7928f7ca3b3c3a1f3",
+ "paginas": 64,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:51"
+}

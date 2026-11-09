@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D11",
+ "pagina": 29,
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 497,
+ "segundos": 44.0,
+ "fecha": "2026-11-05 00:29",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 218,
+  "conf_media": 0.774,
+  "frac_baja": 0.284,
+  "frac_rara": 0.0,
+  "tinta": 0.0595
+ },
+ "n_palabras_vlm": 289,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.519,
+ "truncado": false,
+ "texto_ocr": "ANEXO N? 3\nEJEMPLO NUMÉRICO\n\nEjemplo de determinación del pago del MOP para el día 31/03/2008\n\nb e 3)\nDías\nU\n\nh\nY\n01/01/2007| 14/01/2007| ———532%| 0/014202% 4| 27.829,45| 55,38] 27.884,8\n2\n\nReaja 1 año mas, >\nomas, > ¡UF2.000 (base\nDesde UF2.000\n\n0)\n\nY\n15/01/2007] 09/02/200 0,014410%| 26| 27.884,83] 104,6 27.989,4\n\ndiaria)\n1\n\n?\n\n+\n\nIE\n8\n15/01/2007, 7 54 6 49\n117,43| 28.221,58\n08/06/2007\n28.424,87\n96,08|___28.625,76|\n10/12/2007\n28\n08/01/2008\n08/02/2008| 05/03/2008] 4,98%| 0013316%| 27| 29:207,12| 105,51| 29.402,63\n26| 29.402,63\n\nNotas:\n- Se debe utilizar la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y\na un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras.\n- Las tasas reflejadas en la columna (c) son meramente referenciales para fines del ejemplo y no\ncorresponden a fas que efectivamente se deben aplicar.\n- La columna (g) representa el interés diario (en base a la tasa anual indicada en columna (c)) durante\ntodo el período comprendido entre las fechas indicadas en las columnas (a) y (b).\nES:\n\n) “y !\nE Le\n\nSO Pp\nSE\ny i 2 A 4\nE oO cn : ma?\nA, a, SARLOS DIAZ VARGAS\n«Dgeniero Ci -il 'U. de Chile\nINSPECIC FscAr\n\n+ É Ai DE\nON > a La\nNx Qu EN\n\nDa oo",
+ "texto_vlm": "ANEXO N° 3\nEJEMPLO NUMÉRICO\nEjemplo de determinación del pago del MOP para el día 31/03/2008\n\n(a) (b) (c) (d) (e) (f) (g) (h)\nDesde Hasta TIC anual op. Reaj a 1 año o mas, > UF2.000 TIC anual op. Reaj a 1 año o mas, > UF2.000 (base diaria) Días Saldo inicio Interes Nuevo saldo\n(UF) (UF) (UF)\n01/01/2007 14/01/2007 5,32% 0,014202% 14 27.829,45 55,38 27.884,83\n15/01/2007 09/02/2007 5,40% 0,014410% 26 27.884,83 104,66 27.989,49\n10/02/2007 10/03/2007 5,28% 0,014098% 29 27.989,49 114,66 28.104,15\n11/03/2007 12/04/2007 4,72% 0,012636% 33 28.104,15 117,43 28.221,58\n13/04/2007 10/05/2007 4,50% 0,012060% 28 28.221,58 95,46 28.317,04\n11/05/2007 08/06/2007 4,90% 0,013107% 29 28.317,04 107,83 28.424,87\n09/06/2007 08/07/2007 4,58% 0,012270% 30 28.424,87 104,82 28.529,69\n09/07/2007 05/08/2007 4,48% 0,012008% 28 28.529,69 96,08 28.625,76\n06/08/2007 08/09/2007 4,64% 0,012427% 34 28.625,76 121,20 28.746,96\n09/09/2007 07/10/2007 4,60% 0,012322% 29 28.746,96 102,90 28.849,86\n08/10/2007 08/11/2007 4,42% 0,011850% 32 28.849,86 109,60 28.959,47\n09/11/2007 10/12/2007 4,64% 0,012427% 32 28.959,47 115,38 29.074,85\n11/12/2007 07/01/2008 4,74% 0,012689% 28 29.074,85 103,48 29.178,33\n08/01/2008 07/02/2008 4,90% 0,013107% 31 29.178,33 118,79 29.297,12\n08/02/2008 05/03/2008 4,98% 0,013316% 27 29.297,12 105,51 29.402,63\n06/03/2008 31/03/2008 5,56% 0,014826% 26 29.402,63 113,55 29.516,18\n\nNotas:\n- Se debe utilizar la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras.\n- Las tasas reflejadas en la columna (c) son meramente referenciales para fines del ejemplo y no corresponden a las que efectivamente se deben aplicar.\n- La columna (g) representa el interés diario (en base a la tasa anual indicada en columna (c)) durante todo el período comprendido entre las fechas indicadas en las columnas (a) y (b).\n\nCARLOS DIAZ VARGAS\nIngeniero Civil U. de Chile\nINSPECTOR FISCAL"
+}

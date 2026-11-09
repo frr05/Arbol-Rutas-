@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "El servicio de patrullaje y emergencia exige que la Sociedad Concesionaria mantenga y opere permanentemente un servicio para inspeccionar el estado de la carretera y prestar atención primaria en emergencias, coordinándose con Carabineros, Centros Asistenciales y Bomberos [1]. Las funciones incluyen: control del tránsito e instalación de señalización en obras de mantenimiento; aseo periódico y retiro de objetos que interfieran con la seguridad del tráfico; mantención expedita del tránsito en caso de emergencia; rescate y prestación de primeros auxilios a personas accidentadas; rescate y auxilio de vehículos accidentados; instalación de señalización de emergencia y reordenamiento del tránsito en accidentes; y auxilio y retiro de vehículos detenidos por fallas mecánicas [1]. Para cumplir estos objetivos, se debe disponer durante todo el periodo de explotación de personal entrenado y un vehículo mínimo (camioneta cerrada, tracción delantera y trasera, potencia mínima 120 HP) dotado de balizas fijas, levante hidráulico y huinche, además de elementos como extintores, conos, señales camineras, implementos de limpieza, herramientas básicas de reparación, herramientas de rescate y botiquín [1]. El vehículo debe estar identificado con la Sociedad Concesionaria y contar con sistema de comunicación con su base, Bomberos, Carabineros y Centros Asistenciales [1]. El incumplimiento genera multas según el artículo 1.8.5.1 de las Bases de Licitación [1]. Además, el concesionario puede proponer sistemas alternativos para externalizar estos servicios, los cuales deben ser aprobados por el Inspector Fiscal al menos 60 días antes de la primera solicitud de Puesta en Servicio Provisoria [1]. En cuanto a la operación, se exige asegurar la zona del accidente, desconectar sistemas de ignición o baterías si hay riesgo de fuego, no mover a víctimas con posible lesión de columna, llamar a servicios de emergencia y utilizar extintores solo si se está entrenado y es seguro hacerlo [2]. También se requiere capacitación del personal en conducción profesional, combate de incendios, respuesta en derrames y manejo defensivo, utilizando uniformes específicos y equipos de protección [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

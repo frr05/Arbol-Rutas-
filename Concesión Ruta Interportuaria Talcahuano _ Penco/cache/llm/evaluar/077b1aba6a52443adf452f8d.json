@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:10",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el mecanismo de garantía y el año de inicio de aplicación según la referencia."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica correctamente el funcionamiento de la coparticipación, incluyendo la excepción del Tramo A y la base de cálculo mencionada en la referencia."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica el monto mínimo correcto (UF 12.000) y su aplicación en ambas etapas, coincidiendo con la referencia."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta cubre los riesgos incluidos y señala correctamente al MOP como beneficiario único, acorde a la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla los factores por tipo de vehículo con los valores correctos establecidos en la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta describe correctamente la distribución de costos por tramos (hasta 12k, entre 12k-24k, sobre 24k) y el método de valorización."
+   },
+   {
+    "n": 27,
+    "falta": "condiciones de sanción/modificación",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Responde el tiempo máximo de espera (<2 min), pero omite las consecuencias de exceder ese tiempo o los umbrales de multa mencionados en la referencia."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que sí se puede cobrar y detalla las condiciones (visto bueno Hacienda, congestión) tal como indica la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta especifica correctamente el límite del 30% (y 10% en construcción) y el plazo temporal de dos años antes del término."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica la periodicidad bienal, los aspectos revisables y el procedimiento de aprobación con Hacienda, coincidiendo con la referencia."
+   }
+  ]
+ }
+}

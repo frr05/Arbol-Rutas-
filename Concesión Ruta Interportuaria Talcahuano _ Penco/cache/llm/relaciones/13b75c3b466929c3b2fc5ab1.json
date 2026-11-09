@@ -1,0 +1,21 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash-lite",
+ "fecha": "2026-11-05 01:49",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "3.2.2",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     608,
+     616
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

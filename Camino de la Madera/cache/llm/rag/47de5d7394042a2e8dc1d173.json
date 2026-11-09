@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre el umbral del Índice de Servicio Prestado (ISP) ni sus tramos. La información disponible se refiere al Índice de Rugosidad Internacional (IRI), cuyo umbral original era menor o igual a 4 m/km [8], modificado por el Convenio Complementario N°1 a un valor menor o igual a 3,5 m/km para el tramo km 26,5 al 45,4 [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   7,
+   8,
+   10
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Sí, el concesionario debe asumir los costos de expropiación. Según las bases de licitación, los pagos de expropiación, desembolsos, gastos o expensas que se originen son de cargo exclusivo del concesionario [1]. Además, se establece un precio unitario oficial para expropiaciones de $200 por metro cuadrado (m²) [5].",
+  "fuentes": [
+   1,
+   5
+  ]
+ }
+}

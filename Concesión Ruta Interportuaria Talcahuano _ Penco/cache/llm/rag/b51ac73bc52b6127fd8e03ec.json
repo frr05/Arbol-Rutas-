@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "El sistema de cobro de peajes corresponde al equivalente al uso efectivo de la vía, con cobro a la salida a los usuarios [6]. Este sistema utiliza tecnología de Control de Accesos Manual [3]. Además, se aplica un fraccionamiento tarifario en los peajes troncales [9] y el concesionario debe implementar al menos una pista manual por sentido en las plazas troncales [8], así como al menos una pista con cobro manual en las plazas de acceso si se instalan [5].",
+  "fuentes": [
+   3,
+   5,
+   6,
+   8,
+   9
+  ]
+ }
+}

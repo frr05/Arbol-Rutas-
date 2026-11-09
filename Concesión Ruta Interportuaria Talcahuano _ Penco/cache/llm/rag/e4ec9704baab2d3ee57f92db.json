@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "Los intereses que devengan los pagos atrasados varían según el contexto y la normativa aplicable en cada momento:\n\n1. Interés general por retrasos en pagos: Se devenga un interés real diario de 0,0198% [1], [7].\n2. Retraso del MOP en emitir Resolución de reconocimiento (Convenio Complementario N°1): Si transcurridos 15 días desde la entrega del informe el MOP no emite la resolución, se devenga un interés real diario de 0,02612% [2].\n3. Retraso del MOP en pago de cuotas (Convenio Complementario N°1): El MOP deberá pagar un interés real diario de 0,02612% desde la fecha de pago correspondiente hasta el día de pago efectivo [4].\n4. Retraso del MOP en pago único total (Convenio Complementario N°2): El monto adeudado devengará el interés diario resultante de aplicar la porción diaria de la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras [5].\n5. Retraso del MOP en Convenio Ad-Referéndum (Decreto Supremo N°136): Se pagará un interés real diario equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año, conforme a las tasas que informe la Comisión para el Mercado Financiero [3].\n\nPor su parte, el retraso de la Sociedad Concesionaria en el pago al Estado devenga el mismo interés real diario de 0,0198% [1], o el mismo interés real diario de 0,02612% en el caso específico del numeral 4.2 del Convenio Complementario N°1 [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   7
+  ]
+ }
+}

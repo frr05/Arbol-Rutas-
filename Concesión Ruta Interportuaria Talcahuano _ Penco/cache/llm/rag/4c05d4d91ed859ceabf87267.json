@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe pagar anualmente UF 3.800 por concepto de control y administración del contrato durante la etapa de construcción (desde la suscripción del decreto de adjudicación hasta la puesta en servicio provisoria de la totalidad de las obras), y UF 2.400 anuales durante la etapa de explotación (desde la puesta en servicio provisoria hasta la extinción de la concesión) [3][4][6]. Adicionalmente, en el primer año debe pagar una proporción mensual de UF 317 por el período anterior a la suscripción [4][6].",
+  "fuentes": [
+   3,
+   4,
+   6
+  ]
+ }
+}

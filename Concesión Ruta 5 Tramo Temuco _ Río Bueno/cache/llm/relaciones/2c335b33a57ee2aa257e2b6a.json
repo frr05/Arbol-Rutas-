@@ -1,0 +1,219 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:45",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     223,
+     229
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     230,
+     237
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     238,
+     245
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     246,
+     248
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     249,
+     252
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     253,
+     258
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     259,
+     262
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [
+     263,
+     268
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P9"
+    ],
+    "texto_nuevo": [
+     269,
+     271
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [
+     272,
+     278
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P11"
+    ],
+    "texto_nuevo": [
+     279,
+     283
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [
+     284,
+     287
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [
+     288,
+     294
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P14"
+    ],
+    "texto_nuevo": [
+     295,
+     300
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P15"
+    ],
+    "texto_nuevo": [
+     301,
+     305
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

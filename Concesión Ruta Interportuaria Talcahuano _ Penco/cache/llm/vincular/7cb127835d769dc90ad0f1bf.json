@@ -1,0 +1,101 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:32",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D11.F0037]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D11.F0038]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D11.F0040]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D11.F0041]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D13.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D13.F0004]",
+    "destino": "BL:1.2.2"
+   },
+   {
+    "fragmento": "[RITP.D13.F0005]",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "[RITP.D13.F0006]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D13.F0009]",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "[RITP.D13.F0011]",
+    "destino": "BL:1.8.1"
+   },
+   {
+    "fragmento": "[RITP.D13.F0012]",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "[RITP.D13.F0013]",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "[RITP.D13.F0014]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D13.F0015]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D13.F0016]",
+    "destino": "BL:1.2.2"
+   },
+   {
+    "fragmento": "[RITP.D13.F0017]",
+    "destino": "BL:1.2.2"
+   },
+   {
+    "fragmento": "[RITP.D13.F0020]",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "[RITP.D13.F0022]",
+    "destino": "BL:1.8.1"
+   },
+   {
+    "fragmento": "[RITP.D13.F0023]",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "[RITP.D13.F0024]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D13.F0026]",
+    "destino": "BL:1.10.8"
+   },
+   {
+    "fragmento": "[RITP.D13.F0027]",
+    "destino": "BL:1.10.8"
+   },
+   {
+    "fragmento": "[RITP.D13.F0029]",
+    "destino": "BL:1.7.4"
+   }
+  ]
+ }
+}

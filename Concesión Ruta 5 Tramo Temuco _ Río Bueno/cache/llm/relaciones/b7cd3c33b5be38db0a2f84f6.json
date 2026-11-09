@@ -1,0 +1,42 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:19",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6.6",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "A 13. Se reemplaza lo contenido en 1.6.6 Adquisiciones y Expropiaciones, por lo siguiente:",
+    "debe_decir": "A 13. Se reemplaza lo contenido en 1.6.6 Adquisiciones y Expropiaciones, por lo siguiente: \"si la Sociedad Concesionaria opta por adquirir para el Estado, el exceso por sobre el valor de tasación pericial -en cada adquisición- será totalmente de cargo de la misma.\"",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "naria podrá adquirir para el Estado los terrenos necesarios para los planos establecidos en los Proyectos Referenciales de de ingeniería de detalle realizados por la Sociedad Fiscal, dentro del plazo de nueve meses contados lo que debe entenderse sin perjuicio jere el número La Sociedad Concesio realizar las obras de acuerdo con Ingeniería Definitiva y proyectos Concesionaria y aprobados por el Inspector desde la fecha de adjudicación del contrato de concesión, de las adquisiciones que pueda realizar para instalar los servicios a que se f: ee, al",
+    "debe_decir": "Aclaración sobre el párrafo: el MOP no iniciará el procedimiento expropiatorio respecto de aquellos lotes en que la concesionaria no haya llegado a un acuerdo y/o no haya adquirido para el Estado el respectivo lote. La Sociedad Concesionaria no tiene obligación alguna de iniciar la negociación con los posibles expropiados para lograr la adquisición directa de cada lote y, por tanto, podría solicitar inmediatamente o en cualquier momento al MOP que éste inicie la expropiación judicial. En el evento de fracasar la negociación de la concesionaria con los afectados, el MOP iniciará de inmediato la expropiación vía judicial, sin reintentar posibles acuerdos extrajudiciales, para así no duplicar trabajos y retrasar la disponibilidad de los terrenos. En el supuesto señalado, para el caso que la expropiación que practique el MOP se transforme en un reclamo judicial, se aplicará la ley de concesiones en relación con la necesidad de compensar a la concesionaria a través de cualquiera de los factores del régimen económico del contrato, sin que sea imputable a la concesionaria el hecho de no haber iniciado la negociación directa o de no haber llegado a un acuerdo directo de adquisición con el respectivo expropiado.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "aclara",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para la Puesta en Servicio Provisoria de los Sectores i) y ii), la Sociedad Concesionaria tendrá un plazo de 33 meses a contar de la Primera Declaración de Avance.",
+    "debe_decir": "Aclaración sobre el plazo de puesta en servicio provisoria: en el evento que el procedimiento expropiatorio se transforme en un reclamo judicial por parte del O los expropiados que signifique un retraso en la puesta en servicio provisoria de la obra con respecto a la fecha prevista en 1.7.2.5, el MOP compensará a la Sociedad Concesionaria, otorgándole un aumento del plazo de puesta en servicio provisoria de las obras, igual al tiempo de atraso sufrido por las causas antes señaladas. Además, se le aumentará el periodo de la concesión en igual lapso. Las Bases de licitación no limitan lo dispuesto en la ley. Las compensaciones que procedan, en su caso, serán determinadas en el supuesto que efectivamente opere lo dispuesto en la ley.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

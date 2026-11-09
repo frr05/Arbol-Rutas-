@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 71,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 52,
+ "segundos": 6.8,
+ "fecha": "2026-10-27 19:09",
+ "motivos": "pocas_palabras",
+ "calidad_ocr": {
+  "n_palabras": 14,
+  "conf_media": 0.91,
+  "frac_baja": 0.143,
+  "frac_rara": 0.0,
+  "tinta": 0.0081
+ },
+ "n_palabras_vlm": 30,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.609,
+ "truncado": false,
+ "texto_ocr": "ANEXO N* 6\nMONOGRAFIAS DESCRIPTIVAS\n\nTEM 5: PASO INTERPREDIAL KM 2,580 DE RAMAL ALESSANDRI",
+ "texto_vlm": "ANEXO N° 6\nMONOGRAFIAS DESCRIPTIVAS\nITEM 5: PASO INTERPREDIAL KM 2,580 DE RAMAL ALESSANDRI\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES"
+}

@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "El 80% de los ingresos por concepto de peaje se imputa al servicio de construcción [1][2][3][4][6][7][8].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ]
+ }
+}

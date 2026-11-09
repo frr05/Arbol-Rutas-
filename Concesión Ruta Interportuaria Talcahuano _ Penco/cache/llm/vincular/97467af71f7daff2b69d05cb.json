@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:18",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0059]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0060]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0061]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0062]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0063]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0064]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0065]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0066]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0067]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0068]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0071]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0072]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0073]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0074]",
+    "destino": "BL:A2"
+   },
+   {
+    "fragmento": "[RITP.D06.F0001]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0005]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D06.F0006]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0007]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0008]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D09.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D09.F0004]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D07.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D07.F0004]",
+    "destino": "BL:1.10.3"
+   },
+   {
+    "fragmento": "[RITP.D07.F0005]",
+    "destino": "BL:1.14.2"
+   },
+   {
+    "fragmento": "[RITP.D07.F0006]",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

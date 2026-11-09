@@ -1,0 +1,26 @@
+set;n;huella;etapa;detalle
+tematicas;2;3546371d16;juez;Respuesta correcta (UF 17.000, vigencia = validez de la oferta); el juez castiga un dato extra verdadero del art. 1.7.1 (renovación de la boleta).
+tematicas;3;176be32c5a;juez;Respuesta correcta (150 días): la pregunta pedía el plazo, no la prórroga del DGOP (re-revisado con el criterio del juez v2).
+tematicas;6;e9b31cff82;juez;Respuesta correcta (10% del puntaje); el dato extra (reembolso de UF 13.791, art. 1.14.1) también es verdadero.
+tematicas;19;bb32cce90a;juez;Respuesta correcta (30 días); la pregunta no pedía la consecuencia del no pago; agrega plazos de 60 días de la Tabla N°2 que son verdaderos.
+tematicas;23;097bfb5a52;juez;Respuesta correcta (UF 12.000); la pregunta pedía el monto, no el deducible. En la corrida anterior el mismo texto salió correcto (variación del juez).
+tematicas;24;d4345d84c0;generacion;Omitió el monto (valor total de la obra) y el deducible del 1%, que estaban en el chunk citado [1].
+tematicas;27;1b85b32e43;juez;Respuesta correcta (menos de 2 minutos); la pregunta no pedía las consecuencias.
+tematicas;32;4fdef7bff5;juez;Respuesta correcta; agrega el puente sobre el canal El Morro del Convenio Complementario N°1, que también es verdadero (y vigente).
+tematicas;35;a4f167d294;recuperacion;Del Convenio Complementario N°1 solo llegó una fila de tabla; sus cláusulas (2.1 cambio de trazado, 2.2 obras adicionales) están repartidas como fragmentos en muchos artículos y ninguna quedó entre los 10 chunks.
+tematicas;38;ecb9aa06f7;generacion;Tenía 2.6.6.1 y 2.6.6.2 en el contexto pero mezcló informes de 1.8.2 y de gestión ambiental y la respuesta quedó cortada. (Además falta el título 2.6.6 en el árbol: los 2.6.6.x cuelgan de 2.6.)
+rag;6;8a263bb136;ocr;El texto del Diario Oficial que usó dice «DS MOP N°200, de 1926» y «DFL MOP N°350»: el OCR leyó mal «N°900, de 1996» y «N°850».
+rag;13;5bea2cafc8;juez;Respuesta correcta: la variable de licitación es el subsidio (UF 287.000), el tramo no se pedía (re-revisado con el criterio del juez v2).
+rag;20;a176cad87d;generacion;Explicó los dos plazos posibles de las Bases sin decir cuál rige (378 meses según el decreto de adjudicación).
+rag;23;1f70f51d00;juez;Respuesta correcta (80%); el 20% restante es el complemento que la pregunta no pedía.
+rag;24;c1d284bcb4;generacion;Atribuyó a ambas partes la tasa que las Bases fijan para la Sociedad Concesionaria.
+rag;30;1e380b05f9;generacion;Dio 10,9 km como longitud y dejó los 14,4 km totales como dato secundario.
+rag;31;f000ac5af3;recuperacion;Solo llegaron 2 de los incisos de 1.3.1; la lista de obras (Enlace Penco, ramales…) está repartida en muchos párrafos.
+rag;35;d49ba75117;referencia;La referencia mezcla servicios básicos con los especiales obligatorios (patrullaje, emergencia); la pregunta pide solo los básicos.
+rag;38;65e9d3d83d;referencia;Pregunta ambigua: el contrato no tiene un índice formal de nivel de servicio, pero sí niveles exigidos de pavimento (IRI, ahuellamiento), que es lo que respondió.
+rag;43;8b1cd78df1;juez;Respuesta correcta (UF 15.000 o 20.000 según la obra opcional); el dato extra es verdadero.
+rag;48;38a7e07f2e;ficha;La ficha de actos no cuenta los actos modificatorios: el modelo contó 3 de 6 (faltan Res. 2965 y 1569 y el DS 663, y el DS 136 como convenio).
+tematicas;5;36e49103da;generacion;Dio el plazo de 20 días y quién responde, pero omitió los 10 días de antelación de las circulares, que estaban en el mismo chunk.
+rag;45;b542fca05c;recuperacion;Las filas de la tabla de multas (Tabla N°2 de 1.8.5.1) ocuparon casi todo el contexto y no llegó 1.8.5.2 (procedimiento: propone el Inspector Fiscal y aprueba el DGOP).
+rag;12;cea60e1db2;ocr;Un fragmento dice «Constructora EYA Ingenieros» (el OCR leyó mal «BYA») y el modelo dio las dos lecturas.
+rag;14;f575182420;generacion;Tenía el subsidio ofertado en el contexto pero respondió por el ITC, que en la oferta va vacío, y dejó el dato principal como secundario.

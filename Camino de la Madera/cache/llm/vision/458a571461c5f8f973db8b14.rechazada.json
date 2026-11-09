@@ -1,0 +1,8 @@
+[
+ {
+  "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+  "costo": 0.0007104,
+  "error": "filas [0, 1, 2, 3, 4] con largo distinto a los 2 encabezados",
+  "texto": "{\"tablas\": [{\"titulo\": \"Item N°2: Costo de Proyectos de Ingeniería Adicionales Ejecutados\", \"encabezados\": [\"Item 2\", \"Monto UF\"], \"filas\": [[\"1\", \"Proyecto de Ingeniería Vial\", \"9.620\"], [\"2\", \"Estudio de Tránsito\", \"1.577\"], [\"3\", \"Estudio de Impacto Ambiental\", \"1.183\"], [\"4\", \"Estudio Estado y Conservación Pavimentos Ruta 160\", \"1.913\"], [\"4\", \"Administración\", \"4.892\"], [\"TOTAL\", \"\", \"19.184\"]], \"notas\": null}]}"
+ }
+]

@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "respuesta": "Durante la Etapa de Explotación, la Sociedad Concesionaria debe entregar al Inspector Fiscal los siguientes informes:\n\n1. Estados financieros anuales auditados (con desglose de ingresos y tipo de deudas), dentro de los 5 días siguientes a su entrega en la Superintendencia de Valores y Seguros [1].\n2. Información sobre cambios en la organización y personal superior, dentro de los 15 días de producido el cambio [2].\n3. Información adicional solicitada por el Inspector Fiscal para fiscalizar el contrato, dentro de los 15 días de la solicitud [2].\n4. Informes de avance de la gestión ambiental con periodicidad variable: trimestral durante el primer y segundo año; semestral entre el tercer y sexto año; anual desde el séptimo año hasta dos años antes del fin de la concesión; y semestral en los dos últimos años [2], [3].\n5. Informes mensuales con datos de tránsito (flujo vehicular, velocidad) y estadísticas de accidentes y auxilios, dentro de los primeros 15 días de cada mes [4].\n6. Informes trimestrales sobre cumplimiento del Programa de Conservación, cantidades de obras ejecutadas, precios unitarios e informes específicos de puentes, dentro de los primeros 15 días del trimestre siguiente [5].\n7. Informes ambientales OS (Estado del área, medidas aplicadas, problemas y mitigaciones) dentro de los primeros 15 días de cada trimestre [7].\n8. Informes ejecutivos trimestrales sobre gestión ambiental respecto a lo señalado en el artículo 2.10.13 y la Resolución de Calificación Ambiental, dentro de los 15 primeros días de iniciado el trimestre siguiente [10].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   10
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:14",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el MOP a través del Inspector Fiscal, quien propone la sanción a la DGOP para que requiera el pronunciamiento de la Comisión Conciliadora conforme al Artículo 24 del DFL MOP N°164 [2]. Además, los caminos en concesión se rigen por la normativa vigente de pesos por eje, lo cual permite al concesionario controlar los sobrepesos mediante plazas o puntos de pesaje [1].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

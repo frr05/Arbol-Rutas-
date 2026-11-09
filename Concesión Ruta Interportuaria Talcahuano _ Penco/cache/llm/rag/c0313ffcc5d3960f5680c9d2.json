@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "El tiempo máximo de espera en cola (TEC) exigido es inferior a 2 minutos por vehículo [1]. Este valor se define como el tiempo transcurrido entre el instante en que el usuario ingresa a la cola (cuando está a menos de 2 metros del próximo vehículo) hasta el momento en que se levanta la barrera de la cabina [1]. El diseño debe considerar un tiempo máximo de espera en cola de 2 minutos [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

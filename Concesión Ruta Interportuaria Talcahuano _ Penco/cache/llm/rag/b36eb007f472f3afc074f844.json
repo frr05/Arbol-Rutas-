@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "Los intereses por pagos atrasados varían según el tipo de pago y el instrumento aplicable: [1] Para retrasos del MOP en pagos según el Convenio Ad Referéndum, se aplica un interés real diario equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional a menos de un año que informe la Comisión para el Mercado Financiero. [2] En el Convenio Complementario N°1, para retrasos del MOP en el pago de cuotas se aplica un interés real diario de 0,02612%, y el mismo interés aplica para retrasos de la Sociedad Concesionaria en sus pagos al MOP. [3] Según las Bases de Licitación originales, los pagos atrasados devengan un interés real diario de 0,0198%. [4] En el Convenio Complementario N°2, para el pago único del MOP por sobrecostos, el monto devenga desde el 1 de enero de 2007 el interés diario resultante de aplicar la porción diaria de la tasa de interés corriente para operaciones reajustables mayores de UF 2.000 y a plazo mayor de un año que informe la Superintendencia de Bancos.",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4
+  ]
+ }
+}

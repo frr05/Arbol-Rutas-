@@ -1,0 +1,11 @@
+# Además requiere Tesseract con el idioma español instalado en el sistema:
+#   Linux/Colab: apt-get install tesseract-ocr tesseract-ocr-spa
+#   Windows: instalador de UB Mannheim (marcar "Spanish") y TESSERACT_CMD en .env si no está en el PATH
+pypdfium2>=4.30
+pytesseract>=0.3.10
+pillow>=10.0
+# Documento único
+rapidfuzz>=3.0
+pydantic>=2.0
+requests>=2.31
+markdown-it-py>=3.0   # versión HTML del documento

@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 117,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 559,
+ "segundos": 26.6,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 341,
+  "conf_media": 0.924,
+  "frac_baja": 0.062,
+  "frac_rara": 0.005,
+  "tinta": 0.041
+ },
+ "n_palabras_vlm": 380,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.901,
+ "truncado": false,
+ "texto_ocr": "2.7\n\n2.8\n\nSupremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-\nRB/2018, se descontará del monto indicado en la Tabla N*1 anterior para el concepto\nN*3, la cantidad única y total de UF 1.458,50 (Mil Cuatrocientas Cincuenta y Ocho\nComa Cincuenta Unidades de Fomento), neta de IVA, por cada obra que no se ejecute.\n\nNo se descontará ninguna cantidad en caso que no se ejecuten 4 o menos obras.\n\nPor concepto de administración y control de la ejecución de las obras denominadas “Mallas\nAntivandálicas”, se fija la cantidad única, total y a suma alzada de UF 823 (Ochocientas\nVeintitrés Unidades de Fomento), neta de IVA.\n\nPor concepto de conservación, mantención, operación, explotación y seguros de Responsabilidad\nCivil por Daños a Terceros y de Catástrofe durante la etapa de explotación de las obras\ndenominadas “Obras de Seguridad Normativa con proyecto aprobado”, “Obras de Seguridad\nNormativa con proyecto que requiere actualización”, “Obras Normativas”, “Obras de\nServicialidad” y “Mallas Antivandálicas”, se fijan las cantidades únicas, totales y mensuales,\nexpresadas en Unidades de Fomento, netas de IVA, según se resume en las Tablas N* 2, N*3,\nN*4, N*S y N%6 siguientes:\n\nTabla N* 2\n\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras de Seguridad Normativa con proyecto aprobado”\n\nN? Obra según DS\n\nUbicación\nOBRA\n\nCostos mensuales de\nConservación,\nMantención, Operación y\n\n[o]\n2\nMOP N*524/2005 1 Explotación\n(UF)\no 879,592 -\n10 Calle de Servicio Rapaco 880,242 19,55\n“Y\nDS MOP Ubicacj Costos mensuales de\nN336/2008 bicación Conservación,\nOBRA Mantención, Operación y\nNO No , Explotación\nProyecto | Obra [km] (UF)\no Varios\n2 7 Instalación de Tachas Reflectantes 53,99\nsectores\n4 12 Instalación Señales Complementarias | 769,725 y 633\nEnlace Lanco 774,220 ?\nHÁ d LAR\n5 135 Construcción paraderos de buses 720.850 11.85\n(Rinconada)\n5 13 (%) Construcción paraderos de buses (El 724,000 22,06\nLiuco)\n5 13(*) Construcción paraderos de buses 740,000 23,05\n(Quesquechán)\n\nPágina 56 de 78",
+ "texto_vlm": "Supremo que se dictará al efecto\" que forma parte del Oficio Ord. N° 332/EXPL. TCO-RB/2018, se descontará del monto indicado en la Tabla N°1 anterior para el concepto N°3, la cantidad única y total de UF 1.458,50 (Mil Cuatrocientas Cincuenta y Ocho Coma Cincuenta Unidades de Fomento), neta de IVA, por cada obra que no se ejecute. No se descontará ninguna cantidad en caso que no se ejecuten 4 o menos obras.\n\n2.7 Por concepto de administración y control de la ejecución de las obras denominadas “Mallas Antivandálicas”, se fija la cantidad única, total y a suma alzada de UF 823 (Ochocientas Veintitrés Unidades de Fomento), neta de IVA.\n\n2.8 Por concepto de conservación, mantención, operación, explotación y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de las obras denominadas “Obras de Seguridad Normativa con proyecto aprobado”, “Obras de Seguridad Normativa con proyecto que requiere actualización”, “Obras Normativas”, “Obras de Servicialidad” y “Mallas Antivandálicas”, se fijan las cantidades únicas, totales y mensuales, expresadas en Unidades de Fomento, netas de IVA, según se resume en las Tablas N° 2, N°3, N°4, N°5 y N°6 siguientes:\n\nTabla N° 2\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de “Obras de Seguridad Normativa con proyecto aprobado”\n\n| N° Obra según DS MOP N°524/2005 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|---|\n| 10 | Calle de Servicio Rapaco | 879,592 - 880,242 | 19,55 |\n| DS MOP N°336/2008 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n| N° Proyecto | N° Obra | | |\n| 2 | 7 | Instalación de Tachas Reflectantes | Varios sectores | 53,99 |\n| 4 | 12 | Instalación Señales Complementarias Enlace Lanco | 769,725 y 774,220 | 6,33 |\n| 5 | 13 (*) | Construcción paraderos de buses (Rinconada) | 720,850 | 11,85 |\n| 5 | 13 (*) | Construcción paraderos de buses (El Liuco) | 724,000 | 22,06 |\n| 5 | 13 (*) | Construcción paraderos de buses (Quesquechán) | 740,000 | 23,05 |\n\nPágina 56 de 78"
+}

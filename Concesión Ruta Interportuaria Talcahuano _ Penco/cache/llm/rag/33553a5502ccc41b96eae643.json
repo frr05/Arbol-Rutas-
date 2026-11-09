@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:12",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no especifica el monto en UF correspondiente a un nivel de servicio insuficiente (Costo por Desempeño Operacional) ni detalla los incentivos por buen desempeño. Los fragmentos disponibles tratan sobre convenios complementarios, presupuestos oficiales, multas por infracciones administrativas y reglamentos de servicio, pero no contienen la tabla o cláusula específica sobre costos por desempeño operacional e incentivos.",
+  "fuentes": []
+ }
+}

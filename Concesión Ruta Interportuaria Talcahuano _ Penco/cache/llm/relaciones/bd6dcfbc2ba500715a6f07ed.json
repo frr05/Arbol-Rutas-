@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 19:34",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.14.6.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "YPj: Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número $, letra g) de las presentes Bases,",
+    "debe_decir": "YP?: Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número $, letra h) de las presentes Bases.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 179,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 44,
+ "segundos": 5.8,
+ "fecha": "2026-11-05 00:43",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 27,
+  "conf_media": 0.839,
+  "frac_baja": 0.185,
+  "frac_rara": 0.0,
+  "tinta": 0.0069
+ },
+ "n_palabras_vlm": 23,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.875,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nANEXO N*1\n\nFormulario Propuesta Económica\n\nVISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n\nSOLÉ\n\nm3T7\n17)\n7",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nANEXO N°1\n\nFormulario Propuesta Económica\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+}

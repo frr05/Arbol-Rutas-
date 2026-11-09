@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D02",
+ "pagina": 23,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 768,
+ "segundos": 143.9,
+ "fecha": "2026-10-27 12:09",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 191,
+  "conf_media": 0.542,
+  "frac_baja": 0.717,
+  "frac_rara": 0.0,
+  "tinta": 0.0729
+ },
+ "n_palabras_vlm": 782,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.154,
+ "truncado": false,
+ "texto_ocr": "O\n\nA |\n\nA\ne OS\n\n287.600 [ 888.366 168] Carpeta Granular Mia\n\ndo Izquierdo 30.751 m\n\n3\n\nTabla 2.7: Calles de Servicio Lado Derecho\n\nESE A — a\nA A EAS\n730.998 mass | 1.867 Carpeta Granular AS\n| e\nA\nEE EAS\ne o\nsl E TEATRE\nas] 0 CN EDALSES\nE EA\nA\nA CN EAS\ne\n\nA e\n\n783.874 784,286 a Carpeta Granular\n\nE Granata\n790.300 E cs\nTA O ranala\nE Grana\n802.719 ES Carpeta Granular\nA Granata\na Granata\nA\nA\n843,196 E Carpeta Granular IDAS\nan A E EEES\ne\n847.560 ms EN Carpeta Granular A]\na E TETAS\ne\nea] 37 IS\n\n77] 857.580 358,444 1 865| Tratamiento Superficial Doble\n(78| 861.268 565353 | 208 Carpeta Granular\n\nCra[_E6T250 A\ne SS\n\n09\n\nCE1[- 872388 A AS\n62 874,380 E EA\nAE Carpeta Granula\n\n31699 a e ne\nEsa nt 880,993 A OS\n\nal Lado Derecho 35.756 m\n\nLR ,\nÉS “o\nCA o OS\nA a\n(EEE\n» e - o\nP PA z =p!\n\nuN pag 1”\nA — — -\nOO BUENO\n\nCIRO AR AUL ARA TORIA Ni CONCESIÓN RUTA *",
+ "texto_vlm": "41 | 873.689 | 874.375 | 686 | Carpeta Granular | I - IV: IX - X\n42 | 876.461 | 876.952 | 491 | Carpeta Granular | I - IV: IX - X\n43 | 877.873 | 881.207 | 3.334 | Carpeta Granular | I - IV: IX - X\n44 | 883.311 | 883.517 | 206 | Carpeta Granular | I - IV: IX - X\n45 | 887.600 | 888.366 | 766 | Carpeta Granular | I - IV: IX - X\nTotal Lado Izquierdo | 30.751 m\n\nTabla 2.7: Calles de Servicio Lado Derecho\n\nN° | Km Inicio | Km Final | Longitud (m) | Estándar | Volumen N°\n46 | 719.513 | 721.201 | 1.688 | Carpeta Granular | I - IV: IX - X\n47 | 725.500 | 726.121 | 621 | Carpeta Granular | I - IV: IX - X\n48 | 730.998 | 732.865 | 1.867 | Carpeta Granular | I - IV: IX - X\n49 | 734.300 | 734.713 | 413 | Carpeta Granular | I - IV: IX - X\n50 | 738.477 | 738.710 | 233 | Carpeta Granular | I - IV: IX - X\n51 | 742.811 | 746.629 | 3.818 | Carpeta Granular | I - IV: IX - X\n52 | 748.493 | 750.926 | 2.433 | Tratamiento Superficial Doble | I - IV: IX - X\n53 | 757.743 | 758.246 | 503 | Carpeta Granular | I - IV: IX - X\n54 | 761.319 | 762.325 | 1.005 | Carpeta Granular | I - IV: IX - X\n55 | 768.874 | 769.610 | 736 | Carpeta Granular | I - IV: IX - X\n56 | 769.615 | 771.547 | 1.932 | Carpeta Asfáltica | I - IV: IX - X\n57 | 772.926 | 774.694 | 1.768 | Carpeta Granular | I - IV: IX - X\n58 | 778.117 | 778.219 | 101 | Carpeta Granular | I - IV: IX - X\n59 | 779.605 | 780.107 | 502 | Carpeta Granular | I - IV: IX - X\n60 | 783.874 | 784.286 | 412 | Carpeta Granular | I - IV: IX - X\n61 | 787.984 | 788.859 | 875 | Carpeta Granular | I - IV: IX - X\n62 | 790.200 | 790.587 | 387 | Carpeta Granular | I - IV: IX - X\n63 | 793.959 | 794.682 | 724 | Carpeta Granular | I - IV: IX - X\n64 | 797.346 | 798.097 | 750 | Carpeta Granular | I - IV: IX - X\n65 | 802.719 | 803.101 | 382 | Carpeta Granular | I - IV: IX - X\n66 | 824.468 | 824.754 | 286 | Carpeta Granular | I - IV: IX - X\n67 | 824.969 | 825.279 | 310 | Carpeta Granular | I - IV: IX - X\n68 | 829.901 | 830.511 | 611 | Carpeta Granular | I - IV: IX - X\n69 | 834.221 | 834.526 | 304 | Carpeta Granular | I - IV: IX - X\n70 | 843.196 | 843.278 | 82 | Carpeta Granular | I - IV: IX - X\n71 | 844.350 | 844.513 | 163 | Carpeta Granular | I - IV: IX - X\n72 | 845.501 | 846.046 | 544 | Carpeta Granular | I - IV: IX - X\n73 | 847.560 | 847.981 | 421 | Carpeta Granular | I - IV: IX - X\n74 | 851.721 | 851.984 | 263 | Carpeta Granular | I - IV: IX - X\n75 | 853.641 | 854.683 | 1.042 | Carpeta Granular | I - IV: IX - X\n76 | 855.680 | 857.577 | 1.896 | Tratamiento Superficial Doble | I - IV: IX - X\n77 | 857.580 | 858.444 | 865 | Tratamiento Superficial Doble | I - IV: IX - X\n78 | 861.268 | 863.353 | 2.086 | Carpeta Granular | I - IV: IX - X\n79 | 867.250 | 868.533 | 1.283 | Carpeta Granular | I - IV: IX - X\n80 | 871.340 | 872.159 | 819 | Carpeta Granular | I - IV: IX - X\n81 | 872.288 | 873.006 | 718 | Carpeta Granular | I - IV: IX - X\n82 | 874.380 | 874.689 | 309 | Carpeta Granular | I - IV: IX - X\n83 | 875.097 | 875.833 | 736 | Carpeta Granular | I - IV: IX - X\n84 | 876.969 | 878.055 | 1.086 | Carpeta Granular | I - IV: IX - X\n85 | 88"
+}

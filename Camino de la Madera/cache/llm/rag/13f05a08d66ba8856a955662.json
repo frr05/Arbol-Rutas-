@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Se publicaron 4 decretos o resoluciones modificatorias del contrato: el Decreto Supremo N° 892 (1996) [3], el Convenio Complementario N° 1 aprobado por Decreto Supremo N° 1.065 (2004) [5], la Resolución DGOP (Exenta) N° 4333 (2007) [5] y la Resolución DGOP (Exenta) N° 5066 (2008) [9]. Además, se menciona la Resolución N° 2633 (2009) que también establece modificaciones a las características de las obras y servicios [1].",
+  "fuentes": [
+   1,
+   3,
+   5,
+   9
+  ]
+ }
+}

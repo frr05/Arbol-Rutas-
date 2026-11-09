@@ -1,0 +1,10 @@
+{
+ "tarea": "actos_meta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 04:55",
+ "respuesta": {
+  "tipo": "reglamento",
+  "numero": null,
+  "fecha": "1996-11-01"
+ }
+}

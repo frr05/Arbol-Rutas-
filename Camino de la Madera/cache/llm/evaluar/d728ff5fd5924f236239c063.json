@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:14",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 41,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia indicando que no aplica y no hay información sobre los conceptos mencionados."
+   },
+   {
+    "n": 42,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el dato principal (4% de presupuestos oficiales) y no contradice la referencia."
+   },
+   {
+    "n": 43,
+    "veredicto": "parcial",
+    "motivo": "Acierta en los montos principales pero agrega información adicional (garantía adicional de UF 15.000) que no está en la referencia."
+   },
+   {
+    "n": 44,
+    "veredicto": "parcial",
+    "motivo": "Contiene los tipos de seguros correctos pero agrega detalles específicos (montos, deducibles, vigencia) no presentes en la referencia."
+   },
+   {
+    "n": 45,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los actores, el procedimiento y la normativa base mencionados en la referencia sin contradicciones."
+   },
+   {
+    "n": 46,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce correctamente el monto y la periodicidad de la multa indicada en la referencia."
+   },
+   {
+    "n": 47,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el monto de 100 UTM diarias según lo establecido en la referencia."
+   },
+   {
+    "n": 48,
+    "veredicto": "incorrecta",
+    "motivo": "La referencia indica claramente que se publicaron seis decretos o resoluciones, mientras que la respuesta es confusa y no da el número correcto."
+   },
+   {
+    "n": 49,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente los dos convenios complementarios/ad-referéndum mencionados en la referencia."
+   },
+   {
+    "n": 50,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el año 2012 como fecha de la última modificación, coincidiendo con la referencia."
+   }
+  ]
+ }
+}

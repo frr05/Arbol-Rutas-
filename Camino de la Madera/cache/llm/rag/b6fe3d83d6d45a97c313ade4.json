@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "El llamado a licitación se realizó mediante el documento 'Llamado a licitación por concesión' (Doc. N°1), que forma parte de las Bases de Licitación fechadas el 8 de junio de 1993 [4].",
+  "fuentes": [
+   4
+  ]
+ }
+}

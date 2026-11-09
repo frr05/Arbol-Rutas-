@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:20",
+ "respuesta": {
+  "respuesta": "La concesión corresponde a infraestructura vial interurbana, ya que incluye obras como mejoramiento de caminos, construcción de by-passes a ciudades (Santa Juana y Negrete), puentes sobre el río Bío Bío y tramos entre localidades como Mulchén-Negrete y Negrete-Coihue [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

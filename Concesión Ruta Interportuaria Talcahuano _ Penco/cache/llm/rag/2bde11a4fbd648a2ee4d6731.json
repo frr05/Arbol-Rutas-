@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:23",
+ "respuesta": {
+  "respuesta": "No se encuentra información en los fragmentos entregados sobre el monto específico en UF para un nivel de servicio insuficiente (Costo por Desempeño Operacional) ni sobre incentivos por buen desempeño. El fragmento [2] menciona la categoría 'Insuficiente' como parte de una escala de evaluación, pero no detalla montos ni penalizaciones específicas asociadas a este nivel.",
+  "fuentes": [
+   2
+  ]
+ }
+}

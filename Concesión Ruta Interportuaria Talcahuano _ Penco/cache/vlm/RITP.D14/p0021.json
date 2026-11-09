@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 21,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 365,
+ "segundos": 14.6,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 252,
+  "conf_media": 0.885,
+  "frac_baja": 0.052,
+  "frac_rara": 0.013,
+  "tinta": 0.0392
+ },
+ "n_palabras_vlm": 250,
+ "frac_rara_vlm": 0.013,
+ "similitud": 0.958,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARÍA S.A.\n\n- Llame a su superior sí es que funcionan las lineas\ntelefónicas, o use un celular, si estuviera disponible,\n\n< Informe de su condición y de la situación que observa en\nel camino.\n\n- Informe de accidentes, incendios, etc. A su Administrador\nO supervisor a cargo,\n\n- Siel camino se encuentra abierto al tránsito, continúe\noperándolo en los modos de cobro. Si no fuera seguro\npermanecer en la cabina de peaje, cierre la pista\nutilizando un mínimo de diez conos, Luego de su llegada,\nel supervisor cerrará la pista conforme con los\nprocedimientos establecidos.\n\n- Si no fuera seguro mantenerse en la cabina de peaje,\nsalga de la misma y, de estar disponible, llévese el\nequipo de comunicaciones de respaldo,\n\n- Si hay tiempo, sin hacer peligrar su seguridad personal,\nponga llave al cajón que contiene la recaudación del\npeaje.\n\nDespués del Terremoto\n\n- — Manténgase con calma y anime a los otros a lo mismo.\n\n- Siga las instrucciones de sus supervisores.\n\n- Werlfique si existen heridos\n\n- — Ayude en la evacuación si fuera hecesario.\n\n- Busque e intente apagar incendios. Use un extintor de\nincendio sólo sí ha sido entrenado y cuando al hacerlo no\n\nle cause lesiones a usted ni a otros.\n\n- Corte el suministro de gas, agua y/o energía según lo\nindicado, o salga si no tiene éxito.\n\n- Revise las instalaciones para verificar letreros 0\nestructuras caidas.\n\n- Manténgase cortés y profesional en todos sus tratos con\nel público,\n\n20",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Llame a su superior si es que funcionan las líneas telefónicas, o use un celular, si estuviera disponible.\n- Informe de su condición y de la situación que observa en el camino.\n- Informe de accidentes, incendios, etc. A su Administrador o supervisor a cargo.\n- Si el camino se encuentra abierto al tránsito, continúe operándolo en los modos de cobro. Si no fuera seguro permanecer en la cabina de peaje, cierre la pista utilizando un mínimo de diez conos. Luego de su llegada, el supervisor cerrará la pista conforme con los procedimientos establecidos.\n- Si no fuera seguro mantenerse en la cabina de peaje, salga de la misma y, de estar disponible, llévese el equipo de comunicaciones de respaldo.\n- Si hay tiempo, sin hacer peligrar su seguridad personal, ponga llave al cajón que contiene la recaudación del peaje.\n\nDespués del Terremoto\n- Manténgase con calma y anime a los otros a lo mismo.\n- Siga las instrucciones de sus supervisores.\n- Verifique si existen heridos\n- Ayude en la evacuación si fuera necesario.\n- Busque e intente apagar incendios. Use un extintor de incendio sólo si ha sido entrenado y cuando al hacerlo no le cause lesiones a usted ni a otros.\n- Corte el suministro de gas, agua y/o energía según lo indicado, o salga si no tiene éxito.\n- Revise las instalaciones para verificar letreros o estructuras caídas.\n- Manténgase cortés y profesional en todos sus tratos con el público."
+}

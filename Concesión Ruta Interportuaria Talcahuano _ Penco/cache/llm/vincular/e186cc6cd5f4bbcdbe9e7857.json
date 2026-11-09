@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:08",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D14.F0017]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0018]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0019]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0020]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0021]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0022]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0023]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0024]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0025]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0026]",
+    "destino": "BL:2.2.1.7.1"
+   },
+   {
+    "fragmento": "[RITP.D14.F0027]",
+    "destino": "BL:2.2.1.7.1"
+   },
+   {
+    "fragmento": "[RITP.D14.F0028]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0029]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0030]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0031]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0032]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0033]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0034]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0035]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0036]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0037]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0038]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0039]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[RITP.D14.F0040]",
+    "destino": "BL:1.16.1.2"
+   },
+   {
+    "fragmento": "[RITP.D14.F0041]",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5.7 — 2.5.7 PLAN DE TRABAJO ANUAL",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cualquier modificación a este plan se comunicará por escrito al Inspector Fiscal con la debida anticipación.",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7 — 2.5.7 PLAN DE TRABAJO ANUAL",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "La Sociedad Concesionaria, con al menos 15 días de antelación a la fecha en que informe el término de la primera obra de cada uno de los grupos de obras denominadas “Obras de Seguridad Normativa con proyecto aprobado”, “Obras de Seguridad Normativa con proyecto que requiere actualización”; “Obras Normativas”, “Obras de Servicialidad” y “Mallas Antivandálicas”, a que hace referencia la letra a) del numeral 5.2 del presente Decreto Supremo, deberá presentar al Inspector Fiscal para su aprobación, una actualización del Programa de Conservación de las Obras y del Plan de Trabajo Anual indicados en los artículos 1.8.5, 2.5.1.1 y 2.5.7 de las Bases de Licitación, incorporando en ellos la totalidad de las obras del respectivo grupo de obras.\nEl Inspector Fiscal tendrá un plazo de 15 días para revisar cada actualización presentada, contado desde la recepción de la misma, vencido el cual, sin que el Inspector Fiscal se pronuncie, se entenderá aprobada. En caso que la actualización sea observada, la Sociedad Concesionaria tendrá un plazo de 15 días para corregirla, incorporando las observaciones realizadas por el Inspector Fiscal.\nEn caso de atraso en la entrega de la actualización del Programa de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos, si las hubiere, se aplicará a la Sociedad Concesionaria una multa de 2 UTM por cada día o fracción de día de atraso, cuya proposición, aplicación y pago se regulará según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4902,
+     4935
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4956,
+     4970
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

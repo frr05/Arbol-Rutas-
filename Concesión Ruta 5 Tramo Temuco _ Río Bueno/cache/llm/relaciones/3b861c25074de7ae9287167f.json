@@ -1,0 +1,274 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:43",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     2933,
+     2943
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P18"
+    ],
+    "texto_nuevo": [
+     2938,
+     2943
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [
+     2944,
+     2949
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [
+     2930,
+     2932
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P20"
+    ],
+    "texto_nuevo": [
+     2950,
+     2955
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     2973,
+     2979
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     2980,
+     2984
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [
+     2985,
+     2991
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     2992,
+     2995
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     2999,
+     3001
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "elimina",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "elimina",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "elimina",
+    "parrafos": [
+     "P13"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P14"
+    ],
+    "texto_nuevo": [
+     3002,
+     3006
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P15"
+    ],
+    "texto_nuevo": [
+     3007,
+     3019
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [
+     3020,
+     3027
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "5.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P17"
+    ],
+    "texto_nuevo": [
+     3028,
+     3028
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2956,
+     2958
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2959,
+     2963
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2964,
+     2972
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

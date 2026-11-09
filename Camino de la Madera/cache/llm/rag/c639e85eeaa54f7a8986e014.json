@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para autos (vehículos livianos) es de $1.500, valorado en moneda al 31 de Marzo de 1993 [1]. Esta tarifa se establece por sentido y no por kilómetro o plaza específica, sino como un peaje máximo general para la obra A [6].",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

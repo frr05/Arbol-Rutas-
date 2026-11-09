@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.7.5.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Ley N*18.902 de 1989 de la Superintendencia de Servicios Sanitarios y la Ley N*3.133 de 1916 y su reglamento aprobado por DS N*2.491 de 1916.",
+    "debe_decir": "Ley N*18.902 de 1989, Ley N*3.133 de 1916 y su Reglamento aprobado por DS MOP N*351 de 1993.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

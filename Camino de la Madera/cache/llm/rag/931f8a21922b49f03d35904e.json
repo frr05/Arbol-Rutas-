@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:32",
+ "respuesta": {
+  "respuesta": "La licitación se resolvió evaluando las ofertas determinadas como técnicamente aceptables, atendidos los factores señalados en el Artículo 7° del DFL MOP N° 164, de 1991 [2]. Entre estos factores se consideró específicamente el puntaje asignado al Factor sistema de reajuste y los ingresos mínimos garantizados por el Estado (IMG) [5], [6].",
+  "fuentes": [
+   2,
+   5,
+   6
+  ]
+ }
+}

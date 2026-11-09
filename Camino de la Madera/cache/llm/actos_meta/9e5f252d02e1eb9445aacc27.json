@@ -1,0 +1,10 @@
+{
+ "tarea": "actos_meta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 04:54",
+ "respuesta": {
+  "tipo": "decreto",
+  "numero": "DFL MOP N? 850, de 1997",
+  "fecha": "2000-12-04"
+ }
+}

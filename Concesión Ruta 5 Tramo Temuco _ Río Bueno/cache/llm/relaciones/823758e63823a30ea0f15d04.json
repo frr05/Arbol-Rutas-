@@ -1,0 +1,92 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:28",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6.6",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "si la Sociedad Concesionaria ha optado por adquirir, será totalmente de su cargo.",
+    "debe_decir": "si la Sociedad Concesionaria opta por adquirir para el Estado, el exceso por sobre el valor de tasación pericial -en cada adquisición- será totalmente de cargo de la misma.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2298,
+     2298
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2300,
+     2302
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2303,
+     2316
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2317,
+     2318
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2319,
+     2320
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.6",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     2321,
+     2323
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

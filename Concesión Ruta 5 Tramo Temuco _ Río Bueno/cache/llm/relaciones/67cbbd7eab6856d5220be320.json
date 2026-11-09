@@ -1,0 +1,67 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4364,
+     4387
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.7.2"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4388,
+     4401
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.7.3"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     4402,
+     4411
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.7.4"
+   },
+   {
+    "articulo": "1.3.2.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "iv. Caso en que no se presenten ofertas para el proceso de licitación privada, o bien, que la totalidad de las ofertas técnicas no cumplan los requisitos mínimos para ser consideradas “ofertas válidas”. En caso que no se presenten ofertas para el proceso de licitación privada, o bien, que la totalidad de las ofertas técnicas no cumplan los requisitos mínimos para ser consideradas “ofertas válidas”, la Sociedad Concesionaria deberá declarar desierta la licitación, lo que deberá ser informado al Inspector Fiscal en el plazo máximo de 5 días, contado desde la fecha programada por la Sociedad Concesionaria para la recepción de las ofertas, o bien, desde la fecha de apertura de las ofertas técnicas, según sea el caso. En caso de atraso por parte de la Sociedad Concesionaria en la comunicación señalada en el párrafo precedente, se le aplicará a ésta una multa de 2 UTM por cada día o fracción de día de atraso, cuya proposición, aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.5",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "Para todos los efectos legales y contractuales, se entenderá como “Facultad de Adjudicación” la opción de la Sociedad Concesionaria de elegir adjudicar el contrato de consultoría a un oferente que habiendo presentado una oferta técnica que obtuvo una nota igual o superior a 5 conforme conste en el acta de evaluación técnica, no haya presentado la menor Oferta Económica Válida, o bien, que haya presentado una oferta superior a la cantidad máxima señalada en el numeral 7.1 del presente Decreto Supremo, según corresponda, de acuerdo a lo señalado en el literal b. del numeral i. o en el numeral ¡i., respectivamente, ambos del numeral 3.7.1 del presente Decreto Supremo. Para hacer uso de esta facultad la Sociedad Concesionaria deberá asumir a su entero riesgo, costo y responsabilidad la diferencia de precio entre la menor Oferta Económica Válida o la cantidad máxima señalada en el numeral 7.1 del presente Decreto Supremo, según corresponda y el monto de adjudicación final. El ejercicio de esta facultad está condicionado a que la Sociedad Concesionaria informe por escrito al DGOP, en el mismo plazo de la comunicación señalada en el numeral 3.5 del presente Decreto Supremo, que renuncia a demandar al MOP cualquier tipo de indemnización por la señalada diferencia de precio, así como cualquier compensación o perjuicio que emane o se derive del ejercicio de esta opción.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:22",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones bajo diferentes conceptos y montos según las bases: 1) Debe pagar un monto fijo de UF 41.000 por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos para el Estado [8], [7]. 2) Debe pagar el valor de las indemnizaciones definitivas más un monto de UF 60 por cada lote expropiado por concepto de gastos y desembolsos del MOP [1]. 3) Debe asumir el pago de las expropiaciones adicionales si se requieren producto de la Ingeniería Definitiva aprobada [9]. 4) Debe pagar el mayor valor por expropiaciones si sus modificaciones al proyecto requieren terrenos con mayor valor de tasación que los originales [4]. Además, puede deducir de los pagos correspondientes a segundo y tercer pago los gastos de adquisición directa hasta el valor pericial más UF 60 por lote adquirido para el Fisco dentro del monto de UF 83.000 [5], [6].",
+  "fuentes": [
+   1,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ }
+}

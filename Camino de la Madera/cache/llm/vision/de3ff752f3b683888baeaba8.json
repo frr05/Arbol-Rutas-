@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 04:40",
+ "costo": 0.0006666,
+ "texto": "monto a devolver al MOP será de UF 108.620,00 el que se determina de la siguiente forma:\n\n(MDI₁₈₅ - YTG) * (1 + 0,7592%)¹⁸⁵ * (1 + 0,02487%)⁵\n\n= (7.215.009,58 - 7.188.236,50) * (1 + 0,7592%)²²⁸ * (1 + 0,02487%)⁵ = 108.620,00\n\n10"
+}

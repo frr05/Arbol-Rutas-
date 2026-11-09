@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "El mecanismo de Ingresos Mínimos Garantizados (IMG) garantiza a la Sociedad Concesionaria un ingreso mínimo anual por parte del Estado, distribuyendo los riesgos derivados de la incertidumbre en el tráfico durante la etapa de explotación [2]. Este mecanismo se aplica desde el primer año calendario de explotación, el cual comienza el 1° de enero del año en que se autorice la Puesta en Servicio Definitiva de las obras [3].",
+  "fuentes": [
+   2,
+   3
+  ]
+ }
+}

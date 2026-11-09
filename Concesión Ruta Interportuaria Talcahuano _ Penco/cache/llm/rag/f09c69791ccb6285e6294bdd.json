@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:12",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el Inspector Fiscal, quien notifica la infracción detectada y propone su aplicación según lo estipulado en la Tabla N° 2 de las Bases de Licitación [7].",
+  "fuentes": [
+   7
+  ]
+ }
+}

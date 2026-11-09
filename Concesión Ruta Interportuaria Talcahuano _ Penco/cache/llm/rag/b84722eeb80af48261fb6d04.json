@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "La longitud del proyecto es de aproximadamente 10,9 km [3]. Esta cifra se confirma en la Tabla N° 3 de la Circular aclaratoria N°4, que describe la Ruta Interportuaria desde el Km 0,0 al Km 10,9 aprox [10].",
+  "fuentes": [
+   3,
+   10
+  ]
+ }
+}

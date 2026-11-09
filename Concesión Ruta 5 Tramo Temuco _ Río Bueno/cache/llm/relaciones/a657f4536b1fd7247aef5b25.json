@@ -1,0 +1,42 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.10",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El MOP podrá calificar a estas empresas aplicando lo dispuesto en el Título X del Decreto MOP N* 48/94 a las empresas proyectistas y el Título X del Decreto MOP N* 15/92 a las empresas constructoras.",
+    "debe_decir": "Para cada uno de los referidos procesos de licitación privada, la Sociedad Concesionaria deberá invitar un mínimo de 10 empresas constructoras, 5 de las cuales serán nominadas por el Director General de Obras Públicas. Dichas empresas deberán estar inscritas en 1? categoría de acuerdo al Reglamento para Contratos de Obra Pública del MOP, contenido en el Decreto MOP N* 75, de 2004, para el caso de las estructuras y en 2% categoría para movimiento de tierra y pavimentos, acorde a las características de las obras a licitar. Dentro del listado de empresas que se invite a cada licitación privada sólo podrá incluirse una empresa relacionada con la Sociedad Concesionaria o sus accionistas. El Inspector Fiscal podrá requerir a la Sociedad Concesionaria cualquier tipo de información respecto a cada una de las bases de la licitación privada y las ofertas presentadas por las empresas participantes. Asimismo, el Inspector Fiscal podrá asistir a todos los actos relevantes de cada proceso licitatorio, debiendo la Sociedad Concesionaria informarle en forma oportuna y formal (carta o fax) la fecha y el lugar de su realización. La adjudicación de los contratos por la Sociedad Concesionaria requerirá el Visto Bueno del Director General de Obras Públicas, previo informe favorable del Inspector Fiscal. Se entenderá aprobada aquella adjudicación que no fuere objetada por el DGOP o por el Inspector Fiscal dentro de los 30 días corridos, contados desde que el Inspector Fiscal hubiere recepcionado la proposición de adjudicación de la licitación del respectivo contrato de construcción, que la Sociedad Concesionaria hubiere entregado por escrito. La Sociedad Concesionaria deberá adjudicar los contratos de construcción sujeta a las restricciones presupuestarias señaladas y a la priorización de obras que establece el numeral 2.8 del presente convenio. Para estos efectos no se podrá adjudicar nuevos contratos sin haber adjudicado la licitación anterior. No obstante, a petición de la Sociedad Concesionaria o del MOP, el DGOP, previo informe favorable del inspector Fiscal, podrá establecer un orden de prioridad diferente o modificar ese orden a efectos de la licitación o adjudicación de dichas obras. Un nuevo proceso de licitación privado, deberá ser efectuado si en el primero no se presentaren ofertas o no se hubiera adjudicado la licitación. Dicho nuevo proceso se efectuará sujeto a las mismas condiciones y procedimientos establecidos en este numeral. No obstante, el MOP y la Sociedad Concesionaria de común acuerdo con la constructora respectiva, se reservan la facultad de ampliar un contrato adjudicado a aquellas obras no adjudicadas. En este último caso, para la valorización a suma alzada de las obras se utilizarán los precios unitarios del contrato adjudicado que se amplía. Este acuerdo de ampliación de contrato deberá contar con el V” B” del Director General de Obras Públicas. Sin perjuicio del proceso de subcontratación aquí descrito y de acuerdo con lo dispuesto en el segundo párrafo del artículo 1.7.2.10 de las Bases de Licitación, la Sociedad Concesionaria será la única responsable ante el MOP para el cumplimiento del Contrato de Concesión.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.10",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "xi. La Sociedad Concesionaria y el MOP, mediante estipulaciones en las bases de licitación y en los respectivos contratos se eximirán de responsabilidad frente a toda eventual reclamación de sus contratistas y de terceros relacionada con la paralización o no construcción de obras producto de la aplicación de la priorización estipulada en el numeral 2.8 del presente convenio.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El valor total de los costos comprendidos en el ítem 3 del Anexo 1 (Conservación y Mantención), será el valor único y pactado cuyo total asciende a UF 22.487 (veintidós mil cuatrocientas ochenta y siete unidades de fomento) y se contabilizará de acuerdo a lo establecido en el numeral 3.3 de la cláusula tercera de este convenio.",
+    "debe_decir": "El valor total y definitivo de la construcción de las obras indicadas en el Anexo N* 1 Ítem 3 se contabilizará de acuerdo al procedimiento descrito en el numeral 3.2 del presente convenio. A fin de evitar que el costo total de las nuevas inversiones y demás gastos asociados sea superior al Valor Máximo Total establecido en el numeral 2.1 de la presente cláusula, el MOP definió y priorizó el uso de los recursos para respetar dicho Valor Máximo Total de inversión, garantizando la ejecución de todas las inversiones y gastos detallados en el Anexo N* 1 en sus Ítem 0, 1 y 2 y condicionando las inversiones del Anexo N* 1, Ítem 3 a la existencia de un saldo suficiente en el presupuesto del Valor Máximo Total para su ejecución. El procedimiento a seguir se muestra en el Ítem 4 del Anexo N* 1 y considera que al valor resultante de la licitación respectiva como costo de construcción, se le sumarán los costos de conservación, mantención, operación y explotación de cada una de las obras, de forma tal que sólo se puedan ejecutar aquéllas que cuenten con todos sus costos financiados. El procedimiento de priorización de las inversiones definirá el conjunto de obras adicionales susceptibles de ejecutar. Por lo tanto, la Sociedad Concesionaria no estará obligada a ejecutar obras sin financiamiento. En el caso que quedaren obras sin ejecutar por haberse alcanzado el Valor Máximo Total antes señalado, no corresponderá compensación o indemnización alguna a la Sociedad Concesionaria ni al MOP, renunciando las partes en este acto a cualquier tipo de compensación por este concepto. Se deja expresa constancia que con motivo de las Inversiones Adicionales del Anexo N” 1 del presente Convenio Complementario no se devenga o genera pago alguno de la Sociedad Concesionaria al MOP por concepto de administración y control o por instalaciones y estudios de las inversiones en obras adicionales. En el evento de término anticipado de cualquiera de los contratos de construcción adjudicados mediante licitación privada de que tratan los numerales anteriores o de aquél que sea ampliación de un contrato anterior, por causal imputable a incumplimiento del constructor, el MOP sólo podrá imponer multas a la Sociedad Concesionaria por los retrasos o incumplimientos relacionados a la construcción o cualquier otro concepto de dichas obras, hasta el total del valor de las boletas de garantía de fiel cumplimiento vigente de dicho contrato de construcción. Además, en el caso de término anticipado de estos mismos contratos por cualquier causa imputable al constructor, toda liquidación de subcontratos, multas u otros pagos pendientes de dicho contrato, serán financiados con los recursos que resulten de la o las garantías del constructor que sean aplicables. La parte inconclusa de la o las obras de un contrato terminado anticipadamente, será valorada en la “Cuenta de Inversión Convenio Complementario N* 3” del presente convenio en el precio que resulte de la nueva licitación o ampliación de los contratos existentes. El costo en que incurrirá la Sociedad Concesionaria por concepto de administración de las licitaciones, contratos de construcción, control y demás",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

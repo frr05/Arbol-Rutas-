@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:01",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D10.F0025] (Reglamento servicio) 1.- Objeto. El objeto del Reglamento de Servicio es el de regular la explotación y la conservación de la Concesión; el Reglamento de Servicio fija normas las cuales pueden ser mejoradas si así se estimase convenientehle acuerdo a lo estipulado en punto 11.4 del presente reglamento, lo anterior de acuerdo a las leyes, decretos y normas que rigen esta concesión. Este Reglamento Interno es un complemento y en ningún cas",
+    "destino": "BL:1.5.34"
+   },
+   {
+    "fragmento": "[CM.D10.F0026] (Reglamento servicio) 2.- Carácter vinculante. El Reglamento de Servicio deberá ser cumplido por la concesionaria y sus contratistas, por los usuarios, por el Ministerio de Obras Públicas, a través del Inspector Fiscal y por todos aquellos que resulten afectados por la explotación y/o conservación de la misma. Ámbito de aplicación. El ámbito de aplicación del Reglamento será todo lo que se refiera a la prestación de servicio, sea en su pa",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0027] (Reglamento servicio) ==... 19.4 de las bases de licitación y cualquier cambio posterior, ya sea en personas o en la organización se informara al I.Fiscal nominado: Gerente General : El Gerente General tiene la función de dirigir la empresa concesionaria y llevar a cabo las políticas y objetivos definidos. El Gerente General, es el interlocutor con el MOP; requisitos minimos son los estipulados en las bases, punto 1.5.2.2,2, Gerente Técni",
+    "destino": "BL:1.5.14"
+   },
+   {
+    "fragmento": "[CM.D10.F0028] (Reglamento servicio) Es el encargado de la operación de la Plaza de Pesaje, respondiendo directamente frente al Jefe de Turno; debe velar por el correcto funcionamiento de todos los equipos de pesaje, en el turno respectivo, los operadores deben poseer estudios de Ens. Media. Es la persona responsable de llevar cabo el cobro directo al usuario; debiendo realizar la clasificación vehicular en forma visual; respondiendo directamente frente",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0029] (Reglamento servicio) e. Realizados los trabajos, el Inspector Fiscal procederá a efectuar la recepción correspondiente, de acuerdo a la modalidad vigente. Las reparaciones mayores o mantenciones imprevistas deberán ser además informadas previamente al LF., y quedaran consignadas en el Informe Semestral que se entrega al MOP. Horario de funcionamiento. El horario de atención al público usuario será durante las 24 horas del día, los 365 di",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0031] (Reglamento servicio) i) Reclamos presentados por los usuarios, identificando al usuario y al reclamo que haya presentado. pu“ 2.- Informes trimestrales : iy Estados financieros de la Sociedad Concesionaria, presentados en formato (FECU) exigido por la Superintendencia de Valores y Seguros y auditado por el auditor externo, de acuerdo al punto 6* de la Circular Aclaratoria N9.",
+    "destino": "BL:1.5.33"
+   },
+   {
+    "fragmento": "[CM.D10.F0035] (Reglamento servicio) | ] adicionales de la Dirección de Vialidad del MOP. 6.5.- Informe de Cumplimiento: En el informe anual la concesionaria incluirá el informe de pr en el cual se 7.- Mantención de la Obra 7.1.- Políticas de mantenimiento. Rutinarias: Son aquellas Operaciones de conservación que deben realizarse a lo largo del año cualquiera sea el nivel de tránsito y Clima tales como saneamiento y despeje de la faja, así como aquellas",
+    "destino": "BL:1.5.35"
+   },
+   {
+    "fragmento": "[CM.D10.F0036] (Reglamento servicio) - Una estimación de las cantidades de obras convenientes de ejecutar para mantener el camino, incluyendo los precios unitarios estimados. - La conservación de puentes deberán quedar individualizados en las fichas de registros indicándose el tipo de conservación que se realizará con identificación de los trabajos. Anualmente se informará al Y. Fiscal con copia al Dpto. de Puentes de la Dirección de Vialidad del estudi",
+    "destino": "BL:1.5.35"
+   },
+   {
+    "fragmento": "[CM.D10.F0037] (Reglamento servicio) 8.1.- Instalaciones y equipos. | | Para cada tipo de instalación y equipo que a continuación se menciona se le llevara a a cabo un aseo y mantención, las cuales podrán ser realizadas directamente por la : y concesionaria o bien por medio de servicios extemos: - Mantención de estructuras y construcciones de las plazas de peaje, pesaje y oficinas. - Mantención de vehículos. - Mantención de equipamiento eléctrico, mecán",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0038] (Reglamento servicio) sancionada por los tribunales de justicia respectivos. 9.2.- Supervisión de los equipos de la obra. Para la adecuada supervisión de los equipos que posee la obra, se llevara a cabo los chequeos respectivos que recomienda el fabricante, como asimismo las mantenciones por ello estipuladas, tanto los chequeos como las mantenciones se realizaran de acuerdo a pautas que se entregaran en Programa de conservación. Medidas d",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0039] (Reglamento servicio) Oficina de manejo de Dineros y caja buzón Lugar de guardar archivos Baño Sala de Descanso Of de Recaudación Cocina Espacio para carabineros con baño privado Espacio físico donde se encuentra el tablero general de Electricidad y Grupo generador de emergencia SALA GRUPO GENERADOR CASA DE CAMBIO (*+*) (solo en Curalí) BODEGA (**) Bodega de herramientas y materiales solo en Curalí (3): En Plaza de Curalí esta oficina ser",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0041] (Reglamento servicio) El control a la clasificación manual y automático se realizara a través del Sistema de Peaje - PXNET2S. Manejo de dinero. Los dineros percibidos por cobro de peajes serán manejados como lo estime conveniente la concesionaria. Transporte de dinero. La política de transporte de dineros será la que estime conveniente la concesionaria. Pesaje Respecto al pesaje este será realizado con equipos de Pesaje Dinámicos a Veloci",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0042] (Reglamento servicio) trasladado fuera de la calzada vehicular a los lugares previamente designados para tales efectos, quedando bajo la custodia de la concesionaria, de Carabineros, de los titulares de estos o a la disposición del tribunal competente. Las mercancías o cargas serán retenidas por la concesionaria fuera del área de circulación, correspondiendo al usuario la responsabilidad de la evacuación. Transcurridas 24 horas sin que hu",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0043] (Reglamento servicio) 4.- Seguridad. La concesionaria mantendrá permanentemente en servicio, salvo caso fortuito o de Se remitirán copias del reclamo y de la respuesta al Inspector Fiscal mensualmente de fuerza mayor, un sistema de seguridad que se describe a continuación: 4.1.- Supervisión de la vía. El Concesionario realizara la supervisión de la vía mediante un móvil, equipado de un sistema de radio VHF, el que le permitirá al vigilant",
+    "destino": "BL:1.5.22"
+   },
+   {
+    "fragmento": "[CM.D10.F0045] (Reglamento servicio) vi. \"DEL PERSONAL DE LA CONCESIONARIA. Respecto a las relaciones laborales entre la Concesionaria y los trabajadores se regularán por el Código del Trabajo y por sus leyes complementarias. Obligaciones y derechos del personal Las obligaciones del trabajador quedaran estipuladas en su contrato individual que realizara en común acuerdo entre la Concesionaria y el Trabajador, en el caso de los derechos estos son los est",
+    "destino": "BL:1.5.19"
+   },
+   {
+    "fragmento": "[CM.D10.F0046] (Reglamento servicio) 1.- Derechos y Obligaciones del Inspector Fiscal Los Derechos y obligaciones de del Inspector Fiscal en relación con la fiscalización del Contrato , son aquellas que están indicadas en las Bases de Licitación, Circulares Aclaratorias, Ley de Concesiones, Reglamento de la Ley de Concesiones y otros documentos del Contrato, los cuales conforman el marco legal de la Concesión",
+    "destino": "BL:1.5.30"
+   },
+   {
+    "fragmento": "[CM.D10.F0047] (Reglamento servicio) 2.- Procedimientos y sanciones. El Inspector Fiscal podrá aplicar sanciones en el caso de que el concesionario incurra en faltas señaladas tanto en las bases de Licitación como en el Reglamento de Concesiones.",
+    "destino": "BL:1.5.45"
+   },
+   {
+    "fragmento": "[CM.D10.F0048] (Reglamento servicio) ANEXO N* DE LA OPERACION : UNIDAD DE MEDIDA: NORMAS Y RENDIMIENTOS DE LAS OPERACIONES DE CONSERVACION RUTINARIAS CONSERVACION RUTINARIA CAMINO DE LA MADERA Ficha N° ___ /CR OPERACIÓN : UNIDAD DE MEDIDA : PRODUCCION DIARIA CUADRILLA : CANTIDAD DE OPERACION ANUAL NIVEL ANUAL PRODUCCION HOMBRE/DIA : COSTO ACTIVIDAD ANUAL PERIODO DE EJECUCION FECHA DE INICIO FECHA DE TERMINO SEMANA DE TERMINO HORAS HOMBRE MATERIALES 4 Ot",
+    "destino": "BL:1.5.35"
+   },
+   {
+    "fragmento": "[CM.D11.F0002] (Convenio complementario N°1) que sigue: . Núm. 3.947 exento.- Vistos: estos antecedentes, lo dis- puesto en el decreto supremo N* 110, de Justicia, de 1979, Reglamento sobre Concesión de Personalidad Jurídica a Cor- poraciones y Fundaciones, publicado enel Diario Oficial de 20 de marzo de 1979, modificado por decreto supremo de Justicia N*679, de 2003, publicado en el Diario Oficial de 13 de febrero de 2004 y en la resolución N* 520, de 1996, mo",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0003] (Convenio complementario N°1) Decreto: Apruébanse las reformas que ha acordado introducir a sus estatutos la entidad denominada “Fundación Bankboston, Chile”, que también puede usar el nombre “Fundación Bank- boston”, con domicilio en la provincia de Santiago, Región Metropolitana de Santiago, y personalidad jurídica concedida por decreto supremo de Justicia N” 1.084, de 26 de agosto de 1992, en los términos que da testimonio la escritura pública",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0004] (Convenio complementario N°1) \" \"Núm. 1.065.- Santiago, 22 de noviembre de 2004 .- Vistos: - El artículo 87 del DFL MOP N'850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N*15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N*206, de 1960, Ley de Caminos. - El D.S. MOP N*900, de 1996, que fijó el texto refundi- do, coordinado y sistematizado del DFL MÓP N*164, de 1991, Ley de Concesiones de Obras P",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0006] (Convenio complementario N°1) Decreto: “* ¿+ 1. Solicítase la urgencia de 5 días para el trámite de toma de razón del presente decreto supremo, en atención a las razones expuestas en los considerandos, conforme a lo dis- puesto en el artículo 111” del DFL MOP N” 850, de 1997, que fija el texto refundido, coordinado y sistematizado de la ley N? 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del.DFL N* 206, de 1960, Ley de Caminos. 2.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0007] (Convenio complementario N°1) DENIEGA CONCESION DE EXPLORA CION DEENER- GIA GEOTERMICA, PRESENTADA POR GEOTER- MIA DEL PACIFICO SERVICIOS DE INGENIERIA LIMITADA, EN EL SECTOR DE “WECHU”, NOVENA REGION DE LA ARAUCANIA, PROVINCIA DE CAUTIN, COMUNA DE MELIPEUCO, EN VIRTUD DE LA LEY N* 19.657\" Núm. 83.- Santiago, 15 de noviembre de 2004.- Visto: Lo dispuesto en la ley 19.657, sobre concesiones de energía geotérmica (Anexo 1); lo dispuesto en el decre",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D11.F0009] (Convenio complementario N°1) 1.- Que, Geotermia del Pacífico Servicios de Ingenie- ría Ltda. -en adelante también e indistintamente ““Geoter- mia del Pacífico””, debidamente representada por el señor Osvaldo H. Ossandón Sermeño- presentó al Ministerio de Minería con fecha 20 de agosto de 2003 una solicitud de concesión de exploración de energía geotérmica sobre el sector de **Wechu””, ubicada en la Novena Región de la Araucanía, Provincia de Cau",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D11.F0010] (Convenio complementario N°1) Decreto: . Artículo primero: Deniégase la concesión de explo- ración de energía geotérmica presentada por Geotermia del - Pacífico Servicios de Ingeniería Limitada, respecto del área geográfica denominada '*“Wechu'”, ubicada en la Novena * Región de la Araucanía, Provincia de Cautín, Comuna de Melipeuco, cuya extensión y coordenadas UTM son las siguientes: Superficie solicitada: 9.000 héctareas Vértice Este Norte ! 2",
+    "destino": "TEMA:otros"
+   }
+  ]
+ }
+}

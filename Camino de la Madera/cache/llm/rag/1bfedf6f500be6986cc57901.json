@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:27",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no especifica un monto en UF concreto para el nivel de servicio insuficiente (Costo por Desempeño Operacional) ni detalla el valor del incentivo por buen desempeño. Los fragmentos mencionan la existencia de estos mecanismos y tablas de ingresos mínimos garantizados, pero no contienen las cifras específicas de penalidades o incentivos por desempeño operativo.",
+  "fuentes": []
+ }
+}

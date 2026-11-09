@@ -1,0 +1,133 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:48",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "N° 3 del “Modelo de decreto supremo que se dictará al efecto”",
+    "debe_decir": "N* 3 del “Modelo de Decreto Supremo que se dictará al efecto”",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Oficio Ord. N°332/EXPL. TCO-RB/2018, y que regulará el decreto supremo",
+    "debe_decir": "Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "N°6 del “Modelo de decreto supremo que se dictará al efecto”",
+    "debe_decir": "N* 6 del “Modelo de Decreto Supremo que se dictará al efecto”",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Oficio Ord. N°332/EXPL. TCO-RB/2018, y que regulará el decreto supremo",
+    "debe_decir": "Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Obras Normativas”,se fija la cantidad única",
+    "debe_decir": "Obras Normativas”, se fija la cantidad única",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "N° 6 del “Modelo de decreto supremo que se dictará al efecto”",
+    "debe_decir": "N” 6 del “Modelo de Decreto Supremo que se dictará al efecto”",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Oficio Ord. N°332/EXPL.\nTCO-RB/2018, y que regulará el decreto supremo",
+    "debe_decir": "Oficio Ord. N” 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "numeral 6.7.2 del “Modelo de decreto supremo que se dictará al efecto”, que forma parte del Oficio Ord. N°332/EXPL. TCO-RB/2018, y que se dispondrá en el decreto supremo",
+    "debe_decir": "numeral 6.7.2 del “Modelo de Decreto Supremo que se dictará al efecto”, que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que se dispondrá en el Decreto Supremo",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "numeral 7.4 del “Modelo de decreto supremo que se dictará al efecto”",
+    "debe_decir": "numeral 7.4 del “Modelo de Decreto Supremo que se dictará al efecto”",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Oficio Ord. N°332/EXPL.\nTCO-RB/2018, y que regulará el decreto supremo",
+    "debe_decir": "Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     6045,
+     6059
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

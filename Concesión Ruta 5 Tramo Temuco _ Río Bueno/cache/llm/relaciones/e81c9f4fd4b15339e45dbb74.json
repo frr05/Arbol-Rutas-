@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:26",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.4.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En el caso que no exista acuerdo la Comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u Otro de los peritajes realizados, no pudiendo adoptar valores intermedios.",
+    "debe_decir": "En el caso que no exista acuerdo la comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u otro de lós peritajes realizados, lo que se entiende sin perjuicio de su facultad de exigir otro peritaje O establecer el procedimiento que mejor le parezca para la determinación de tales valores.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.4.3.3",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P24"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "no obstante el MOP podrá eximir de dicha garantía en los casos que estime necesario.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

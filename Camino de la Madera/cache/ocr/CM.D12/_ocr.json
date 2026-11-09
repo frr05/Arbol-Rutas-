@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D12",
+ "archivo": "4_modificacion_obras_convenios/Convenio-de-Extincion-Camino-de-la-Madera.pdf",
+ "sha256": "0636b75280f9e1b1c78e88ba15697d3f20b5d7e6c37d5f84d3e076fd3999a955",
+ "paginas": 22,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:39"
+}

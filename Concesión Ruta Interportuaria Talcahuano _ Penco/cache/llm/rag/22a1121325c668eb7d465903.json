@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:01",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre el umbral del Índice de Servicio Prestado (ISP) ni sus tramos. Los documentos proporcionados se refieren al Índice de Rugosidad Superficial (IRI), cuyo umbral para iniciar acciones de conservación es una media móvil de 5 tramos que supere los 3,5 m/km [10], pero no mencionan el ISP.",
+  "fuentes": [
+   10
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:39",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el mecanismo y el año de inicio coincidiendo con la referencia."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica correctamente el funcionamiento, los tramos aplicables y la fórmula según la referencia."
+   },
+   {
+    "n": 23,
+    "falta": "deducible máximo de 1%",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Falta mencionar el deducible máximo del 1% solicitado implícitamente al pedir qué garantiza el seguro completo."
+   },
+   {
+    "n": 24,
+    "falta": "valor total de la obra; deducible máximo 1%",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Falta especificar que cubre el valor total de la obra y el deducible, datos clave de la garantía."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta lista todos los factores por tipo de vehículo correctamente según la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente los umbrales de costos y la distribución de pagos según la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "consecuencias por espera > 2 min y > 5 min",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "Solo menciona el límite de 2 minutos pero omite las consecuencias (modificación plan o multa) asociadas a superar los tiempos mencionados en la referencia."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Confirma que sí se puede cobrar y detalla las condiciones de congestión y procedimiento según la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente el límite del 30%, la restricción del 10% en construcción y el plazo temporal."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Explica correctamente la periodicidad, los elementos revisables y el proceso de aprobación con Hacienda."
+   }
+  ]
+ }
+}

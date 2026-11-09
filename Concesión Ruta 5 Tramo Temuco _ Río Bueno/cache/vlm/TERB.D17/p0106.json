@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 106,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 547,
+ "segundos": 33.2,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 311,
+  "conf_media": 0.9,
+  "frac_baja": 0.103,
+  "frac_rara": 0.013,
+  "tinta": 0.043
+ },
+ "n_palabras_vlm": 396,
+ "frac_rara_vlm": 0.012,
+ "similitud": 0.735,
+ "truncado": false,
+ "texto_ocr": "Tabla N* 8\n\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras de Seguridad Normativa con proyecto aprobado”\n\nCostos mensuales de\no , Ubicación Conservación,\nÑ Obra según DS Mantención, Operación y\nMOP N*524/2005 Explotación\n[km] (UF)\n7 879,592 -\n10 Calle de Servicio Rapaco 880,242 19,55\nDS MOP Costos mensuales de\nN9336/2008 Ubicación Conservación,\nOBRA Mantención, Operación y\nNO NO [km] Explotación\nProyecto | Obra (UF)\n2 1 Instalación de Tachas Reflectantes Varios 53,99\nsectores\n4 12 Instalación Señales Complementarias 769,725 y 633\nEnlace Lanco 774,220 —\n5 13 (2) Construcción paraderos de buses 720,850 11.85\n(Rinconada)\n5 13 (%) ón paraderos de buses (El 724.000 22.06\n5 13 (5 Construcción paraderos de buses 740,000 23.05\n(Quesquechán) |\nConstrucción paraderos de buses\n*\n5 56 (Malihue - Santa Elena) 806,000 1,91\nQ$EOOáÓAá« mn a __—A<<Asóf a __—— ___ ___ 22121\n5 13 (*) Construcción paraderos de buses 858.300 34,03\n(Paillaco)\n\n(*) Para efectos de detallar la ubicación de los paraderos, cuya ejecución se dispone en el presente\n\nDecreto Supremo, se explicita el nombre representativo entre paréntesis a continuación del nombre de la\n\nobra “( y”.\n\nTabla N9 9\n\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\n\nexplotación de “Obras Seguridad Normativa con proyecto que requiere actualización”.\n\nCostos mensuales de\n\nProyecto | Obra\n\n14\n\nConstrucción pasarela peatonal\nCollico\n\nUbicación “e\nN? Obra según DS Conservación, A\nMOP N25324/2005 OBRA Mantención, Operación y\n[km] Explotación\n(UF)\nAtravieso La Montañita 735,597 165,49\n4 Atravieso Mulpún Norte 810,050 107,07\no. o 865,644 -\n9 Calle de Servicio Paihuén 867,443 39,68\nDS MOP Ubicación Costos mensuales de\nN“336/2008 [km] Conservación,\nOBRA Mantención, Operación y\nNe Explotación\n\n769,600\n\nPágina 45 de 78",
+ "texto_vlm": "Tabla N° 8\nCostos Mensuales de Conservación, Mantención, Operación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras de Seguridad Normativa con proyecto aprobado”\n\n| Nº Obra según DS MOP N°524/2005 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|---|\n| 10 | Calle de Servicio Rapaco | 879,592 - 880,242 | 19,55 |\n| DS MOP N°336/2008 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n| Nº Proyecto | Nº Obra | | |\n| 2 | 7 | Instalación de Tachas Reflectantes | Varios sectores | 53,99 |\n| 4 | 12 | Instalación Señales Complementarias Enlace Lanco | 769,725 y 774,220 | 6,33 |\n| 5 | 13 (*) | Construcción paraderos de buses (Rinconada) | 720,850 | 11,85 |\n| 5 | 13 (*) | Construcción paraderos de buses (El Liuco) | 724,000 | 22,06 |\n| 5 | 13 (*) | Construcción paraderos de buses (Quesquechán) | 740,000 | 23,05 |\n| 5 | 13 (*) | Construcción paraderos de buses (Malihue - Santa Elena) | 806,000 | 7,91 |\n| 5 | 13 (*) | Construcción paraderos de buses (Paillaco) | 858,300 | 34,03 |\n| (*) Para efectos de detallar la ubicación de los paraderos, cuya ejecución se dispone en el presente Decreto Supremo, se explicita el nombre representativo entre paréntesis a continuación del nombre de la obra “( )”. |\n\nTabla N° 9\nCostos Mensuales de Conservación, Mantención, Operación y seguros de\nResponsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de\nexplotación de “Obras Seguridad Normativa con proyecto que requiere actualización”.\n\n| Nº Obra según DS MOP N°524/2005 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n|---|---|---|---|\n| 2 | Atravieso La Montañita | 735,597 | 165,49 |\n| 4 | Atravieso Mulpún Norte | 810,050 | 107,07 |\n| 9 | Calle de Servicio Paihuén | 865,644 - 867,443 | 39,68 |\n| DS MOP N°336/2008 | OBRA | Ubicación [km] | Costos mensuales de Conservación, Mantención, Operación y Explotación (UF) |\n| Nº Proyecto | Nº Obra | | |\n| 6 | 14 | Construcción pasarela peatonal Collico | 769,600 | 64,55 |\n\nPágina 45 de 78"
+}

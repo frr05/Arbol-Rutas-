@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es fijo. Según las Bases de Licitación, el plazo será igual a 378 meses para los licitantes que no presenten oferta en el Tramo A [1], y de 498 meses únicamente en caso de que el adjudicatario haya presentado su Oferta Económica en el Tramo A [2]. En ambos casos, se establece un número determinado de meses contados desde el inicio del plazo [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

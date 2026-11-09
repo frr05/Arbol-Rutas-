@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es variable. Aunque inicialmente se ofreció un plazo fijo de 25 años [5], el Convenio Complementario N°1 estableció un mecanismo de plazo variable, definiendo una fecha estimada de extinción y modificando las disposiciones para armonizar con este nuevo régimen [9].",
+  "fuentes": [
+   5,
+   9
+  ]
+ }
+}

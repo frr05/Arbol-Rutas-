@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:23",
+ "respuesta": {
+  "respuesta": "Se publicaron 2 decretos o resoluciones modificatorias del contrato: el Decreto Supremo N°71 (también referido como DS MOP N°71 de fecha 1 de febrero de 2005) que aprobó el Convenio Complementario N°1, y el Decreto Supremo N°316 (referido en los fragmentos como Núm. 316 o N? 316, de fecha 30 de abril de 2007) que aprobó el Convenio Complementario N°2 [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

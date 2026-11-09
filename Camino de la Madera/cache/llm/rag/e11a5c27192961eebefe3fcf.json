@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Las tarifas máximas se reajustan de acuerdo a lo que el licitante proponga en su oferta, dentro de dos posibilidades: Reajuste según IPC cada seis meses o Reajuste según IPC cada doce meses [3]. Para el caso de la opción de reajuste cada doce meses, las tarifas se reajustarán cada vez que la inflación acumulada supere el 15% [5]. Además, se establece un sistema de fraccionamiento para las tarifas resultantes [4], [10].",
+  "fuentes": [
+   3,
+   5,
+   4,
+   10
+  ]
+ }
+}

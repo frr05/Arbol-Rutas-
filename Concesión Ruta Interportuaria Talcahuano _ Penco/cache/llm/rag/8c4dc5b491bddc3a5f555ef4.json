@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "En el Sobre o Paquete denominado Oferta Económica se deben incluir los siguientes documentos: 1) El Formulario firmado por el Director General de Obras Públicas, en el que se hace constar el valor de cada uno de los Factores de Licitación definidos en las bases [1]. Este formulario debe presentarse sin enmiendas, tachaduras ni condicionamientos de ningún tipo [1]. 2) La garantía de seriedad de la oferta, la cual consiste en una o más boletas de garantía bancarias conforme a lo señalado en el artículo 1.5.7 de las Bases de Licitación [3]. Además, se debe entregar un (1) original y cinco (5) copias de la Oferta Económica agrupados físicamente en un sobre cerrado y firmado dirigido al Director General de Obras Públicas [2].",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

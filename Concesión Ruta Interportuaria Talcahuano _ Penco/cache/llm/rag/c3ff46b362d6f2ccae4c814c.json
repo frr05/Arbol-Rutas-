@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "El plazo máximo de la concesión depende del tramo de licitación adjudicado: será de 498 meses si se adjudica en el Tramo A, y de 378 meses en los demás casos [1]. Este plazo se cuenta desde el inicio del plazo de la concesión, el cual comienza a regir desde la fecha de publicación en el Diario Oficial del Decreto Supremo que otorga la concesión [7]. En caso de nuevas inversiones, el incremento del plazo máximo no podrá ser superior a 100 meses o 120 meses según corresponda [3], [4], [6].",
+  "fuentes": [
+   1,
+   7,
+   3,
+   4,
+   6
+  ]
+ }
+}

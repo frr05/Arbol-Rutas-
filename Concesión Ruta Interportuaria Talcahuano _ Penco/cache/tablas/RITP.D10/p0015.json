@@ -1,0 +1,59 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 15,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:12",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Campo",
+    "Valor"
+   ],
+   "filas": [
+    [
+     "A) Construcción",
+     "UF 240.211"
+    ],
+    [
+     "B) Conservación y Mantención",
+     "UF 22.287"
+    ],
+    [
+     "C) Proyectos de Ingeniería",
+     "UF 8.642"
+    ],
+    [
+     "D) Seguros adicionales",
+     "UF 6.513"
+    ],
+    [
+     "E) Mayores Gastos Generales",
+     "UF 18.980"
+    ],
+    [
+     "F) Gastos Adicionales de Administración y Control",
+     "UF 12.138"
+    ],
+    [
+     "G) Gastos de Financiamiento",
+     "UF 8.000"
+    ],
+    [
+     "Subtotal Neto",
+     "UF 316.771"
+    ],
+    [
+     "Menos Disminución de Obras",
+     "UF 26.973"
+    ],
+    [
+     "TOTAL NETO (Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades de Fomento).",
+     "UF 289.798"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

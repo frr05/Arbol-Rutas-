@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D17",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "sha256": "85339156416f411de47d898f508c43e01bf43bf939fe16dabf189e9309d3b200",
+ "paginas": 182,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:09"
+}

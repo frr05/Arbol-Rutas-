@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D10",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "sha256": "d394f6ca15fc01fcbcd6c4676ae4c720aa3f968f7701d02f6ad1e566872d0f95",
+ "paginas": 47,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:05"
+}

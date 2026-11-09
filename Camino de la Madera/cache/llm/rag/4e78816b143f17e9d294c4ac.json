@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "La información disponible en los fragmentos no especifica una tarifa máxima base por kilómetro o por plaza para vehículos livianos. Los documentos establecen que el licitante debe ofrecer una tarifa máxima para autos (vehículos livianos) por sentido, la cual no podrá ser superior a $1.500 [2], y esta tarifa se reajusta semestralmente utilizando una Tarifa Base P que parte desde ese valor inicial [8]. No se menciona un cobro basado en kilómetros o plazas.",
+  "fuentes": [
+   2,
+   8
+  ]
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:32",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0043]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0044]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0045]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[RITP.D10.F0046]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0047]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0048]",
+    "destino": "BL:2.3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0049]",
+    "destino": "BL:2.3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0050]",
+    "destino": "BL:2.3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0051]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0054]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0055]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0056]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0057]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0058]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0059]",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0060]",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0061]",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0062]",
+    "destino": "BL:2.3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0063]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0064]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0065]",
+    "destino": "BL:1.14.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0066]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0067]",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "[RITP.D10.F0068]",
+    "destino": "BL:1.14.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0069]",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

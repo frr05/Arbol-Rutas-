@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión puede ser fijo o variable dependiendo del tramo de licitación en el que se presente la oferta. Si la oferta se presenta en el Tramo A, el plazo es variable y se extingue cuando se cumple una relación específica entre el Valor Presente Incrementado (VPI) y el costo total (ITC), sin exceder un máximo de 498 meses [7], [2]. Si la oferta se presenta en el Tramo B, el plazo es fijo e igual a 378 meses [4]. En general, para ofertas no clasificadas en el Tramo A con plazo máximo de 498 meses, el plazo estándar es de 378 meses [1], [2].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   7
+  ]
+ }
+}

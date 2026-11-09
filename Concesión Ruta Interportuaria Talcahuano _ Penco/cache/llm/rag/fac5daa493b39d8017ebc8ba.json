@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no contiene el umbral del Índice de Servicio Prestado (ISP) ni sus tramos.",
+  "fuentes": []
+ }
+}

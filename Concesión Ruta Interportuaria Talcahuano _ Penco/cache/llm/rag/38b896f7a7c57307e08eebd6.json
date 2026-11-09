@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:22",
+ "respuesta": {
+  "respuesta": "El valor de las tarifas se reajustará a partir del día 10 de enero de cada año de explotación, en virtud, entre otros factores, de la variación del Índice de Precios al Consumidor (IPC) [1]. El IPC será aquél determinado por el Instituto Nacional de Estadística o el organismo que lo reemplace o suceda legalmente [8]. En caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace [2].",
+  "fuentes": [
+   1,
+   2,
+   8
+  ]
+ }
+}

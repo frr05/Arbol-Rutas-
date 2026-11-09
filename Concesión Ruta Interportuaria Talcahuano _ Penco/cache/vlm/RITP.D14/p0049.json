@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 49,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 526,
+ "segundos": 17.8,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 339,
+  "conf_media": 0.899,
+  "frac_baja": 0.032,
+  "frac_rara": 0.0,
+  "tinta": 0.0591
+ },
+ "n_palabras_vlm": 349,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.953,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA 5.4.\n\nprovoque una fatalidad, los pulmones dañados pueden incapacitar a la\nvíctima por un tiempo bastante largo.\n\nLimpieza de manos y parte del cuerpo cómo desengrasante O como\ndiluyente para limpieza de manchas de pintura. El contacto de bencina\ncon la piel puede destruir la capa protectora exterior, disolver 6l\nrecubrimiento graso e inhibir el mecanismo defensivo contra los ataques\ndel ambiente natural,\n\nEl contacto prolongado con el combustible puede causar irritación,\nquemaduras, ulceración e inflamación de la piel. El benceno contenido en\nla bencina al ser inhalado, puede provocar una depresión del sistema\nnervioso central, (narcosis aguda o crónica) y daños hematológicos.\n\n7.10 Uso de cables de empalme para arranque de baterías\n\nPara hacer arrancar un vehículo por medio de yn puente, porque la baterta está\ndescargada, suelen usar cables de empalmes.\n\nPara lograr un resultado seguro, deben seguirse las reglas dadas a continuación,\nen el orden que aquí aparecen:\n\nAsegurar la zona de trabajo de acuerdo al procedimiento.\n\nAsegúrese de que en ambos vehiculos, el borne negativo está conectado\na tierra.\n\nAsegúrese de que las dos baterias giren el mismo voltaje nominal (es\ndecir, ambas de 12V' o ambas de 24V)\n\nVerificar que los vehiculos no se tocan, que ambos están frenados coh el\nfreno de mano, ambos en punto muerto y con el arranque y todos los\ninterruptores eléctricos en posición de desconexión,\n\nAgregar agua destilada a los elementos que la necesiten.\n\nCon las pinzas del cable rojo, conectar con firmeza el borne positivo de\nla batería en buen estado al borne positivo de la bateria descargada.\n\nCon las pinzas del cable negro, conectar firmemente al borne negativo\nde la bateria en buen estado a una parte del metal sin pintar del motor\nque tiene la baterla descargada. Al hacer esta conexión final, se producirá\nuna chispa; por lo tanto, es importente hacer esta conexión lo mas lejos\nde la batería que sea factible, o de cualquier fuga de combustible.\n\nHacer arrancar el motor del vehículo que tiene la batería cargada.\n\nde",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\nprovoque una fatalidad, los pulmones dañados pueden incapacitar a la víctima por un tiempo bastante largo.\n- Limpieza de manos y parte del cuerpo como desengrasante o como diluyente para limpieza de manchas de pintura. El contacto de bencina con la piel puede destruir la capa protectora exterior, disolver el recubrimiento graso e inhibir el mecanismo defensivo contra los ataques del ambiente natural.\n- El contacto prolongado con el combustible puede causar irritación, quemaduras, ulceración e inflamación de la piel. El benceno contenido en la bencina al ser inhalado, puede provocar una depresión del sistema nervioso central, (narcosis aguda o crónica) y daños hematológicos.\n7.10 Uso de cables de empalme para arranque de baterías\nPara hacer arrancar un vehículo por medio de un puente, porque la batería está descargada, suelen usar cables de empalme.\nPara lograr un resultado seguro, deben seguirse las reglas dadas a continuación, en el orden que aquí aparecen:\n- Asegurar la zona de trabajo de acuerdo al procedimiento.\n- Asegúrese de que en ambos vehículos, el borne negativo está conectado a tierra.\n- Asegúrese de que las dos baterías giren el mismo voltaje nominal (es decir, ambas de 12V o ambas de 24V)\n- Verificar que los vehículos no se tocan, que ambos están frenados con el freno de mano, ambos en punto muerto y con el arranque y todos los interruptores eléctricos en posición de desconexión.\n- Agregar agua destilada a los elementos que la necesiten.\n- Con las pinzas del cable rojo, conectar con firmeza el borne positivo de la batería en buen estado al borne positivo de la batería descargada.\n- Con las pinzas del cable negro, conectar firmemente al borne negativo de la batería en buen estado a una parte del metal sin pintar del motor que tiene la batería descargada. Al hacer esta conexión final, se producirá una chispa; por lo tanto, es importante hacer esta conexión lo mas lejos de la batería que sea factible, o de cualquier fuga de combustible.\n- Hacer arrancar el motor del vehículo que tiene la batería cargada.\n48"
+}

@@ -1,0 +1,80 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:43",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "señalada en el numeral ii) del primer párrafo del presente Nº 2.",
+    "debe_decir": "En caso de que las compañías de seguro no ofrezcan cobertura por disturbios populares y actos maliciosos en la póliza de catástrofe, la Sociedad Concesionaria deberá contratar una póliza de seguro independiente para cubrir, durante el período de ejecución de la obra dispuesta en el presente Nº 2, los perjuicios por disturbios populares y actos maliciosos, la que deberá cumplir con los mismos términos y condiciones señalados en el artículo 1.6.14 de las Bases de Licitación en todo lo que les sea aplicable. La Sociedad Concesionaria deberá acreditar ante el Inspector Fiscal que la obra denominada “Obra Pasarela Choroico” cuenta con la póliza de seguro independiente antes señalada, dentro del plazo máximo de 10 días hábiles, contado desde la fecha en que la Sociedad Concesionaria hubiere acreditado ante el Inspector Fiscal que las compañías de seguro no ofrecen cobertura por disturbios populares y actos maliciosos en la póliza de catástrofe, de conformidad con lo señalado en el párrafo anteprecedente. Lo anterior, será requisito para el inicio de la ejecución de la obra. En caso de que la Sociedad Concesionaria no acredite lo establecido en las letras a) y b) anteriores, según corresponda, en los plazos establecidos, se aplicará a la Sociedad Concesionaria una multa de 2 UTM por cada día o fracción de día de atraso, por cada tipo de póliza no entregada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.4",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     341,
+     377
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     378,
+     383
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     385,
+     398
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.6"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     399,
+     413
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.7"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     414,
+     418
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.8"
+   }
+  ]
+ }
+}

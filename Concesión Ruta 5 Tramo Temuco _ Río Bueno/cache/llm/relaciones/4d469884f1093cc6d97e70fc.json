@@ -1,0 +1,29 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:46",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria podrá iniciar el cobro de tarifas en el Sector i) señalado en 1.7.2.5 denominado “Gorbea - Máfil” una vez obtenida la autorización de Puesta en Servicio Provisoria del sector y tomando en cuenta lo dispuesto en 1.14.",
+    "debe_decir": "La sociedad concesionaria podrá iniciar el cobro de tarifas en el sector i) señalado en el artículo 1.7.2.5 de las Bases de Licitación denominado “Gorbea-Máfil”, a partir de la 00:00 hrs. del día siguiente al de la dictación de la Resolución del DGOP que autoriza la puesta en servicio provisoria del sector y de acuerdo a lo establecido en las Bases de Licitación y las estipulaciones de este convenio.\nPara los efectos de lo señalado en el párrafo anterior, la sociedad concesionaria deberá haber ejecutado todas las obras contenidas en el proyecto original para el citado sector según las Bases de Licitación, incluidos los servicios en ellas estipulados, a excepción de las Obras y Servicios que se describen en el Anexo 7 (Obras y Servicios Pendientes)\nLa ejecución de las obras establecidas en el Anexo 7 (Obras y Servicios Pendientes) será realizada de acuerdo al Programa de Obras Originales definido en el numeral 7.1 del presente convenio complementario, en virtud de lo establecido en el Anexo 6 ltem 2 (Programa de Antelación de Entrega de Terrenos para las obras originales).\nPor tanto, para otorgar la autorización de puesta en servicio provisoria del sector ¡) deberán estar ejecutadas y aprobadas por el Inspector Fiscal, la totalidad de las obras y servicios, a excepción de aquellas definidas en el Anexo 7 (Obras y Servicios Pendientes), correspondientes a los tramos del sector ¡) Gorbea — Máfil que se establecen a continuación:\ne Tramo a), comprendido entre el Km. 718,300 hasta el Km. 751,000.\ne Tramo b), comprendido entre el Km. 774,000 hasta el Km. 805,000.\nAdemás, será condición para otorgar la puesta en servicio provisoria del sector ¡) que la sociedad concesionaria hubiese ejecutado todas las obras y servicios, a excepción de aquellas definidas en el Anexo 7 (Obras y Servicios Pendientes), correspondientes a los tramos del sector ¡i) Máfil — Río Bueno que se establecen a continuación:\ne Tramo a), comprendido entre el Km. 805,000 hasta el Km. 815,000.\ne Tramo b), comprendido entre el Km. 855,000 hasta el Km. 875,000\nAdicionalmente, cada vez que sean completados al menos 10 kilómetros continuos",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.1.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "una maqueta a escala de la totalidad de la obra, con cubierta de plástico transparente. Las escalas de la maqueta deberán ser aprobadas por el Inspector Fiscal.",
+    "debe_decir": "2 copias de un set de fotografías aéreas en colores, en escala 1: 5000 y formato 25 cm x 25 cm de la totalidad de la obra.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 35,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 246,
+ "segundos": 11.2,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 167,
+  "conf_media": 0.859,
+  "frac_baja": 0.084,
+  "frac_rara": 0.038,
+  "tinta": 0.0285
+ },
+ "n_palabras_vlm": 167,
+ "frac_rara_vlm": 0.037,
+ "similitud": 0.959,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nBaliza Lineal.\n\nFocos faeneros. Mínimo 4.\n\nFlecha led para desvíos de tránsito\n\n2 extintores de 6 Kg. C/U Para fuegos ABC Certificados.\n\n2 Cadenas de 3/8 con gancho tipo J y gancho, de 4 m de largo cada uno.\nFrazadas\n\n- Herramientas.\n\nLlaves de Punta de 8 mm a 36 mm.\n\nLlaves de Corona de 8 mm a 36 mm.\n\nLlaves francesas\n\nLlave Steelson\n\nJuego de atornilladores de todo tipo,\n\nJuego de alicates de todo tipo.\n\nCalmaán.\n\nLlaves de cruz para automóviles y camiones.\n\n1 Gata de 2 Ton tipo caimán para automóviles,\n2 Gatas de 20 Ton C/U\n\n1 Chuzo.\n\n1 Pala\n\n2 Escobillas tipo municipai\n\n2 Bidones de Combustible 20 L C/U,\n\né Cuñas de Maderas\n\n30 Conos de señalización con Doble Cinta Reflectiva\nEquipo portátil para puente de bateria (Booster)\n\n- — Equipamiento del botiquín de primeros auxilios\n\nApósitos.\n\nGasa.\n\nCinta Adhesiva.\nPovidona Yodada,\nAgua Oxigenada.\nSusro Fisiológico\nAlgodón,\n\nGuantes Quirúrgicos.\nTijeras.\n\nPinzas,\n\nFérula.\n\n7 4Inspección de la ruta",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\nBaliza Lineal.\nFocos faeneros. Mínimo 4.\nFlecha led para desvíos de tránsito\n2 extintores de 6 Kg. C/U Para fuegos ABC Certificados.\n2 Cadenas de 3/8 con gancho tipo J y gancho, de 4 m de largo cada uno.\nFrazadas\n- Herramientas.\nLlaves de Punta de 8 mm a 36 mm.\nLlaves de Corona de 8 mm a 36 mm.\nLlaves francesas\nLlave Steelson\nJuego de atornilladores de todo tipo.\nJuego de alicates de todo tipo.\nCaimán.\nLlaves de cruz para automóviles y camiones.\n1 Gata de 2 Ton tipo caimán para automóviles.\n2 Gatas de 20 Ton C/U\n1 Chuzo.\n1 Pala\n2 Escobillas tipo municipal\n2 Bidones de Combustible 20 L C/U.\n8 Cuñas de Maderas\n30 Conos de señalización con Doble Cinta Reflectiva\nEquipo portátil para puente de batería (Booster)\n- Equipamiento del botiquín de primeros auxilios\nApósitos.\nGasa.\nCinta Adhesiva.\nPovidona Yodada.\nAgua Oxigenada.\nSuero Fisiológico\nAlgodón.\nGuantes Quirúrgicos.\nTijeras.\nPinzas.\nFérula.\n7.4 Inspección de la ruta\n34"
+}

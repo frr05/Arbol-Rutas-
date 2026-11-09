@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es fijo, de 378 meses, según lo establecido en el artículo 1.7.6.2 de las Bases de Licitación y en la Oferta Económica presentada por el adjudicatario [2][10].",
+  "fuentes": [
+   2,
+   10
+  ]
+ }
+}

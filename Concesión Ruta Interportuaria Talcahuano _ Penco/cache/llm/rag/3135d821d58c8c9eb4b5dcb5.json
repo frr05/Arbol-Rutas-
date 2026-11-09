@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:11",
+ "respuesta": {
+  "respuesta": "Se imputa un 80% de los ingresos totales de explotación para pagar el precio del servicio de construcción [1], [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 01:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P31"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión.",
+    "debe_decir": "Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P35"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No prestación de servicios complementarios propuestos por el licitante o grupo licitante y aprobados por la Comisión de Evaluación de la Oferta Técnica, en las condiciones establecidas en su Oferta.",
+    "debe_decir": "No prestación de los servicios complementarios ofrecidos por el Concesionario, en las condiciones convenidas con el MOP,",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 04:44",
+ "costo": 0.0007896,
+ "texto": "{\"tablas\": [{\"titulo\": \"Cuadro: Factores de Equivalencia\", \"encabezados\": [\"N°\", \"Tipo de Vehículo\", \"Factores de equivalencia f_i,p / Horario Normal\", \"Factores de equivalencia f_i,p / Horario Punta\"], \"filas\": [[\"1\", \"Motos y Motonetas\", \"0,50\", \"0,50\"], [\"2\", \"Autos\", \"1,00\", \"1,00\"], [\"3\", \"Camionetas\", \"1,00\", \"1,00\"], [\"4\", \"Camiones de 2 Ejes\", \"2,88\", \"2,88\"], [\"5\", \"Camiones de más de 2 Ejes\", \"3,85\", \"4,81\"], [\"6\", \"Buses de 2 Ejes\", \"2,50\", \"2,50\"], [\"7\", \"Buses de más de 2 Ejes\", \"3,00\", \"3,00\"], [\"8\", \"Autos y Camionetas con Remolque\", \"1,50\", \"1,50\"]], \"notas\": \"Para la clasificación de los flujos en horario normal y horario punta se empleará la definición autorizada durante el año 2002.\"}]}"
+}

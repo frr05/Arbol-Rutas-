@@ -1,0 +1,1 @@
+{"documento": "RITP.D01", "pagina": 214, "dpi": 300, "fuente": "ocr", "motor": "tesseract", "ancho": 2480, "alto": 3517, "rotacion": 0, "items": [{"tipo": "linea", "texto": "Foo!", "bbox": [2403.0, 1059.0, 2414.0, 1089.0], "conf": 0.28}], "texto": "Foo!", "calidad": {"n_palabras": 1, "conf_media": 0.28, "frac_baja": 1.0, "frac_rara": 0.0, "tinta": 0.0004}, "segundos": 0.4}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:01",
+ "respuesta": {
+  "respuesta": "El valor de las tarifas se reajusta considerando la variación del Índice de Precios al Consumidor (IPC) publicado por el Instituto Nacional de Estadísticas (INE) [1]. Para valores de t mayores que 1, el IPC corresponde a la variación entre la fecha del último reajuste tarifario y el 31 de Diciembre del año t-1 de explotación [1]. En caso de que el IPC deje de existir como índice relevante, se aplicará el mecanismo que lo reemplace [1]. Además, existe un reajuste máximo real anual (RR) que puede aplicar la Sociedad Concesionaria cada 10 de Enero [1]. También se establece una fórmula específica para cuando hay una variación acumulada del IPC igual o superior al 15%, calculando la variación entre la fecha del último reajuste y el último día del mes anterior a la fecha que se compruebe dicha variación [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

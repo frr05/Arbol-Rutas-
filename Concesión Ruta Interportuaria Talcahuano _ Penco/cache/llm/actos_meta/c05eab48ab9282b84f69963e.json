@@ -1,0 +1,10 @@
+{
+ "tarea": "actos_meta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:53",
+ "respuesta": {
+  "tipo": "Circular Aclaratoria",
+  "numero": "4",
+  "fecha": "2001-11-22"
+ }
+}

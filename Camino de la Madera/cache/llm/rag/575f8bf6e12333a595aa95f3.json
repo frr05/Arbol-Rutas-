@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. El Reglamento de Servicio establece una clasificación de vehículos en tipos y categorías (como Autos, Camionetas, Camiones de dos ejes, etc.) [2]. Además, se indica que la concesionaria está obligada a percibir peajes dentro de las tarifas máximas para cada tipo de vehículo, pudiendo establecer cobros diferenciados según hora, día o época del año, pero no discriminando a vehículos del mismo tipo que usen los servicios en las mismas condiciones [1]. Asimismo, las bases de licitación confirman que el concesionario puede cobrar tarifas diferenciadas por hora, día de la semana, época del año y sentido, manteniendo las tarifas máximas para cada tipo de vehículo [4].",
+  "fuentes": [
+   1,
+   2,
+   4
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:13",
+ "respuesta": {
+  "respuesta": "La información proporcionada no especifica las comunas que abarca la concesión del Camino de la Madera. El fragmento [1] menciona la Comuna de Melipeuco, pero este acto se refiere a la denegación de una concesión de exploración de energía geotérmica y no a la concesión vial del Camino de la Madera.",
+  "fuentes": [
+   1
+  ]
+ }
+}

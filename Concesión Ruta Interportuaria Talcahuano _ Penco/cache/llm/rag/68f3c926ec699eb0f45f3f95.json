@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "La longitud del proyecto es de aproximadamente 10,9 km según la descripción del proyecto [10], aunque también se menciona una longitud de 14,4 km en relación con la vía concesionada para efectos de peaje [2].",
+  "fuentes": [
+   2,
+   10
+  ]
+ }
+}

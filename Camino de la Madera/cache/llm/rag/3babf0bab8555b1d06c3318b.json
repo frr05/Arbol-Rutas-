@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:13",
+ "respuesta": {
+  "respuesta": "El plazo de concesión ofrecido en la oferta económica es de 25 años [8]. Las bases establecen que el licitante deberá ofrecer un plazo que no deberá superar los 25 años contados desde la fecha de suscripción y protocolización del Decreto de Adjudicación [1], [9]. No obstante, según el Convenio Complementario N°1, el plazo total de la concesión no podrá exceder el máximo de 50 años establecido en el artículo 25 de la Ley de Concesiones [2].",
+  "fuentes": [
+   1,
+   2,
+   8,
+   9
+  ]
+ }
+}

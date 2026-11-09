@@ -1,0 +1,59 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:20",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     2512,
+     2514
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.12",
+    "operacion": "aclara",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.2.14",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El monto de dichas obras, no podrá superar las 50.000 UF, y será pagado directamente por el MOP a la Sociedad Concesionaria una vez comprobada la correcta ejecución de las mismas.",
+    "debe_decir": "En todo caso, dichas obras no podrán afectar al cobro de peajes por parte de la Sociedad Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     2570,
+     2597
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Las tarifas máximas se reajustan de acuerdo a lo que el licitante proponga en su oferta, dentro de dos posibilidades: OPCION 1: Reajuste según IPC cada seis meses; y OPCION 2: Reajuste según IPC cada doce meses [1]. Independientemente de la opción propuesta, las tarifas se reajustarán cada vez que la inflación acumulada (medida por el Índice de Precios al Consumidor - IPC) supere el 15% desde el último reajuste [1]. Para el primer reajuste, la inflación acumulada se mide a partir de la Puesta en Servicio Previsional de la obra [1]. A partir del año 2005, el reajuste de tarifas se aplica semestralmente a partir de las 00.00 horas del 1° de Enero de cada año [7]. El reajuste utiliza la variación del IPC publicado por el Instituto Nacional de Estadísticas (INE), comparando el IPC del 31 de marzo del año base (1993) con el IPC correspondiente al periodo de referencia (noviembre o mayo según corresponda) [4]. Si el indicador dejara de existir, se aplicaría el mecanismo que lo reemplace [4].",
+  "fuentes": [
+   1,
+   4,
+   7
+  ]
+ }
+}

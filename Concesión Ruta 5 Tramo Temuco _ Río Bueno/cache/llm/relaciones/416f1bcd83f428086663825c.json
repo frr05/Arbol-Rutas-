@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:57",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.7",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Los pagos se harán mediante Vale Vista o Cheque Nominativo extendidos a nombre de la Sociedad Concesionaria.",
+    "debe_decir": "g a quien corresponda legalmente.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

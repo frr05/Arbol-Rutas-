@@ -1,0 +1,191 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [
+     1858,
+     1865
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P20"
+    ],
+    "texto_nuevo": [
+     1882,
+     1884
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P21"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Fiscalizar el Contrato de Concesión por parte del MOP;",
+    "debe_decir": "Administrar el contrato de concesión por parte del MOP.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P22"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Entregar a la DGOP los reportes que esta Dirección solicite relativos a la gestión de la Concesión;",
+    "debe_decir": "Entregar a la División de Explotación de la Coordinación General de Construcción de Obras Concesionadas, dependiente de la Dirección General de Obras Públicas del MOP, los informes € reportes que esa J)iwisión solicite, respecio de la gestion de la explotación de la obra:",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P23"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Realizar los análisis pertinentes de los antecedentes que debe entregar la Sociedad Concesionaria;",
+    "debe_decir": "Exigir y analizar los antecedentos que deba entregar la Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P24"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Fiscalizar el cumplimiento de las normas técnicas sobre la conservación de las obras;",
+    "debe_decir": "Controlar el cumplimiento de las normas sobre la conservación de las obras y el Programa de Conservación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Fiscalizar el cumplimiento del plan de trabajo aprobado;",
+    "debe_decir": "Controlar el cumplimiento del Plan de Trabajo, aprobado por el Inspector Fiscal.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P26"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Fiscalizar el cumplimiento de las normas técnicas sobre la operación de las obras;",
+    "debe_decir": "Controlar el cumplimiento de las normas sobre la operación de las obras.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Fiscalizar el cumplimiento del reglamento de servicio de la obra;",
+    "debe_decir": "Controlar la correcta aplicación de este Reglamento de Servicio.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Fiscalizar el cumplimiento del cobro de tarifas;",
+    "debe_decir": "Controlar el cumplimiento de las tarifas aprobadas y su correcta aplicación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P29"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1) Revisar la información estadística entregada por la Sociedad Concesionaria;",
+    "debe_decir": "Revisar la información estadistica entregada por la Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P30"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "j) Fiscalizar el cumplimiento de las condiciones económicas de la Licitación;",
+    "debe_decir": "Controlar el cumplimiento de las condiciones económicas de la licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P31"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "k) Proponer la aplicación de multas;",
+    "debe_decir": "Proponer la aplicación de multas, cuando proceda.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P32"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "I) Fiscalizar el cumplimiento en la entrega de la información de los estados financieros del Concesionario;",
+    "debe_decir": "Controlar el cumplimiento en la entrega de información de los estados financieras de la Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P33"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "m) Fiscalizar el cumplimiento de las normas legales y reglamentarias aplicables al Contrato.",
+    "debe_decir": "Controlar el cumplimiento de las normas legales y reglamentarias aplicables al contrato.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.6.2",
+    "operacion": "elimina",
+    "parrafos": [
+     "P34"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

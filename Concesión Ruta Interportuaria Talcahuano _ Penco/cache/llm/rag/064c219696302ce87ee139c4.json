@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "El monto de la garantía de seriedad de la oferta es de UF 17.000 (diecisiete mil Unidades de Fomento) [1]. Su plazo de vigencia debe ser igual al de la validez de la Oferta, que es de 150 días a contar de la fecha de apertura de la Oferta [1], [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

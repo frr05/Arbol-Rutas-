@@ -1,0 +1,45 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 19:46",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.5.5 — 1.5,5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica",
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.14.6.1.1 — 1.14.6.1.1 Ingresos Mínimos Garantizados por el Estado",
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.14.6.1.2 — 1.14.6.1.2 Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria",
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.15.2 — 1.152 Fórmula de Ajuste Tarifario",
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:23",
+ "respuesta": {
+  "respuesta": "La multa por atraso en el plazo máximo de la Puesta en Servicio Provisoria es de 180 UTM por cada día de atraso [2].",
+  "fuentes": [
+   2,
+   5
+  ]
+ }
+}

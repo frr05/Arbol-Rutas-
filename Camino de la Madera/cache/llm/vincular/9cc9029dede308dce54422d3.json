@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:02",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D11.F0069] (Convenio complementario N°1) 1. Desarrollo según Cuadro: Parte 2 N* 1",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0070] (Convenio complementario N°1) 2. Inversiones según lo Cuadro: Parte 1 N* 9 del presente anexo. En el mes 117 se verifica la relación (1) del numeral 5.5 del presente convenio complementario, pues se tiene: MDI,,, = 7.189.158,18 > 7.188.236,50 =Y7G Por lo tanto, conforme lo estipulado en el numeral 5.5 del convenio complementario la concesión se extinguirá el mes calendario siguiente al que se cumpla la relación (1), esto es la concesión se exting",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0071] (Convenio complementario N°1) Anexo N 4, Caso 2: la Concesión se extiende y cumplido el mes T+60 el MOP paga el total Supuestos adicionales:",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0072] (Convenio complementario N°1) 1. Desarrollo según Cuadro: Parte 2 N* 2.",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0073] (Convenio complementario N°1) 2. Inversiones según lo Cuadro: Parte 1 N” 9 del presente anexo.",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0074] (Convenio complementario N°1) 3. Para la determinación de Ci se utiliza la siguiente expresión: C, =20.000x 1,02%\" 7 CUM , . Donde se han supuesto costos de UF 20.000 y una tasa anual de crecimiento de 2%. El valor CMM, es el supuesto en la columna (4) del Cuadro: Parte 2 N*2-b y se asume para efectos del ejemplo que se verifican en monto y mes cada dos años. De esta manera, en la columna (5) del Cuadro Parte 2 N” 2-b se indican los Ci mensuales",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0075] (Convenio complementario N°1) Anexo 4, Caso 3: Concesión se extiende y cumplido el mes T+60 el MOP prepaga parcialmente. Supuestos adicionales:",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0076] (Convenio complementario N°1) 1. Desarrollo según Cuadro: Parte 2 N? 3,",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0077] (Convenio complementario N°1) 2. Inversiones según lo Cuadro: Parte 1 N* 9 del presente anexo.",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0078] (Convenio complementario N°1) 3. Para la determinación de Ci se utiliza la siguiente expresión: C, =20.000x 1,02% 4, CUM, . Donde se han supuesto costos de UF 20.000 y una tasa anual de crecimiento de 2%. El valor CMM, es el supuesto en la columna (4) del Cuadro: Parte 2 N*3-b y se asume para efectos del ejemplo que se verifican en monto y mes cada dos años. De esta manera, en la columna (5) del Cuadro Parte 2 N* 3-b se indican los Ci mensuales o",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0079] (Convenio complementario N°1) CUADRO PARTE 2 N° 1 (continuación) (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) N° MES PRIMA INGRESOS INVERSIONES COSTOS PAGOS MOP CUENTA PSC YCi Σi=m i=1 (1+0,7592%)i INV i Σi=m i=1 (1+0,7592%)i Ci Σi=m i=1 (1+0,7592%)i PMOPi Σi=m i=1 (1+0,7592%)i MDIm (UF) (UF) (UF) (UF) (UF) (UF) (UF) (UF) 90 Jun-10 575.058,92 93.655,39 5.679.431,64 - 505.781,62 - - 5.748.708,94 91 Jul-10 575.058,92 102.742,68 5.731.054,52 -",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0080] (Convenio complementario N°1) CUADRO PARTE 2 N° 2 (continuación) (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) N° MES PRIMA INGRESOS INVERSIONES COSTOS PAGOS MOP CUENTA PSC YCi Σ (1 + 0,7592%)' Σ (1 + 0,7592%)' Ci Σ (1 + 0,7592%)' PMOP_i Σ (1 + 0,7592%)' MDI (UF) (UF) (UF) (UF) (UF) (UF) (UF) (UF) 121 Ene-13 575.058,92 111.371,45 5.935.844,89 - 505.781,62 20.400,00 8.169,21 - 5.996.952,98 122 Feb-13 575.058,92 119.179,13 5.983.210,76 - 505.78",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0081] (Convenio complementario N°1) (1) (2) (3) (4) (5) N° MES 20.000x 1,02 añoA-añoT CMMi Ci 164 Ago-16 21.648,64 - 21.648,64 165 Sep-16 21.648,64 - 21.648,64 166 Oct-16 21.648,64 - 21.648,64 167 Nov-16 21.648,64 - 21.648,64 168 Dic-16 21.648,64 - 21.648,64 169 Ene-17 22.081,62 - 22.081,62 170 Feb-17 22.081,62 - 22.081,62 171 Mar-17 22.081,62 - 22.081,62 172 Abr-17 22.081,62 - 22.081,62 173 May-17 22.081,62 - 22.081,62 174 Jun-17 22.081,62 - 22.081,62",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0082] (Convenio complementario N°1) CUADRO PARTE 2 N° 3 (continuación) (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) N° MES PRIMA INGRESOS INVERSIONES COSTOS PAGOS MOP CUENTA (PSC (YC_i ∑_(i=1)^(i=m) (YC_i)/((1+0,7592%)^i) INV_i ∑_(i=1)^(i=m) (INV_i)/((1+0,7592%)^i) C_i ∑_(i=r+1)^(i=m) (C_i)/((1+0,7592%)^i) PMOP_i ∑_(i=1)^(i=m) (PMOP_i)/((1+0,7592%)^i) MDI_m (UF) (UF) (UF) (UF) (UF) (UF) (UF) (UF) (UF) 120 Dic-12 575.058,92 81.791,31 5.857.370,17",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0083] (Convenio complementario N°1) (1) (2) (3) (4) (5) N° MES 20.000x CMMi Ci 1,02 añoA-anoT 164 Ago-16 21.648,64 - 21.648,64 165 Sep-16 21.648,64 - 21.648,64 166 Oct-16 21.648,64 - 21.648,64 167 Nov-16 21.648,64 - 21.648,64 168 Dic-16 21.648,64 - 21.648,64 169 Ene-17 22.081,62 - 22.081,62 170 Feb-17 22.081,62 - 22.081,62 171 Mar-17 22.081,62 - 22.081,62 172 Abr-17 22.081,62 - 22.081,62 173 May-17 22.081,62 - 22.081,62 174 Jun-17 22.081,62 - 22.081,62",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0084] (Convenio complementario N°1) ANEXO N* 4 EJEMPLO NUMERICO => PARTE B: APLICACION NUMERAL 53.6 A continuación se presenta un ejemplo con una aplicación de lo dispuesto en el numeral 5.6 del presente convenio, sólo en lo que se refiere a la facultad de la Sociedad Concesionaria de aplicar aumentos sobre la tarifa Base, para el caso de la concesion “Camino de la Madera”. Para estos efectos consideraremos los siguientes valores como datos:",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0085] (Convenio complementario N°1) 1. Elvalor veg, = 699.394 según se fija en el numeral 5.6 del presente convenio.",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0086] (Convenio complementario N°1) 2. La Tarifa Base P = $1.500, expresada en moneda del 31 de marzo de 1993.",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0087] (Convenio complementario N°1) 3. Conforme a lo anterior, y según lo dispuesto en el artículo 111.1.1 de las Bases de Licitación y según se modifica en el numeral 7.3 del presente convenio, se considera el valor de IPC del 31 de marzo de 1993 igual a 64,69. Y consideraremos el supuesto que T= 100 meses, luego año (T) = 2011. Además, para este ejemplo se considerarán los valores supuestos que se indica en el Cuadro “Alza de Tarifa Base” donde: — la",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0088] (Convenio complementario N°1) En el evento que, para cualquiera de los reajustes, la Sociedad Concesionaria decida cobrar tarifas inferiores a las máximas deberá tener en cuenta las restricciones fijadas en el numeral 5.2 del convenio complementario N*%1 para cada tipo de vehículo y horario. AÑO 2006 Para evaluar si el Concesionario tiene derecho a un alza en la tarifa Base para el año 2006 (t=4), se considerará el valor de los vehículos equivale",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0089] (Convenio complementario N°1) > Atarifa ; <10,00% ya que el resultado de la sumatoria sería 13,99%. Por lo tanto, el valor máximo de alza en la tarifa Base que podrá aplicar la Sociedad Concesionaria será sólo de 1,01%, alcanzando así el valor acumulado máximo de aumento en la tarifa Base a que tendría derecho la Sociedad Concesionaria, de un10%. De esta manera, a partir del reajuste correspondiente a enero de 2011, la tarifa Base P máxima que po",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D11.F0090] (Convenio complementario N°1) Anexo N%5 Sentencia Arbitral a) Mantención Tramo 4, desde el 7/11/1998 hasta el término de la concesión original 1998 1999 2000 . 2002 2003-2019 MINISTERIO DE OBRAS PUBLICAS DIRECCION GRAL. DE OBRAS PUBLICAS DIRECCION DE VIALIDAD PROYECTO DIBUJO REVISI EJECUCION DEL PROYECTO APROBACION DEL PROYECTO MANUEL ZAMBRANO SOTO Administrador Contratos de Concesión Inspector Fical de Explotación REGION: VIII PROVINCIA: BIO - B",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D11.F0091] (Convenio complementario N°1) Anexo N*5 Sentencia Arbitral c) Mantención Tramo 4, desde el 19/5/1997 hasta 6/11/1998 EL ZAMBRANO SOTO dor Contratos de Concesión",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D08.F0001] (Resolucion N°4333) OFICINA DE PARTES 4333 TOMA DE RAZON RECEPCION. DEPART. SUB. DEP. Í E CUENTAS SUB, DEP. Bo CAY BIENES. NAC. | DEPART, | AUDITORÍA J-— DEPART. vV.Oo.P,UyT. SUB, DEP. MUNICIP, REFRENDACION MINISTERIO DE HACIENDA |",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D08.F0004] (Resolucion N°4333) ESTABLÉCESE que las condiciones particulares derivadas de la presente resolución, entre otros, sus efectos económicos y financieros, serán materia de un convenio complementario que para el efecto suscribirán las partes del contrato de concesión. : ESTABLÉCESE que dentro del plazo de 10 días hábiles contados desde la fecha . » e Ea A IS £ £ . de tramitación de la presente Resolución, tres transcripciones de ésta deber",
+    "destino": "TEMA:regimen_economico"
+   }
+  ]
+ }
+}

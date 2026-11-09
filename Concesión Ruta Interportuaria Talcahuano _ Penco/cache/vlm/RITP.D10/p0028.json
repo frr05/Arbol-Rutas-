@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 28,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 40,
+ "segundos": 6.0,
+ "fecha": "2026-11-05 00:28",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 15,
+  "conf_media": 0.793,
+  "frac_baja": 0.2,
+  "frac_rara": 0.0,
+  "tinta": 0.0072
+ },
+ "n_palabras_vlm": 24,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.526,
+ "truncado": false,
+ "texto_ocr": "ANEXO N? 7\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\n\nCARLOS DJAZ VARGAS\n\nErTo DE\n\nROESIONES -",
+ "texto_vlm": "ANEXO N° 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OOC.\nDEPTO. DE CONCESIONES"
+}

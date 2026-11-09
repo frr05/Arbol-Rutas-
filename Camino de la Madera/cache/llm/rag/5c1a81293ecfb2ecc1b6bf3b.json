@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "La multa es diaria y equivale al 1 por 1000 sobre el presupuesto oficial de la obra respectiva [2].",
+  "fuentes": [
+   2,
+   6
+  ]
+ }
+}

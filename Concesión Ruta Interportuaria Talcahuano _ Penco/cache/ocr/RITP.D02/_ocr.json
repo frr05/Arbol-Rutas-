@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D02",
+ "archivo": "1_licitacion/Ruta-Interportuaria-Talcahuano-Penco-CA-1.pdf",
+ "sha256": "ffc78814c82b960f0f581a556bc5d56294118fca4a446f983a954a86487944c5",
+ "paginas": 46,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:46"
+}

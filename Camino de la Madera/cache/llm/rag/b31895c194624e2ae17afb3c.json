@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "El contrato de concesión es fiscalizado por el Inspector Fiscal del Ministerio de Obras Públicas (MOP) [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

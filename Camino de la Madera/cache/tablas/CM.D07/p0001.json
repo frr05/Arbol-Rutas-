@@ -1,0 +1,95 @@
+{
+ "documento": "CM.D07",
+ "pagina": 1,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:44",
+ "tablas": [
+  {
+   "titulo": "CONTRALORIA GENERAL TOMA DE RAZON",
+   "encabezados": [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   "filas": [
+    [
+     "DEPART. JURIDICO",
+     "",
+     ""
+    ],
+    [
+     "DEP. T. R. Y REGISTRO",
+     "",
+     ""
+    ],
+    [
+     "DEPART. CONTABIL.",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. C. CENTRAL",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. E. CUENTAS",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. C. P. Y BIENES NAC.",
+     "",
+     ""
+    ],
+    [
+     "DEPART. AUDITORIA",
+     "",
+     ""
+    ],
+    [
+     "DEPART. V. O. P., U V T.",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. MUNICIP.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     ""
+    ],
+    [
+     "REF. POR $",
+     "",
+     ""
+    ],
+    [
+     "IMPUTAC.",
+     "",
+     ""
+    ],
+    [
+     "ANOT. POR $",
+     "",
+     ""
+    ],
+    [
+     "IMPUTAC.",
+     "",
+     ""
+    ],
+    [
+     "DEDUC DTO.",
+     "",
+     ""
+    ]
+   ],
+   "notas": ""
+  }
+ ]
+}

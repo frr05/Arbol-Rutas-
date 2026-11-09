@@ -1,0 +1,64 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:40",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El IVA correspondiente a las obras de construcción deberá ser facturado cada 4 meses al MOP. Para ello la Sociedad Concesionaria presentará al Inspector Fiscal una relación de los documentos que respaldarán la emisión de las facturas, con la indicación de los montos e IVA correspondiente. Los documentos podrán ser revisados por el MOP en las oficinas de la Sociedad Concesionaria. Una vez que el Inspector Fiscal haya aprobado los documentos presentados, para lo que tendrá un plazo de 15 días, la Sociedad Concesionaria emitirá las correspondientes facturas. El pago del IVA de la factura se hará dentro de los 15 días contados desde la fecha de presentación de la misma. IVA, la que se reconocerá según su valor proforma, es decir, según los desembolsos que efectivamente realice la Sociedad Concesionaria por este concepto previa aprobación del Inspector Fiscal del presupuesto que se le presentare, de acuerdo al procedimiento señalado en el numeral 7.12 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N” 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "debe_decir": "Por concepto de costo de Boletas Bancarias de Garantía durante la construcción de las obras que trata el Oficio Ord. N* 332/EXPL. TCO-RB/2018 y que se dispondrán en el Decreto Supremo que apruebe el presente Convenio, se fija la cantidad máxima de UF 4.900 (Cuatro Mil Novecientas Unidades de Fomento), neta de IVA, la que se reconocerá según su valor proforma, es decir, según los desembolsos que efectivamente realice la Sociedad Concesionaria por este concepto previa aprobación del Inspector Fiscal del presupuesto que se le presentare, de acuerdo al procedimiento señalado en el numeral 7.12 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En virtud del procedimiento señalado en el N* 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018 y que se dispondrá en el Decreto Supremo que apruebe el presente Convenio, el IVA que soporte la Sociedad Concesionaria, asociado a las inversiones, costos y gastos señalados en la cláusula segunda del presente Convenio, será de cargo de la Sociedad Concesionaria y compensado por el MOP según lo señalado en el numeral 4.2 del presente Convenio. Lo anterior, con la excepción del IVA asociado a los costos por concepto de conservación, mantenimiento, operación, explotación (incluyendo el mantenimiento o conservación mayor) y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de las obras, el que, de conformidad a lo señalado en el N* 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del citado Oficio Ord. N* 332/EXPL. TCO-RB/2018, será regulado conforme se dispone en el artículo 1.11.5 de las Bases de Licitación.",
+    "debe_decir": "En virtud del procedimiento señalado en el N? 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N” 332/EXPL. TCO-RB/2018 y que se dispondrá en el Decreto Supremo que apruebe el presente Convenio, el IVA que soporte la Sociedad Concesionaria, asociado a las inversiones, costos y gastos señalados en la cláusula segunda del presente Convenio, será de cargo de la Sociedad Concesionaria y compensado por el MOP según lo señalado en el numeral 4.2 del presente Convenio. Lo anterior, con la excepción del IVA asociado a los costos por concepto de conservación, mantenimiento, operación, explotación (incluyendo el mantenimiento o conservación mayor) y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de las obras, el que, de conformidad a lo señalado en el N* 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del citado Oficio Ord. N* 332/EXPL. TCO-RB/2018, será regulado conforme se dispone en el artículo 1.11.5 de las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "además de los análisis técnicos, legales y de negocios que requieran éstos, exclusivamente para la suscripción del presente Convenio, y en que hubiere incurrido la Sociedad Concesionaria entre la fecha del Oficio Ord. N* 332/EXPL. TCO-RB/2018 y la fecha de entrada en vigencia del presente Convenio, serán presentados para aprobación del Inspector Fiscal dentro del primer informe que da cuenta el numeral 4.1.1 anterior y serán contabilizados con fecha del último día del mes de entrada en vigencia del presente Convenio.",
+    "debe_decir": "Por concepto de los costos en que deba incurrir la Sociedad Concesionaria para financiar los análisis técnicos, legales y de negocios, que requieran sus garantes, así como las comisiones y demás gastos asociados a la estructuración del financiamiento y requerimientos de los financistas, exclusivamente por el desarrollo de las ingenierías y la ejecución de las obras que trata el Oficio Ord. N* 332/EXPL. TCO-RB/2018 y que se dispondrán en el Decreto Supremo que apruebe el presente Convenio, se fija la cantidad máxima de UF 15.000 (Quince Mil Unidades de Fomento), neta de IVA, la que se reconocerá según su valor proforma, es decir, según los desembolsos que efectivamente realice la Sociedad Concesionaria por este concepto, los que deberán ser acreditados por la Sociedad Concesionaria al Inspector Fiscal mediante las correspondientes boletas O facturas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para la contabilización de los montos por concepto del respectivo Impuesto al Valor Agregado (IVA), de conformidad al procedimiento señalado en el N* 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018 y que se dispondrá en el Decreto Supremo que apruebe el presente Convenio, asociado a las inversiones, costos y gastos que correspondan señalados en la cláusula segunda del presente Convenio, se procederá de la siguiente manera:",
+    "debe_decir": "Las inversiones, gastos y costos señalados en la cláusula segunda del presente Convenio y el IVA que corresponda según lo señalado en la cláusula tercera precedente, se contabilizarán con signo negativo, en Unidades de Fomento con dos decimales redondeados al segundo decimal, usando para su conversión el valor de dicha unidad para el último día del mes en que se hayan efectuado dichas inversiones, gastos y costos asociados o el último día del mes en que la Sociedad Concesionaria haya emitido la factura, según se establece en el numeral 4.2 siguiente, según corresponda.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "según corresponda.",
+    "debe_decir": "Esta contabilización quedará registrada en una cuenta denominada “Cuenta de Inversión y Compensación Convenio Ad — Referéndum N? 3” y el saldo negativo acumulado en la citada cuenta se actualizará mensualmente a una tasa de interés real mensual compuesta, equivalente a una tasa real anual de 5,6%.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

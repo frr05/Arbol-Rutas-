@@ -1,0 +1,47 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5.1.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1",
+     "P2",
+     "P3"
+    ],
+    "texto_nuevo": [
+     1912,
+     1918
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "instalaciones y servicios anexos del camino (Plazas de Peaje, Pesaje, Casetas Telefónicas, Áreas de Servicio, Calles de Servicio, etc.).",
+    "debe_decir": "instalaciones anexas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El Plan deberá contener todas las actividades que corresponda realizar de acuerdo a lo estipulado en las bases de modo de cumplir con los estándares establecidos en las mismas. El Inspector Fiscal podrá exigir modificaciones al mismo en función de las mediciones realizadas.",
+    "debe_decir": "El Inspector Fiscal deberá controlar el cumplimiento del Plan de Trabajo anual y mensual que haya entregado la Concesionaria, verificando la ejecución, de todas las actividades que corresponda realizar, En concordancia con el Programa de Conservación. La Concesionaria deberá comunicar por escrito al Inspector Fiscal, con la debida anticipación, cualquier modificación que se realice al Plan de Trabajo.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

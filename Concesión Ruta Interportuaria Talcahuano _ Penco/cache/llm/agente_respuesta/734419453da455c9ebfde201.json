@@ -1,0 +1,11 @@
+{
+ "tarea": "agente_respuesta",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:39",
+ "respuesta": {
+  "respuesta": "Los licitantes o grupos licitantes podrán hacer consultas sobre las Bases de Licitación dirigiéndolas por escrito al Director General de Obras Públicas, e ingresándolas en la Oficina de Partes de la DGOP (Morandé 59, 3er piso, Santiago de Chile), hasta 20 días antes de la fecha de Apertura de la Oferta Técnica [6]. Las respuestas a las consultas formuladas serán incluidas en comunicaciones denominadas Circulares Aclaratorias, dirigidas a todos los licitantes o grupos licitantes [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

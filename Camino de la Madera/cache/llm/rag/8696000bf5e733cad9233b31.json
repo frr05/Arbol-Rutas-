@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "El plazo máximo de la concesión es de 50 años, establecido en el artículo 25 de la Ley de Concesiones [1]. No obstante, las bases de licitación establecen que el licitante deberá ofrecer un plazo de concesión que no deberá superar los 25 años contados desde la fecha de suscripción y protocolización del Decreto de Adjudicación [2], [8]. La oferta económica presentada fue por 25 años [7]. Además, se menciona un ejemplo donde el plazo original se extendía hasta el 31 de diciembre de 2012 (T=120) [9] y existe un Convenio de Extinción fechado en 2012 [10].",
+  "fuentes": [
+   1,
+   2,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

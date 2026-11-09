@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:01",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante niveles de servicio específicos para la conservación de pavimentos. Para medir estos niveles se utiliza el Índice de Rugosidad Superficial (IRI), cuyo valor máximo establecido es de 3,5 m/km [4].",
+  "fuentes": [
+   4
+  ]
+ }
+}

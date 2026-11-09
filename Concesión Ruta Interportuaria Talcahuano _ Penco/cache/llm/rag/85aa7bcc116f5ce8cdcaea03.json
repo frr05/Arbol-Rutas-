@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "El postulante tiene derecho a un premio en la evaluación de su Oferta Económica consistente en un incremento del diez por ciento (10%) del puntaje final obtenido [1]. Este incremento se aplica al puntaje final que hubiere obtenido, cualquiera fuere el tramo en el que haya presentado su Oferta Económica [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

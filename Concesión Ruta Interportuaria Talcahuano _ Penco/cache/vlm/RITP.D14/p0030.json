@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 30,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 349,
+ "segundos": 13.5,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 225,
+  "conf_media": 0.889,
+  "frac_baja": 0.089,
+  "frac_rara": 0.014,
+  "tinta": 0.0381
+ },
+ "n_palabras_vlm": 231,
+ "frac_rara_vlm": 0.014,
+ "similitud": 0.975,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- | Siéntese siempre en forma recta durante su turno en la caja.\n\n.« Ser un profesional\n\n- No fumar en el lugar de trabajo.\n\n- No usar el teléfono del local para uso personal.\n\n- No reunirse en grupos cuando está en sus labores.\n\n- No discutir con un cliente. Orientarlo a que sus reclamos los\ndirija en la oficina de la Concesionaria.\n\ne Prohibiciones\n\nEntre otras prohibiciones están las siguientes, válidas tanto para el personal de\nSociedad Concesionaria Autopista Interportuaria S.A. como de cualquier\nempresa de servicio externa:\n\nFumar en el recinto (toda la vía e instalaciones) en todo\nmomento.\n\nComer en su puesto de trabajo. Incluye masticables.\nReunirse en grupos sin necesidad aparente.\n\nPresentarse a trabajar desaseado, sin afeitarse o sin su\nuniforme completo\n\n* Trato al usuario molesto\n\nEn situaciones en las que la relación con el cliente se tome dificil, es importante\nsiempre mantener una compostura profesional.\n\nSe deberán seguir los siguientes pasos de manera de controlar la situación.\n\nCalme al cliente: esto se puede legrar mostrando\npreocupación e interés por el problema del cliente.\n\nExplique al cliente que las consultas y reclamos deben ser\ndirigidas en la oficina de administración, ya que de lo\ncontrario se produce congestión en el punto de pago.\n\nEn la oficina de administración: escuche y responda con\nempata.\n\n20",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n- Siéntese siempre en forma recta durante su turno en la caja.\n• Ser un profesional\n- No fumar en el lugar de trabajo.\n- No usar el teléfono del local para uso personal.\n- No reunirse en grupos cuando está en sus labores.\n- No discutir con un cliente. Orientarlo a que sus reclamos los dirija en la oficina de la Concesionaria.\n• Prohibiciones\nEntre otras prohibiciones están las siguientes, válidas tanto para el personal de Sociedad Concesionaria Autopista Interportuaria S.A. como de cualquier empresa de servicio externa:\n- Fumar en el recinto (toda la vía e instalaciones) en todo momento.\n- Comer en su puesto de trabajo. Incluye masticables.\n- Reunirse en grupos sin necesidad aparente.\n- Presentarse a trabajar desaseado, sin afeitarse o sin su uniforme completo\n• Trato al usuario molesto\nEn situaciones en las que la relación con el cliente se torne difícil, es importante siempre mantener una compostura profesional.\nSe deberán seguir los siguientes pasos de manera de controlar la situación.\n- Calme al cliente: esto se puede lograr mostrando preocupación e interés por el problema del cliente.\n- Explique al cliente que las consultas y reclamos deben ser dirigidas en la oficina de administración, ya que de lo contrario se produce congestión en el punto de pago.\n- En la oficina de administración: escuche y responda con empatía.\n29"
+}

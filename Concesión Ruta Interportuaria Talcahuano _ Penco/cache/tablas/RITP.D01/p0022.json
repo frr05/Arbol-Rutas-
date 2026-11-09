@@ -1,0 +1,45 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 22,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-11-05 00:47",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 1: Anteproyectos y Estudios Referenciales.",
+   "encabezados": [
+    "Anteproyectos",
+    "Realizado por",
+    "Volúmenes"
+   ],
+   "filas": [
+    [
+     "1. Anteproyecto de Ingeniería: Proposición de la obra por Concesión \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\", Estudio de Ingeniería.",
+     "Postulante",
+     "8"
+    ],
+    [
+     "2. Anteproyecto de Ingeniería \"Prolongación Avenida Alessandri\".",
+     "CITRA Consultores",
+     "1"
+    ],
+    [
+     "Estudios",
+     "Realizado por",
+     "Volúmenes"
+    ],
+    [
+     "a) Estudio Modelación Ruta Interportuaria de la VIII Región.",
+     "ASTRA Consultores",
+     "1"
+    ],
+    [
+     "b) Estudio Plan de Manejo Ambiental Preliminar, Ruta Interportuaria Talcahuano - Penco por Isla Rocuant.",
+     "Centro EULA, Chile Universidad de Concepción",
+     "1"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

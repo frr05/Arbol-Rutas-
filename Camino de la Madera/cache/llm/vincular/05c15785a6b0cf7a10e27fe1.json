@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:00",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D02.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D02.F0002]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D02.F0003]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D02.F0005]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D02.F0009]",
+    "destino": "TEMA:garantias_y_seguros"
+   },
+   {
+    "fragmento": "[CM.D02.F0012]",
+    "destino": "BL:11.5.7"
+   },
+   {
+    "fragmento": "[CM.D02.F0015]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D02.F0016]",
+    "destino": "BL:11.5.1"
+   },
+   {
+    "fragmento": "[CM.D02.F0018]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D02.F0019]",
+    "destino": "BL:11.4"
+   },
+   {
+    "fragmento": "[CM.D02.F0021]",
+    "destino": "BL:11.5.7"
+   },
+   {
+    "fragmento": "[CM.D02.F0023]",
+    "destino": "BL:11.5.7"
+   },
+   {
+    "fragmento": "[CM.D02.F0025]",
+    "destino": "BL:11.5.1"
+   },
+   {
+    "fragmento": "[CM.D02.F0026]",
+    "destino": "BL:11.4"
+   },
+   {
+    "fragmento": "[CM.D02.F0027]",
+    "destino": "BL:11.5.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D03.F0002]",
+    "destino": "TEMA:multas"
+   },
+   {
+    "fragmento": "[CM.D03.F0004]",
+    "destino": "BL:11.9.2.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0006]",
+    "destino": "BL:11.5.7"
+   },
+   {
+    "fragmento": "[CM.D03.F0008]",
+    "destino": "BL:11.5.7"
+   },
+   {
+    "fragmento": "[CM.D03.F0009]",
+    "destino": "BL:11.5.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0010]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0011]",
+    "destino": "BL:1.2.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0013]",
+    "destino": "BL:11.9.2.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0014]",
+    "destino": "BL:11.9.2.1"
+   }
+  ]
+ }
+}

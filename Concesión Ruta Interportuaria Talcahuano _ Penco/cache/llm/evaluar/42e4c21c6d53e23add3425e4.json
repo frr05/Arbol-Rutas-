@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:18",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el mecanismo de garantía y el año de inicio según la referencia."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica correctamente cómo funciona la coparticipación, incluyendo las excepciones del Tramo A y la base de cálculo, coincidiendo con la referencia."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta proporciona el monto mínimo solicitado (UF 12.000) que es el dato principal pedido."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente qué cubre el seguro y quién es el beneficiario único, conforme a la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla los factores por tipo de vehículo solicitados, manteniendo la correspondencia numérica con la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta describe correctamente la distribución de costos por tramos de UF según lo establecido en la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica el tiempo máximo de espera inferior a 2 minutos, que es el dato central solicitado."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que sí se puede cobrar y detalla las condiciones (visto bueno de Hacienda, congestión justificada) requeridas por la pregunta y la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta especifica correctamente los límites porcentuales (30% general, 10% construcción) solicitados."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica la periodicidad (cada 2 años), el sujeto que propone y la aprobación con consulta a Hacienda, cumpliendo con lo pedido."
+   }
+  ]
+ }
+}

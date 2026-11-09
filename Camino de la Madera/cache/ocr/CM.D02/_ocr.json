@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D02",
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-Camino-de-la-Madera.pdf",
+ "sha256": "20f62adfa9c0e43582c5326aa9e4e5455e75852f0d202801b5ac05b5fe709efe",
+ "paginas": 26,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:35"
+}

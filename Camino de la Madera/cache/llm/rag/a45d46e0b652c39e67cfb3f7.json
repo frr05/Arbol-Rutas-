@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "La adjudicación se realizó evaluando las ofertas técnicamente aceptables según los factores señalados en el Artículo 7° del DFL MOP N°164 de 1991 [3][4], con una fórmula económica donde la oferta que obtuviera el menor puntaje sería la más conveniente [1][8].",
+  "fuentes": [
+   1,
+   3,
+   4,
+   8
+  ]
+ }
+}

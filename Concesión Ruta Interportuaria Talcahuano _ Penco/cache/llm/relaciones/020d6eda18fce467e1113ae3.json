@@ -1,0 +1,45 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 00:58",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.5.5",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P29"
+    ],
+    "texto_nuevo": [
+     184,
+     188
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El capital suscrito y pagado al momento de la constitución de la sociedad no podrá ser inferior a $2.350.000.000 (dos mil trescientos cincuenta millones de pesos), que corresponden aproximadamente al 25% del Presupuesto Oficial Estimado de la Obra establecido en el artículo 1.4.3 de las presentes Bases. El capital pagado deberá acreditarse mediante certificado bancario.",
+    "debe_decir": "El capital de la sociedad no podrá ser inferior a $2.600.000.000 (dos mil seiscientos millones de pesos), que corresponden aproximadamente al 25% del Presupuesto Oficial Estimado de la Obra establecido en el artículo 1.4.3 de las presentes Bases. Al otorgarse la escritura de constitución de la Sociedad Concesionaria se deberá suscribir integramente el capital de la sociedad y pagarse, a lo menos, la suma de $1.300,000.000 (mil trescientos millones de pesos) debiendo individualizar con su correspondiente porcentaje, a todas las personas naturales o jurídicas que suscribirán el 100% de dicho capital. El saldo del capital deberá pagarse en el plazo máximo de 12 meses contados desde la fecha de la escritura pública de constitución de la sociedad. El capital pagado deberá acreditarse mediante certificado bancario.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.3",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Se deberá individualizar, con su correspondiente porcentaje, a todas las personas naturales o jurídicas que suscribirán y pagarán el 100% de dicho capital.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

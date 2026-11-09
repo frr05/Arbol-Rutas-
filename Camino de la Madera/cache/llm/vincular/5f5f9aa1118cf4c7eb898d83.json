@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:19",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D02.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D02.F0002]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D02.F0003]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D02.F0005]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D02.F0009]",
+    "destino": "TEMA:garantias_y_seguros"
+   },
+   {
+    "fragmento": "[CM.D02.F0012]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D02.F0013]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0015]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D02.F0016]",
+    "destino": "BL:1.5.10"
+   },
+   {
+    "fragmento": "[CM.D02.F0017]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0018]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0019]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0021]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0022]",
+    "destino": "BL:11.4"
+   },
+   {
+    "fragmento": "[CM.D02.F0023]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0025]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0026]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0027]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D02.F0028]",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D03.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D03.F0002]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D03.F0003]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D03.F0004]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D03.F0005]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D03.F0006]",
+    "destino": "TEMA:obras"
+   }
+  ]
+ }
+}

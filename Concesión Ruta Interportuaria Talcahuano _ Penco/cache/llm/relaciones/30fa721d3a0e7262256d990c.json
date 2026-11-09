@@ -1,0 +1,21 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 18:00",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.13.3 — 1.133 — Extinción de la Concesión por Incumplimiento Grave de las Obligaciones Impuestas a la Sociedad Concesionaria",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     442,
+     444
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "n)"
+   }
+  ]
+ }
+}

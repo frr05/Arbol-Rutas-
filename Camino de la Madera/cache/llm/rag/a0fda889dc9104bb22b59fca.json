@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen el valor ofertado específico del factor de licitación (ITC, VPI, etc.) por parte del licitante. Los documentos proporcionados son las Bases de Licitación y circulares aclaratorias que establecen los criterios de evaluación y fórmulas, pero no incluyen la Oferta Económica con los valores concretos presentados por el oferente [1], [2], [3].",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

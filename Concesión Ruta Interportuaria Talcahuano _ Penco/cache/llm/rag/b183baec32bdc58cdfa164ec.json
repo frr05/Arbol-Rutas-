@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "Según los fragmentos entregados, se estipula una imputación del 80% de los ingresos totales de explotación para pagar el precio del servicio de construcción [1], aunque también se menciona en otro contexto una imputación del 30% [5]. Respecto al IVA específicamente, se indica que el pago del IVA de la factura se efectúa dentro de los quince días contados desde la fecha de aprobación por el Inspector Fiscal [3], y que el MOP pagará el total del IVA de la factura dentro de treinta días después de su presentación [7]. No obstante, no se especifica un porcentaje de los ingresos destinado exclusivamente al IVA, sino que este se paga sobre la base imponible de las facturas presentadas.",
+  "fuentes": [
+   1,
+   3,
+   5,
+   7
+  ]
+ }
+}

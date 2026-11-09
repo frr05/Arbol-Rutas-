@@ -1,0 +1,119 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:58",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Ampliación a segundas calzadas Y pavimentación en una longitud de 171.3 km.",
+    "debe_decir": "* Ampliación a segundas calzadas en una longitud de 171,0 km.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Construcción de 21 estructuras de puentes En calzada simple con una longitud total de 1.640m.",
+    "debe_decir": "* Construcción de 20 estructuras de puentes en calzada simple con una longitud total de 1.489 m.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Construcción de Un mínimo de 18 intersecciones a desnivel (17 enlaces y 1 atraviesos).",
+    "debe_decir": "* Construcción de un minimo de 20 intersecciones a desnivel (18 enlaces y 2 atraviesos).",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Construcción de 65.4 km de calles de servicio.",
+    "debe_decir": "* Construcción de 66,3 km de calles de servicio.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Construcción de 20 pasarelas peatonales",
+    "debe_decir": "* Construcción de 19 pasarelas peatonales",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Construcción de 8 Pasos de Ganado y Maquinaria Agricola.",
+    "debe_decir": "* Construcción de 18 Pasos de Ganado y Maquinaria Agrícola.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Rehabilitación de la calzada existente en una longitud de 219.2 km.",
+    "debe_decir": "* Rehabilitación de la calzada existente en una longitud de 49,0 km.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Conservación de las calzadas existente en una longitud de 124.2 km.",
+    "debe_decir": "* Conservación de las calzadas existente en una longitud de 122,7 km.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "* Mejoramiento y Modificación de 108 Accesos a Nivel.",
+    "debe_decir": "* Mejoramiento y Modificación de 111 Accesos a Nivel.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Concesión incluye además el mantenimiento de las obras nuevas ejecutadas por la Sociedad Concesionaria y de las preexistentes, €n los estándares Qué más adelante se indican. durante todo el periodo de la misma",
+    "debe_decir": "“La Concesión incluye además el mantenimiento de las obras preexistentes y de las nuevas ejecutadas por la Sociedad Concesionaria, €n las condiciones y estándares establecidos en las presentes Bases de Licitación . para las etapas de Construcción y Explotación.”",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

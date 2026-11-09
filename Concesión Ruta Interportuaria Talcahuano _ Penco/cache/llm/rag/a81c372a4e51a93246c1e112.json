@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:28",
+ "respuesta": {
+  "respuesta": "La concesión es una vía con características urbanas, al conectar centros urbanos importantes como Concepción, San Pedro, Coronel, Penco, Tome, Lirquén y Talcahuano [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

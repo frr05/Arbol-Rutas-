@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Las tarifas máximas se expresan en moneda nacional (pesos) y están valoradas con fecha base al 31 de marzo de 1993 [7], [9].",
+  "fuentes": [
+   7,
+   9
+  ]
+ }
+}

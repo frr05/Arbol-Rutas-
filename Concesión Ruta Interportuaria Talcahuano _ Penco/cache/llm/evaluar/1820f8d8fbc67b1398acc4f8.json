@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:57",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los montos principales de UF 3.800 y UF 2.400 correspondientes a las etapas definidas en la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente los montos base (UF 83.000) y adicionales (UF 41.000) mencionados en la referencia, ampliando con detalles no contradictorios."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el dato principal del 80%, pero agrega información sobre un 30% que no está presente ni se menciona como alternativa válida en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "correcta",
+    "motivo": "La respuesta refleja correctamente los tipos de interés (fijos y variables) y sus contextos descritos en la referencia."
+   },
+   {
+    "n": 25,
+    "veredicto": "parcial",
+    "motivo": "La referencia especifica un único sistema (uso efectivo), mientras que la respuesta sugiere dos opciones posibles, lo cual contradice la exclusividad implícita o explícita del texto fuente."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma la diferenciación por categoría de vehículo y los mecanismos de cálculo basados en tablas, coherente con la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Copia fielmente el índice de reajuste (IPC), el mecanismo de reemplazo y el porcentaje para el reajuste extraordinario (15%)."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Incluye los valores base ($50 punta, $35 fuera de punta) y la fecha base expresada en la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Coincide exactamente con la moneda y fecha base indicadas en la referencia."
+   },
+   {
+    "n": 30,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta omite la Prolongación Av. Alessandri (3,5 km), entregando solo la longitud de la vía principal (10,9 km) cuando la referencia indica un total de 14,4 km."
+   }
+  ]
+ }
+}

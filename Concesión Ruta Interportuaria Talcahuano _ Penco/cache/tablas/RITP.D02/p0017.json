@@ -1,0 +1,87 @@
+{
+ "documento": "RITP.D02",
+ "pagina": 17,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-11-05 00:48",
+ "tablas": [
+  {
+   "titulo": "ANEXO N°2: FORMULARIO N°3",
+   "encabezados": [
+    "Nombre Integrante del Licitante/ Grupo Licitante",
+    "Participación (Porcentaje) (A)",
+    "Patrimonio Total Integrante (Millones de pesos) (B)",
+    "Patrimonio Ponderado (Millones de pesos) (C)"
+   ],
+   "filas": [
+    [
+     "1.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "6.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "7.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "9.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "10.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Totales",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "notas": "(A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación.\n(B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación.\n(C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.600.000.000 (patrimonio mínimo).\n(D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo."
+  }
+ ]
+}

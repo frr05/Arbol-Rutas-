@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "El valor de las tarifas se reajusta en virtud, entre otros factores, de la variación del Índice de Precios al Consumidor (IPC) publicado por el Instituto Nacional de Estadísticas (INE) [1]. En caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace [2]. Además, existe un Reajuste Extraordinario que se activa cuando se comprueba una inflación acumulada desde la última revisión tarifaria igual o superior al 15%, ajustando la tarifa máxima en un valor igual a dicha inflación acumulada [10].",
+  "fuentes": [
+   1,
+   2,
+   10
+  ]
+ }
+}

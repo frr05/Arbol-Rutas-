@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D11",
+ "pagina": 39,
+ "archivo": "4_modificacion_obras_convenios/Convenio-Complementario-N_1-MDI-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 88,
+ "segundos": 5.7,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "pocas_palabras",
+ "calidad_ocr": {
+  "n_palabras": 10,
+  "conf_media": 0.871,
+  "frac_baja": 0.2,
+  "frac_rara": 0.0,
+  "tinta": 0.0126
+ },
+ "n_palabras_vlm": 57,
+ "frac_rara_vlm": 0.032,
+ "similitud": 0.361,
+ "truncado": false,
+ "texto_ocr": "ANEXO N? 1\n\nItem N%5: Costos de Administración Sociedad Concesionaria",
+ "texto_vlm": "ANEXO N° 1\nItem N°5: Costos de Administración Sociedad Concesionaria\n\n| Item 5 | Monto UF |\n|---|---|\n| 1 Costos de Administración e Inspección Licitación y Ejecución Obras | 5.163 |\n| TOTAL | 5.163 |\n\nMANUEL ZAMBRANO SOTO\nAdministrador Contratos de Concesión\nInspector Fiscal de Explotación\n\nMINISTERIO DE OBRAS PUBLICAS\nGENERAL DE CONCESIONES\nSEPTC. 02"
+}

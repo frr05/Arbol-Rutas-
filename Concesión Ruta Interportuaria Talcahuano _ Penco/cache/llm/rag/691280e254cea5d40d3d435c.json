@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "La obra pública fiscal concesionada se denomina oficialmente \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\" [2][3][6][8]",
+  "fuentes": [
+   2,
+   3,
+   6,
+   8
+  ]
+ }
+}

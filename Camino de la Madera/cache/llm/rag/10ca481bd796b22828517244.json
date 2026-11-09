@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. En lo relativo al cobro de tarifas, se incluyen los Estándares del Nivel de Servicio [1]. Además, cuando los indicadores del estado de los pavimentos sobrepasen los umbrales establecidos en el contrato, la Sociedad Concesionaria deberá ejecutar obras para restablecer las condiciones de servicio de la ruta [4]. El índice utilizado para el reajuste de la tarifa base es el Índice de Precios al Consumidor (IPC) publicado por el Instituto Nacional de Estadísticas (INE) [2]. La fórmula para determinar la variación del IPC se calcula como el cociente entre el valor del IPC en el mes correspondiente (por ejemplo, Noviembre del año t-1 o Mayo del año t) y el valor del IPC en marzo de 1993 (Mar1993) [2].",
+  "fuentes": [
+   1,
+   2,
+   4
+  ]
+ }
+}

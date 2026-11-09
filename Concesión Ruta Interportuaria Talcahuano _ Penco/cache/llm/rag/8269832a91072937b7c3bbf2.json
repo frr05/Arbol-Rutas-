@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "El interés que devengan los pagos atrasados varía según el contexto y la normativa aplicable: en las Bases de Licitación generales, se establece un interés real diario de 0,0198% [1]; para retrasos en la emisión de resoluciones o pagos bajo el Convenio Complementario N°1, el interés es de 0,02612% [2], [3]; y conforme al Decreto Supremo N°136 (2023), el interés es el real diario equivalente a la tasa corriente para operaciones reajustables en moneda nacional a menos de un año, informada por la CMF [4]. Además, para montos específicos del Convenio Complementario N°2, se aplica la tasa diaria correspondiente a operaciones mayores de UF 2.000 y plazo mayor a un año, informada por la Superintendencia de Bancos [9].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   9
+  ]
+ }
+}

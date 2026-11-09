@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 79,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 76,
+ "segundos": 26.8,
+ "fecha": "2026-10-27 12:14",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 75,
+  "conf_media": 0.599,
+  "frac_baja": 0.507,
+  "frac_rara": 0.0,
+  "tinta": 0.0071
+ },
+ "n_palabras_vlm": 59,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.508,
+ "truncado": false,
+ "texto_ocr": "+ Descripción Servicios Básicos y Complementarios\n\nArcas de servicio\n\n19 Km 767.500 — ae De ] 7\n2 Kin 780.200 — Pomvtemt bar Pl Far 1 P +\n3) Km 834.600 — Pooh Es TE\n4) Km 266.400 —— 0 Mis ME\n\nEstacionamiento de COmMiones:\n\no 1 cs al\n1) Km 780.404. =— Pista So ( o Amado a Únio Le Lia lea )\n2) Km 866.200 — O Aerea ” p $ e ]",
+ "texto_vlm": "✧ Descripción Servicios Básicos y Complementarios\n\nAreas de servicio\n\n1) Km 767.500 — ORIENTE\n2) Km 780.200 — PONIENTE\n3) Km 834.600 — PONIENTE\n4) Km 866.400 — ORIENTE } las 4 son y PF.\n\nEstacionamiento de camiones:\n\n1) Km 780.400 — Poniente (aladoado a Area de Servicio)\n2) Km 866.200 — Oriente ( \" \" \" \" )"
+}

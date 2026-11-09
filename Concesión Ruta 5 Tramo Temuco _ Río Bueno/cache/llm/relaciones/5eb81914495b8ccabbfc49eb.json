@@ -1,0 +1,97 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:32",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria será responsable de establecer las medidas de control y seguridad en el tramo de la Concesión, sujeto a todas las disposiciones legales vigentes.",
+    "debe_decir": "La Concesionaria será responsable de establecer las medias de control y seguridad en la Concesión, sujeto a todas las disposiciones legales vigentes.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria es el responsable de operar y mantener el camino en condiciones normales de servicio, de modo de evitar accidentes y deberá responder ante toda acción legal que los usuarios pudieran entablar en su contra, debido a negligencias cometidas a este respecto.",
+    "debe_decir": "La Concesionaria es el responsable de operar y mantener el camino en condiciones normales de servicio, de modo de evitar accidentes.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para estos efectos deberá disponer de sistemas de vigilancia permanente y sistemas de patrullaje que permitan detectar y tomar las medidas de seguridad necesarias en forma oportuna. Esta vigilancia permanecerá centralizada en Areas de Servicio obligatorias ubicadas según se detallan en 2.2.1.8,",
+    "debe_decir": "La Concesionaria dispondrá de sistemas de vigilancia permanente y sistemas de patrullaje en los términos establecidos en el numeral 2.5.3.2 de las Bases de Licitación, es decir centradas en las áreas de servicio.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En cada área de Servicios Generales, la Sociedad Concesionaria diseñará, construirá y operará una Estación de Atención de Emergencias.",
+    "debe_decir": "La Concesionaria está obligada a mantener permanentemente en servicio Estaciones de Atención de Emergencias radicadas en las áreas de los Servicios Generales así como Teléfonos de Emergencia (Llamados ahora también Postes SOS) en los términos establecidos en los numerales 2.2.1.8.4 y 2.2.1.8.5 de las Bases de Licitación, respectivamente.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria estará obligada a mantener el tránsito dónde se efectúen obras de conservación y tomar las precauciones para proteger los trabajos, así como la seguridad en el tránsito. Las vías de desvío deberán contar con pavimento económico y asegurar una velocidad mínima de 70 km/h. Esta obligación será para la totalidad de las faenas y en forma permanente.",
+    "debe_decir": "comprometan la segundad de ellos o las obras.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En caso de que se deba suspender el tránsito por emergencias en el camino, deberá tomar las precauciones y medidas tendientes a rehabilitarlo en el menor tiempo posible. Las demoras excesivas serán sancionadas según lo estipulado en 1.6.8.",
+    "debe_decir": "La Concesionaria tene en funcionamiento on patrullaje de la ruta. como lo establece el numeral 2.5.3.2 de las Bases de Licitación. en lorma sistemátiva pero em pecorria cs aleatorios que cubren la totalidad del tramo en concesión.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.6",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cuando la Sociedad Concesionaria, como consecuencia de la realización de los trabajos de conservación, prevea una alteración temporal en el nivel de servicio prestado, deberá comunicarlo por escrito al Inspector Fiscal a lo menos con 15 días de anticipación al hecho, e informar debidamente a los usuarios, sin perjuicio de lo dispuesto en 2.5.3.3.",
+    "debe_decir": "Alteraciones en el nivel de servicio por la realización de trabajos de conservación serán debidamente informados al usuario, en las términos establecidos en el numeral 1.8.6 de las Bases de Licitación, debiendo cumplir las prescripciones del numeral 2.5.3.3 y 2.5.3.4, de las Bases de Licitación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.6",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El MOP podrá exigirle al Concesionario la adopción de medidas conducentes a procurar las mínimas alteraciones en el uso normal de la obra. Estas medidas podrán referirse a fijación de horarios, señalización, iluminación, otras precauciones de seguridad, plazo máximo de ejecución de obras u otras necesarias.",
+    "debe_decir": "La Concesionaria tiene la obligación de mantener el nivel de servicio estipulado en el contrato de concesión debiendo mantener en toda momento una circulación expedita en la ruta y las plazas de peaje, según lo prescribe el numeral 2.5.3.1 de las Bases de Licitación.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

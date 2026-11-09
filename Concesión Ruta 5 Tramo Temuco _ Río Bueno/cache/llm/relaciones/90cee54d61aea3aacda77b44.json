@@ -1,0 +1,64 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:48",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El Presupuesto Oficial Estimado de la Obra es de UF 5.955.000 sin IVA, el cual incluye el costo de expropiaciones y todas las partidas de obras contenidas en el formulario incluido en el Anexo N2.",
+    "debe_decir": "El Presupuesto Oficial Estimado de la Obra, £5 de UF 6.105.000 sin IVA, el cual incluye el costo de expropiaciones y todas las partidas de obras contenidas en el formulario incluido en el Anexo N2.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P14"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El Licitante presentará una escritura privada, suscrita ante notario, de promesa de constituir una sociedad anónima, sujeta a la condición de adjudicarse la Concesión.",
+    "debe_decir": "El Licitante presentará una escritura privada, suscrita ante notario, de promesa de constituir una sociedad anónima, sujeta a dos condiciones: la primera será que el licitante se adjudique la Concesión y la segunda será que haya efectuado previamente, a la constitución de la sociedad, el pago a que se refiere 1.11.3 siempre que éste haya sido ofrecido en su Oferta Económica según lo señalado en 3.1.2 y 3.2",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P20"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El capital de la sociedad, el número de acciones en que es dividido con indicación de sus series y privilegios si los hubiere y si las acciones tienen o no valor nominal. En la promesa se deberá hacer constar que el capital suscrito y pagado en dinero al momento de la constitución de la sociedad ascenderá al menos a $ 20.000 millones (veinte mil millones de pesos), lo que constituye aproximadamente un 25 % del Presupuesto Oficial de la Obra establecido en 1.2.2 y, se deberá individualizar, con su correspondiente porcentaje, a todas las personas naturales o jurídicas que suscribirán el 100% de dicho capital. El pago del capital deberá acreditarse mediante certificado bancario. Además el Concesionario no podrá disminuir el capital sin autorización expresa del MOP y el Inspector Fiscal, durante cualquier momento de vigencia del contrato, podrá solicitar certificados de una empresa auditoria externa que acrediten el capital de la misma.",
+    "debe_decir": "El capital de la sociedad, el número de acciones en que es dividido con indicación de sus series y privilegios si los hubiere y si las acciones tienen o no valor nominal. En la promesa se deberá hacer constar que el capital suscrito y pagado en dinero al momento de la constitución de la sociedad ascenderá al menos a $ 20.500 millones (veinte mil quinientos millones de pesos), y lo que constituye aproximadamente un 25 % del Presupuesto Oficial de la Obra establecido en 1.2.2 y, se deberá individualizar, con su correspondiente porcentaje, a todas las personas naturales o jurídicas que suscribirán el 100% de dicho capital. El pago del capital deberá acreditarse mediante certificado bancario.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P20"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Además el Concesionario no podrá disminuir el capital sin autorización expresa del MOP y el Inspector Fiscal, durante cualquier momento de vigencia del contrato, podrá solicitar certificados de una empresa auditoria externa que acrediten el capital de la misma.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "elimina",
+    "parrafos": [
+     "P23"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

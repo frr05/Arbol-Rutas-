@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el MOP (Ministerio de Obras Públicas) a través del Inspector Fiscal, quien propone la sanción a la DGOP para que requiera el pronunciamiento de la Comisión Conciliadora [2]. La normativa vigente que rige los caminos en concesión y los pesos por eje es la normativa general de pesos por eje, y las multas se rigen por el DFL MOP N°164 y las Bases de Licitación del contrato [1], [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 20:24",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D05.F0009",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0010",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0011",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0012",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0013",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0014",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0015",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0017",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D05.F0018",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "RITP.D05.F0019",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D05.F0021",
+    "destino": "BL:2.2.1"
+   },
+   {
+    "fragmento": "RITP.D05.F0022",
+    "destino": "BL:2.2.2.1"
+   },
+   {
+    "fragmento": "RITP.D05.F0023",
+    "destino": "BL:2.2.2.2"
+   }
+  ]
+ }
+}

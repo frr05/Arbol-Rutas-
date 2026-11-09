@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "La Dirección General de Obras Públicas a través de su Departamento de Concesiones y la Dirección de Vialidad [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

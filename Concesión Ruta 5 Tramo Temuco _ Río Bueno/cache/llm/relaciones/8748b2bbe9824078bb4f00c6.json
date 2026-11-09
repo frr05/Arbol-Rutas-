@@ -1,0 +1,56 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:38",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     7453,
+     7460
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El desarrollo, progreso y aumento de población de las localidades y comunidades aledañas a la concesión, ha determinado la necesidad de ejecutar nuevas inversiones que tienen como propósitos principales mejorar y proporcionar mayor seguridad a la infraestructura vial, al tránsito vehicular, peatonal y de ciclistas en las rutas y su entorno, aplicando soluciones que entreguen conectividad peatonal y que cuenten con criterios de diseño que incorporen los estándares de accesibilidad universal, así como dotar a las localidades y comunidades aledañas de obras que permitan disminuir los riesgos de seguridad, actualizando los estándares de seguridad vial de la Concesión y la protección de los usuarios frente a la posibilidad de caída de objetos desde las estructuras de la concesión.",
+    "debe_decir": "El desarrollo, progreso y aumento de población de las localidades y comunidades\naledañas a la concesión, ha determinado la necesidad de ejecutar nuevas inversiones\nque tienen como propósitos principales mejorar y proporcionar mayor seguridad a la\ninfraestructura vial, al tránsito vehicular, peatonal y de ciclistas en las rutas y su\nentorno, aplicando soluciones que entreguen conectividad peatonal y que cuenten con\ncriterios de diseño que incorporen los estándares de accesibilidad universal, así como\ndotar a las localidades y comunidades aledañas de obras que permitan disminuir los\nriesgos de seguridad, actualizando los estándares de seguridad vial de la Concesión y\nla protección de los usuarios frente a la posibilidad de caída de objetos desde las\nestructuras de la concesión.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En virtud de lo señalado precedentemente, el MOP ha estimado de interés público modificar las características de las obras y servicios del contrato de concesión, en el sentido de ejecutar un conjunto de nuevas inversiones que permitirán otorgar un nivel de servicio y seguridad para los usuarios acorde al desarrollo experimentado en el entorno de la concesión desde el inicio de la actual concesión, tales como, paraderos de buses, refugios peatonales, pasarelas peatonales, circuitos peatonales, calles de servicio, señalización, iluminación y los correspondientes trabajos de saneamiento de los sectores a intervenir, todos los cuales se detallarán en el Decreto Supremo que apruebe el presente Convenio.",
+    "debe_decir": "En virtud de lo señalado precedentemente, el MOP ha estimado de interés público\nmodificar las características de las obras y servicios del contrato de concesión, en\nel sentido de ejecutar un conjunto de nuevas inversiones que permitirán otorgar un\nnivel de servicio y seguridad para los usuarios acorde al desarrollo experimentado\nen el entorno de la concesión desde el inicio de la actual concesión, tales como,\nparaderos de buses, refugios peatonales, pasarelas peatonales, circuitos\npeatonales, calles de servicio, señalización, iluminación y los correspondientes\ntrabajos de saneamiento de los sectores a intervenir, todos los cuales se detallarán\nen el Decreto Supremo que apruebe el presente Convenio.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En ese orden de ideas, mediante los Decretos Supremos MOP N* 524, de 2005, y MOP N* 336, de 2008, el MOP dispuso el desarrollo de una serie de proyectos de ingeniería de obras de seguridad normativa. Al respecto, el MOP ha estimado necesario disponer, entre otras, la ejecución de las obras que se deriven de ciertos proyectos de ingeniería materia de los Decretos Supremos antes citados, algunos de los cuales requieren actualización para adecuarlos a la normativa vigente.",
+    "debe_decir": "En ese orden de ideas, mediante los Decretos Supremos MOP N? 524, de 2005, y\nMOP N0 336, de 2008, el MOP dispuso el desarrollo de una serie de proyectos de\ningeniería de obras de seguridad normativa. Al respecto, el MOP ha estimado\nnecesario disponer, entre otras, la ejecución de las obras que se deriven de ciertos\nproyectos de ingeniería materia de los Decretos Supremos antes citados, algunos\nde los cuales requieren actualización para adecuarlos a la normativa vigente.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "La adjudicación se realizó mediante la fórmula de puntaje económico que considera múltiples factores, donde el oferente con el menor puntaje es adjudicado. Según las Bases de Licitación, la fórmula aplicada depende de si al menos un licitante ofrece un peaje menor a $1.500 por sentido para la obra A (fórmula A) o si todos ofrecen $1.500 (fórmula B). Los factores incluyen: tarifa máxima propuesta (TP), subsidio solicitado (A), pago anual fijo (P), sistema de reajuste (b), ingresos mínimos garantizados solicitados (IMG), grado de compromiso de riesgos (SC), plazo de concesión (PL) y servicios complementarios (K) [4][7].",
+  "fuentes": [
+   4,
+   7
+  ]
+ }
+}

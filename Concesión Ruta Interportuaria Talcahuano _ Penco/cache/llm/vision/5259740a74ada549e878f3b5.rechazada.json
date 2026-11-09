@@ -1,0 +1,8 @@
+[
+ {
+  "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+  "costo": 0.00084045,
+  "error": "JSON inválido: Expecting ',' delimiter: line 1 column 1192 (char 1191)",
+  "texto": "{\"tablas\": [{\"titulo\": \"Tabla N° 3: Potencial de riesgo y medidas a implementar\", \"encabezados\": [\"POTENCIAL RIESGO\", \"MEDIDA A IMPLEMENTAR\"], \"filas\": [[\"Accidentes en la vía\", \"Ver Accidentes en la ruta (Art. 7.5)\"], [\"Incendio\", \"Ver articulo 5.9\"], [\"Derrame de sustancias\", \"Ver articulo 7.14\"], [\"Elementos en la vía (piedras; desechos; animales; etc.)\", \"Asegurar el lugar con los elementos de seguridad. Si es necesario solicitar refuerzos. Retirar el elemento y desecharlo donde corresponda. Si la sustancia corresponde a un derrame o es peligrosa ver capitulo correspondiente. Ver articulo 7.16\"], [\"Señales deterioradas\", \"Si reviste peligro informar inmediatamente al Jefe de Plaza y/o asegurar el lugar. Implementar reposición inmediata o reparación del elemento.\"], [\"Presencia de peatones / ciclistas\", \"El asistente alertará de la prohibición de circular y si es posible los acercará fuera de la pista.\"], [\"Presencia de automóviles con fallas mecánicas\", \"Asegurar el lugar con elementos de seguridad adecuados. Retirar el vehículo de la pista o llevarlo de la ruta para posterior servicio en caso de ser necesario. Ver capitulo correspondiente en el Plan de Control de\"]]}]"
+ }
+]

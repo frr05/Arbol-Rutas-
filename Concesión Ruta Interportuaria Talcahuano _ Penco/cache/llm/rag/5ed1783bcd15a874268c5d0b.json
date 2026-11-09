@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "La apertura de las Ofertas Económicas se realizó el día 28 de Diciembre de 2001 a las 12:00 horas [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

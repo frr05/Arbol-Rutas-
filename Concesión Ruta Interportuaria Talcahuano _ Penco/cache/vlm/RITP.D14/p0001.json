@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 1,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 67,
+ "segundos": 5.4,
+ "fecha": "2026-11-05 00:29",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 22,
+  "conf_media": 0.799,
+  "frac_baja": 0.182,
+  "frac_rara": 0.059,
+  "tinta": 0.0279
+ },
+ "n_palabras_vlm": 35,
+ "frac_rara_vlm": 0.038,
+ "similitud": 0.632,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA Sal. BSBE%A Ec2\n\nREGLAMENTO DE SERVICIO\n\nRUTA INTERPORTUARIA\nTALCAHUANO -— PENCO POR ISLA\nROCUANT\n\nSantiago, Mayo de 2005",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A. BESALCO\nCONCESIONES\n\nREGLAMENTO DE SERVICIO\n\nRUTA INTERPORTUARIA\nTALCAHUANO - PENCO POR ISLA\nROCUCANT\n\nDOCUMENTO CONTROLADO EN OBRA\nDescripción: Reglamento y Servicio\nVersión: 1\nCopia: 1\nV009\n\nSantiago, Mayo de 2005"
+}

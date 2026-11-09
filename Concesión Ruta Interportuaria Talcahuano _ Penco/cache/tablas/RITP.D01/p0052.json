@@ -1,0 +1,106 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 52,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 02:59",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 3: Bases de Licitación - Concesión Ruta Interportuaria Talcahuano - Penco",
+   "encabezados": [
+    "Artículo Bases de Licitación",
+    "Monto Multa (UTM)",
+    "Tipo de Infracción",
+    "Criterio de Aplicación",
+    "Otros"
+   ],
+   "filas": [
+    [
+     "1.9.15",
+     "300",
+     "Incumplimiento de la obligación de entregar resultados de ensayes y/o certificados de calidad, solicitados por el Inspector Fiscal, en los plazos y condiciones fijados por éste.",
+     "Cada día",
+     "Sin perjuicio del cobro de las garantías establecidas en el artículo 1.8.3."
+    ],
+    [
+     "1.10.11",
+     "100",
+     "Atraso en la entrega del Plan de Gestión Ambiental para la Etapa de Explotación.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.14.1",
+     "400",
+     "Atraso en cualquiera de los pagos señalados en el artículo 1.14.1.",
+     "Cada día",
+     "Sin perjuicio del cobro de las garantías señaladas en el artículo 1.8.3 y de lo dispuesto en el artículo 1.14.4."
+    ],
+    [
+     "1.14.2.3.3",
+     "100",
+     "Atraso en al entrega de la Boleta de Garantía Bancaria para la realización de nuevas inversiones.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.14.5",
+     "20",
+     "No presentar la relación de todos los pagos que tenga que efectuar el MOP a la Sociedad Concesionaria así como los que tenga que realizar la Sociedad Concesionaria al MOP.",
+     "Cada mes",
+     ""
+    ],
+    [
+     "2.4",
+     "50",
+     "Atraso en la entrega de antecedentes expropiatorios.",
+     "Cada día",
+     "Los antecedentes incompletos y/o erróneos no se considerarán recibidos por el Inspector Fiscal"
+    ],
+    [
+     "2.6.6.1, 2.6.6.2, 2.6.6.3, 2.10.13, 2.11.9",
+     "20",
+     "Atraso en la entrega de los informes mensuales, trimestrales y/o anuales en los plazos señalados.",
+     "Cada día",
+     ""
+    ],
+    [
+     "b) Durante la Etapa de Construcción",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.9.1.1",
+     "450",
+     "Iniciar obras sin tener la aprobación previa de los proyectos de Ingeniería Definitiva por parte del Inspector Fiscal.",
+     "Cada vez",
+     "Sin perjuicio del cobro de las garantías según corresponda."
+    ],
+    [
+     "1.9.2.1",
+     "20",
+     "Incumplimiento de las instrucciones impartidas por el Inspector Fiscal a través del Libro Construcción de la Obra sobre obligaciones relacionadas con el Contrato de Concesión.",
+     "Cada día",
+     ""
+    ],
+    [
+     "1.9.2.2",
+     "50",
+     "No establecer un sistema de libros de reclamos y sugerencias cuyo diseño deberá ser aprobado por el Inspector Fiscal.",
+     "Cada semana",
+     ""
+    ],
+    [
+     "1.9.2.2",
+     "120",
+     "Modificación y/o adulteración de los reclamos presentados por los usuarios en el Libro de Reclamos.",
+     "Cada vez",
+     ""
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

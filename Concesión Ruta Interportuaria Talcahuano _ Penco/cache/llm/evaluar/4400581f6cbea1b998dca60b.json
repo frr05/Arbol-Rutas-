@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:13",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente los montos anuales de UF 3.800 y UF 2.400 según la etapa, cumpliendo con lo pedido."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma el pago e incluye los montos base (UF 83.000) y adicional (UF 41.000) solicitados en la pregunta."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta proporciona el porcentaje exacto del 80% solicitado para la imputación al servicio de construcción."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla los intereses devengados por pagos atrasados según la parte responsable, coincidiendo con la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el sistema de cobro a la salida con control manual, tal como indica la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que sí se diferencian las tarifas por categoría de vehículo, respondiendo directamente a la pregunta."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta explica el reajuste basado en el IPC y menciona el mecanismo de reemplazo si el índice desaparece, cubriendo lo esencial."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta entrega las tarifas máximas base ($50 punta, $35 fuera de punta) y la tarifa de acceso ($300) solicitadas."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente la moneda (pesos) y la fecha base (31 de Diciembre de 2000)."
+   },
+   {
+    "n": 30,
+    "falta": "longitud total del proyecto",
+    "contradice": false,
+    "veredicto": "parcial",
+    "motivo": "La pregunta pide la longitud del proyecto, pero la respuesta solo entrega la longitud de la vía principal (10,9 km), omitiendo los 3,5 km de la prolongación que conforman el total de 14,4 km indicado en la referencia."
+   }
+  ]
+ }
+}

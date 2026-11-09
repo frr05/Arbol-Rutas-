@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante estándares del nivel de servicio [1]. En cuanto a los indicadores específicos para medir el estado de los pavimentos y determinar la ejecución de obras de conservación, se menciona el umbral del IRI (Índice de Rugosidad Internacional) [4]. Sin embargo, los fragmentos entregados no detallan la fórmula matemática específica para calcular o medir el IRI ni otros índices de nivel de servicio, solo establecen que se deben restablecer las condiciones de servicio según parámetros de la Dirección de Vialidad y las Bases de Licitación cuando se sobrepasen los umbrales [4].",
+  "fuentes": [
+   1,
+   4
+  ]
+ }
+}

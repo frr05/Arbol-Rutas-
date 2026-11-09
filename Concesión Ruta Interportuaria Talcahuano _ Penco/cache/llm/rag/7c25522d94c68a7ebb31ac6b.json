@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "Las causas de extinción de la concesión son: a) Cumplimiento de la relación señalada en el artículo 1.7.6 respecto a los Ingresos Totales de la Concesión (ITC) [1]; b) Cumplimiento del plazo máximo de la concesión señalado en el artículo 1.7.6.2 [1]; c) Incumplimiento grave de las obligaciones del Concesionario, según lo dispuesto en el artículo 1.13.3 [1]; y d) Mutuo acuerdo entre el MOP y la Sociedad Concesionaria de conformidad con lo dispuesto en el artículo 27%, número 2, del DS MOP N%900 de 1996 [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

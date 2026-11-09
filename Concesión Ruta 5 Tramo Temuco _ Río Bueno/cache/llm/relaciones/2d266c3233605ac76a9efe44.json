@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:25",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "artículo 35 del DFL MOP N0164 de 1991, modificado por la ley 19.252, cuyo texto refundido está contenido en el DS MOP N*900 de 1996,",
+    "debe_decir": "artículo 36 del DFL MOP N*900 de 1996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP N*164 de 1991.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "respuesta": "El plazo máximo de la concesión depende del tramo en que se adjudique: si es en el Tramo A, será de cuatrocientos noventa y ocho (498) meses [1]; en los demás casos (cualquier otro tramo), la concesión se extinguirá a los trescientos setenta y ocho (378) meses [1].",
+  "fuentes": [
+   1,
+   2,
+   4
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     5234,
+     5298
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "6.7.2."
+   },
+   {
+    "articulo": "3.7.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En caso que algún oferente notificado de la intención de adjudicar no suscriba el contrato de consultoría respectivo, perderá a favor del MOP la boleta de garantía de seriedad de la oferta entregada. Para estos efectos, la Sociedad Concesionaria será quien custodie, bajo su entera responsabilidad, las boletas de garantía que entregará cada oferente y deberá entregarla al MOP, dentro del plazo máximo de 5 días, contado desde el vencimiento del plazo establecido para la suscripción del respectivo contrato por el oferente notificado, para que el MOP pueda hacerla efectiva. En caso de atraso en la entrega de la referida boleta por parte de la Sociedad Concesionaria, se le aplicará una multa de 2 UTM, por cada día o fracción de día de atraso, cuya proposición, aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "debe_decir": "En caso que algún oferente notificado de la intención de adjudicar no suscriba el contrato de construcción respectivo, perderá a favor del MOP la boleta de garantía de seriedad de la oferta entregada. Para estos efectos, la Sociedad Concesionaria será quien custodie, bajo su entera responsabilidad, las boletas de garantía que entregará cada oferente, y deberá entregar al MOP, dentro del plazo máximo de 5 días, contado desde el vencimiento del plazo establecido para la suscripción del respectivo contrato por el oferente notificado, la boleta de garantía entregada por ese oferente para que el MOP pueda hacerla efectiva. En caso de atraso en la entrega de la referida boleta por parte de la Sociedad Concesionaria, se le aplicará una multa de 2 UTM, por cada día o fracción de día de atraso, cuya proposición, aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 112,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 03:08",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 12: Zonas de Instalación de Mallas Perimetrales",
+   "encabezados": [
+    "De Km Aproximado",
+    "A Km Aproximado",
+    "Longitud (m)",
+    "Lado",
+    "Ubicación"
+   ],
+   "filas": [
+    [
+     "4,30",
+     "6,0",
+     "1.700",
+     "Derecho",
+     "Costado de la vía concesionada."
+    ],
+    [
+     "6,00",
+     "8,0",
+     "2.000",
+     "Izquierdo",
+     "Costado de la vía concesionada."
+    ]
+   ],
+   "notas": "Todo lo anterior se entiende sin perjuicio de la facultad del Inspector Fiscal de aprobar cierros de características similares y equivalentes."
+  }
+ ]
+}

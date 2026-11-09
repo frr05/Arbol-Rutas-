@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el Inspector Fiscal, quien fija la cuantía y la propone al DGOP [6]. El procedimiento se rige por los artículos 29 y 30 del DS MOP N°900 de 1996 [6].",
+  "fuentes": [
+   6
+  ]
+ }
+}

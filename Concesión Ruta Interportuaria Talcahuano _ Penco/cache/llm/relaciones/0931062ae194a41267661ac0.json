@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 19:32",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.13.2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Al menos doce (12) meses antes de la extinción de la concesión por cumplimiento de plazo, calculado por el Inspector Fiscal, ...",
+    "debe_decir": "Al menos doce (12) meses antes del plazo estimado de la extinción de la concesión, calculado por el Inspector Fiscal, ...",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

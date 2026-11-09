@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "El sistema de cobro se realiza en forma directa al usuario en las plazas de peaje mediante cobro manual, entregándole al usuario un comprobante de su cancelación [1]. La clasificación de vehículos del peaje se realizará en forma manual y automática [1]. En caso de falla del sistema automático, el cobro se realizará en forma manual mediante planilla para control de flujo y ticket manuales foliados [6].",
+  "fuentes": [
+   1,
+   6
+  ]
+ }
+}

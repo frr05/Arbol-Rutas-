@@ -1,0 +1,103 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:37",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     5169,
+     5171
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria deberá notificar la intención de adjudicar el contrato, según lo señalado en el primer párrafo del presente numeral 3.7, al oferente que presente la menor Oferta Económica Válida en el proceso de Licitación, salvo que hubiere ejercido la “Facultad de Adjudicación” a que se hace referencia en el numeral 3.8 del presente Decreto Supremo",
+    "debe_decir": "La Sociedad Concesionaria deberá notificar la intención de adjudicar el contrato de construcción respectivo, al oferente que presentó la menor Oferta Económica Válida en el respectivo proceso de licitación, salvo que hubiere ejercido la “Facultad de Adjudicación” a que se hace referencia en el numeral 6.8 siguiente.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para estos efectos, se entenderá por “Oferta Económica Válida” a todas aquellas que, habiendo sido consideradas como “ofertas válidas” en el acta de evaluación técnica, sean iguales o inferiores a la cantidad máxima señalada en el numeral 7.1 del presente Decreto Supremo. En caso de empate entre dos o más ofertas válidas, la Sociedad Concesionaria podrá notificar la intención de adjudicar a cualquiera de ellas",
+    "debe_decir": "Para estos efectos, se entenderá por “Oferta Económica Válida” a todas aquellas que, habiendo sido consideradas como “ofertas válidas” en el acta de evaluación técnica, sean iguales o inferiores a las cantidades máximas señaladas en los numerales 7.2 Ó 7.3 del presente Decreto Supremo, según corresponda. En caso de empate entre dos o más ofertas económica válidas, la Sociedad Concesionaria podrá notificar la intención de adjudicar a cualquiera de ellas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria podrá notificar la intención de adjudicar el contrato de construcción respectivo, a un oferente que no haya presentado la menor Oferta Económica Válida, siempre que la Sociedad Concesionaria decida ejercer su “Facultad de Adjudicación”, según lo señalado en el numeral 6.8 siguiente.",
+    "debe_decir": "La Sociedad Concesionaria podrá notificar la intención de adjudicar el contrato de construcción respectivo, a un oferente que no haya presentado la menor Oferta Económica Válida, siempre que la Sociedad Concesionaria decida ejercer su “Facultad de Adjudicación”, según lo señalado en el numeral 6.8 siguiente.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En el caso que el oferente a quien se le haya notificado la intención de adjudicar el contrato de construcción respectivo según lo señalado en los literales a. o b. anteriores, no suscriba el respectivo contrato de construcción dentro del plazo indicado en la notificación señalada en el primer párrafo del numeral 6.7 del presente decreto supremo, la Sociedad Concesionaria deberá notificar la intención de adjudicar el contrato de construcción respectivo a aquel oferente que haya presentado una oferta de igual valor o la siguiente menor Oferta Económica Válida entre el resto de las ofertas, dentro del plazo máximo de 15 días, contado desde el vencimiento del plazo que el primer oferente notificado tenía para suscribir el contrato de construcción. El mismo procedimiento se aplicará en caso que este último no suscriba el respectivo contrato, y así sucesivamente, hasta concluir con el último oferente que haya presentado una Oferta Económica Válida, si fuere el caso. En este caso se reconocerá como la menor Oferta Económica Válida la del oferente que, habiendo sido notificado de la intención de adjudicar conforme al orden de prelación establecido, suscriba Sitio Web: www.diarioficial.cl Mesa Central: +56 2 24863600 E-mail: consultas@diarioficial.cl Dirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile. CVE 1431102 Este documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica avanzada. Para verificar la …",
+    "debe_decir": "En el caso que el oferente a quien se le haya notificado la intención de adjudicar el contrato de construcción respectivo según lo señalado en los literales a. o b. anteriores, no suscriba el respectivo contrato de construcción dentro del plazo indicado en la notificación señalada en el primer párrafo del numeral 6.7 del presente Decreto Supremo, la Sociedad Concesionaria deberá notificar la intención de adjudicar el contrato de construcción respectivo a aquel oferente que haya presentado una oferta de igual valor o la siguiente menor Oferta Económica Válida entre el resto de las ofertas, dentro del plazo máximo de 15 días, contado desde el vencimiento del plazo que el primer oferente notificado tenía para suscribir el contrato de construcción. El mismo procedimiento se aplicará en caso que este último no suscriba el respectivo contrato, y así sucesivamente, hasta concluir con el último oferente que haya presentado una Oferta Económica Válida, si fuere el caso. En este caso se reconocerá como la menor Oferta Económica Válida la del oferente que, habiendo sido notificado de la intención de adjudicar conforme al orden de prelación establecido, suscriba el contrato de construcción respectivo dentro del plazo previsto para ello.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En caso que el proceso de licitación referido a la ejecución de la obra denominada “Obras de Seguridad Normativa con proyecto aprobado”, se adjudique según el presente numeral i., incluyendo el evento de un segundo proceso de licitación, la diferencia entre la cantidad máxima dispuesta para la respectiva licitación en el numeral 7.2 del presente decreto supremo y el monto de la menor Oferta Económica Válida respecto de la cual se hubiere suscrito el contrato de construcción en dicho proceso de licitación, podrá agregarse a la cantidad máxima señalada en el numeral 7.3 del presente decreto supremo, para la ejecución de las obras denominadas “Obras de Seguridad Normativa con proyecto que requiere actualización”, “Obras Normativas” y “Obras de Servicialidad”, previa instrucción del Inspector Fiscal, y sólo en caso que se llevara a cabo un segundo proceso de licitación de las citadas últimas obras.",
+    "debe_decir": "En caso que el proceso de licitación referido a la ejecución de la obra denominada “Obras de Seguridad Normativa con proyecto aprobado”, se adjudique según el presente numeral i., incluyendo el evento de un segundo proceso de licitación, la diferencia entre la cantidad máxima dispuesta para la respectiva licitación en el numeral 7.2 del presente Decreto Supremo y el monto de la menor Oferta Económica Válida respecto de la cual se hubiere suscrito el contrato de construcción en dicho proceso de licitación, podrá agregarse a la cantidad máxima señalada en el numeral 7.3 del presente Decreto Supremo, para la ejecución de las obras denominadas “Obras de Seguridad Normativa con proyecto que requiere actualización”, “Obras Normativas” y “Obras de Servicialidad”, previa instrucción del Inspector Fiscal, y sólo en caso que se llevara a cabo un segundo proceso de licitación de las citadas últimas obras.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Todo lo anterior de conformidad a lo estipulado en el numeral 6.7.1 numeral iv. letra d. del presente decreto supremo.",
+    "debe_decir": "Todo lo anterior de conformidad a los estipulado en el numeral 6.7.1 numeral iv. letra d. del presente Decreto Supremo.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.2.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [
+     5224,
+     5233
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

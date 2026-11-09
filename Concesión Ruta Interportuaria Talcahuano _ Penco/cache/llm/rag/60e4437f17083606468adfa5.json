@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:57",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante niveles de servicio. Específicamente para la conservación de pavimentos, se establece que la Sociedad Concesionaria deberá mantenerlos dentro de los niveles definidos por parámetros de medición fiscalizados por el MOP [4]. El índice utilizado es el Índice de Rugosidad Superficial (IRI), cuyo valor máximo permitido es de 3,5 m/km para el pavimento asfáltico [4].",
+  "fuentes": [
+   4
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "El contrato se adjudicó al consorcio licitante formado por las sociedades Empresa Constructora Belfi S.A., Las Américas Administradora de Fondos de Inversiones S.A., y Asesorías e Inversiones C.M.B. S.A., quienes constituyeron la Sociedad Concesionaria \"Camino de la Madera S.A.\" [1].",
+  "fuentes": [
+   1,
+   4,
+   8
+  ]
+ }
+}

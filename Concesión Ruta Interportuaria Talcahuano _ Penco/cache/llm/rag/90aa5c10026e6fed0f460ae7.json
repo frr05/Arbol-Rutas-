@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones bajo diferentes conceptos y montos según corresponda:\n\n1. Monto fijo por gastos del MOP: Debe pagar un monto de UF 60 (sesenta Unidades de Fomento) por cada lote expropiado, por concepto de gastos y desembolsos que incurrirá el MOP para concretar cada expropiación [1].\n2. Adquisiciones no incluidas en los montos base: El valor de las adquisiciones o expropiaciones de terrenos necesarios para instalar servicios (artículos 1.10.10 y 2.2.1.7), puntos de cobro, oficinas del Concesionario y áreas adicionales (artículo 1.9.1.4) es de cargo exclusivo de la Sociedad Concesionaria, ya que no están contenidas en los montos de UF 83.000 ni UF 41.000 señalados en el artículo [1].\n3. Mayor valor por modificaciones al proyecto: Si la Sociedad Concesionaria realiza modificaciones al Anteproyecto Referencial o Alternativo que requieran expropiar terrenos con mayor valor de tasación, deberá pagar la diferencia entre el valor pericial de los terrenos del proyecto modificado y el del anteproyecto original [4].\n4. Suspensión o desistimiento: Los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas que no se requieran por modificaciones al Proyecto de Ingeniería Definitiva aprobada son de exclusiva responsabilidad y cargo de la Sociedad Concesionaria, incluyendo los gastos de tramitación del MOP e indemnizaciones por desistimiento [3].\n5. Costos de antecedentes: Los costos en que deba incurrir la Sociedad Concesionaria para obtener los antecedentes exigidos en el artículo 2.4 serán de su exclusiva responsabilidad y cargo [2], [3].\n6. Expropiaciones adicionales por Ingeniería Definitiva: Si una vez iniciado el procedimiento expropiatorio se requieren expropiaciones adicionales producto de la Ingeniería Definitiva aprobada, la Sociedad Concesionaria asume el pago de dichas expropiaciones adicionales y elabora los antecedentes a su entero costo [9].\n\nAdicionalmente, existe un monto base de UF 41.000 (cuarenta y un mil Unidades de Fomento) que la Sociedad Concesionaria paga al Estado adicionalmente por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos requeridas para la ejecución de las obras señaladas en el artículo 2.2.4, siempre que haya optado por la ejecución de las obras de Prolongación de Av. Alessandri [7], [8]. También existe un monto base de UF 83.000 relacionado con gastos de adquisición directa para el Fisco, del cual la Sociedad Concesionaria podrá deducir ciertos gastos hasta el valor pericial más UF 60 por lote [5], [6].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ }
+}

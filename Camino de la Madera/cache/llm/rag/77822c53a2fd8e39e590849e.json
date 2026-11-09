@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "El Decreto Supremo N° 133, de fecha 29 de abril de 1994, se publicó en el Diario Oficial el 4 de julio de 1994 [1][2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

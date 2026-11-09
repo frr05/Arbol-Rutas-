@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "El valor ofertado del factor de licitación Ingresos Totales de la Concesión (ITC) fue de 284.000 UF [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

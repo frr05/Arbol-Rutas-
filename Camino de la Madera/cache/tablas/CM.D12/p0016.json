@@ -1,0 +1,458 @@
+{
+ "documento": "CM.D12",
+ "pagina": 16,
+ "modelo": "google/gemini-2.5-flash-lite",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:52",
+ "tablas": [
+  {
+   "titulo": "ÍTEM 4: Ejemplo de las diferencias producidas por las rebajas tarifarias dispuestas por el MOP en el segundo semestre de 2010 y el año 2011 pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+   "encabezados": [
+    "Tasa de interés anual (Ta)",
+    "Tasa de interés diaria (Td)"
+   ],
+   "filas": [
+    [
+     "9,5%",
+     "0,0248%"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "Fecha del Pago",
+    "Monto UF",
+    "N° de días al 31-12-12",
+    "Interés",
+    "Total UF"
+   ],
+   "filas": [
+    [
+     "18/01/2012",
+     "77.894,20",
+     "348",
+     "7.020,29",
+     "84.914,49"
+    ],
+    [
+     "18/01/2012",
+     "52.265,94",
+     "348",
+     "4.710,52",
+     "56.976,46"
+    ],
+    [
+     "29/06/2012",
+     "55.504,01",
+     "185",
+     "2.605,51",
+     "58.109,52"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "",
+     "200.000,47"
+    ]
+   ],
+   "notas": "Nota:\nPara efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12."
+  },
+  {
+   "titulo": "ÍTEM 4: Ejemplo de las diferencias producidas por las rebajas tarifarias dispuestas por el MOP en el segundo semestre de 2010 y el año 2011 pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+   "encabezados": [
+    "Tasa de interés anual (Ta)",
+    "Tasa de interés diaria (Td)"
+   ],
+   "filas": [
+    [
+     "9,5%",
+     "0,0248%"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "ÍTEM 5: Ejemplo de las diferencias producidas por la rebaja tarifaria dispuesta por el MOP en el primer semestre de 2012 que será pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+   "encabezados": [
+    "Tasa de interés anual (Ta)",
+    "Tasa de interés diaria (Td)"
+   ],
+   "filas": [
+    [
+     "9,5%",
+     "0,0248%"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "Fecha del Pago",
+    "Monto UF",
+    "N° de días al 31-12-12",
+    "Interés",
+    "Total UF"
+   ],
+   "filas": [
+    [
+     "26/09/2012",
+     "50.898,23",
+     "96",
+     "1.293,63",
+     "54.991,86"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "",
+     "54.991,86"
+    ]
+   ],
+   "notas": "Nota:\nPara efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12."
+  },
+  {
+   "titulo": "PRESUPUESTO OBRAS CONSERVACIÓN MAYOR PAVIMENTOS",
+   "encabezados": [
+    "TRAMO",
+    "ITEM",
+    "UN",
+    "CANTIDAD",
+    "PRECIO UNITARIO (UF)",
+    "PRECIO TOTAL (UF)"
+   ],
+   "filas": [
+    [
+     "1",
+     "Sello grietas",
+     "ML",
+     "1.306,0",
+     "0,0873",
+     "114,01"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "616,0",
+     "0,0873",
+     "53,76"
+    ],
+    [
+     "3",
+     "Sello grietas",
+     "ML",
+     "5.430,3",
+     "0,6763",
+     "3.672,46"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "1.179,5",
+     "1,051",
+     "1.239,65"
+    ],
+    [
+     "",
+     "Reposicion Asfaltica",
+     "M2",
+     "4.571,0",
+     "1,1182",
+     "5.111,29"
+    ],
+    [
+     "",
+     "Slurry Calzada",
+     "M2",
+     "231.945,0",
+     "0,0583",
+     "13.522,39"
+    ],
+    [
+     "",
+     "Slurry Bermas",
+     "M2",
+     "39.480,0",
+     "0,0583",
+     "2.301,68"
+    ],
+    [
+     "4",
+     "Sello grietas",
+     "ML",
+     "702,0",
+     "0,0873",
+     "61,28"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "3.664,5",
+     "0,6763",
+     "2.478,30"
+    ],
+    [
+     "",
+     "Geomalia",
+     "M2",
+     "1.722,0",
+     "0,1448",
+     "249,35"
+    ],
+    [
+     "",
+     "Recapado en calzada",
+     "M2",
+     "21.021,0",
+     "0,3384",
+     "7.113,51"
+    ],
+    [
+     "",
+     "Recapado en Berma",
+     "M2",
+     "4.804,8",
+     "0,3384",
+     "1.625,94"
+    ],
+    [
+     "5",
+     "Sello grietas",
+     "ML",
+     "749,0",
+     "1,1182",
+     "837,53"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "1.130,0",
+     "0,0873",
+     "98,65"
+    ],
+    [
+     "6",
+     "Sello grietas",
+     "ML",
+     "5.681,6",
+     "0,6763",
+     "3.842,47"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "900,0",
+     "1,051",
+     "945,90"
+    ],
+    [
+     "",
+     "Reposicion Asfaltica",
+     "M2",
+     "6.335,9",
+     "1,1182",
+     "7.113,51"
+    ],
+    [
+     "",
+     "Geomalia",
+     "M2",
+     "987,0",
+     "0,1448",
+     "142,98"
+    ],
+    [
+     "",
+     "Reconstruccion",
+     "M2",
+     "248.825,3",
+     "1,1182",
+     "277.103,86"
+    ],
+    [
+     "",
+     "Recapado en calzada",
+     "M2",
+     "47.209,6",
+     "0,3384",
+     "15.975,73"
+    ],
+    [
+     "7",
+     "Sello grietas",
+     "ML",
+     "365,5",
+     "0,0873",
+     "31,90"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "1.652,5",
+     "0,6763",
+     "1.117,59"
+    ],
+    [
+     "",
+     "Reconstruccion",
+     "M2",
+     "476,0",
+     "1,1182",
+     "532,26"
+    ],
+    [
+     "",
+     "Slurry Calzada",
+     "M2",
+     "157.779,0",
+     "0,0583",
+     "9.198,52"
+    ],
+    [
+     "",
+     "Slurry Bermas",
+     "M2",
+     "26.856,0",
+     "0,0583",
+     "1.565,70"
+    ],
+    [
+     "8",
+     "Sello grietas",
+     "ML",
+     "1.351,8",
+     "0,6763",
+     "914,19"
+    ],
+    [
+     "",
+     "Bacheo Simple",
+     "M2",
+     "236,3",
+     "1,051",
+     "248,27"
+    ],
+    [
+     "",
+     "Geomalia",
+     "M2",
+     "52.522,5",
+     "0,1448",
+     "7.599,76"
+    ],
+    [
+     "",
+     "Recapado en calzada",
+     "M2",
+     "11.920,0",
+     "0,3384",
+     "4.033,73"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "TOTAL NETO",
+    "IVA",
+    "PRECIO TOTAL"
+   ],
+   "filas": [
+    [
+     "180.601,84",
+     "34.314,35",
+     "214.916,19"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "PRESUPUESTO INSPECCIÓN TÉCNICA DE OBRAS",
+   "encabezados": [
+    "ITEM",
+    "UN",
+    "CANTIDAD",
+    "PRECIO UNITARIO (UF)",
+    "PRECIO TOTAL (UF)"
+   ],
+   "filas": [
+    [
+     "Asesoria Tecnica Obras, control administrativo contrato, control de calidad prevencion de riesgos y laboratorio",
+     "1",
+     "gl",
+     "6.254,0",
+     "6.254,0"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "TOTAL NETO",
+    "IVA",
+    "PRECIO TOTAL"
+   ],
+   "filas": [
+    [
+     "6.254,00",
+     "1.188,26",
+     "7.442,26"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "ÍTEM 6: Ejemplo numérico del pago realizado por el MOP en virtud de la facultad que le otorgan los numerales 5.3 y 5.5 del Convenio Complementario N° 1, actualizado desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+   "encabezados": [
+    "Tasa de interés anual (Ta)",
+    "Tasa de interés diaria (Td)"
+   ],
+   "filas": [
+    [
+     "9,5%",
+     "0,0248%"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": null,
+   "encabezados": [
+    "Fecha Pagos",
+    "Monto Pago UF",
+    "N° de días al 31-12-12",
+    "Interés",
+    "Total UF"
+   ],
+   "filas": [
+    [
+     "06/01/2012",
+     "416.403,00",
+     "360",
+     "38.881,49",
+     "455.284,49"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "",
+     "455.284,49"
+    ]
+   ],
+   "notas": "Nota:\nPara efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.\nLa fecha y monto es sólo referencial y no comprometen a las partes."
+  }
+ ]
+}

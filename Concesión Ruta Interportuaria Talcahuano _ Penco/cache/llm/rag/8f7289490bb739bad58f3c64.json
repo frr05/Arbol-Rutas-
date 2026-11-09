@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "Según el artículo 1.143 de las Bases de Licitación, se imputa un 80% de los ingresos totales de explotación para pagar el precio del servicio de construcción [1]. Sin embargo, la Publicación en el Diario Oficial N°37.240 estipula una imputación diferente de un 30% de los ingresos totales de explotación para pagar el precio del servicio de construcción [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

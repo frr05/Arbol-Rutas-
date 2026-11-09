@@ -1,0 +1,59 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:48",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5 — 1.8.8 CONSERVACIÓN DE LAS OBRAS",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1160,
+     1172
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5 — 1.8.8 CONSERVACIÓN DE LAS OBRAS",
+    "operacion": "elimina",
+    "parrafos": [
+     "P2",
+     "P3",
+     "P4",
+     "P5",
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7 — 2.5.7 PLAN DE TRABAJO ANUAL",
+    "operacion": "elimina",
+    "parrafos": [
+     "P1",
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:36",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente que no hay pago por administración y control."
+   },
+   {
+    "n": 22,
+    "veredicto": "parcial",
+    "motivo": "Agrega un dato específico ($200/m²) que no está en la referencia y podría ser incorrecto o irrelevante para el monto global."
+   },
+   {
+    "n": 23,
+    "veredicto": "correcta",
+    "motivo": "Coincide con el porcentaje del 80% mencionado en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Solo menciona la tasa corriente (Convenio), omitiendo la multa impaga con interés máximo convencional (Bases)."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Refleja adecuadamente el sistema manual y las facultades de pre/postpago descritas en la referencia."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma la diferenciación por categoría de vehículo según la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el IPC como índice y la periodicidad semestral."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Aclara que no hay tarifa por km/plaza, sino una máxima por sentido, coincidiendo con la información disponible."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Indica pesos chilenos y la fecha base correcta (31 de marzo de 1993)."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "Coincide con la referencia al indicar que no se puede responder por falta de datos."
+   }
+  ]
+ }
+}

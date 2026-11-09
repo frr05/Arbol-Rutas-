@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "El plazo máximo de la concesión es de 378 meses, salvo que el licitante adjudicatario haya presentado su Oferta Económica en el Tramo A de licitación, caso en el cual el plazo máximo será de 498 meses [1]. En el caso específico de esta concesión, según la publicación en el Diario Oficial N°37.240, se establece un plazo de duración de 378 meses [10].",
+  "fuentes": [
+   1,
+   10
+  ]
+ }
+}

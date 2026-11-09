@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "El proyecto debe incluir, según corresponda, obras como movimientos de tierra, pavimentaciones, confección de bermas, obras de drenaje, señalización y defensas camineras [3]. Además, los proyectos incluirán a lo menos: diseño geométrico, diseño de obras de drenaje (nuevas o mejoramientos), diseño de la estructura de pavimento, diseño de cruces, señalización, demarcación de pavimento, entre otros [4]. También se deben proyectar todas las obras necesarias para completar el proyecto, como señalización, demarcación de pavimento, defensas camineras y cercos [9].",
+  "fuentes": [
+   3,
+   4,
+   9
+  ]
+ }
+}

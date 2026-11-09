@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D18",
+ "archivo": "4_modificacion_obras_convenios/TERB-Resolucion-DGOP-N_1385-2004.pdf",
+ "sha256": "cfbccacc7ed0802b73f75c7b4cb0b603e630c9c2fbe3a2b55fff22af651662f9",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:09"
+}

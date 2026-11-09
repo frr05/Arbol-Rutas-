@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 55,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 143,
+ "segundos": 8.7,
+ "fecha": "2026-10-27 19:09",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 76,
+  "conf_media": 0.645,
+  "frac_baja": 0.487,
+  "frac_rara": 0.022,
+  "tinta": 0.0299
+ },
+ "n_palabras_vlm": 79,
+ "frac_rara_vlm": 0.034,
+ "similitud": 0.348,
+ "truncado": false,
+ "texto_ocr": "SS\n\nPROYECTO | APROBACIÓN DEL PRorEgio op. . [ADO\nacta moreno | ¿eronicion vel proreo b RÚA INTERPORTUARIA TALCAHUANO — PENCO [re CONEXION COLON\nIO FEAS =— 4 POR ISLA ROCUANT CONCEPCION RUTA TRONCAL\n\nCOBONA\n\nDT A JDEKM. 0.000,00 A KM. 11.269 HO. — PENCO. | toeaus 151 41)\n\nMINISTERIO DE OBRAS PUBLICAS . REGIÓN\nDIRECCION GENERAL DE OBRAS PUBLICAS SOCIEDAD CONCESIONARIA\n\nAUTOPISTA INTERPORTUARIA S.A, [55 Í\nCOORDINACION GENERAL DE CONCESIONES OOOO IESO IA\nLl Y]",
+ "texto_vlm": "MINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nSOCIEDAD CONCESIONARIA\nAUTOPISTA INTERPORTUARIA S.A.\n\nAPROBACION CONCESIONARIA\nPROYECTO\nAPROBACION DEL PROYECTO M.O.P.\nPROYECTO\nRUTA INTERPORTUARIA TALCAHUANO - PENCO\nPOR ISLA ROCUANT\nDE KM. 0.000,00 A KM. 11.269\n\nREGION: VIII\nPROVINCIA: CONCEPCION\nCOMUNA: THINO. - PENCO\n(OBSERV. DIN A1)\n\nOBJETO\nCONEXION COLON\nRUTA TRONCAL\n\nPLANO\nP\n01\nDE 01\nESCALA INDICADAS\n\nDEPTO. DE\nCONCESIONES\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nDEPTO. DE CONCESIONES\n01"
+}

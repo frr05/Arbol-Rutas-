@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D01",
+ "pagina": 111,
+ "archivo": "1_licitacion/Bases-de-Licitacion-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 256,
+ "segundos": 26.1,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 102,
+  "conf_media": 0.697,
+  "frac_baja": 0.49,
+  "frac_rara": 0.0,
+  "tinta": 0.0443
+ },
+ "n_palabras_vlm": 260,
+ "frac_rara_vlm": 0.059,
+ "similitud": 0.235,
+ "truncado": false,
+ "texto_ocr": "TABLA N* 1\n\nMERO DE VEHICULOS ANUALES GARANTIZADOS PARA LA OBRA A\n\nE\nS [8 [8\n\nsl\nE\nE\n\nES\npe\nE\nsu\n7\n3\n\n1\n12\n\nHd\ny le ly ly |2 le\n\n315\n\nS (8\n\nEE\n.l\n\n3\n\nS\n\nete\nde\n\na\n$\nA\n\n11]\n\n14\n\nE\n,\n\n3 |3\n'\ns |8\nE\nj\n\nE\n\n'\noO\n8\no\nbo\n'\n3 | |\n\npo\nSO\npo\npo\n9\no\n\n>» ln\nws ls [o ju |\n\ne\n\nE A E\n>\nPro\n\npo\nPo\n\n115000\n115000\n\nA RAS\n\n104000\n104000\n\nBASES DE LICITACION CAMINO DE LA MADERA\n\n110",
+ "texto_vlm": "110\n\nTABLA N° 1\nNUMERO DE VEHICULOS ANUALES GARANTIZADOS PARA LA OBRA A\n\n| AÑO DE CONCESION | OPCION 1 | OPCION 2 | OPCION 3 |\n|---|---|---|---|\n| 1 | 180000 | 190000 | 200000 |\n| 2 | 186000 | 197000 | 207000 |\n| 3 | 193000 | 203000 | 214000 |\n| 4 | 199000 | 210000 | 221000 |\n| 5 | 205000 | 217000 | 228000 |\n| 6 | 212000 | 224000 | 235000 |\n| 7 | 218000 | 230000 | 242000 |\n| 8 | 225000 | 237000 | 250000 |\n| 9 | 231000 | 244000 | 257000 |\n| 10 | 237000 | 250000 | 263000 |\n| 11 | 243000 | 257000 | 270000 |\n| 12 | 250000 | 264000 | 278000 |\n| 13 | 256000 | 270000 | 285000 |\n| 14 | 263000 | 277000 | 292000 |\n| 15 | 269000 | 284000 | 299000 |\n| 16 | 276000 | 291000 | 306000 |\n| 17 | 104000 | 110000 | 115000 |\n| 18 | 104000 | 110000 | 115000 |\n| 19 | 104000 | 110000 | 115000 |\n| 20 | 104000 | 110000 | 115000 |\n| 21 | 104000 | 110000 | 115000 |\n| 22 | 104000 | 110000 | 115000 |\n| 23 | 104000 | 110000 | 115000 |\n| 24 | 104000 | 110000 | 115000 |\n| 25 | 104000 | 110000 | 115000 |\n\nBASES DE LICITACION CAMINO DE LA MADERA"
+}

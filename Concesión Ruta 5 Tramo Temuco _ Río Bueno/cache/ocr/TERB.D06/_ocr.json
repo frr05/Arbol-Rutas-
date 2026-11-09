@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D06",
+ "archivo": "3_ejecucion/Puesta-en-Servicio-Provisoria-tramo-1-TERB.pdf",
+ "sha256": "9fd7fd486cae3afc431596a91571182242bd8a8e3b60f0982bca8f9f70f697bd",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:04"
+}

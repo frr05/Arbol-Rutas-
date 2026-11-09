@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.7",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": ".",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.7",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Los pagos se harán mediante Vale Vista o Cheque Nominativo extendidos a nombre de la Sociedad Concesionaria",
+    "debe_decir": "g a quien corresponda legalmente.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

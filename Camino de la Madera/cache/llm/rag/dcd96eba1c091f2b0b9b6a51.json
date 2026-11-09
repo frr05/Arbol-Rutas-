@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación por niveles de servicio. Los estándares de nivel de servicio deben incluir medidas, procedimientos, horarios y métodos para mantener el mejor nivel de operación [8]. Para medir el estado del pavimento y gestionar la conservación, se utiliza el Índice Internacional de Rugosidad (IRI) como uno de los indicadores clave [9]. La medición del IRI se realiza mediante un perfilómetro óptico o Mays Meter [9]. Sin embargo, los fragmentos entregados no especifican una fórmula matemática detallada para el cálculo del índice de nivel de servicio en sí, aunque mencionan que el grado de compromiso de riesgo se mide a través del margen de sobrecosto porcentual [3], [10], y existen fórmulas para el reajuste de tarifas basadas en el IPC [6].",
+  "fuentes": [
+   3,
+   6,
+   8,
+   9,
+   10
+  ]
+ }
+}

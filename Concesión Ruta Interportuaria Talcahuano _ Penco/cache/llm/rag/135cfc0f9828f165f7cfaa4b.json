@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "El Inspector Fiscal es quien fiscaliza el cumplimiento del Contrato de Concesión [2]. Sus funciones específicas incluyen: llevar el Registro de bienes y derechos afectos a la concesión; fiscalizar los pagos que deba realizar la Sociedad Concesionaria al MOP; revisar la información estadística entregada por el Concesionario; entregar reportes a la DGOP relativos a la gestión de la concesión; realizar análisis de antecedentes; y fiscalizar el cumplimiento de las normas técnicas sobre la conservación de las obras [1], [4], [10].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   10
+  ]
+ }
+}

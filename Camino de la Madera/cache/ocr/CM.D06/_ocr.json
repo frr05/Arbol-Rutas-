@@ -1,0 +1,13 @@
+{
+ "documento": "CM.D06",
+ "archivo": "2_adjudicacion/Decreto-de-Adjudicacion-Camino-de-la-Madera.pdf",
+ "sha256": "0501907db7a4c5ff081e7ed13b9846c8a661c14f1e05964276196dd5cd8bc477",
+ "paginas": 7,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-29 04:35"
+}

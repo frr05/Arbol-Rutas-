@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:26",
+ "respuesta": {
+  "respuesta": "Las multas son aplicadas por el Inspector Fiscal, quien notifica la infracción y propone su aplicación [1]. El Inspector Fiscal fija la cuantía de la multa y la propone al DGOP, el cual requiere el pronunciamiento de la Comisión Conciliadora en los casos previstos en los artículos 29 y 30 del DS MOP N°900 de 1996 [5].",
+  "fuentes": [
+   1,
+   5
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información específica sobre las ofertas presentadas (valor del factor de licitación y puntaje o nota técnica) para la Concesión Ruta Interportuaria Talcahuano – Penco. Solo describen los procedimientos y fórmulas de evaluación [1,2,3,4,5,6,7,8,9].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ }
+}

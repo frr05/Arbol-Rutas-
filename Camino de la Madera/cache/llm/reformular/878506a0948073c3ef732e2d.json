@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "consultas": [
+   "número de decretos modificatorios contrato concesión",
+   "resoluciones que modifican el contrato obra pública"
+  ]
+ }
+}

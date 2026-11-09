@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:17",
+ "respuesta": {
+  "respuesta": "El sistema tarifario se revisa cada dos (2) años, cuando la Sociedad Concesionaria puede proponer de manera justificada una revisión del sistema de reajuste de las tarifas máximas, del sistema de cobro utilizado y de la relocalización de los puntos de cobro. Esta propuesta puede ser aceptada o rechazada por el MOP, con consulta al Ministerio de Hacienda [1][5]. Adicionalmente, se puede solicitar revisión por causas sobrevinientes que lo justifiquen, de acuerdo al artículo 71º del Reglamento de la Ley de Concesiones de Obras Públicas [2][5].",
+  "fuentes": [
+   1,
+   2,
+   5
+  ]
+ }
+}

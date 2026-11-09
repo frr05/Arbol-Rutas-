@@ -1,0 +1,10 @@
+{
+ "tarea": "agente",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:39",
+ "respuesta": {
+  "falta": "",
+  "accion": "responder",
+  "argumento": "El tiempo máximo de espera en las plazas de peaje, medido como Tiempo de Espera en Cola (TEC), tiene dos umbrales críticos establecidos en el artículo 1.19 de las Bases de Licitación: 1) Un TEC superior a 2 minutos durante dos horas en un mismo mes obliga a la Sociedad Concesionaria a modificar el Plan de Atención (plazo de 5 días) o construir nuevas pistas (plazo de 6 meses). 2) Un TEC superior a 5 minutos, una vez vencidos los plazos anteriores, da origen al cobro de multas. El Inspector Fiscal puede eximir estas sanciones si determina que el alza se debe a circunstancias extraordinarias."
+ }
+}

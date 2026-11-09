@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:29",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato fue publicada en el año 2023, correspondiente al Decreto supremo N°136 de fecha 25 de julio de 2023 [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

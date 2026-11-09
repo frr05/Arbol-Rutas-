@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:33",
+ "respuesta": {
+  "respuesta": "El fragmento [10] identifica al licitante o grupo licitante como 'CONSORCIO AUTOPISTA INTERPORTUARIA'. Sin embargo, los fragmentos proporcionados no especifican el número total de empresas o grupos licitantes que presentaron oferta, ni listan a otros participantes distintos a este consorcio en la sección de identificación de la oferta económica. El fragmento [7] menciona que se levantará acta de quiénes presentaron ofertas, pero no detalla esa lista en el texto transcrito.",
+  "fuentes": [
+   10,
+   7
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:16",
+ "respuesta": {
+  "respuesta": "Se firmaron 3 convenios: el Convenio Complementario N°1, el Convenio Complementario N°2 y el Convenio Ad-Referéndum Nº 1 [11].",
+  "fuentes": [
+   11
+  ]
+ }
+}

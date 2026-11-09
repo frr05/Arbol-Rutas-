@@ -1,0 +1,76 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash-lite",
+ "fecha": "2026-10-27 12:49",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1824,
+     1832
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1834,
+     1856
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1857,
+     1893
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1894,
+     1928
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.5.7",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En caso de atraso en la entrega de la actualización del Programa de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos, si las hubiere, se aplicará a la Sociedad Concesionaria una multa de 2 UTM por cada día o fracción de día de atraso, cuya proposición, aplicación y pago se regulará según lo establecido en las Bases de Licitación.",
+    "debe_decir": "En caso de atraso en la entrega de las actualizaciones del Programa General de Conservación de la Obra, del Plan de Trabajo Anual o de las correcciones a éstos si las hubiere, por parte de la Sociedad Concesionaria, se aplicará a ésta una multa de 3 UTM por cada día o fracción de día de atraso, por cada actualización o corrección atrasada, cuya aplicación y pago se regularán según lo establecido en las Bases de Licitación.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

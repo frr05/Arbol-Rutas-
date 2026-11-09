@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 52,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 39,
+ "segundos": 3.5,
+ "fecha": "2026-10-27 19:09",
+ "motivos": "pocas_palabras",
+ "calidad_ocr": {
+  "n_palabras": 5,
+  "conf_media": 0.913,
+  "frac_baja": 0.2,
+  "frac_rara": 0.0,
+  "tinta": 0.0065
+ },
+ "n_palabras_vlm": 21,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.385,
+ "truncado": false,
+ "texto_ocr": "ANEXO N' 6\nMONOGRAFIAS DESCRIPTIVAS",
+ "texto_vlm": "ANEXO N° 6\nMONOGRAFIAS DESCRIPTIVAS\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES"
+}

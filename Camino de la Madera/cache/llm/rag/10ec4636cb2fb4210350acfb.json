@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:39",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre cuántas Puestas en Servicio Provisorias se publicaron.",
+  "fuentes": []
+ }
+}

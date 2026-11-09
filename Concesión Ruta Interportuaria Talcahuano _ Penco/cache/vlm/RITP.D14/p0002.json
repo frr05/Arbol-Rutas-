@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 2,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 81,
+ "segundos": 6.8,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 51,
+  "conf_media": 0.864,
+  "frac_baja": 0.176,
+  "frac_rara": 0.034,
+  "tinta": 0.0208
+ },
+ "n_palabras_vlm": 53,
+ "frac_rara_vlm": 0.032,
+ "similitud": 0.835,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARÍA S.A.\n\nINDICE\nL ANTECEDENTES GENERALES 2\nll. NORMAS GENERALES 4\nIM, DEBERES Y DERECHOS DEL USUARIO 6\n\nIV, DEBERES Y DERECHOS DEL CONCESIONARIO 12\n\nY, — MEDIDAS DE SEGURIDAD PREVENTIVAS 15\n\nYL MANUAL DEL PEAJISTA 48\nYI, MANUAL DEL PATRULLERO 32\nANEXO N* 1\n\nANEXO N\" 2",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nINDICE\n\nI. ANTECEDENTES GENERALES 2\n\nII. NORMAS GENERALES 4\n\nIII. DEBERES Y DERECHOS DEL USUARIO 6\n\nIV. DEBERES Y DERECHOS DEL CONCESIONARIO 12\n\nV. MEDIDAS DE SEGURIDAD PREVENTIVAS 15\n\nVI. MANUAL DEL PEAJISTA 28\n\nVII. MANUAL DEL PATRULLERO 32\n\n- ANEXO N° 1\n- ANEXO N° 2\n\n1"
+}

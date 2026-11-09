@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:17",
+ "respuesta": {
+  "respuesta": "La conservación de pavimentos exige mantenerlos dentro de los niveles establecidos en las Bases de Licitación, fiscalizados por el MOP. Los parámetros específicos varían según el tipo de pavimento:\n\nPara Pavimento Asfáltico: Índice de Rugosidad Superficial (IRI) Máximo de 3,5 m/km; Ahuellamiento Máximo de 15 mm; Grietas tipo Piel de Cocodrilo y/o bloque máximas del 10% por kilómetro; Agrietamiento lineal máximo del 10% por kilómetro; Ningún bache abierto; Resistencia al resbalamiento con coeficiente de fricción entre 0,40 y 0,55; No se permiten baches abiertos ni descensos superiores a 1 cm en bermas; y no se acepta exudación de asfalto [1].\n\nPara Pavimento de Hormigón: IRI Máximo de 3,5 m/km; Ningún bache abierto; Resistencia al resbalamiento con coeficiente de fricción entre 0,40 y 0,55; No se aceptan grietas medias ni anchas (no más del 15% de las losas pueden tener grietas angostas); Bermas sin baches abiertos ni descensos superiores a 1 cm; y Escalonamiento Máximo de 6 mm [1].\n\nPara Pavimentos de Doble Tratamiento Superficial: IRI Máximo de 4,0 m/km; Ningún bache abierto; y no se acepta exudación de asfalto [1].\n\nAdemás, se deben efectuar acciones de conservación antes que ciertos indicadores superen los umbrales (ej. media móvil de 5 tramos supere el IRI) y se debe llevar un control mediante informes anuales que detallen el estado de la carpeta de rodada [1], [4].",
+  "fuentes": [
+   1,
+   4
+  ]
+ }
+}

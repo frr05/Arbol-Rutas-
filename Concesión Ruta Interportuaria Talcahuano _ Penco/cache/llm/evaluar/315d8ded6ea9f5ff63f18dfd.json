@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 11,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide exactamente con el dato principal de la referencia."
+   },
+   {
+    "n": 12,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye todos los plazos y condiciones específicos mencionados en la referencia."
+   },
+   {
+    "n": 13,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el plazo clave de 90 días antes de la solicitud mencionado en la referencia."
+   },
+   {
+    "n": 14,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el evento desencadenante del cobro de tarifas según la referencia."
+   },
+   {
+    "n": 15,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta contradice la referencia al asignar plazos y avances incorrectos a las declaraciones obligatorias para la etapa principal."
+   },
+   {
+    "n": 16,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce fielmente el plazo y los requisitos de suscripción y protocolización de la referencia."
+   },
+   {
+    "n": 17,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente los requisitos temporales, documentales y procedimentales de la referencia."
+   },
+   {
+    "n": 18,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente el plazo máximo de presentación de los proyectos de detalle."
+   },
+   {
+    "n": 19,
+    "veredicto": "parcial",
+    "motivo": "La respuesta omite la consecuencia de no pago (hacer efectivas las garantías) que es un dato clave de la referencia."
+   },
+   {
+    "n": 20,
+    "veredicto": "correcta",
+    "motivo": "La respuesta enumera correctamente todas las causas de extinción listadas en la referencia."
+   }
+  ]
+ }
+}

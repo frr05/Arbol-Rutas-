@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D10",
+ "pagina": 38,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 18,
+ "segundos": 18.8,
+ "fecha": "2026-10-27 12:11",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 29,
+  "conf_media": 0.47,
+  "frac_baja": 0.655,
+  "frac_rara": 0.0,
+  "tinta": 0.0053
+ },
+ "n_palabras_vlm": 12,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.3,
+ "truncado": false,
+ "texto_ocr": "(Dos Hojas)\n\nCARLOS DIAZ VÁRGAS\n\nINSPECTOR FISCAL\n\n2\n\nZÉ OB\n\nELA\n\nGENE ERLÁS\nLESLO.\n\n1) ye\n\nze A\n\ne] o0Bw\n\n-0\n\n2% Concesiones e\nE — 0\no Bs",
+ "texto_vlm": "ANEXO 5\nPROGRAMA DE OBRAS\n(Dos Hojas)\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL"
+}

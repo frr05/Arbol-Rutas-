@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:28",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.4.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "y el Secretario Regional Ministerial del MOP de la IV Región o su representante.",
+    "debe_decir": "y los Secretarios Regionales Ministeriales del MOP de la IX y de la X Región o sus representantes.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

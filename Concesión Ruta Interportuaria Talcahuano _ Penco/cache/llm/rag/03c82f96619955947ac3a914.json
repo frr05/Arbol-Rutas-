@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:38",
+ "respuesta": {
+  "respuesta": "Podrán participar en la licitación personas naturales o jurídicas, consideradas individualmente como licitante o formando parte de un grupo licitante, de nacionalidad chilena (constituidas conforme a la legislación chilena) y que cumplan los requisitos exigidos por el DS MOP N°900 de 1996, Ley de Concesiones, el DS MOP N°956 de 1997, el DFL MOP N°850 de 1997 y las presentes Bases de Licitación. Asimismo, podrán participar las agencias chilenas de sociedades anónimas extranjeras, siempre que cumplan con dichos requisitos [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

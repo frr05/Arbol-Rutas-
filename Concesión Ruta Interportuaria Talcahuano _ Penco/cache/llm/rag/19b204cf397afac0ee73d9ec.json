@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 02:29",
+ "respuesta": {
+  "respuesta": "Según los fragmentos entregados, se firmaron al menos dos convenios complementarios: el Convenio Complementario N° 1 de fecha 12 de enero de 2005 [1] y el Convenio Complementario N° 2 de fecha 18 de abril de 2007 [3].",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

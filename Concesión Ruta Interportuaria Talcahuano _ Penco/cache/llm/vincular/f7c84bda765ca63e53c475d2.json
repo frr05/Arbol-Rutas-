@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 20:20",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D12.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D12.F0003",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D11.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0002",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0003",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0004",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0005",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0006",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0007",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0008",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0009",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0010",
+    "destino": "BL:1.8.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0012",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0013",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0014",
+    "destino": "BL:1.14.2.3.3"
+   },
+   {
+    "fragmento": "RITP.D11.F0015",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0016",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0017",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0018",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0022",
+    "destino": "BL:1.10.5"
+   },
+   {
+    "fragmento": "RITP.D11.F0023",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0024",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0025",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0026",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0027",
+    "destino": "BL:1.14.2.1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D11",
+ "pagina": 36,
+ "archivo": "4_modificacion_obras_convenios/Convenio-Complementario-N_1-MDI-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 129,
+ "segundos": 7.7,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 61,
+  "conf_media": 0.623,
+  "frac_baja": 0.525,
+  "frac_rara": 0.0,
+  "tinta": 0.0165
+ },
+ "n_palabras_vlm": 96,
+ "frac_rara_vlm": 0.024,
+ "similitud": 0.588,
+ "truncado": false,
+ "texto_ocr": "ANEXO NP? 1\n\nitem N“%2: Costo de Proyectos de Ingeniería Adicionales Ejecutados\n\nItem 2 Monto\n\n1. [Proyecto de Ingeniería Vial o 9.620]\n2 [Estudio de Tránsito... 577\n\n3. [Estudio de Impacto Ambiental 18]\n\n4 ¡Estudio Estado y Conservación Pavimentos Ruta 160______ total\n\nSE . A\n[ula 2EPTO. SE e\ná eS CMCIUONOS 97\n\n> al rm\nA “o SÓN\nty 1)",
+ "texto_vlm": "ANEXO N° 1\nItem N°2: Costo de Proyectos de Ingeniería Adicionales Ejecutados\n\n| Item 2 | Monto UF |\n|---|---|\n| 1 | Proyecto de Ingeniería Vial | 9.620 |\n| 2 | Estudio de Tránsito | 1.577 |\n| 3 | Estudio de Impacto Ambiental | 1.183 |\n| 4 | Estudio Estado y Conservación Pavimentos Ruta 160 | 1.913 |\n| 4 | Administración | 4.892 |\n| | TOTAL | 19.184 |\n\nMANUEL ZAMBRANO SOTO\nAdministrador Contratos de Concesión\nInspector Fiscal de Explotación\n\nDEPTO. DE\nCONCESIONES\nMINISTERIO DE OBRAS PUBLICAS\nGENERAL DE CONCESIONES"
+}

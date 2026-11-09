@@ -1,0 +1,108 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:57",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Y, - Y VI + Y VE O)",
+    "debe_decir": "Y, - Y, + Y,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IAn > 6.283.000+ R en UF Q) con: 240 TR(]yg y PrUro) para n<240 R = i=n+1 d+ B) 6) 0 para n2240",
+    "debe_decir": "IAn > 6.108.000 UF",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P34"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "m IM, IA, = Y 1 ' 2 (+7 1",
+    "debe_decir": "m IM, IA, = Y 1 ' 2 (+7 1",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P36"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1.6.4, punto 5, letra g)",
+    "debe_decir": "1.6.4, punto 3, letra g)",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P38"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1,1715%",
+    "debe_decir": "1,1715%",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "6.283.000",
+    "debe_decir": "6.108.000",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "240 TR(]yg y PrUro) para n<240 R = i=n+1 d+ B) 6) 0 para n2240",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "T Corresponde a 1/12 del monto anual inicial del subsidio y que para efectos del presente cálculo corresponde a 20.833 UF, para los años en que efectivamente se paga subsidio. Para los años en que el subsidio es 0 (cero), según 1.11.1, el valor T es igual a O (cero). 19 Corresponde a la tasa equivalente mensual para una tasa de crecimiento anual del 5% y que para efectos del presente cálculo corresponde a 0,407%. B Corresponde a la tasa equivalente mensual para una tasa de actualización anual del 11% y que para efectos del presente cálculo corresponde a 0,873%. n Corresponde al Plazo de la Concesión expresado en meses, de acuerdo a lo señalado en 3.1.2",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.12",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para el siguiente mes en que se cumpla la relación anterior, comenzará a regir la Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria, donde la Sociedad Concesionaria procederá a pagar al MOP el 50% de sus ingresos. El pago se efectuará a más tardar durante los primeros 10 días del mes siguiente. El no pago de dicho monto será causal de incumplimiento de contrato y dará derecho al cobro de las garantías y a las acciones legales correspondientes.",
+    "debe_decir": "Para el siguiente Mes en que se cumpla la relación anterior, comenzará 2 regir la Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria, donde la Sociedad Concesionaria procederá a pagar al MOP el 50% de sus ingresos. El pa80 se efectuará 2 más tardar durante los primeros 10 días del mes siguiente. El no pago de dicho monto será causal de incumplimiento de contrato Y dará derecho al cobro de las garantías y A las acciones legales correspondientes.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

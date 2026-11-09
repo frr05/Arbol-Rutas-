@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D14",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_185-2010.pdf",
+ "sha256": "60b89ddec7bcee33040cba22fa117c30b3b1e299aed51062631cc2db42a4b739",
+ "paginas": 14,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:06"
+}

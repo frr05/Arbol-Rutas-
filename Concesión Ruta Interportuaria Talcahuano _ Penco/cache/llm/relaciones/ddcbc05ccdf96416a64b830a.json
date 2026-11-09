@@ -1,0 +1,34 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 19:50",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.4.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P11"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "2. Anteproyectode Ingeniería “Prolongación Avenida Alessandri”.",
+    "debe_decir": "2. Anteproyecto de Ingeniería “Ampliación Jorge Alessandri, Sector Aeropuerto — Ruta Interportuaria, VIH Región”, Noviembre de ingeniería Ltda, 2001,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.4.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P16"
+    ],
+    "texto_nuevo": [
+     1119,
+     1122
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

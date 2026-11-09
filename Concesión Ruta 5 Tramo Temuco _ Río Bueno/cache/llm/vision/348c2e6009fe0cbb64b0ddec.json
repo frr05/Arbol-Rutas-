@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-27 12:22",
+ "costo": 0.0008862,
+ "texto": "MANUAL DE PATRULLAJE\nRUTA DE LOS RÍOS\nEdición: 2.0\nPágina: 33 / 34\nNombre\nFdad\nDomicilio\nConsecuencia\nM\nC\nMC\nI\nI\nDaños ocasionados\nFOTO DEL ACCIDENTE\nDIAGRAMA\n4\n2\n1\n3\n1km\n1km\nCODIGOS\nTipo:\nServicios:\nManiobras:\nConsecuencia:\n01 Bus/Taxibus\n01 Carabineros\n01 Vía derecha por vía\n01 Con Daños\n02 Minibus\n02 Fiscal\n02 Vira Derecha Hacia Vía\n02 Sin Daños\n03 Trolebús\n03 Particular\n03 Vira Izquierda Hacia Vía\n04 Automóvil\n04 Trans.Escolar\n04 Adelanta en Vía\n05 Camioneta\n05 Taxi Básico\n05 Detenido/deteniéndose en Vía\n06 Jeep\n06 Taxi (inertivo\n06 Retracede en Vía\n07 Camión simple\n07 Bomberos\n07 Vira en \"U\" en Vía\n08 Camión c/semirremolque\n08 Ambulancia\n08 Entra a Vía\n09 Trazu-Camión\n09 L. Culeviva Urbana\n09 Sale a Vía\n10 Trazu-Camión\nc/semirremolque\n10 L. Culeviva Rural\n10 Estac. en Derrame de Vía\n11 Furgón\n11 L. Interprovincial\n11 Cambia de Pista en Vía\n12 Ambulancia\n12 L. Internacional\n12 Reincia Marcha en Vía\n13 Carro Bomba\n13 Carga Normal\n13 Cruzando la Vía\n14 Motocicleta\n14 Carga Peligrosa\n14 Frona en Vía\n15 Bicicleta\n15 Otros\n15 Otras\n16 Tracc. Animal\n17 Maq. Agrícola\n18 Maq Mw Tierra\n19 FF CC"
+}

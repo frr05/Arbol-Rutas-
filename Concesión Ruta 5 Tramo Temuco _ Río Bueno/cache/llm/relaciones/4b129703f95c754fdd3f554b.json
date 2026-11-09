@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:28",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.10",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "artículo 35 del DFL MOP N*164 de 1991. Ley de Concesiones -cuyo texto, refundido con sus modificaciones, está contenido en el DS MOP N* 900 de 1996-.",
+    "debe_decir": "artículo 36 del DS N*900 de 1996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP N*164 de 1991.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

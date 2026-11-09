@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D02",
+ "pagina": 9,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 153,
+ "segundos": 8.8,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 135,
+  "conf_media": 0.679,
+  "frac_baja": 0.437,
+  "frac_rara": 0.0,
+  "tinta": 0.0284
+ },
+ "n_palabras_vlm": 91,
+ "frac_rara_vlm": 0.015,
+ "similitud": 0.566,
+ "truncado": false,
+ "texto_ocr": "K Cc) Del mismo modo, los Pagos que efectúe o] MOP POP Concepto\nServicios de fantonción Y repatación de ta Obr: Pública\n> referencia, tarbión constituirán Ínaresos tributablos\n\n> eJercicio, del monto de los cuales podrán deducirse\n\ny Y gastos que demande el ser\n\nlos cos\n\n: curridos por\nConcesionario.\n\nvicio Prestado In\n\nSaluda a Ud.,\n\nA A AA\n\na ¿O\n2-1\n* DIRECTOR\n“As\nTA A\n. UN Ñ UN\nTRONO\n\ne CELHAY\n0 Mernspus an\n\na\n\nNAS\ny\na mt\ne, 2\nSe \"On “e\ne\na .) FA MRE /mab\nÑ DISTRIBUCION:\n\n- FR, PTRECTOR. GENERAL. pr OBRAS PUBLICAS\n> MINISTERIO DE OBRAS PUBLICAS :\nmo MORANDE No 59-71\nMN SANTIAGO\na + SECRETARIA DEL DIRECTOR\na - SUBDIRECCION NORMATIVA\nan - DEPTO. DE ASESORIA JURIDICA\n- DEPTO. DE IMPUESTOS DIRECTOS\n\n)",
+ "texto_vlm": "c) Del mismo modo, los pagos que efectúe el MOP por concepto\nservicios de mantención y reparación de la obra pública\nreferencia, también constituirán ingresos tributables\nejercicio, del monto de los cuales podrán deducirse los cos\ny gastos que demande el servicio prestado incurridos por\nconcesionario.\n\nSaluda a Ud.,\n\nREPUBLICA DE CHILE\nDIRECTOR\nJAVIER ETCHEVERRY CELIAY\nDIRECTOR\n\nJFM/NRP/mab\nDISTRIBUCION:\n- SR. DIRECTOR GENERAL DE OBRAS PUBLICAS\nMINISTERIO DE OBRAS PUBLICAS\nHORANDE Nº 59-71\nSANTIAGO\n- SECRETARIA DEL DIRECTOR\n- SUBDIRECCION NORMATIVA\n- DEPTO. DE ASESORIA JURIDICA\n- DEPTO. DE IMPUESTOS DIRECTOS"
+}

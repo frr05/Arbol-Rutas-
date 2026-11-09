@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "La información proporcionada no indica cuántas Puestas en Servicio Provisorias se publicaron efectivamente. Los fragmentos describen el procedimiento y los plazos para solicitarlas (por ejemplo, una vez aprobados los planos definitivos [3]), la duración mínima de seis meses [3], y que el ingreso mínimo garantizado comienza a regir desde la puesta en servicio provisoria de la Obra A [8] [9], pero no contienen un registro o conteo de las autorizaciones publicadas.",
+  "fuentes": []
+ }
+}

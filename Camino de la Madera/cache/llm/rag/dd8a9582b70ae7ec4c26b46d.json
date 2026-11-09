@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:27",
+ "respuesta": {
+  "respuesta": "El plazo de la concesión es variable. Inicialmente, las bases establecían un plazo máximo de 25 años [2]. Sin embargo, mediante el Convenio Complementario N°1, el contrato pasó de tener un plazo fijo de duración a uno variable, sujeto a un Mecanismo de Distribución de Ingresos (MDI) que determina su extinción cuando se cumple una relación específica entre los ingresos mínimos garantizados y los flujos generados [3], [5].",
+  "fuentes": [
+   2,
+   3,
+   5
+  ]
+ }
+}

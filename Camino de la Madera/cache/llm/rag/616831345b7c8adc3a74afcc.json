@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante estándares de nivel de servicio que deben incluir medidas, procedimientos, horarios y métodos para mantener el mejor nivel de operación [1]. Para medir el estado del pavimento y evaluar la conservación, se utiliza el Índice de Rugosidad Internacional (IRI), cuya medición se realiza mediante un Perfilómetro óptico o Macs Meter [8]. El reajuste de la tarifa base se determina aplicando la variación del Índice de Precios al Consumidor (IPC) entre el 31 de marzo del año 1993 y el 30 de noviembre del año t-1 (o 31 de mayo del año t para el reajuste anual desde julio), calculado como el cociente IPC_nov_t-1 / IPC_mar_1993 (o IPC_may_t / IPC_mar_1993) [3].",
+  "fuentes": [
+   1,
+   3,
+   8
+  ]
+ }
+}

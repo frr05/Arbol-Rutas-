@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "El porcentaje de los ingresos por concepto de peaje que se imputa al servicio de construcción es del 80% [1], [2], [4], [6], [7], [10].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   10
+  ]
+ }
+}

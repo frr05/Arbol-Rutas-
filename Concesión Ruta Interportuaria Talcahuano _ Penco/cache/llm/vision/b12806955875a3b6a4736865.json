@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 03:01",
+ "costo": 0.000717,
+ "texto": "{\"tablas\": [{\"titulo\": \"ANEXO N° 1\", \"encabezados\": [\"PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1\", \"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\", \"CONEXIÓN AV. ALESSANDRI\", \"PASO INTERPREIAL KM 6,787\", \"PASO INTERPREIAL KM 8,000\", \"PASO INTERPREIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI\", \"TOTALES (UF)\"], \"filas\": [[\"1\", \"\", \"\", \"\", \"\", \"\", \"8.000\"], [\"TOTAL\", \"\", \"\", \"\", \"\", \"\", \"8.000\"]], \"notas\": null}]}"
+}

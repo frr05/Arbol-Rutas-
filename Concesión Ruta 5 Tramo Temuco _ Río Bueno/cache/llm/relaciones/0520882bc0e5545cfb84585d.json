@@ -1,0 +1,56 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:38",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IVA, la que se reconocerá según su valor proforma, es decir, según los desembolsos que efectivamente realice la Sociedad Concesionaria por este concepto previa aprobación del Inspector Fiscal del presupuesto que se le presentare, de acuerdo al procedimiento señalado en el numeral 7.12 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N” 332/EXPL. TCO-RB/2018, y que regulará el Decreto Supremo que apruebe el presente Convenio",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Para efectos de lo anterior, el IVA que corresponda asociado a las inversiones que trata el presente Decreto Supremo, con la excepción señalada en el párrafo precedente, deberá ser facturado por la Sociedad Concesionaria al MOP cada 4 meses. Las citadas facturas deberán ser emitidas de acuerdo a su estado de avance efectivo, aplicado sobre el valor final que resulte de lo establecido en el presente Decreto Supremo. Para ello, la Sociedad Concesionaria presentará al Inspector Fiscal una relación escrita de los documentos que respaldarán la emisión de la factura, con la indicación de los montos e IVA correspondiente.",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P7"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En virtud del procedimiento señalado en el N* 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del Oficio Ord. N* 332/EXPL. TCO-RB/2018 y que se dispondrá en el Decreto Supremo que apruebe el presente Convenio, el IVA que soporte la Sociedad Concesionaria, asociado a las inversiones, costos y gastos señalados en la cláusula segunda del presente Convenio, será de cargo de la Sociedad Concesionaria y compensado por el MOP según lo señalado en el numeral 4.2 del presente Convenio. Lo anterior, con la excepción del IVA asociado a los costos por concepto de conservación, mantenimiento, operación, explotación (incluyendo el mantenimiento o conservación mayor) y seguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe durante la etapa de explotación de las obras, el que, de conformidad a lo señalado en el N* 8 del “Modelo de Decreto Supremo que se dictará al efecto” que forma parte del citado Oficio Ord. N* 332/EXPL. TCO-RB/2018, será regulado conforme se dispone en el artículo 1.11.5 de las Bases de Licitación.",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.5",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P9"
+    ],
+    "texto_nuevo": [
+     6598,
+     6630
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

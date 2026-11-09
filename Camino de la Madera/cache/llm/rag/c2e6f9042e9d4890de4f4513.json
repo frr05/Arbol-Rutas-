@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "El decreto de adjudicación es el Decreto Supremo MOP N° 133, de fecha 29 de abril de 1994 [3].",
+  "fuentes": [
+   3,
+   7,
+   10
+  ]
+ }
+}

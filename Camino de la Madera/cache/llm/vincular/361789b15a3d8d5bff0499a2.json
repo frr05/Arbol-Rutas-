@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 05:20",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D03.F0008]",
+    "destino": "BL:1.5.10"
+   },
+   {
+    "fragmento": "[CM.D03.F0009]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D03.F0010]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0011]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D03.F0012]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D03.F0013]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0014]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0015]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D03.F0016]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D03.F0017]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D03.F0018]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D03.F0019]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D03.F0020]",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D03.F0021]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D03.F0022]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0023]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0024]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D03.F0025]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0026]",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D03.F0028]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D04.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D05.F0001]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D05.F0002]",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D05.F0003]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D05.F0004]",
+    "destino": "TEMA:regimen_economico"
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:02",
+ "respuesta": {
+  "respuesta": "Es una primera concesión. La ficha de actos indica que el primer acto es la 'Bases licitacion (1993-06-08)' y no se menciona ninguna licitación anterior ni relicitación en los fragmentos proporcionados [11].",
+  "fuentes": [
+   11
+  ]
+ }
+}

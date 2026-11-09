@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:23",
+ "respuesta": {
+  "respuesta": "Sí, el contrato regula la explotación mediante niveles de servicio. Para los pavimentos asfálticos, se establece como parámetro de medición el Índice de Rugosidad Superficial (IRI) con un máximo de 3,5 m/km [4]. El sistema tarifario incluye una fórmula de ajuste que utiliza el Índice de Precios al Consumidor (IPC) y un reajuste máximo real anual (RR), calculado mediante la expresión: TS Try * (1 + TPC) * (1+RR) [2].",
+  "fuentes": [
+   2,
+   4
+  ]
+ }
+}

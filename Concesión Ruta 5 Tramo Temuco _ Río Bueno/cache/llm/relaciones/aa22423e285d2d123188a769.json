@@ -1,0 +1,48 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 11:59",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3"
+    ],
+    "texto_nuevo": [
+     1159,
+     1165
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P4"
+    ],
+    "texto_nuevo": [
+     1166,
+     1174
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria deberá construir los tramos de segundas calzadas indicados en la Tabla 2.1:",
+    "debe_decir": "La Sociedad Concesionaria deberá construir los tramos de segundas calzadas indicados en la Tabla 2.1, según la tabla modificada:",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar dos tipos de seguros: el Seguro por Responsabilidad Civil por Daños a Terceros y el Seguro por Catástrofe [1]. El seguro de responsabilidad civil debe mantenerse vigente durante todo el plazo de concesión, cubriendo las etapas de construcción y explotación, con un monto mínimo de UF 12.000 para cada etapa y un deducible máximo del 1% [6], [7]. Las pólizas de responsabilidad civil deben entregarse en forma separada de las pólizas de catástrofe [1], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ }
+}

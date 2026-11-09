@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D04",
+ "archivo": "2_adjudicacion/Decreto-Adjudicacion-Red-Interportuaria.pdf",
+ "sha256": "19a764d75440d95fdf4a0f4273498da11fa447eb6f90c54833fb752bea37206a",
+ "paginas": 10,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:46"
+}

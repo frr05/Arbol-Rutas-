@@ -1,0 +1,108 @@
+{
+ "documento": "CM.D11",
+ "pagina": 2,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:48",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 3: Superficie solicitada",
+   "encabezados": [
+    "Vértice",
+    "Este",
+    "Norte"
+   ],
+   "filas": [
+    [
+     "1",
+     "266.000",
+     "5.695.000"
+    ],
+    [
+     "2",
+     "275.000",
+     "5.695.000"
+    ],
+    [
+     "3",
+     "275.000",
+     "5.685.000"
+    ],
+    [
+     "4",
+     "266.000",
+     "5.685.000"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Características técnicas del sistema radiante:",
+   "encabezados": [
+    "Polarización",
+    "Tipo Antena",
+    "Ganancia Antena",
+    "Número Antenas",
+    "Altura Centro Radiación",
+    "Pérdidas Totales"
+   ],
+   "filas": [
+    [
+     "Vertical",
+     "Arreglo de antenas Yagi de 4 elementos, con tilt eléctrico de 13.9° bajo la horizontal",
+     "15.2 dBd en máxima radiación y -6.9 dBd en el plano horizontal.",
+     "6",
+     "46 metros",
+     "1.56 dB"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Diagrama de radiación direccional, de acuerdo a la siguiente tabla:",
+   "encabezados": [
+    "Radial",
+    "0°",
+    "45°",
+    "90°",
+    "135°",
+    "180°",
+    "225°",
+    "270°",
+    "315°"
+   ],
+   "filas": [
+    [
+     "Pérdida por lóbulo (dB)",
+     "4,7",
+     "14,9",
+     "13,6",
+     "14,9",
+     "14,0",
+     "9,4",
+     "0,5",
+     "1,5"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Los plazos, serán los que se indican a continuación:",
+   "encabezados": [
+    "Inicio Obras",
+    "Término Obras",
+    "Inicio Servicio",
+    "Observación"
+   ],
+   "filas": [
+    [
+     "15 días",
+     "30 días",
+     "60 días",
+     "Todos estos plazos están referidos a la fecha de publicación en el Diario Oficial del decreto que autorice la modificación solicitada."
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

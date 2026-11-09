@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "La concesión abarca las comunas de San Pedro de la Paz, Santa Juana y Negrete. La ruta se inicia en la localidad de San Pedro, comuna de San Pedro de la Paz, provincia de Concepción, región del BioBio y finaliza en la localidad de Coihue, Comuna de Negrete, Provincia de BioBío, Región del BioBío [10]. Además, se mencionan peajes localizados cerca de la ciudad de Nacimiento (sentido Norte-Sur) y de la ciudad de Santa Juana (sentido Sur-Norte) [10].",
+  "fuentes": [
+   10
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D08",
+ "pagina": 5,
+ "archivo": "4_modificacion_obras_convenios/Res-2965.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 171,
+ "segundos": 7.6,
+ "fecha": "2026-11-05 00:45",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 110,
+  "conf_media": 0.885,
+  "frac_baja": 0.164,
+  "frac_rara": 0.016,
+  "tinta": 0.0168
+ },
+ "n_palabras_vlm": 100,
+ "frac_rara_vlm": 0.016,
+ "similitud": 0.845,
+ "truncado": false,
+ "texto_ocr": "Epa\n\n8. COMUNIQUESE la presente Resolución a la Sociedad Concesionaria Aerosur $. A., a\nSociedad Concesionaria Autopista Interportuaria S. A, a la Coordinación General de\nConcesiones, a la Coordinación de Administración de Contratos de Concesión, a la\n\n3 Fiscalía del MOP, al Inspector Fiscal de la concesión denominada “Terminal de\n\n: Pasajeros Aeropuerto Carriel Sur de Concepción”, al Inspector Fiscal de la concesión\n\ndenominada “Ruta Interportuaria Talcahuano-Penco por Isla Rocuant” y demás servicios\nque corresponda.\n\nANOTESE Y COMUNIQUESE\n\n<¡ 17 ;\ny\no MAS\nIA\n\nGÉRMAN MILLAN PEREZ\nDirector General de\nObras Públicas\n\nÚBLICA DE CAE\n\nqe\n\nWHAYSA\n\nPAS\n\nO\n\nLa,\n\nV* B* Sr, Ministro de; bras Públicas inistrode Hacienda",
+ "texto_vlm": "8. COMUNIQUESE la presente Resolución a la Sociedad Concesionaria Aerosur S. A., a Sociedad Concesionaria Autopista Interportuaria S. A, a la Coordinación General de Concesiones, a la Coordinación de Administración de Contratos de Concesión, a la Fiscalía del MOP, al Inspector Fiscal de la concesión denominada “Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción”, al Inspector Fiscal de la concesión denominada “Ruta Interportuaria Talcahuano-Penco por Isla Rocuant” y demás servicios que corresponda.\n\nANOTESE Y COMUNIQUESE\n\nGERMAN MILLAN PEREZ\nDirector General de Obras Públicas\n\nVº Bº Sr. Ministro de Obras Públicas | REPUBLICA DE CHILE\nMINISTERIO DE HACIENDA | MINISTRO\n5"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 34,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 239,
+ "segundos": 13.1,
+ "fecha": "2026-11-05 00:47",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 149,
+  "conf_media": 0.839,
+  "frac_baja": 0.128,
+  "frac_rara": 0.021,
+  "tinta": 0.0276
+ },
+ "n_palabras_vlm": 148,
+ "frac_rara_vlm": 0.021,
+ "similitud": 0.963,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A,\n\nUniforme Del Personal:\n\n- De acuerdo al Manual de Señalización de Tránsito - Señalización de\ntransitoria y medidas de seguridad para trabajos en la ruta MOP.\n\n- — Overal con Doble Huiñcha reflectiva\n- Chaleco Reflectante, Bicolor\n\n- Zapato de Seguridad Certificado.\n\n- Guantes de Cabritilla.\n\n- Antliparras,\n\n< Parca Fluorescente Impermeable con Huinchas Reflectantes, con Logos\nde la Concesionaria.\n\n- Botas de Seguridad con Puntas de Acero,\n- Traje de Agua color amarillo.\n\n- | Guantes de Goma.\n\n7.3 Características Técnicas del Equipo de Grúa\n\n- Caracteristicas del camión:\n\nMarca : Ford\n\nModelo : F-350\n\nAño : 2000\n\nMotor 5.4 lts, Con 300Hp de potencia.\nDirección —; Hidráulica\n\n- Características Técnicas del Equipo de Grúa\n\nEquipo Hidráulico\n\nPluma Telescópica Extensible\nWheel Lift (Levante a la rueda).\nCapacidad de levante de 2.5 Ton.\nHuinche Hidráulico para 5 Ton.\n\n- Equipamiento de la Grúa\n\n35",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nUniforme Del Personal:\n- De acuerdo al Manual de Señalización de Tránsito - Señalización de transitoria y medidas de seguridad para trabajos en la ruta MOP.\n- Overol con Doble Huincha reflectiva\n- Chaleco Reflectante, Bicolor\n- Zapato de Seguridad Certificado.\n- Guantes de Cabritilla.\n- Antiparras.\n- Parca Fluorescente Impermeable con Huinchas Reflectantes, con Logos de la Concesionaria.\n- Botas de Seguridad con Puntas de Acero.\n- Traje de Agua color amarillo.\n- Guantes de Goma.\n\n7.3 Características Técnicas del Equipo de Grúa\n- Características del camión:\n  Marca : Ford\n  Modelo : F-350\n  Año : 2000\n  Motor : 5.4 lts. Con 300Hp de potencia.\n  Dirección : Hidráulica\n- Características Técnicas del Equipo de Grúa\n  Equipo Hidráulico\n  Pluma Telescópica Extensible\n  Wheel Lift (Levante a la rueda).\n  Capacidad de levante de 2.5 Ton.\n  Huinche Hidráulico para 5 Ton.\n- Equipamiento de la Grúa\n33"
+}

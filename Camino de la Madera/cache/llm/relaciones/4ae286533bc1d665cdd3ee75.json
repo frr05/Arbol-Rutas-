@@ -1,0 +1,73 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 11:49",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "[P2]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "a) No cumplan con lo dispuesto en los artículos 12, 13, 17 y 21 del Reglamento de Concesiones y lo dispuesto en estas Bases.",
+    "debe_decir": "a) No cumplan con lo dispuesto en los artículos 12, 13, 17 y 21 del Reglamento de Concesiones y lo dispuesto en estas Bases.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "elimina",
+    "parrafos": [
+     "[P3]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "[P4]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "c) Hayan obtenido nota final promedio ponderado menor a 3,0 como calificación.",
+    "debe_decir": "c) Hayan obtenido nota final promedio ponderado menor a 3,0 como calificación.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "[P5]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Las Ofertas seleccionadas en esta forma, serán declaradas técnicamente aceptables en una acta de calificación y será dada a conocer en el acto de apertura de las ofertas Económicas. Sólo aquellas ofertas técnicamente aceptables podrán seguir las etapas siguientes de la evaluación, según lo estipulado en el Artículo 22 del Reglamento de Concesiones.",
+    "debe_decir": "Las Ofertas seleccionadas en esta forma, serán declaradas técnicamente aceptables en una acta de calificación y será dada a conocer en el acto de apertura de las ofertas Económicas. Sólo aquellas ofertas técnicamente aceptables podrán seguir las etapas siguientes de la evaluación, según lo estipulado en el Artículo 22 del Reglamento de Concesiones.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "[P6]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Las garantías correspondientes a los oferentes no seleccionados serán devueltas quince días después de la fecha de la apertura económica.",
+    "debe_decir": "Las garantías correspondientes a los oferentes no seleccionados serán devueltas quince días después de la fecha de la apertura económica.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.3",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

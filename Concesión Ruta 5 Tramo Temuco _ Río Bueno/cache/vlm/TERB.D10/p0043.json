@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D10",
+ "pagina": 43,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 133,
+ "segundos": 9.5,
+ "fecha": "2026-10-27 12:12",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 75,
+  "conf_media": 0.807,
+  "frac_baja": 0.347,
+  "frac_rara": 0.0,
+  "tinta": 0.018
+ },
+ "n_palabras_vlm": 101,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.564,
+ "truncado": false,
+ "texto_ocr": "ANEXO 6\n¡TEM 2\n\nPROGRAMA DE ANTELACION DE ENTREGA DE TERRENOS\nPARA OBRAS ORIGINALES\n\nE\n\nO PESCRIPCIÓN\n\nHA\ntérmino de la obra\n\nE O A\n¡término de la obra\n\nA e\ntérmino de la obra\n\nea\n\nAtraviesos 6 meses antes del\ntérmino de la obra\n\n5. Pasarelas peatonales 3 meses antes del\n| término de la obra\n\nCARLOS DIAZWARGAS\nINSPECTÓR FISCAL\n\nA\n\nA\nye 08%\nZO TT\n\ne 7\ndl Be epa.\nul\n\nES\n\na",
+ "texto_vlm": "ANEXO 6\nITEM 2\n\nPROGRAMA DE ANTELACION DE ENTREGA DE TERRENOS\nPARA OBRAS ORIGINALES\n\nNº | DESCRIPCIÓN | Plazo\n1. | Tramos de doble calzada | 6 meses antes del término de la obra\n2. | Enlaces | 8 meses antes del término de la obra\n3. | Calles de Servicio | 6 meses antes del término de la obra\n4. | Atravesos | 6 meses antes del término de la obra\n5. | Pasarelas peatonales | 3 meses antes del término de la obra\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nConcesiones\nBpto."
+}

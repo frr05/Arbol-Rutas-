@@ -1,0 +1,10 @@
+{
+ "tarea": "actos_meta",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:32",
+ "respuesta": {
+  "tipo": "oferta económica",
+  "numero": null,
+  "fecha": null
+ }
+}

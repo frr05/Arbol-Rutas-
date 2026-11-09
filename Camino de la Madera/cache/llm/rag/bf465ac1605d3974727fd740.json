@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:33",
+ "respuesta": {
+  "respuesta": "El proyecto deberá incluir, según corresponda, obras como movimientos de tierra, pavimentaciones, confección de bermas, obras de drenaje, señalización y defensas camineras [4]. Además, el concesionario propondrá las soluciones que estime adecuadas para cada obra [5].",
+  "fuentes": [
+   4,
+   5
+  ]
+ }
+}

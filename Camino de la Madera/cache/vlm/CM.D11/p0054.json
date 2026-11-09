@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D11",
+ "pagina": 54,
+ "archivo": "4_modificacion_obras_convenios/Convenio-Complementario-N_1-MDI-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 57,
+ "segundos": 5.3,
+ "fecha": "2026-10-29 04:42",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 35,
+  "conf_media": 0.676,
+  "frac_baja": 0.286,
+  "frac_rara": 0.0,
+  "tinta": 0.007
+ },
+ "n_palabras_vlm": 43,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.925,
+ "truncado": false,
+ "texto_ocr": "monto a devolver al MOP será de UF 108.620,00 el que se determina de la siguiente\nforma:\n\n(MDI ¿, = YTG)*(1+0,7592%)'* * (1 +0,02487%)”\n\n= (7.215.009,58—7.188.236,50) * (1 + 0,7592%)*% * (1 + 0,02487%)? =108.620,00",
+ "texto_vlm": "monto a devolver al MOP será de UF 108.620,00 el que se determina de la siguiente forma:\n\n(MDI₁₈₅ - YTG) * (1 + 0,7592%)¹⁸⁵ * (1 + 0,02487%)⁵\n\n= (7.215.009,58 - 7.188.236,50) * (1 + 0,7592%)²²⁸ * (1 + 0,02487%)⁵ = 108.620,00\n\n10"
+}

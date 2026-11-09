@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 03:01",
+ "costo": 0.0007554,
+ "texto": "{\"tablas\": [{\"titulo\": \"e) MAYORES GASTOS GENERALES\", \"encabezados\": [\"PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1\", \"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\", \"CONEXIÓN AV. ALESSANDRI\", \"PASO INTERPREIAL KM 6,787\", \"PASO INTERPREIAL KM 8,000\", \"PASO INTERPREIAL N° 2 KM 2,580 RAÍMAL AV. ALESSANDRI\", \"TOTALES (UF)\"], \"filas\": [[\"1\", \"11.092\", \"3.800\", \"1.837\", \"1.500\", \"751\", \"18.980\"], [\"TOTAL\", \"11.092\", \"3.800\", \"1.837\", \"1.500\", \"751\", \"18.980\"]], \"notas\": null}]}"
+}

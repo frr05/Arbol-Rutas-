@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D02",
+ "pagina": 2,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 54,
+ "segundos": 5.8,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "texto_raro",
+ "calidad_ocr": {
+  "n_palabras": 56,
+  "conf_media": 0.823,
+  "frac_baja": 0.232,
+  "frac_rara": 0.265,
+  "tinta": 0.0088
+ },
+ "n_palabras_vlm": 41,
+ "frac_rara_vlm": 0.31,
+ "similitud": 0.765,
+ "truncado": false,
+ "texto_ocr": "Joa dido)\n\nJOYA\n\nJA\n\nYA\n\nJOY\n\nID\n\ny\n\nJa\n\nJOY\n\ny\n\nO\n\nJJ gg)\n\ncy\n\n- Srs. Emp. Belfl\n\n- Srs. Ferrovial\n\n- Srs. Innova S.A.\n\n- Srs. Constructora Cosal S.A\n- Srs. Mariano Egaña Ltda.\n\n- Srs. Asintota Ltda.\n\n- Srs. Vial y Vives Ltda.\n\n-— Depto. Concesiones\n\n- Secretaría DGOP\n\n- Oficina de Partes",
+ "texto_vlm": "- Srs. Emp. Belfi\n- Srs. Ferrovial\n- Srs. Innova S.A.\n- Srs. Constructora Cosal S.A\n- Srs. Mariano Egaña Ltda.\n- Srs. Asintota Ltda.\n- Srs. Vial y Vives Ltda.\n- Depto. Concesiones\n- Secretaria DGOP\n- Oficina de Partes"
+}

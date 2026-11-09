@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "El monto de la garantía de explotación varía según la obra y el momento contractual. Originalmente, las Bases de Licitación establecían montos específicos: 10.000 UF para la Obra (A), 3.000 UF para la Obra (B) y (C), y 1.000 UF para la Obra (D) [1]. El Decreto de Adjudicación N°133 confirma estos valores [6]. Posteriormente, el Convenio Complementario N°1 modificó el régimen de garantías, estableciendo una Garantía de Explotación adicional con un valor total de UF 15.000, la cual se entrega cuando el monto MDI alcanza el 90% del valor definitivo de YTG [8]. Además, este convenio indica que a las nuevas inversiones les es aplicable la garantía de explotación vigente del contrato por un monto de UF 10.000 [3].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10
+  ]
+ }
+}

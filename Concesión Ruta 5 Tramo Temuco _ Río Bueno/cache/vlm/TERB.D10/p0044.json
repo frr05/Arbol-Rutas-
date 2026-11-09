@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D10",
+ "pagina": 44,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 35,
+ "segundos": 15.3,
+ "fecha": "2026-10-27 12:12",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 34,
+  "conf_media": 0.598,
+  "frac_baja": 0.676,
+  "frac_rara": 0.0,
+  "tinta": 0.0058
+ },
+ "n_palabras_vlm": 20,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.5,
+ "truncado": false,
+ "texto_ocr": "ANEXO 7\n\nAS Y SERVICIOS PENDIENTES\n\n(Una Hoja)\n\n)\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL OS\npo AS\nPO 13]\ny 28 a 0\ny e Concesiones gn\nE is Pe\nERE\ni : 4",
+ "texto_vlm": "ANEXO 7\nOBRAS Y SERVICIOS PENDIENTES\n(Una Hoja)\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nDE OBRAS PUBLICAS\nDIRECCION GENERAL\nDepto.\nConcesiones"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "El postulante individualizado en el artículo 1.2.3 (B y A Ingenieros Ltda.) tiene derecho a un premio consistente en un incremento del diez por ciento (10%) del puntaje final obtenido en la evaluación de su Oferta Económica [1]. Este incremento se aplica al puntaje final cualquiera sea el tramo en que haya presentado su oferta, conforme a lo establecido en los artículos 8° y 23° del DS MOP N°240 de 1991 [2]. El factor ponderador para calcular este puntaje incrementado es igual a 0,9 [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

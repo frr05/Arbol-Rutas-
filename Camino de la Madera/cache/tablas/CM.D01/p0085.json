@@ -1,0 +1,45 @@
+{
+ "documento": "CM.D01",
+ "pagina": 85,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:44",
+ "tablas": [
+  {
+   "titulo": "II.7 PRESUPUESTO OFICIAL",
+   "encabezados": [
+    "obra (A)",
+    "600.000 (UF)"
+   ],
+   "filas": [
+    [
+     "obra (B)",
+     "360.000 (UF)"
+    ],
+    [
+     "obra (C)",
+     "600.000 (UF)"
+    ],
+    [
+     "obra (D)",
+     "55.000 (UF)"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "II.8.1 GENERALIDADES",
+   "encabezados": [
+    "MC - V2",
+    "Manual de Carreteras, Volumen N° 2"
+   ],
+   "filas": [
+    [
+     "MC - V3",
+     "Manual de Carreteras, Volumen N° 3"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

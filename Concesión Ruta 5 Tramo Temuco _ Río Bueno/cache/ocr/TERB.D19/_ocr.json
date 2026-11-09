@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D19",
+ "archivo": "4_modificacion_obras_convenios/TERB-Resolucion-DGOP-N_494-2005.pdf",
+ "sha256": "91f482247de4365ed2269561d4f951023ccdf4d50cd6e8eda692c72e248d0867",
+ "paginas": 4,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:09"
+}

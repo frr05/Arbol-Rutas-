@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:20",
+ "respuesta": {
+  "respuesta": "Los pagos atrasados devengarán un interés equivalente a la tasa de interés corriente para operaciones reajustables en moneda nacional vigente a la fecha del pago efectivo [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

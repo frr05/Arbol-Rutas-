@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:24",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se identifican 3 resoluciones modificatorias: Resolución N°2633 (2009-06-05), Resolución N°4333 (2007-12-21) y Resolución N°5066 (2008-12-09) [2]. Además, se mencionan decretos supremos que aprobaron convenios complementarios o modificaron el régimen jurídico: Decreto Supremo N°892 (1996), Decreto Supremo N°1.901 (2000), Decreto Supremo N°1.065 (2004) que aprobó el Convenio Complementario N°1, y Decretos Supremos N°155 y N°215 (2009) relacionados con las resoluciones tarifarias y convenios ad-referéndum [2], [3], [4]. El Convenio Complementario N°1 fue aprobado por D.S. N°1.065 [3]. Por lo tanto, hay al menos 3 Resoluciones Exentas DGOP y varios Decretos Supremos que actúan como actos modificatorios o aprobatorios de modificaciones.",
+  "fuentes": [
+   2,
+   3,
+   4
+  ]
+ }
+}

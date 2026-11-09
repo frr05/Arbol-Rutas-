@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "El número del decreto de adjudicación es el N°112 y su fecha es 31 de enero de 2002 [8].",
+  "fuentes": [
+   8
+  ]
+ }
+}

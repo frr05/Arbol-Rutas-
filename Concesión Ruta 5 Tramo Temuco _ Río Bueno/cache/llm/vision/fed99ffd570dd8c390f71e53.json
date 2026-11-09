@@ -1,0 +1,6 @@
+{
+ "modelo": "nvidia/nemotron-3.5-super-vl:free",
+ "fecha": "2026-10-27 12:15",
+ "costo": 0.0,
+ "texto": "MANUAL DE SEGURIDAD VIAL Y\nPROCEDIMIENTOS DE EMERGENCIA\nRUTA DE LOS RIOS\n\nDesvío por Cierre Calzada\nde Doble Calzada\n8.4.8\n\n120\nFin Restricción\nAdelantamiento\n\nArco de Trabajos\n\nElementos de canalización\nAlternativas de canalización.\nLímite de Velocidad sin Trabajos\nLímite de Velocidad con Trabajos\n\n100 MT\n70\n300 MT\nDESVÍO A\n500 MT\n650 MT\n650 MT\n\n35"
+}

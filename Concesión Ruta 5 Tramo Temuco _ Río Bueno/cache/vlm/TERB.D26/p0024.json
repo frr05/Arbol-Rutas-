@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D26",
+ "pagina": 24,
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "nvidia/nemotron-3.5-super-vl:free",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 120,
+ "segundos": 8.4,
+ "fecha": "2026-10-27 12:14",
+ "motivos": "conf_media",
+ "calidad_ocr": {
+  "n_palabras": 84,
+  "conf_media": 0.652,
+  "frac_baja": 0.298,
+  "frac_rara": 0.0,
+  "tinta": 0.0211
+ },
+ "n_palabras_vlm": 77,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.75,
+ "truncado": false,
+ "texto_ocr": "e o e e e dd\n\nRESPONSABILIDAD DE ECOS USUARIOS\n\nLos usuarios serán responsables de los vehteulos que conducen y de las cargas o\n\npuorsonads quo transpeartcn .\n\nAsimismo. 1espenderán ante la Concesionaria por los daños y perjuicios de lodo tipa\nque pudieren producir a da obra y sus instalaciones anexas, ubicadas dento del área de\n\nAL\n\nFn múgúr caso el Estado asumirá responsabilidad alguna por los daños y perjuicios\nocastonadas por los ustantos, salvo que asi lo disponga la ley o la prsticia",
+ "texto_vlm": "RESPONSABILIDAD DE LOS USUARIOS\n\nLos usuarios serán responsables de los vehículos que conducen y de las cargas o\npersonas que transporten\n\nAsimismo, responderán ante la Concesionaria por los daños y perjuicios de todo tipo\nque pudieren producir a la obra y sus instalaciones anexas, ubicadas dentro del área de\nconcesión\n\nEn ningún caso el Estado asumirá responsabilidad alguna por los daños y perjuicios\nocasionados por los usuarios, salvo que así lo disponga la ley o la justicia"
+}

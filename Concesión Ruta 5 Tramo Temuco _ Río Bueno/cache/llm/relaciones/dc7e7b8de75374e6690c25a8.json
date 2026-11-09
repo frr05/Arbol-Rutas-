@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "fecha": "2026-10-26 23:47",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.2.7.3.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En virtud de la Ley N* 18.378 del Ministerio de Agricultura,",
+    "debe_decir": "En virtud de la ley N*18.378,",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

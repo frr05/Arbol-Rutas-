@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan según la variación del Índice de Precios al Consumidor (IPC) determinado por el INE [10]. El licitante debe proponer una opción en su oferta, que puede ser: Opción 1, reajuste según IPC cada seis meses; o Opción 2, reajuste según IPC cada doce meses [3], [4]. Cualquiera sea la opción, las tarifas se reajustarán cada vez que la inflación acumulada supere el 15% desde el último reajuste [3]. A partir del año 2005, el reajuste de tarifas se aplica semestralmente a partir de las 00.00 horas del 1° de enero de cada año [9].",
+  "fuentes": [
+   3,
+   4,
+   9,
+   10
+  ]
+ }
+}

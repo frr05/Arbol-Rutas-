@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.3.2.7",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Se exceptúan las obras de modificación o traslado de instalaciones de Fibra Óptica, que según convenio de la Dirección de Vialidad con los propietarios respectivos, son de cargo de éstos.",
+    "debe_decir": "No obstante lo anterior, el artículo 2.3.2.7 seguirá vigente respecto de la fibra óptica, que según convenio de la Dirección de Vialidad con los propietarios respectivos, son de cargo de éstos.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

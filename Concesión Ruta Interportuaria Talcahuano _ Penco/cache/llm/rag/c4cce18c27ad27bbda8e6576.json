@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-28 02:52",
+ "respuesta": {
+  "respuesta": "La apertura de las Ofertas Económicas se realizará el día 28 de Diciembre de 2001 a las 12:00 horas, en el Salón de la Intendencia de la Octava Región, ubicado en calle Aníbal Pinto N°442 de la ciudad de Concepción [1].",
+  "fuentes": [
+   1
+  ]
+ }
+}

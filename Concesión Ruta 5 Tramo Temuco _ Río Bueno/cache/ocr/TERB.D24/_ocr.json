@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D24",
+ "archivo": "4_modificacion_obras_convenios/TERB-DS-MOP-N_31-de-fecha-03-04-2024.pdf",
+ "sha256": "6d01f1caf401fafd1c12356712960c841232fe3800e6f58073c1de2d9663ddf1",
+ "paginas": 10,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:10"
+}

@@ -1,0 +1,47 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.2.5",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "6.1",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P12"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "a continuación:",
+    "debe_decir": "\nAdemás, será condición para otorgar la puesta en servicio provisoria del tramo comprendido entre los km. 815,00 al 816,500 del sector ii) Máfil — Río Bueno, que la sociedad concesionaria hubiese ejecutado todas las obras y servicios correspondientes a dicho tramo.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

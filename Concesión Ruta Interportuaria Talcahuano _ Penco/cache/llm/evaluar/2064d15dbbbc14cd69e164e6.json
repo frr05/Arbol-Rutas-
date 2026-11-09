@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:01",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene los montos principales de UF 3.800 y UF 2.400 correspondientes a las etapas definidas en la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente los montos base (UF 83.000) y adicionales (UF 41.000) mencionados en la referencia."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el dato principal del 80%, pero agrega información contradictoria sobre un 30% que no está en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "correcta",
+    "motivo": "La respuesta refleja correctamente los distintos tipos de interés diario según la parte responsable y el contexto contractual."
+   },
+   {
+    "n": 25,
+    "veredicto": "incorrecta",
+    "motivo": "La referencia especifica un sistema único de uso efectivo con control manual, mientras la respuesta sugiere dos sistemas posibles."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Confirma la diferenciación por categoría de vehículo, coherente con la facultad descrita en la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el IPC como índice base y menciona el reajuste extraordinario por inflación acumulada."
+   },
+   {
+    "n": 28,
+    "veredicto": "parcial",
+    "motivo": "Incluye los valores correctos por kilómetro pero omite la tarifa máxima única para peajes en accesos ($300)."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Coincide exactamente en la moneda y fecha base indicadas en la referencia."
+   },
+   {
+    "n": 30,
+    "veredicto": "incorrecta",
+    "motivo": "Solo menciona la vía principal (10,9 km) omitiendo la Prolongación Av. Alessandri (3,5 km) que compone el total de 14,4 km."
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D02",
+ "pagina": 2,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 94,
+ "segundos": 4.7,
+ "fecha": "2026-10-27 12:07",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 69,
+  "conf_media": 0.757,
+  "frac_baja": 0.362,
+  "frac_rara": 0.068,
+  "tinta": 0.0089
+ },
+ "n_palabras_vlm": 57,
+ "frac_rara_vlm": 0.079,
+ "similitud": 0.69,
+ "truncado": false,
+ "texto_ocr": "A A A\n\nCOORDINACIÓN GENERAL DE CONCESIONES ?\n\nMINISTERIO DE OBRAS PUBLICAS a ECT\n“Consoréio Carretera del Pacifico.“\n\nBilfinger + Berger\n\nConcesiones Ibero-Chilenas ;\nConsorcio CYEN\n\nSacyr Chile S.A.\n\n3\n\n4\n\n- Señor Coordinador General de Concesiones\n- Unidad Ejecutiva Concesiones de Carreteras\n- Secretaría DGOP\n\n- Oficina de Partes DGOP .\n\nA PO AOS RI RIE\nRuta 5 Tramo Temuco-Rio Bueno\n\n¡AREA RRE\nCIRCULAR ACLARA FTORIA N” £",
+ "texto_vlm": "MINISTERIO DE OBRAS PUBLICAS\nCOORDINACIÓN GENERAL DE CONCESIONES 2\n\n- Consorcio Carretera del Pacifico\n- Bilfinger + Berger\n- Concesiones Ibero-Chilenas\n- Consorcio CYEN\n- Sacyr Chile S.A.\n\n- Señor Coordinador General de Concesiones\n- Unidad Ejecutiva Concesiones de Carreteras\n- Secretaría DGOP\n- Oficina de Partes DGOP\n\nCIRCULAR ACLARATORIA N° 1\nRuta 5 Tramo Temuco-Río Bueno"
+}

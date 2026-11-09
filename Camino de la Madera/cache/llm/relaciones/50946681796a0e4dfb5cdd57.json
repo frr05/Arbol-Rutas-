@@ -1,0 +1,40 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 11:51",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.2.13",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Apertura el día 28 de Enero de 1994",
+    "debe_decir": "Apertura el día 7 de Marzo de 1994",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.3.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "la que tendrá el plazo de 48 días para calificar las ofertas técnicas y 15 días para calificar las ofertas económicas",
+    "debe_decir": "la que tendrá un plazo de 15 días corridos para calificar las ofertas técnicas y 15 días para calificar las ofertas económicas",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": "La apertura de la oferta económica se realizará el día 17 de Marzo de 1994",
+    "debe_decir": "La apertura de la oferta económica se realizará el día 22 de Marzo de 1994",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

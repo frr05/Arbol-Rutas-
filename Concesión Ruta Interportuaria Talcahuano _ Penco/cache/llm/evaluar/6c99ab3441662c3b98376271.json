@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:16",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye el dato principal sobre la garantía del ingreso mínimo y la fecha de inicio (1° de enero del año de Puesta en Servicio Definitiva) coincidiendo con la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "La respuesta detalla correctamente que no rige en Tramo A y que el Estado coparticipa en la Banda Superior de Ingresos, datos principales de la referencia."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el monto (UF 12.000) pero omite el dato principal del deducible máximo (1%) y la distinción de beneficiarios mencionada en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Cubre los riesgos y al beneficiario (MOP), pero omite el dato numérico clave del valor total de la obra y el deducible máximo del 1%."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta lista todos los factores por tipo de vehículo (0,3; 1,0; 1,8; 3,2) coincidiendo exactamente con los datos de la referencia."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "La respuesta describe correctamente los tres tramos de costos (hasta 12k, entre 12k-24k, sobre 24k) y el reparto de responsabilidades según la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "parcial",
+    "motivo": "Indica correctamente el límite de 2 minutos, pero omite las consecuencias específicas de exceder ese tiempo (modificación del plan o multas) detalladas en la referencia."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "Confirma que sí se puede cobrar y menciona la condición principal: tarifa diferenciada por congestión con visto bueno de Hacienda, coincidiendo con la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los porcentajes máximos (30% general, 10% construcción) y el plazo temporal (dos años antes del término), datos principales de la referencia."
+   },
+   {
+    "n": 30,
+    "veredicto": "correcta",
+    "motivo": "La respuesta especifica la periodicidad (cada 2 años), los aspectos revisables y la intervención del MOP y Hacienda, coincidiendo con la referencia."
+   }
+  ]
+ }
+}

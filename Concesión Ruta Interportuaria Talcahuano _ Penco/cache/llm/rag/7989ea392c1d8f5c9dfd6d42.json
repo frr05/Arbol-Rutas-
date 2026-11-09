@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones. El monto base es de UF 83.000 (ochenta y tres mil Unidades de Fomento) por concepto de desembolsos, gastos o expensas originados con motivo de las expropiaciones o adquisición de terrenos para el Estado requeridas para la ejecución de todas las obras incluidas en el Anteproyecto Referencial [6]. Adicionalmente, si la Sociedad Concesionaria optó por la ejecución de las obras de Prolongación de Av. Alessandri, deberá pagar una cantidad adicional de UF 41.000 (cuarenta y un mil Unidades de Fomento) por concepto similar para las obras señaladas en el artículo 2.2.4 [6]. Estos pagos se realizan mediante Vale Vista a nombre del DGOP en cuotas específicas dentro de los plazos establecidos desde la publicación del Decreto Supremo de Adjudicación [9]. Asimismo, la Sociedad Concesionaria asume el cargo exclusivo de las adquisiciones o expropiaciones necesarias para instalar servicios, puntos de cobro, oficinas y áreas adicionales que no están contenidas en las cantidades anteriores [1]. En caso de obtener terrenos mediante expropiación, deberá pagar el valor de indemnización definitiva más UF 60 por cada lote expropiado por concepto de gastos del MOP [1]. También son de su exclusivo cargo los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas que no se requieran por modificaciones al Proyecto de Ingeniería Definitiva, así como los mayores costos por expropiaciones derivadas de modificaciones al Anteproyecto Referencial o Alternativo que incrementen el valor de tasación [2], [3].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   6,
+   9
+  ]
+ }
+}

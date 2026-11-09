@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D02",
+ "pagina": 28,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 691,
+ "segundos": 117.4,
+ "fecha": "2026-10-27 12:10",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 174,
+  "conf_media": 0.626,
+  "frac_baja": 0.517,
+  "frac_rara": 0.057,
+  "tinta": 0.0583
+ },
+ "n_palabras_vlm": 460,
+ "frac_rara_vlm": 0.257,
+ "similitud": 0.207,
+ "truncado": false,
+ "texto_ocr": "49.187\n\n848.907\n\n3 0.880\n\n889.683\n\n838.969\n\nTotal Calzada Derecha\n\nTOTAL (I+D)\n\n41.En 2.2.2.2 Conservación Mayor de Calzadas,\n\no sereemplaza:el título por el siguiente:\n\nVIA\n\no TReconsircción | MIRA |\nO\nIE O A\n\n552329 A A ES\n\n0719 Reconstrucción\n\n27.663 m\n\n|\n\n'\n\n49,022 m\n\n2.2.2.2 Conservación de Calzadas”\n\no se reemplaza la Tabla 2.13: C onservación Mayor de\n\nTabla 2.13: Conservación\nKm Final Longitud\n\n| Km Inicial\n\n>\n5\n\n:\né\n\n[Derecha]\n\nde\nE\nñ\nE\n\n—\ne)\n—\n[o]\no\n\n762,680\n\no\n00\noo\no\n\n:\nE\nil\n\n768.960\n\nE\nde\nE\n\n[Izquierda |\n| Izquierda |\n\n:\nE\nE\n\n782.981\n\né\nE\n\n[Izquierda |\n\n803.884\n\ndi\nE\nde\n\no\n\n$50.888 |\n859.788\n382.329\n888.969\n\n3.380\n\nMEs2.932\n\nTotal\n\n122.678\n\na TT\nCIRCULAR AULARATORIA Ni\n\nCONCESIOS RI ys\n\nA A\n\nConservación\n\nrada | Conseración | MVR\n\nConservación | TMEVIRX |\nConservación\n\nConservación | EMIR |\nASS\n\nE\nE\n'\n,\n.\n\nE\nE\nil\n,\n.\n\nCalzadas por la siguiente:\n\nde Calzadas\n\n[IMA |\n\n.\n\n[EMV |\n\n, a\nPRMOTTEMULCO ro guiso\nA",
+ "texto_vlm": "848.907 | 849.787 | 0.880 | Reconstrucción | I-III-IV:IX-X\n850.027 | 850.627 | 0.600 | Reconstrucción | I-III-IV:IX-X\n850.888 | 851.407 | 0.520 | Reconstrucción | I-III-IV:IX-X\n859.788 | 860.208 | 0.420 | Reconstrucción | I-III-IV:IX-X\n882.329 | 882.942 | 0.613 | Reconstrucción | I-III-IV:IX-X\n888.969 | 889.688 | 0.719 | Reconstrucción | I-III-IV:IX-X\nTotal Calzada Derecha | | 27,663 | m |\nTOTAL (I+D) | | 49,022 | m |\n\n41. En 2.2.2.2 Conservación Mayor de Calzadas,\n• se reemplaza el título por el siguiente:\n\"2.2.2.2 Conservación de Calzadas\"\n• se reemplaza la Tabla 2.13: Conservación Mayor de Calzadas por la siguiente:\n\nTabla 2.13: Conservación de Calzadas\nKm Inicial | Km Final | Longitud km | Calzada | Obra | Volumen N°\n718.300 | 721.297 | 2.997 | Derecha | Conservación | I-III-IV:IX-X\n721.937 | 727.073 | 5.136 | Izquierda | Conservación | I-III-IV:IX-X\n745.056 | 750.197 | 5.141 | Derecha | Conservación | I-III-IV:IX-X\n751.018 | 755.039 | 4.022 | Izquierda | Conservación | I-III-IV:IX-X\n761.180 | 762.680 | 1.500 | Izquierda | Conservación | I-III-IV:IX-X\n764.561 | 765.441 | 0.880 | Izquierda | Conservación | I-III-IV:IX-X\n765.841 | 767.081 | 1.240 | Izquierda | Conservación | I-III-IV:IX-X\n768.960 | 770.501 | 1.541 | Izquierda | Conservación | I-III-IV:IX-X\n770.840 | 771.900 | 1.060 | Izquierda | Conservación | I-III-IV:IX-X\n772.480 | 776.304 | 3.824 | Izquierda | Conservación | I-III-IV:IX-X\n776.780 | 782.981 | 6.201 | Izquierda | Conservación | I-III-IV:IX-X\n787.640 | 801.623 | 13.984 | Izquierda | Conservación | I-III-IV:IX-X\n802.263 | 803.884 | 1.621 | Derecha | Conservación | I-III-IV:IX-X\n804.583 | 822.543 | 17.960 | Izquierda | Conservación | I-III-IV:IX-X\n823.104 | 824.887 | 1.783 | Derecha | Conservación | I-III-IV:IX-X\n825.687 | 830.488 | 4.801 | Izquierda | Conservación | I-III-IV:IX-X\n831.107 | 831.767 | 0.660 | Ambas | Conservación | I-III-IV:IX-X\n832.408 | 836.908 | 4.500 | Derecha | Conservación | I-III-IV:IX-X\n838.008 | 839.148 | 1.141 | Derecha | Conservación | I-III-IV:IX-X\n839.568 | 840.348 | 0.780 | Izquierda | Conservación | I-III-IV:IX-X\n841.168 | 841.728 | 0.560 | Derecha | Conservación | I-III-IV:IX-X\n842.787 | 846.228 | 2.380 | Derecha | Conservación | I-III-IV:IX-X\n846.948 | 847.627 | 0.679 | Derecha | Conservación | I-III-IV:IX-X\n847.888 | 848.907 | 1.019 | Derecha | Conservación | I-III-IV:IX-X\n849.787 | 850.027 | 0.240 | Derecha | Conservación | I-III-IV:IX-X\n850.627 | 859.788 | 8.380 | Derecha | Conservación | I-III-IV:IX-X\n851.407 | 882.329 | 22.121 | Derecha | Conservación | I-III-IV:IX-X\n860.208 | 882.942 | 6.027 | Derecha | Conservación | I-III-IV:IX-X\n882.942 | 888.969 | | | | \nTotal | | 122,678 | km | | \n\nCIRCULAR ACLARATORIA N° 1\nCONCESIONES RUTAS\npág 22\nTE AMO TECNICO - RIO BURRO"
+}

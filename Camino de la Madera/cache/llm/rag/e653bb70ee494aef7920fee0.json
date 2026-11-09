@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "Sí, las tarifas se diferencian por categoría de vehículo. Se establece una clasificación de vehículos en tipos (como motos, autos, camiones, buses, etc.) y la concesionaria percibe los peajes dentro de las tarifas máximas estipuladas para cada tipo o categoría [1], [2], [6]. Además, para ciertos vehículos como buses y camiones de más de dos ejes, se puede cobrar discriminando según el número de ejes dentro de la tarifa máxima de su categoría [2], [3], [6].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   6
+  ]
+ }
+}

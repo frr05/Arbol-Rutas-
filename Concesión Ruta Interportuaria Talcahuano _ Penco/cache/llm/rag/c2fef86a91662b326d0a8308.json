@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:18",
+ "respuesta": {
+  "respuesta": "El pago anual al MOP por concepto de control y administración del contrato de concesión varía según la etapa: durante el periodo desde la suscripción del decreto supremo de adjudicación hasta la autorización de la Puesta en Servicio Provisoria, se paga UF 3.800 anuales (con un cálculo mensual de UF 317 para proporciones de años) [4]. Desde la Puesta en Servicio Provisoria hasta la extinción de la concesión, el pago anual es de UF 2.400 [1]. Adicionalmente, mediante el Convenio Complementario N°1, se acordaron Gastos Adicionales de Administración y Control por una suma de UF 12.138 [6].",
+  "fuentes": [
+   1,
+   4,
+   6
+  ]
+ }
+}

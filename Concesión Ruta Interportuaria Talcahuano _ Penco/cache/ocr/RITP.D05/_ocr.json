@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D05",
+ "archivo": "2_adjudicacion/2002-04-20_Publicacion-DO-Ruta-Interportuaria-Talcahuano-Penco-2.pdf",
+ "sha256": "52bb9cca2597ab289eb497371453d5b8e2c05622ea3cd8fe3f2f13873dd751fa",
+ "paginas": 5,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:47"
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:29",
+ "respuesta": {
+  "respuesta": "En el Sobre o Paquete denominado Oferta Económica se debe incluir el Documento en el que se hace constar el valor de cada uno de los Factores de Licitación definidos, según el modelo del Formulario entregado en el Anexo N°1 [1]. Este formulario debe ser el original firmado por el Director General de Obras Públicas, sin enmiendas, tachaduras ni condicionamientos [1]. Adicionalmente, la oferta económica debe estar expresada en pesos al 31 de Diciembre de 2000 para la tarifa, mientras que los demás valores monetarios deben venir expresados en Unidades de Fomento (UF) [5].",
+  "fuentes": [
+   1,
+   5
+  ]
+ }
+}

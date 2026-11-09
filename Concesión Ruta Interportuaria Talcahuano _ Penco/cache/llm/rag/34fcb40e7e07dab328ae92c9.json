@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:24",
+ "respuesta": {
+  "respuesta": "La garantía de construcción se compone por tramos: para el tramo Ruta Interportuaria, el valor total es de UF 28.000 (constituido por cuatro boletas bancarias) y para el tramo Avenida Alessandri, el valor total es de UF 7.000 (constituido por una boleta bancaria) [3].",
+  "fuentes": [
+   3,
+   7
+  ]
+ }
+}

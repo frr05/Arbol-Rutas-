@@ -1,0 +1,75 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 00:38",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.15",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "IPC. para valores de t mayores que 1, es la variación del Índice Precios al Consumidor entre el 1? de Enero y el 31 de Diciembre del año t-1 de Explotación de la Concesión, en fracción, publicado por el Instituto Nacional de Estadísticas (INE). En el caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.17.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria deberá cobrar tarifas iguales en todas sus plazas de peaje troncales. La Sociedad Concesionaria deberá cobrar tarifas iguales en todas sus plazas de peaje en accesos.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.4.2",
+    "operacion": "aclara",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El porcentaje máximo de obras que el MOP podrá exigir a la Sociedad Concesionaria en virtud de lo dispuesto en el artículo 19 DFL MOP N*164, de 1991 -cuyo texto, refundido con sus modificaciones, está contenido en el DS MOP N*900 de 1996- será del 20% del Presupuesto Oficial Estimado de la Obra establecido en 1.2.2. El MOP podrá exigir dichas modificaciones hasta dos años antes del término de la concesión. No obstante, el porcentaje máximo de nuevas inversiones que podrá exigir el MOP durante la etapa de construcción ascenderá al 5%, calculado dicho porcentaje sobre el Presupuesto Oficial Estimado de la Obra establecido en 1.2.2.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.7",
+    "operacion": "aclara",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "El MOP y la Sociedad Concesionaria realizarán los pagos que correspondan en virtud del presente contrato, en los plazos previstos para ello en las presentes Bases.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria podrá realizar dichos servicios con equipos y vehículos propios o mediante la contratación de los citados servicios con hospitales, clínicas, SAMU, centros asistenciales de salud debidamente calificados, previa aprobación del Inspector Fiscal, quien verificará que los estándares cobertura y demás condiciones del servicio permitan una oportuna y eficaz prestación de los primeros auxilios a las personas accidentadas.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.2.1.8.4",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Con motivo del avance tecnológico y con el fin de flexibilizar la incorporación de vehículos diesel no contaminantes, la Sociedad Concesionaria podrá disponer para dar cumplimiento con la obligación de patrullaje en la ruta a que se refiere la letra c), de vehículos del tipo furgón de 70 HP potencia mínima con puerta trasera, debiendo cumplir con todas las demás especificaciones de las Bases de Licitación.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

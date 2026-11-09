@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-26 23:48",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.6.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "La Sociedad Concesionaria entregará la garantía de construcción dentro del plazo de 30 días corridos desde el inicio del contrato a que se refiere 1.550.",
+    "debe_decir": "La Sociedad Concesionaria entregará la Garantía de Construcción dentro del plazo de 30 días corridos contados desde la fecha de inicio de la Etapa de Construcción, salvo el caso señalado en la letra a) de los números 1 y 2 de 1.7.2.4, en cuyo caso deberá entregar dicha garantía en el plazo de 30 días corridos contados desde la fecha de aprobación de la solicitud de iniciación anticipada de obras por parte del Inspector Fiscal en el Libro de Obras.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

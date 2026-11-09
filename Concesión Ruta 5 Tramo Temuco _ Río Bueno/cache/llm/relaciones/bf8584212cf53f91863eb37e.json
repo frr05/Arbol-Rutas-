@@ -1,0 +1,135 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:43",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1 — 2.1 INTRODUCCIÓN",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Director: Felipe Andrés Peroti Díaz Sitio Web: www.diarioficial.cl | Mesa Central: 600 712 0001 Email: consultas@diarioficial.cl Dirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1 — 2.1 INTRODUCCIÓN",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Este documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica avanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2728,
+     2738
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.16"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2739,
+     2741
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.17"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2742,
+     2751
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "TERCERO"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "TERCERO"
+    ],
+    "texto_nuevo": [
+     2753,
+     2759
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "TERCERO"
+    ],
+    "texto_nuevo": [
+     2760,
+     2761
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "TERCERO"
+    ],
+    "texto_nuevo": [
+     2770,
+     2774
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "TERCERO"
+    ],
+    "texto_nuevo": [
+     2775,
+     2777
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     2778,
+     2784
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "CUARTO"
+   }
+  ]
+ }
+}

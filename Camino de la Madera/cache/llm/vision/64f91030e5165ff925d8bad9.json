@@ -1,0 +1,6 @@
+{
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "fecha": "2026-10-29 04:44",
+ "costo": 0.0007128,
+ "texto": "{\"tablas\": [{\"titulo\": \"ANEXO N° 1\", \"encabezados\": [\"Item 5\", \"Monto UF\"], \"filas\": [[\"1 Costos de Administración e Inspección Licitación y Ejecución Obras\", \"5.163\"], [\"TOTAL\", \"5.163\"]], \"notas\": null}]}\n\n{\"tablas\": [{\"titulo\": \"Item N°5: Costos de Administración Sociedad Concesionaria\", \"encabezados\": [\"Item 5\", \"Monto UF\"], \"filas\": [[\"1 Costos de Administración e Inspección Licitación y Ejecución Obras\", \"5.163\"], [\"TOTAL\", \"5.163\"]], \"notas\": null}]}"
+}

@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:14",
+ "respuesta": {
+  "respuesta": "El Decreto Supremo MOP N°136 de 2023 aprobó el Convenio Ad-Referéndum Nº 1, suscrito el 22 de mayo de 2023, mediante el cual se establecen las condiciones particulares de la revisión de la fórmula de reajuste del sistema tarifario para el año 2023 [1]. Este convenio implementa lo dispuesto en el DS MOP N°221 de 2022, que aceptó la propuesta de la Sociedad Concesionaria para ajustar las tarifas durante el primer semestre de 2023 aplicando un reajuste del 6,65% en lugar del total contemplado en el contrato, y regular la contabilización y pago de la diferencia mediante una \"Cuenta de Ingresos 1º Semestre 2023\" [2] [4] [9].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   9
+  ]
+ }
+}

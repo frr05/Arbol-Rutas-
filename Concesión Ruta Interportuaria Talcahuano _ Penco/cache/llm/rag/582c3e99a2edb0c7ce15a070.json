@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:11",
+ "respuesta": {
+  "respuesta": "Sí, la Sociedad Concesionaria debe pagar por expropiaciones. Inicialmente paga al Estado UF 83.000 por los terrenos del Anteproyecto Referencial y, si opta por la Prolongación de Av. Alessandri, adicionalmente UF 41.000 [8]. Además, debe asumir el pago exclusivo de las adquisiciones o expropiaciones para servicios (artículos 1.10.10 y 2.2.1.7), puntos de cobro, oficinas y áreas adicionales (artículo 1.9.1.4), así como las nuevas inversiones del artículo 1.14.2.1 [1], [3]. Para estas últimas, debe pagar el valor de indemnización definitiva más UF 60 por cada lote expropiado por gastos del MOP [1]. También debe cubrir mayores costos si sus modificaciones al proyecto requieren expropiar terrenos con mayor tasación que el referencial [3]. Asimismo, asume los costos de obtención de antecedentes (artículo 2.4) y los asociados a suspensión o desistimiento de expropiaciones no requeridas por modificaciones aprobadas [2], [4].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   8
+  ]
+ }
+}

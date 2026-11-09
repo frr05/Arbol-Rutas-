@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D01",
+ "pagina": 119,
+ "archivo": "1_licitacion/Bases-de-Licitacion-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 295,
+ "segundos": 32.6,
+ "fecha": "2026-10-27 12:07",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 85,
+  "conf_media": 0.718,
+  "frac_baja": 0.435,
+  "frac_rara": 0.037,
+  "tinta": 0.05
+ },
+ "n_palabras_vlm": 445,
+ "frac_rara_vlm": 0.086,
+ "similitud": 0.228,
+ "truncado": false,
+ "texto_ocr": "TRAMO TEMUCO - RÍO BUENO\n\nCONCESIÓN INTERNACIONAL RUTA 5\n\nCRONOGRAMA DE INVERSIÓN ACUMULADO\n\nCUADRO RESUMEN:\n\n6.4\n\nTotal (UF)\n\nA | ItemB | IemC |\nA A A ES\n\n1\nll\nÑ\n\nO do mm pad\nmm a pu pa =jZ£ Aaa lalalala lalals\n\no\n+ |\n\n112\n\n40\nMan\nLA\n=\n6)\n“\na\nm\npa]\nZ\no\nmn\npi]\n3)\nz\no\n4\nLl\n>\ne\n|]\no\n0\n=\n[09]\na\n<\na\npz\npo)\n\nCOORDINACIÓN GENERAL DE CONCESIONES\n\nMINISTERIO DE OBRAS PÚBLICAS",
+ "texto_vlm": "CONCESIÓN INTERNACIONAL RUTA 5\nTRAMO TEMUCO - RÍO BUENO\n\n6.4 CUADRO RESUMEN: CRONOGRAMA DE INVERSIÓN ACUMULADO\n\n| Mes | Item A (UF) | Item B (UF) | Item C (UF) | Total (UF) | Total (UF) | % Acumulado |\n|---|---|---|---|---|---|---|\n| | | | | A+B+C | Acumulado | |\n| | | | | | A+B | Acumulado | |\n| 1 | | | | | | |\n| 2 | | | | | | |\n| 3 | | | | | | |\n| 4 | | | | | | |\n| 5 | | | | | | |\n| 6 | | | | | | |\n| 7 | | | | | | |\n| 8 | | | | | | |\n| 9 | | | | | | |\n| 10 | | | | | | |\n| 11 | | | | | | |\n| 12 | | | | | | |\n| 13 | | | | | | |\n| 14 | | | | | | |\n| 15 | | | | | | |\n| 16 | | | | | | |\n| 17 | | | | | | |\n| 18 | | | | | | |\n| 19 | | | | | | |\n| 20 | | | | | | |\n| 21 | | | | | | |\n| 22 | | | | | | |\n| 23 | | | | | | |\n| 24 | | | | | | |\n| 25 | | | | | | |\n| 26 | | | | | | |\n| 27 | | | | | | |\n| 28 | | | | | | |\n| 29 | | | | | | |\n| 30 | | | | | | |\n| 31 | | | | | | |\n| 32 | | | | | | |\n| 33 | | | | | | |\n| 34 | | | | | | |\n| 35 | | | | | | |\n| 36 | | | | | | |\n| 37 | | | | | | |\n| 38 | | | | | | |\n| 39 | | | | | | |\n| 40 | | | | | | |\n| Total | | | | | | |\n\n112\n\nMINISTERIO DE OBRAS PÚBLICAS COORDINACIÓN GENERAL DE CONCESIONES UNIDAD EJECUTIVA CONCESIONES DE CARRETERAS"
+}

@@ -1,0 +1,13 @@
+{
+ "documento": "RITP.D07",
+ "archivo": "3_ejecucion/2005-12-26_Resol_N-4067-PSD.pdf",
+ "sha256": "1c80d92c35a2ce1ff8b50bbcadcc4a5169c3fdcf8c7c5c9f0101c4e48e166634",
+ "paginas": 3,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-27 17:47"
+}

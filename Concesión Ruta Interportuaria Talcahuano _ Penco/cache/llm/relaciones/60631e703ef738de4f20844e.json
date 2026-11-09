@@ -1,0 +1,84 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 02:03",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     309,
+     316
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "a) Relacionadas con las Obligaciones de Información y Otras",
+    "debe_decir": "a) Relacionadas con las Obligaciones de Información y Otras",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [
+     318,
+     320
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.3.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [
+     323,
+     339
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No pago del capital minimo al",
+    "debe_decir": "No pago del capital mínimo al",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P39"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada día",
+    "debe_decir": "Cada día",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

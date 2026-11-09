@@ -1,0 +1,27 @@
+{
+ "documento": "CM.D02",
+ "pagina": 15,
+ "archivo": "1_licitacion/Circulares-Aclaratorias-1-a-3-Camino-de-la-Madera.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 126,
+ "segundos": 10.2,
+ "fecha": "2026-10-29 04:41",
+ "motivos": "texto_raro",
+ "calidad_ocr": {
+  "n_palabras": 107,
+  "conf_media": 0.829,
+  "frac_baja": 0.121,
+  "frac_rara": 0.348,
+  "tinta": 0.0186
+ },
+ "n_palabras_vlm": 90,
+ "frac_rara_vlm": 0.354,
+ "similitud": 0.469,
+ "truncado": false,
+ "texto_ocr": "IRA\n\nY\n- Srs, Aceros Chile Construcciones\n- Srs. Endesa\n- Srs. Eulogio Gordo\n- Srs. Equipos Antilhue\n- Srs. Hidroeléctrica Guardia Vieja S.A.\n- Sr. Eduardo Arriagada M.\n\n31. 1.)3).).)\n\n)\n\n1.3.)\n\n1.)\n\n)\n\n)\n\n1.313)\n\n13333): )3))\n\n13)13)3)3)3)3)3)3)3))\n\n13)3)\n\nJo)\n\n)\n\nO)\n\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n- Srs.\n-- Depto. Concesiones\n- Secretaría DGOP\n\n- Oficina de Partes\n\nCementos Bío Bío\nGeotécnica Consultores\nBesalco S.A.\nBurgwardt S.A.\nAsfaltos Chilenos S.A.\nEmp. Belfi\n\nFerrovial\n\ninnova S.A.\nConstructora Cosal S.A\nMariano Egaña Ltda.\nAsintota Ltda.\n\nVial y Vives Ltda.",
+ "texto_vlm": "- Srs. Aceros Chile Construcciones\n- Srs. Endesa\n- Srs. Eulogio Gordo\n- Srs. Equipos Antilhue\n- Srs. Hidroeléctrica Guardia Vieja S.A.\n- Sr. Eduardo Arriagada M.\n- Srs. Cementos Bío Bío\n- Srs. Geotécnica Consultores\n- Srs. Besalco S.A.\n- Srs. Burgwardt S.A.\n- Srs. Asfaltos Chilenos S.A.\n- Srs. Emp. Belfi\n- Srs. Ferroval\n- Srs. Innova S.A.\n- Srs. Constructora Cosal S.A\n- Srs. Mariano Egaña Ltda.\n- Srs. Asintota Ltda.\n- Srs. Vial y Vives Ltda.\n- Depto. Concesiones\n- Secretaría DGOP\n- Oficina de Partes"
+}

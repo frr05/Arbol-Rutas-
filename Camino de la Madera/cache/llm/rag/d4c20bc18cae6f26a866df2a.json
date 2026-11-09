@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:31",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se identifican los siguientes actos modificatorios o complementarios del contrato: 1) Decreto Supremo N° 892 (1996), que modificó el régimen legal [3]; 2) Decreto Supremo N° 1.901 (2000), que modificó el régimen jurídico [3]; 3) Convenio Complementario N° 1 (aprobado por D.S. MOP N° 1.065 en 2004), que modificó el contrato para incluir una ampliación y modificación de obras [5], [7]; 4) Resolución DGOP (Exenta) N° 4333 (2007), que estableció tarifas máximas [5]; 5) Resolución DGOP (Exenta) N° 5066 (2008), que estableció tarifas máximas [9]; 6) Resolución DGOP (Exenta) N° 2633 (2009), que estableció tarifas máximas [1]. Además, se menciona un Convenio Ad-Referéndum N° 1 aprobado por D.S. MOP N° 155 (2009) mediante el cual se acordaron indemnizaciones compensatorias [9]. En total, se pueden contar al menos 6 resoluciones/decretos específicos que modificaron aspectos del contrato o su ejecución (DS 892, DS 1901, DS 1065/Convenio 1, Res 4333, Res 5066, Res 2633). La ficha de actos lista 3 resoluciones y menciona decretos supremos adicionales en las notas [2].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   5,
+   7,
+   9
+  ]
+ }
+}

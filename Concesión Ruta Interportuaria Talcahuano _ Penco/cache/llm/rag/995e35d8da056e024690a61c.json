@@ -1,0 +1,14 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "El sistema de cobro de peajes utiliza tecnología Manual y puede combinarse con tecnología Automática (tarjeta, monedas, fichas, etc.) [1]. Específicamente, para el Sistema de Cobro por Uso Efectivo, la tecnología debe ser Control de Accesos Manual [2]. Además, es obligatorio implementar al menos una pista manual por sentido en las plazas troncales [4] y tener al menos una pista con cobro manual en los accesos si se instalan [5].",
+  "fuentes": [
+   1,
+   2,
+   4,
+   5
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:35",
+ "respuesta": {
+  "respuesta": "La Inspección Técnica de la Explotación de la Obra (I.T.E.O.) es el servicio del MOP que fiscaliza el contrato, ya que entre sus actividades corresponde administrar el contrato de Concesión por parte del MOP y realizar el control del cumplimiento de diversas normas y condiciones [7].",
+  "fuentes": [
+   7
+  ]
+ }
+}

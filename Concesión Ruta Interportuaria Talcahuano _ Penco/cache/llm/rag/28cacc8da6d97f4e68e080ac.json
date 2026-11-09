@@ -1,0 +1,19 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:25",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe asumir los costos de expropiaciones en varios conceptos específicos. Primero, debe pagar el valor de las indemnizaciones definitivas más un monto de UF 60 por cada lote expropiado para gastos del MOP [1]. Segundo, debe pagar mayores valores si sus modificaciones al proyecto requieren expropiar terrenos con mayor tasación que el anteproyecto referencial [4]. Tercero, debe asumir los costos asociados a la suspensión o desistimiento de expropiaciones iniciadas no requeridas por modificaciones aprobadas [3]. Cuarto, debe elaborar y pagar los antecedentes y expropiaciones adicionales producto de la Ingeniería Definitiva aprobada [9]. Quinto, debe cubrir los gastos de adquisición directa hasta el valor pericial más UF 60 por concepto de administración respecto de cada lote sujeto a expropiación adquirido para el Fisco, deducibles de ciertos pagos [5]. Sin embargo, existen montos fijos incluidos en la oferta técnica: UF 83.000 y UF 41.000 (si opta por la Prolongación de Av. Alessandri) cubren desembolsos y gastos iniciales, pero las adquisiciones/expropiaciones de terrenos necesarios para servicios, puntos de cobro, oficinas y áreas adicionales NO están contenidas en estas cantidades y son de cargo exclusivo de la Sociedad Concesionaria [1].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ }
+}

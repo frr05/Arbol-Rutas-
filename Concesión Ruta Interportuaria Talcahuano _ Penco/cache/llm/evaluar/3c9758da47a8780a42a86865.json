@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:19",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "Incluye los montos principales de UF 3.800 y UF 2.400 correspondientes a las etapas definidas en la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "correcta",
+    "motivo": "Contiene los datos principales de UF 83.000 y UF 41.000 mencionados en la referencia."
+   },
+   {
+    "n": 23,
+    "veredicto": "parcial",
+    "motivo": "Acierta en el 80% pero agrega información contradictoria sobre un 30% que no está en la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Confunde los convenios (cita N°1 en lugar de N°71) y atribuye incorrectamente una tasa al MOP cuando corresponde a la concesionaria."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "Coincide con la referencia en el sistema de cobro a la salida y la tecnología de Control de Accesos Manual."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "Refleja correctamente la diferenciación por categoría de vehículo y la facultad de alterar tarifas."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el IPC como índice de reajuste y la condición de reemplazo."
+   },
+   {
+    "n": 28,
+    "veredicto": "parcial",
+    "motivo": "Omite la tarifa máxima única de $300 para peajes en accesos presente en la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "Copia exactamente el dato de moneda y fecha base de la referencia."
+   },
+   {
+    "n": 30,
+    "veredicto": "incorrecta",
+    "motivo": "Indica solo 10,9 km, omitiendo los 3,5 km de la Prolongación Av. Alessandri que suman el total de 14,4 km."
+   }
+  ]
+ }
+}

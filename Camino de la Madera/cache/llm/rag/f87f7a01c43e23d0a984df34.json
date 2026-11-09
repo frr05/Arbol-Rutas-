@@ -1,0 +1,21 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:04",
+ "respuesta": {
+  "respuesta": "Los fragmentos entregados no contienen información sobre el Índice de Servicio Prestado (ISP) ni sus tramos. Los documentos mencionan únicamente el Índice de Rugosidad Internacional (IRI), estableciendo un umbral inicial menor o igual a 4 [4], [6] y modificado a menor o igual a 3,5 para un tramo específico mediante Convenio Complementario N°1 [1], [2], [5].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ }
+}

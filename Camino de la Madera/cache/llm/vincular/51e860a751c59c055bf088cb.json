@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:00",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D03.F0017]",
+    "destino": "BL:1.2.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0018]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D03.F0019]",
+    "destino": "BL:1.2.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0020]",
+    "destino": "BL:1.5.24"
+   },
+   {
+    "fragmento": "[CM.D03.F0021]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D03.F0022]",
+    "destino": "BL:1.3.1"
+   },
+   {
+    "fragmento": "[CM.D03.F0023]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0025]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0026]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D03.F0028]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D05.F0001]",
+    "destino": "BL:1.2"
+   },
+   {
+    "fragmento": "[CM.D05.F0002]",
+    "destino": "BL:1.3.2"
+   },
+   {
+    "fragmento": "[CM.D05.F0003]",
+    "destino": "BL:1.3.3"
+   },
+   {
+    "fragmento": "[CM.D05.F0004]",
+    "destino": "BL:1.3.4"
+   },
+   {
+    "fragmento": "[CM.D06.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D06.F0002]",
+    "destino": "BL:1.4"
+   },
+   {
+    "fragmento": "[CM.D06.F0004]",
+    "destino": "BL:1.5.29"
+   },
+   {
+    "fragmento": "[CM.D06.F0005]",
+    "destino": "BL:1.5.46"
+   },
+   {
+    "fragmento": "[CM.D07.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D07.F0004]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D07.F0005]",
+    "destino": "BL:1.3.2"
+   },
+   {
+    "fragmento": "[CM.D07.F0006]",
+    "destino": "BL:1.3.4"
+   },
+   {
+    "fragmento": "[CM.D07.F0007]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D07.F0008]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D07.F0009]",
+    "destino": "TEMA:otros"
+   }
+  ]
+ }
+}

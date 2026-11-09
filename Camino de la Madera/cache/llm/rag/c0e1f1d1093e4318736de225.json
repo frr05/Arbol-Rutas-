@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "Las Bases de Licitación fueron aprobadas por Resolución MOP N° 2394 (el OCR también lee N2394) de fecha 8 de Junio de 1993 [3].",
+  "fuentes": [
+   3
+  ]
+ }
+}

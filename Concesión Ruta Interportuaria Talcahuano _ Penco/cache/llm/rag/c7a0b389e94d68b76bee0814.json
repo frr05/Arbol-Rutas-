@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:16",
+ "respuesta": {
+  "respuesta": "El Contrato de Concesión se extinguirá cuando se cumpla alguna de las siguientes causas [1]:\n\na) Cuando se cumpla la relación señalada en el artículo 1.7.6 en relación a los Ingresos Totales de la Concesión (ITC) [1]. Esto ocurre si se adjudica en el Tramo A, extinguiéndose el mes 'm' que se cumple dicha relación, o al cumplirse el plazo máximo de 498 meses si no se alcanzó la ecuación del ITC [4]. Si se adjudica en cualquier otro tramo, se extinguirá al cumplirse el plazo de 378 meses [4].\nb) Cumplimiento del plazo máximo de la concesión señalado en el artículo 1.7.6.2 [1]. El plazo general es de 378 meses [4], [7].\nc) Incumplimiento grave de las obligaciones del Concesionario, según lo dispuesto en el artículo 1.13.3 [1]. Se consideran incumplimientos graves: disminución de capital sin autorización, demoras no autorizadas en construcción superiores a 60 días, incumplimiento en tres oportunidades de niveles mínimos de servicio, cobranza superior a tarifas autorizadas en tres oportunidades, incumplimiento en normas de conservación en tres oportunidades, no constitución/reconstitución de garantías, entrega de información falsa en dos oportunidades, incumplimiento reiterado de medidas ambientales, cesión sin autorización, incumplimiento de porcentajes de avance en dos oportunidades, demora en entrega de declaraciones de avance en más de 60 días, demoras en puesta en servicio definitiva, y no iniciar construcción de la Prolongación Av. Alessandri en un año si fue aceptado [3].\nd) Mutuo acuerdo entre el MOP y la Sociedad Concesionaria, conforme al artículo 27 número 2 del DS MOP N°900 de 1996 [1]. Este acuerdo requiere el previo acuerdo favorable y por escrito de los acreedores con prenda especial y se aprueba por Decreto Supremo firmado por el Ministro de Hacienda [2].",
+  "fuentes": [
+   1,
+   2,
+   3,
+   4,
+   7
+  ]
+ }
+}

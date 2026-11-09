@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 51,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 154,
+ "segundos": 8.7,
+ "fecha": "2026-10-27 19:09",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 71,
+  "conf_media": 0.318,
+  "frac_baja": 0.592,
+  "frac_rara": 0.154,
+  "tinta": 0.0309
+ },
+ "n_palabras_vlm": 119,
+ "frac_rara_vlm": 0.04,
+ "similitud": 0.038,
+ "truncado": false,
+ "texto_ocr": "[ss\nDE O\nSs\nDA\neo\n\nDEPTO.\nCONCESIONES\n\nTWOSIA HOLOFASNI\nSVIYVA/ZWIA SOTAVO\n\nSVYW3NOLNVO 30 NOIOVIOT1OD A OYASININNS| lee |\n\nSYNVIV8Yvg A 3VIONV“OAOAV 30 SOLIN3N313| loe |\nHZp - €9V SVHYV8 N3OY3DW| loz |\n\nMIS NI SALON] 1bZ |\nSIN31dVYIY31 30 NOIOVLOVANOD A NOIOVINYOY NA OLO3Y9I0 OLSOD HOAVIA| SOz |\n\navaInNa\n\nNOI9WLI9M 30 S3S8Wg Sv1 30 € oN OX3NV 7130 SOT V\nSOIYIVININIIANOD SOAZJAN WAI 30 SOJAV LINA SOIO3HUd\n\nG oN OXINV",
+ "texto_vlm": "ANEXO Nº 5\nPRECIOS UNITARIOS DE ITEM NUEVOS COMPLEMENTARIOS\nA LOS DEL ANEXO Nº 3 DE LAS BASES DE LICITACION\n\n| ITEM | PARTIDA DESCRIPCION | UNIDAD | PRECIO UNITARIO (U.F.) |\n|---|---|---|---|\n| 205 | MAYOR COSTO DIRECTO EN FORMACION Y COMPACTACION DE TERRAPLENES | M3 | 0,070 |\n| 241 | PILOTES IN SITU | M | 22,110 |\n| 261 | ACERO EN BARRAS A63 - 42H | KG | 0,056 |\n| 361 | ELEMENTOS DE APOYO, ANCLAJE Y BARBACANAS | TR | 120,000 |\n| 351 | SUMINISTRO Y COLOCACION DE CANTONERAS | M | 90,670 |\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES\nPD."
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "consultas": [
+   "composición del contrato de concesión",
+   "documentos que integran el contrato"
+  ]
+ }
+}

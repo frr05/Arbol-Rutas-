@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:21",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D10.F0040] (Reglamento servicio) A efecto de comprensión y registro de la tarifa de peaje se define la siguiente clasificación de vehículos: Tipo Categoría Descripción de los vehículos incluidos 1 Autos Camionetas Autos y Camionetas con remolque Camiones de dos Ejes Buses de más de dos Ejes. Camiones de más de dos Ejes Buses de dos ejes. Motos y Motonetas VD a JO ón bh uy y Otros (maquinaria agrícola) La empresa concesionaria dispondrá en todas las ",
+    "destino": "TEMA:tarifas_y_peajes"
+   },
+   {
+    "fragmento": "[CM.D10.F0041] (Reglamento servicio) El control a la clasificación manual y automático se realizara a través del Sistema de Peaje - PXNET2S. Manejo de dinero. Los dineros percibidos por cobro de peajes serán manejados como lo estime conveniente la concesionaria. Transporte de dinero. La política de transporte de dineros será la que estime conveniente la concesionaria. Pesaje Respecto al pesaje este será realizado con equipos de Pesaje Dinámicos a Veloci",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0042] (Reglamento servicio) trasladado fuera de la calzada vehicular a los lugares previamente designados para tales efectos, quedando bajo la custodia de la concesionaria, de Carabineros, de los titulares de estos o a la disposición del tribunal competente. Las mercancías o cargas serán retenidas por la concesionaria fuera del área de circulación, correspondiendo al usuario la responsabilidad de la evacuación. Transcurridas 24 horas sin que hu",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0043] (Reglamento servicio) 4.- Seguridad. La concesionaria mantendrá permanentemente en servicio, salvo caso fortuito o de Se remitirán copias del reclamo y de la respuesta al Inspector Fiscal mensualmente de fuerza mayor, un sistema de seguridad que se describe a continuación: 4.1.- Supervisión de la vía. El Concesionario realizara la supervisión de la vía mediante un móvil, equipado de un sistema de radio VHF, el que le permitirá al vigilant",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D10.F0045] (Reglamento servicio) vi. \"DEL PERSONAL DE LA CONCESIONARIA. Respecto a las relaciones laborales entre la Concesionaria y los trabajadores se regularán por el Código del Trabajo y por sus leyes complementarias. Obligaciones y derechos del personal Las obligaciones del trabajador quedaran estipuladas en su contrato individual que realizara en común acuerdo entre la Concesionaria y el Trabajador, en el caso de los derechos estos son los est",
+    "destino": "BL:1.5.19"
+   },
+   {
+    "fragmento": "[CM.D10.F0046] (Reglamento servicio) 1.- Derechos y Obligaciones del Inspector Fiscal Los Derechos y obligaciones de del Inspector Fiscal en relación con la fiscalización del Contrato , son aquellas que están indicadas en las Bases de Licitación, Circulares Aclaratorias, Ley de Concesiones, Reglamento de la Ley de Concesiones y otros documentos del Contrato, los cuales conforman el marco legal de la Concesión",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D10.F0047] (Reglamento servicio) 2.- Procedimientos y sanciones. El Inspector Fiscal podrá aplicar sanciones en el caso de que el concesionario incurra en faltas señaladas tanto en las bases de Licitación como en el Reglamento de Concesiones.",
+    "destino": "TEMA:multas"
+   },
+   {
+    "fragmento": "[CM.D10.F0048] (Reglamento servicio) ANEXO N* DE LA OPERACION : UNIDAD DE MEDIDA: NORMAS Y RENDIMIENTOS DE LAS OPERACIONES DE CONSERVACION RUTINARIAS CONSERVACION RUTINARIA CAMINO DE LA MADERA Ficha N° ___ /CR OPERACIÓN : UNIDAD DE MEDIDA : PRODUCCION DIARIA CUADRILLA : CANTIDAD DE OPERACION ANUAL NIVEL ANUAL PRODUCCION HOMBRE/DIA : COSTO ACTIVIDAD ANUAL PERIODO DE EJECUCION FECHA DE INICIO FECHA DE TERMINO SEMANA DE TERMINO HORAS HOMBRE MATERIALES 4 Ot",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "[CM.D08.F0001] (Resolucion N°4333) OFICINA DE PARTES 4333 TOMA DE RAZON RECEPCION. DEPART. SUB. DEP. Í E CUENTAS SUB, DEP. Bo CAY BIENES. NAC. | DEPART, | AUDITORÍA J-— DEPART. vV.Oo.P,UyT. SUB, DEP. MUNICIP, REFRENDACION MINISTERIO DE HACIENDA |",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D08.F0004] (Resolucion N°4333) ESTABLÉCESE que las condiciones particulares derivadas de la presente resolución, entre otros, sus efectos económicos y financieros, serán materia de un convenio complementario que para el efecto suscribirán las partes del contrato de concesión. : ESTABLÉCESE que dentro del plazo de 10 días hábiles contados desde la fecha . » e Ea A IS £ £ . de tramitación de la presente Resolución, tres transcripciones de ésta deber",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0002] (Convenio complementario N°1) que sigue: . Núm. 3.947 exento.- Vistos: estos antecedentes, lo dis- puesto en el decreto supremo N* 110, de Justicia, de 1979, Reglamento sobre Concesión de Personalidad Jurídica a Cor- poraciones y Fundaciones, publicado enel Diario Oficial de 20 de marzo de 1979, modificado por decreto supremo de Justicia N*679, de 2003, publicado en el Diario Oficial de 13 de febrero de 2004 y en la resolución N* 520, de 1996, mo",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0003] (Convenio complementario N°1) Decreto: Apruébanse las reformas que ha acordado introducir a sus estatutos la entidad denominada “Fundación Bankboston, Chile”, que también puede usar el nombre “Fundación Bank- boston”, con domicilio en la provincia de Santiago, Región Metropolitana de Santiago, y personalidad jurídica concedida por decreto supremo de Justicia N” 1.084, de 26 de agosto de 1992, en los términos que da testimonio la escritura pública",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0004] (Convenio complementario N°1) \" \"Núm. 1.065.- Santiago, 22 de noviembre de 2004 .- Vistos: - El artículo 87 del DFL MOP N'850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley N*15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N*206, de 1960, Ley de Caminos. - El D.S. MOP N*900, de 1996, que fijó el texto refundi- do, coordinado y sistematizado del DFL MÓP N*164, de 1991, Ley de Concesiones de Obras P",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0006] (Convenio complementario N°1) Decreto: “* ¿+ 1. Solicítase la urgencia de 5 días para el trámite de toma de razón del presente decreto supremo, en atención a las razones expuestas en los considerandos, conforme a lo dis- puesto en el artículo 111” del DFL MOP N” 850, de 1997, que fija el texto refundido, coordinado y sistematizado de la ley N? 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del.DFL N* 206, de 1960, Ley de Caminos. 2.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0007] (Convenio complementario N°1) DENIEGA CONCESION DE EXPLORA CION DEENER- GIA GEOTERMICA, PRESENTADA POR GEOTER- MIA DEL PACIFICO SERVICIOS DE INGENIERIA LIMITADA, EN EL SECTOR DE “WECHU”, NOVENA REGION DE LA ARAUCANIA, PROVINCIA DE CAUTIN, COMUNA DE MELIPEUCO, EN VIRTUD DE LA LEY N* 19.657\" Núm. 83.- Santiago, 15 de noviembre de 2004.- Visto: Lo dispuesto en la ley 19.657, sobre concesiones de energía geotérmica (Anexo 1); lo dispuesto en el decre",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "[CM.D11.F0009] (Convenio complementario N°1) 1.- Que, Geotermia del Pacífico Servicios de Ingenie- ría Ltda. -en adelante también e indistintamente ““Geoter- mia del Pacífico””, debidamente representada por el señor Osvaldo H. Ossandón Sermeño- presentó al Ministerio de Minería con fecha 20 de agosto de 2003 una solicitud de concesión de exploración de energía geotérmica sobre el sector de **Wechu””, ubicada en la Novena Región de la Araucanía, Provincia de Cau",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "[CM.D11.F0010] (Convenio complementario N°1) Decreto: . Artículo primero: Deniégase la concesión de explo- ración de energía geotérmica presentada por Geotermia del - Pacífico Servicios de Ingeniería Limitada, respecto del área geográfica denominada \"*“Wechu'”, ubicada en la Novena * Región de la Araucanía, Provincia de Cautín, Comuna de Melipeuco, cuya extensión y coordenadas UTM son las siguientes: Superficie solicitada: 9.000 héctareas Vértice Este Norte ! 2",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "[CM.D11.F0011] (Convenio complementario N°1) Artículo quinto: Todos y cada uno de los anexos . citados en el cuerpo del presente decreto se entienden formar parte integrante del mismo, para todos los efectos legales. Anótese, comuníquese, tómese razón y publíquese.- Por orden del Presidente de la República, Alfonso Dulanto Rencoret, Ministro de Minería. Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Mario Cabezas Thomas, Subse- cre",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0012] (Convenio complementario N°1) 15 días Término Obras Inicio Servicio Observación 30 días | 60 días | Todos estos plazos están referidos a la fecha de publicación en el | Diario Oficial del decreto que autorice la modificación solicitada. La presente publicación se hace de acuerdo a lo dispuesto en el artículo 15\" de la ley N” 18.168 (Ley General de Telecomunicaciones) a objeto de que el que tenga interés en ello pueda oponerse al otorgamiento de l",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[CM.D11.F0015] (Convenio complementario N°1) DECRETO: l. SOLICÍTASE la urgencia de 5 días para el trámite de Toma de Razón del presente decreto supremo, en atención a las razones expuestas en los Considerandos, conforme a lo dispuesto en el artículo 111% del DFL MOP N* 850, de 1997, que fija el texto refundido, coordinado y sistematizado de la Ley N* 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N* 206, de 1960, Ley de Caminos.",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D11.F0016] (Convenio complementario N°1) 2. DÉJASE sin efecto el Decreto Supremo N* 660, de fecha 6 de agosto de 2004, que aprucba cl convenio complementario NO ] que modifica el contrato de concesión de la obra pública fiscal denominada “Camino de la Madera”, por razones de buen servicio. APRUÉBASE el convenio complementario N* 1, de fecha 29 de Julio de 2004, que se anexa y forma parte integrante del presente decreto, celebrado entre la Dirección General ",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[CM.D11.F0017] (Convenio complementario N°1) 1.1 Por Decreto Supremo del Ministerio de Obras Públicas N* 133, del 29 de Abril de 1994, publicado en el Diario Oficial N* 34.905, de fecha 4 de julio de 1994, se adjudicó el Contrato de Concesión para la ejecución, conservación y explotación de la obra pública fiscal denominada \"Camino de la Madera\", al consorcio licitante formado por las sociedades Empresa Constructora Belfi S.A., Las Américas Administradora de Fo",
+    "destino": "BL:1.1"
+   },
+   {
+    "fragmento": "[CM.D11.F0018] (Convenio complementario N°1) 1.2 Con fecha 30 de Septiembre de 1996, la Sociedad Concesionaria envió al Ministro de Obras Públicas la solicitud para acogerse a la normativa de la Ley N* 19.460, según autorización de su primera disposición transitoria. El MOP dictó el Decreto Supremo N? 892, del 30 de Octubre de 1996, modificando el régimen legal del contrato de concesión para aplicar a éste todas y cada una de las normas establecidas en la Ley N",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D11.F0019] (Convenio complementario N°1) SEGUNDO: OBLIGACIONES DE LA SOCIEDAD CONCESIONARIA La Sociedad Concesionaria, en virtud de los fundamentos precedentemente indicados y de las compensaciones e indemnizaciones que se establecen en este instrumento, acepta llevar a cabo la ampliación y modificación de las obras de la concesión y dar cumplimiento a las siguientes obligaciones: La Sociedad Concesionaria ejecutará inversiones e incurrirá en gastos para la",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[CM.D11.F0020] (Convenio complementario N°1) El Inspector Fiscal deberá revisar los proyectos de ingeniería de detalle definitivos dentro de los 60 días contados desde la entrega de los mismos por parte de la Sociedad Concesionaria. Dentro de este período de 60 días el Inspector Fiscal podrá realizar observaciones una sola vez a cada proyecto de ingeniería. La Sociedad Concesionaria deberá subsanar dichas observaciones dentro de los 15 días siguientes, debiendo",
+    "destino": "BL:1.5.10"
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:04",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 41,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que la información no existe, coincidiendo con la referencia que indica 'No aplica'."
+   },
+   {
+    "n": 42,
+    "veredicto": "correcta",
+    "motivo": "La respuesta contiene el dato principal del 4% de los presupuestos oficiales."
+   },
+   {
+    "n": 43,
+    "veredicto": "parcial",
+    "motivo": "Acierta en los montos originales pero agrega información sobre modificaciones posteriores no solicitada explícitamente y que podría confundir el monto base."
+   },
+   {
+    "n": 44,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente los dos tipos de seguros requeridos por la referencia."
+   },
+   {
+    "n": 45,
+    "veredicto": "parcial",
+    "motivo": "Falta mencionar la Comisión Conciliadora y las normas regulatorias adicionales (Reglamento y Ley) presentes en la referencia."
+   },
+   {
+    "n": 46,
+    "veredicto": "correcta",
+    "motivo": "La respuesta refleja correctamente la multa diaria del 1 por 1.000 sobre el presupuesto oficial."
+   },
+   {
+    "n": 47,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente las 100 UTM diarias."
+   },
+   {
+    "n": 48,
+    "veredicto": "incorrecta",
+    "motivo": "El conteo total es incorrecto; la referencia lista seis actos específicos mientras la respuesta omite varios y cuenta solo cinco."
+   },
+   {
+    "n": 49,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente los dos convenios complementarios/ad-referéndum mencionados en la referencia."
+   },
+   {
+    "n": 50,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el año 2012 como la fecha de la última modificación."
+   }
+  ]
+ }
+}

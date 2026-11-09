@@ -1,0 +1,56 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 18:40",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P31"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Entregar la información requerida con datos O antecedentes maliciosamente falsos.",
+    "debe_decir": "Entregar la información requerida con datos o antecedentes maliciosamente falsos.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P26"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "100",
+    "debe_decir": "450",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P43"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada vez",
+    "debe_decir": "Cada día",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1247,
+     1258
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

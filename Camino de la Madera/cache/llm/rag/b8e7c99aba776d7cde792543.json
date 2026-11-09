@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:23",
+ "respuesta": {
+  "respuesta": "El sistema de cobro de peajes es manual, realizado en plazas de peaje físicas donde se entrega un comprobante al usuario. La concesionaria puede implementar sistemas de pre o post pago con empresas usuarias, previa comunicación y aprobación del Inspector Fiscal. [1]",
+  "fuentes": [
+   1
+  ]
+ }
+}

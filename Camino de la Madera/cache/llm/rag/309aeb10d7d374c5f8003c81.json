@@ -1,0 +1,15 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "Los servicios especiales obligatorios que debe prestar el concesionario en la etapa de explotación incluyen: mantener expedito el tránsito, prevenir posibles accidentes, paralizar y ordenar el tránsito en casos de accidentes o reparaciones, prestar oportuna y eficazmente primeros auxilios a personas accidentadas, y rescatar y auxiliar vehículos [1]. Además, se requiere una dotación de personal necesaria para mantener un servicio correcto, eficiente y oportuno de mantenimiento, conservación y operación de todas las obras, equipos e instalaciones, disponiendo de personal de reemplazo para cubrir fallas, permisos y vacaciones durante las veinticuatro horas del día [6]. También se obliga al concesionario a proporcionar información mensual sobre los problemas en el desarrollo de la construcción (durante la etapa inicial) y estados financieros trimestrales auditados, así como informes mensuales de avance de construcción y gestión ambiental según lo establecido en las modificaciones contractuales [5]. Durante la explotación específica, se exige calcular e informar mensualmente el monto MDI actualizado mediante anotación en el libro de explotación [8], e informar mensualmente sobre los flujos diarios en todas las plazas de peaje por categoría de vehículo y tipo de tarifa, ingresos percibidos desglosados (tarifas, servicios complementarios, permisos de sobrepeso, ingresos mínimos garantizados, autorizaciones de accesos, etc.) y flujo de cupones de prepago, entregando esta información dentro de los 15 primeros días del mes siguiente al informado [8]. Finalmente, se debe mantener permanentemente en buen estado de funcionamiento, pintura y limpieza todos los elementos de las instalaciones y servicios anexos como plazas de peaje, pesaje, casetas telefónicas y áreas de servicio [10].",
+  "fuentes": [
+   1,
+   5,
+   6,
+   8,
+   10
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 20:13",
+ "respuesta": {
+  "respuesta": "El seguro por catástrofe cubre los riesgos catastróficos durante el período de construcción y explotación de las obras, incluyendo disturbios populares y actos maliciosos [1], [4]. El beneficiario único del seguro es el Ministerio de Obras Públicas [1].",
+  "fuentes": [
+   1,
+   4
+  ]
+ }
+}

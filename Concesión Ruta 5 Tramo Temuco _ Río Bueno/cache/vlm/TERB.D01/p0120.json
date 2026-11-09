@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D01",
+ "pagina": 120,
+ "archivo": "1_licitacion/Bases-de-Licitacion-TERB.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 460,
+ "segundos": 43.5,
+ "fecha": "2026-10-27 12:07",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 223,
+  "conf_media": 0.77,
+  "frac_baja": 0.318,
+  "frac_rara": 0.008,
+  "tinta": 0.0399
+ },
+ "n_palabras_vlm": 397,
+ "frac_rara_vlm": 0.009,
+ "similitud": 0.549,
+ "truncado": false,
+ "texto_ocr": "CONCESIÓN INTERNACIONAL RUTA $ TRAMO TEMUCO - RÍO BUENO\n\n7. ANEXO N%4\n\nDISTRIBUCIÓN DE RIESGOS ENTRE LA SOCIEDAD CONCESIONARIA Y EL ESTADO\n(PRESENTADO POR EL ADJUDICATARIO SEGÚN LO SEÑALADO EN 1.12)\n\n(Indicar SI o NO)\n\nEn caso de aceptar, completar la siguiente Tabla:\n\nBanda de Ingresos Mínimos Y Mint F,\nIngresos Mínimos Factor de\nCalendario de Biar Boupt Garantizados Actualización\nOperación Banda Inferior Banda Superior ( Miles de UF) (A)\n\nCas pas po pase jo 7]\n26380\nASA\nA\nIO\nICI IS\nII\n\nt\nAño\n\nAY mint\nIngresos Mínimos\nActualizados Garantizados\n(Miles de UF) (A x B)\n\nSas 7]\nIONES IEC HO IE [ES\n\n0\nMINI EDONIO IEIE E FOIE IESO CTE\nECTI ION EI IO NES\n\n(B)\nTA\nINESIS MINI IUU II ENIVE IEEO\n59\n\nICI 3\nINNIINCINNNOS IONIO 5 IE IESO [YES\n\nMINI EOO IIINES DN IR IES ES\n\n89 o | 02765 |\nTOTAL CAY mint) |\n\nPara cada año de operación t, AY yn, debe situarse dentro de la Banda de Ingresos Minimos Garantizados Actualizados,\n\npor lo que debe ser mayor que AB, y menor que AB up:\n\nLa suma de todos los Ingresos Mínimos Garantizados Actualizados ( E AY y¡n) en ningún caso podrá ser superior a\nUF 3.856.000\n\nFIRMA DEL REPRESENTANTE LEGAL\n\n1 13 SS A\n\nMINISTERIO DE OBRAS PÚBLICAS COORDINACIÓN GENERAL DE CONCESIONES\n\n|\n|\n|",
+ "texto_vlm": "CONCESIÓN INTERNACIONAL RUTA 5\nTRAMO TEMUCO - RÍO BUENO\n\n7. ANEXO N°4\nDISTRIBUCIÓN DE RIESGOS ENTRE LA SOCIEDAD CONCESIONARIA Y EL ESTADO\n(PRESENTADO POR EL ADJUDICATARIO SEGÚN LO SEÑALADO EN 1.12)\n\nIDENTIFICACIÓN DEL ADJUDICATARIO:...............................................................................\n\nAcepta Distribuir Riesgos entre la Sociedad Concesionaria y el Estado, según lo indicado en 1.12.\n\n(Indicar SI o NO)\n\nEn caso de aceptar, completar la siguiente Tabla:\n\n| t Año Calendario de Operación | Banda de Ingresos Mínimos Garantizados (Miles de UF) | | Y Mint Ingresos Mínimos Garantizados (Miles de UF) (A) | F t Factor de Actualización (B) | AY Mint Ingresos Mínimos Actualizados Garantizados (Miles de UF) (A x B) |\n|---|---|---|---|---|---|\n| | B inft Banda Inferior | B supt Banda Superior | | | |\n| 1 | 282 | 362 | | 0,8163 | |\n| 2 | 296 | 380 | | 0,7629 | |\n| 3 | 311 | 399 | | 0,7130 | |\n| 4 | 326 | 419 | | 0,6663 | |\n| 5 | 343 | 440 | | 0,6228 | |\n| 6 | 360 | 461 | | 0,5820 | |\n| 7 | 378 | 485 | | 0,5439 | |\n| 8 | 397 | 509 | | 0,5084 | |\n| 9 | 417 | 534 | | 0,4751 | |\n| 10 | 437 | 561 | | 0,4440 | |\n| 11 | 459 | 589 | | 0,4150 | |\n| 12 | 482 | 618 | | 0,3878 | |\n| 13 | 506 | 649 | | 0,3625 | |\n| 14 | 532 | 682 | | 0,3387 | |\n| 15 | 558 | 716 | | 0,3166 | |\n| 16 | 586 | 752 | | 0,2959 | |\n| 17 | 615 | 789 | | 0,2765 | |\n| | | | TOTAL (Σ AY Mint ) | | |\n\nPara cada año de operación t, AY Mint debe situarse dentro de la Banda de Ingresos Mínimos Garantizados Actualizados, por lo que debe ser mayor que AB inft y menor que AB supt\n\nLa suma de todos los Ingresos Mínimos Garantizados Actualizados ( Σ AY Mint ) en ningún caso podrá ser superior a UF 3.856.000\n\nFIRMA DEL REPRESENTANTE LEGAL\n\n113\n\nMINISTERIO DE OBRAS PÚBLICAS COORDINACIÓN GENERAL DE CONCESIONES UNIDAD EJECUTIVA CONCESIONES DE CARRETERAS"
+}

@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:57",
+ "respuesta": {
+  "respuesta": "La longitud del proyecto es de aproximadamente 10,9 km [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

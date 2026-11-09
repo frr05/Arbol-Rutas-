@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 11:58",
+ "respuesta": {
+  "respuesta": "La garantía de construcción corresponderá al 4% de los presupuestos oficiales de las obras respectivas [8]. Las obras son: Obra A (10.000 UF), Obra B (3.000 UF), Obra C (3.000 UF) y Obra D (1.000 UF) [4].",
+  "fuentes": [
+   4,
+   8
+  ]
+ }
+}

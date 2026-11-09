@@ -1,0 +1,11 @@
+{
+ "tarea": "reformular",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:15",
+ "respuesta": {
+  "consultas": [
+   "obras nuevas incluidas baipás puentes enlaces",
+   "descripción de obras adicionales proyecto de concesión"
+  ]
+ }
+}

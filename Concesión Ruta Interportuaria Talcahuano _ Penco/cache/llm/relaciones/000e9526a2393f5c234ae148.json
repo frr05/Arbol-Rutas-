@@ -1,0 +1,49 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 19:26",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.6",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "[P1]"
+    ],
+    "texto_nuevo": [
+     412,
+     418
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.6",
+    "operacion": "agrega_parrafo",
+    "parrafos": [],
+    "texto_nuevo": [
+     419,
+     421
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.6",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "[P4]"
+    ],
+    "texto_nuevo": [
+     425,
+     426
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

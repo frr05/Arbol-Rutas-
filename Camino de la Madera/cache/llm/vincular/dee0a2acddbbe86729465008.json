@@ -1,0 +1,33 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:23",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[CM.D12.F0033]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0034]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0035]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0036]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[CM.D12.F0037]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[CM.D12.F0038]",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

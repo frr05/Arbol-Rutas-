@@ -1,0 +1,9 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 12:03",
+ "respuesta": {
+  "respuesta": "La información proporcionada en los fragmentos no especifica el monto exacto en UF correspondiente a un nivel de servicio insuficiente (Costo por Desempeño Operacional) ni detalla el incentivo por buen desempeño. Los fragmentos disponibles se centran en el monto máximo de la obra (UF 50.657), los costos de administración e inspección (UF 5.163), y tablas de régimen económico que muestran primas PSC, ingresos, inversiones y cuentas MDI, pero no desglosan las penalidades por bajo desempeño ni los incentivos específicos.",
+  "fuentes": []
+ }
+}

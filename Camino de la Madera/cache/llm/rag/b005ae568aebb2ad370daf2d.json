@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:26",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato se publicó en el año 2012, mediante el Convenio de Extinción N°342 suscrito el 30 de noviembre de 2012 [4]. Este acto es identificado como el último acto de la concesión en la ficha de actos [11].",
+  "fuentes": [
+   4,
+   11
+  ]
+ }
+}

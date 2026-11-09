@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D11",
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_786-2003-y-Convenio-Complementario.pdf",
+ "sha256": "ca2bc68a815e39464c56982fbcd30199675321003f0abc8dd44d78037ea091b0",
+ "paginas": 15,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:05"
+}

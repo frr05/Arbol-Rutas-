@@ -1,0 +1,394 @@
+{
+ "tarea": "relaciones",
+ "modelo": "poolside/laguna-s-2.1:free",
+ "fecha": "2026-10-27 19:57",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Imputar costos del contrato de | Cada vez. concesión u otros señalados en dicho artículo, a la contabilidad de la Sociedad Concesionaria.",
+    "debe_decir": "Imputar costos del contrato de concesión u otros señalados en dicho artículo, a la contabilidad de la Sociedad Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "i) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas j) Cualquier otra información, relacionada con el Contrato de Concesión, que requiera el Inspector Fiscal, en el plazo indicado por éste h) Además deberá entregar información de los ingresos potenciales por concepto de tarifa desglosados; estos ingresos se obtendrán de multiplicar los flujos vehiculares que hayan circulado a través de todos los puntos de cobros instalados en la vía concesionada por los peajes máximos autorizados que se estén cobrando en cada uno de ellos. Esta información deberá ser entregada mensualmente, dentro de los 5 primeros días de cada mes. Cada ingreso debidamente desglosado, deberá convertirse al valor de la UF del día en que efectivamente se percibió",
+    "debe_decir": "i) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas. j) Cualquier otra información, relacionada con el Contrato de Concesión, que requiera el Inspector Fiscal, en el plazo indicado por éste. h) Además deberá entregar información de los ingresos potenciales por concepto de tarifa desglosados; estos ingresos se obtendrán de multiplicar los flujos vehiculares que hayan circulado a través de todos los puntos de cobros instalados en la vía concesionada por los peajes máximos autorizados que se estén cobrando en cada uno de ellos. Esta información deberá ser entregada mensualmente, dentro de los 5 primeros días de cada mes. Cada ingreso debidamente desglosado, deberá convertirse al valor de la UF del día en que efectivamente se percibió.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P17"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "LTS, 1.8.2, 1.9,15, 1.108, 1.14,5",
+    "debe_decir": "LTS, 1.8.2, 1.9.15, 1.10.8, 1.14.5",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "132 NT, N%2, N% y N95",
+    "debe_decir": "1.8.2. N3, 2.6.6.4",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P20"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1.8.2. N3, 2.6.6.4",
+    "debe_decir": "1.8.4",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P21"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1.8.4",
+    "debe_decir": "PEA TEA",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P22"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "PEA TEA",
+    "debe_decir": "- 200",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P23"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "- 200",
+    "debe_decir": "5.000",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P24"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "5.000",
+    "debe_decir": "100",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "100",
+    "debe_decir": "100",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P26"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "100",
+    "debe_decir": "Tipo de Infracción",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Tipo de Infracción",
+    "debe_decir": "No pago del capital minimo al",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No pago del capital minimo al",
+    "debe_decir": "momento de la constitución de la Sociedad.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P29"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "momento de la constitución de la Sociedad.",
+    "debe_decir": "No tener el capital invertido en la obra o en instrumentos con liquidez suficiente.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P30"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No tener el capital invertido en la obra o en instrumentos con liquidez suficiente.",
+    "debe_decir": "Atraso en la entrega de información requerida por el Inspector Fiscal. Entregar la información requerida con errores atribuibles a negligencia de la Sociedad Concesionaria.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P31"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Atraso en la entrega de información requerida por el Inspector Fiscal. Entregar la información requerida con errores atribuibles a negligencia de la Sociedad Concesionaria.",
+    "debe_decir": "Entregar la información requerida con datos O antecedentes",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P32"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Entregar la información requerida con datos O antecedentes",
+    "debe_decir": "maliciosamente falsos.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P33"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "maliciosamente falsos.",
+    "debe_decir": "Incumplimiento de la obligación de entregar información al Inspector Fiscal después de transcurridos 5 días desde que haya sido requerida.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P34"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Incumplimiento de la obligación de entregar información al Inspector Fiscal después de transcurridos 5 días desde que haya sido requerida.",
+    "debe_decir": "No permitir u obstaculizar el libre acceso del Inspector Fiscal a la información.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P35"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No permitir u obstaculizar el libre acceso del Inspector Fiscal a la información.",
+    "debe_decir": "No renovar o restituir las boletas de garantía en los plazos indicados.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P36"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No renovar o restituir las boletas de garantía en los plazos indicados.",
+    "debe_decir": "Atraso en la entrega del documento que contiene las aclaraciones solicitadas por el Inspector Fiscal.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P37"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Atraso en la entrega del documento que contiene las aclaraciones solicitadas por el Inspector Fiscal.",
+    "debe_decir": "Criterio de Aplicación",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P38"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Criterio de Aplicación",
+    "debe_decir": "Cada día",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P39"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada día",
+    "debe_decir": "Cada día",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P40"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada día",
+    "debe_decir": "Por semana",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P41"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Por semana",
+    "debe_decir": "Cada vez",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P42"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada vez",
+    "debe_decir": "Cada vez",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P43"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada vez",
+    "debe_decir": "Cada día",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P44"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada día",
+    "debe_decir": "Cada vez",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P45"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Cada vez",
+    "debe_decir": "1.10,10,2",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P45"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1.10,10,2",
+    "debe_decir": "No prestación de servicios |Cada día",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P45"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "No prestación de servicios |Cada día",
+    "debe_decir": "complementarios propuestos por el licitante o grupo licitante y aprobados por la Comisión de Evaluación de la Oferta Técnica, en las condiciones establecidas en su Oferta.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P45"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "complementarios propuestos por el licitante o grupo licitante y aprobados por la Comisión de Evaluación de la Oferta Técnica, en las condiciones establecidas en su Oferta.",
+    "debe_decir": "Debe decir:",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P45"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Debe decir:",
+    "debe_decir": "1.10,10.2",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P45"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1.10,10.2",
+    "debe_decir": "No prestación de los servicios complementarios ofrecidos por el Concesionario, en las condiciones convenidas con el MOP, Cada día",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

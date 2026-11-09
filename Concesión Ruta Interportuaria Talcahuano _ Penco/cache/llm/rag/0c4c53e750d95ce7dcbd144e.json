@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 03:20",
+ "respuesta": {
+  "respuesta": "La multa es de 180 UTM por cada día de atraso en el plazo máximo, más las prórrogas autorizadas, para la Puesta en Servicio Provisoria de la totalidad de las obras [2].",
+  "fuentes": [
+   2
+  ]
+ }
+}

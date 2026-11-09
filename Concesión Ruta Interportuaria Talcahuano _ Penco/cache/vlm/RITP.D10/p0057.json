@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 57,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 171,
+ "segundos": 12.0,
+ "fecha": "2026-10-27 19:09",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 89,
+  "conf_media": 0.623,
+  "frac_baja": 0.427,
+  "frac_rara": 0.021,
+  "tinta": 0.0399
+ },
+ "n_palabras_vlm": 94,
+ "frac_rara_vlm": 0.028,
+ "similitud": 0.379,
+ "truncado": false,
+ "texto_ocr": "x\n\nMINISTERIO DE OBRAS PUBUCAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\n= == > 2 DISTA T\n| [arosacion concesionamia | Provecro | APROBACION DEL PROYECTO/M.0.P._ [Provecio\ni SOCIEDAD CONCESIONARIA A s= | YT 7] RUTA INTERPORTUARIA TALCAHUANO -— PENCO\n|AVTORSTAINTERPORTUARA SA ES POR ISLA ROCUANT\n\na CONEXION ALESSANDRI\n\na o E\nERA DEE\nSUEUBNEMMIC- HR PRE\n\nA Ze\nPRONTA MI PLANO DE TERRENOS NECESARÍS. |\n\n> br\nPARA EL EMPALME DEL E\nCOMUNA:\n\nRAMAL ALESSANDRI\nTHNO. — PENCO | ESCALA 1: 500\n\nCONCESIONES O —",
+ "texto_vlm": "MINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nSOCIEDAD CONCESIONARIA\nAUTOPISTA INTERPORTUARIA S.A.\n\nAPROBACION CONCESIONARIA\nPROYECTO:\nREVISÓ:\nAPROBÓ:\n\nPROYECTO\nAPROBACION DEL PROYECTO M.O.P.\n\nPROYECTO\nRUTA INTERPORTUARIA TALCAHUANO - PENCO\nPOR ISLA ROCUANT\nCONEXION ALESSANDRI\n\nREGION:\nVIII\nPROVINCIA:\nCONCEPCION\nCOMUNA:\nTHNO. - PENCO\nESCALA 1 : 500\n\nOBJETO\nPLANO DE TERRENOS NECESARIOS\nPARA EL EMPALME DEL\nRAMAL ALESSANDRI\n\nPLANO\n1\nNº 1\nDE 1\n\nDEPTO. DE\nCONCESIONES\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nDEPTO. DE CONCESIONES\n[ilegible] VARGAS\nIngeniero Civil U. de Chile\n[ilegible] FISCAL\n\nOS\nTEMPOS"
+}

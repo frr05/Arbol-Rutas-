@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 62,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 57,
+ "segundos": 7.4,
+ "fecha": "2026-10-27 19:11",
+ "motivos": "conf_media,palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 41,
+  "conf_media": 0.39,
+  "frac_baja": 0.878,
+  "frac_rara": 0.0,
+  "tinta": 0.372
+ },
+ "n_palabras_vlm": 37,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.079,
+ "truncado": false,
+ "texto_ocr": "e\n\nEl\n\n2\nE\n\npa ra\nparra!\n\no\na\n\nPuente Las\nBallenas\n\njac\nEE]\n\nNN\nom\nL-\ndb\nA]\nO\no\nq El\na\n\na a | LE\ngara ANA\n\nE\nE\n\nEa\na\npal\nñ\npS\n\nja\n\n”,\n\nTEE\n\nE",
+ "texto_vlm": "Plaza de Peaje\nPenco\nComuna de Penco\nEnlace Rocuant\nPuente Las\nBailenas\nPlaza de Peaje\nTalcahuano\nComuna de Talcahuano\nPuente Canal\nEl Morro\nPlaza de Peaje\nAlessandri\nAeropuerto Cartel Sur\nComuna de Concepción\nPlaza de Peaje\nPenco"
+}

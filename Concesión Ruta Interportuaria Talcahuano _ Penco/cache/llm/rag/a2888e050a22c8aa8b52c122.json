@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:18",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato se publicó en 2023, mediante Decreto Supremo N°136 del 25 de julio de 2023 [11].",
+  "fuentes": [
+   11
+  ]
+ }
+}

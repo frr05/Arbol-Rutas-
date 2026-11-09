@@ -1,0 +1,90 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:30",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "3.3",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1101,
+     1103
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1104,
+     1109
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.4"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1110,
+     1122
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.5"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1123,
+     1137
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.6"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1151,
+     1159
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.8"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1159,
+     1162
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "3.9"
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

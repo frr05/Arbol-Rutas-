@@ -1,0 +1,16 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:36",
+ "respuesta": {
+  "respuesta": "Según la ficha de actos, se publicaron un total de 14 actos en la concesión Camino de la Madera [2]. De estos, los que corresponden a decretos o resoluciones modificatorias del contrato son: el Decreto Supremo N° 892 (que modificó el régimen jurídico) [3], el Decreto Supremo N° 1.901 (que modificó el régimen jurídico nuevamente) [3], el Convenio Complementario N° 1 aprobado por Decreto Supremo N° 1.065 [5], y las Resoluciones DGOP (Exentas) N° 4333, N° 5066 y N° 2633, que establecieron tarifas máximas sin reajuste, siendo estas últimas sancionadas por Decretos Supremos (N° 155 y N° 215) aunque devueltos por la Contraloría [4] [9]. La ficha de actos clasifica específicamente como 'Resolucion' tres actos: Resolucion N°2633, Resolucion N°4333 y Resolucion N°5066 [2]. Además, se menciona la aprobación del Convenio Complementario N°1 mediante Decreto Supremo [7]. Por lo tanto, hay múltiples actos modificatorios. Si nos referimos estrictamente a las 'Resoluciones' listadas en la categoría de 'Resolucion' en la ficha, son 3 [2]. Si incluimos los Decretos Supremos que aprueban convenios complementarios o modifican el régimen, son más. La pregunta pide cuántos se publicaron. La ficha indica 14 actos en total [2]. Los actos que modifican el contrato incluyen: D.S. 892, D.S. 1901, C.C. 1 (aprobado por D.S. 1065), Res. 4333, Res. 5066, Res. 2633, y los D.S. 155 y 215 (aunque devueltos, se mencionan como parte del proceso de modificación tarifaria/compensatoria). Sin embargo, la ficha de actos cuenta explícitamente 3 Resoluciones [2]. El D.S. 892 y 1901 son modificaciones de régimen legal/jurídico [3]. El C.C. 1 es una modificación contractual aprobada por D.S. 1065 [5]. Las Resoluciones 4333, 5066 y 2633 son fijaciones de tarifas no reajustadas [5] [9]. En conjunto, son varios. Pero si contamos los actos clasificados como 'Resolucion' en la ficha, son 3 [2]. Si contamos los Decretos Supremos que tienen contenido modificatorio directo sobre el contrato o su régimen, tenemos al menos el 892, 1901, 1065, 155, 215. La respuesta más precisa basada en la clasificación de la ficha es que hay 3 resoluciones específicas listadas como tal, pero el número total de actos modificatorios es mayor. No obstante, la pregunta es general. La ficha dice 14 actos en total [2]. Entre ellos, los que modifican el contrato son los convenios complementarios y las resoluciones/descretos que alteran términos. Se pueden identificar al menos 5 actos principales de modificación: D.S. 892, D.S. 1901, C.C. 1 (D.S. 1065), Res. 4333, Res. 5066, Res. 2633. Y los D.S. 155 y 215 intentaron sancionar/modificar. La ficha lista 3 Resoluciones [2].",
+  "fuentes": [
+   2,
+   3,
+   4,
+   5,
+   7,
+   9
+  ]
+ }
+}

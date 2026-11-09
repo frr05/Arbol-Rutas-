@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:25",
+ "respuesta": {
+  "respuesta": "La tarifa máxima base para vehículos livianos (Tipo 2, Autos y Camionetas) se fija en dos modalidades según el sistema de cobro: para el sistema de cobro por Uso Efectivo, la tarifa máxima es de $50 pesos (al 31/12/2000) por kilómetro en periodo punta y $35 pesos por kilómetro fuera de punta [3]. Para el sistema de cobro por Derecho de Paso o accesos específicos, se fija una tarifa máxima única de $300 pesos (al 31/12/2000) reajustable [2].",
+  "fuentes": [
+   2,
+   3
+  ]
+ }
+}

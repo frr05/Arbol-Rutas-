@@ -1,0 +1,69 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 213,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-11-05 00:48",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "ITEM",
+    "DESCRIPCION",
+    "UNIDAD",
+    "PRECIO UNITARIO (UF)"
+   ],
+   "filas": [
+    [
+     "907-1",
+     "Sellado de juntas y grietas",
+     "Km",
+     "100,22"
+    ],
+    [
+     "908-1",
+     "Rehabilitación y reinstalación de defensas camineras simples",
+     "Nº",
+     "0,60"
+    ],
+    [
+     "909-1",
+     "Rehabilitación y reinstalación de señalización vertical lateral",
+     "Nº",
+     "2,24"
+    ],
+    [
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Hidrosiembra y Protección de Taludes",
+     "m2",
+     "0,05"
+    ],
+    [
+     "",
+     "Pantallas Acústicas (h = 1,5 m)",
+     "ml",
+     "2,17"
+    ],
+    [
+     "",
+     "Barreras Acústicas (h = 3 m)",
+     "ml",
+     "3,60"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

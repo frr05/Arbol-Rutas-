@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:12",
+ "respuesta": {
+  "respuesta": "Las tarifas se reajustan semestralmente utilizando el Índice de Precios al Consumidor (IPC). El reajuste se aplica a partir de las 00:00 horas del 1 de enero de cada año y considera la variación del IPC entre el 31 de marzo de 1993 y el 30 de noviembre del año anterior (t-1) para el reajuste de enero, y entre el 31 de marzo de 1993 y el 31 de mayo del año en curso (t) para el reajuste de julio [4][5]. Además, se aplica un sistema de fraccionamiento que ajusta las tarifas a múltiplos de 50 pesos [1][4].",
+  "fuentes": [
+   1,
+   4,
+   5
+  ]
+ }
+}

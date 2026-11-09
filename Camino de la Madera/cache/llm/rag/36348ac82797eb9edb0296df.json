@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:23",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre las ofertas específicas presentadas por los licitantes, ni el valor del factor de licitación o puntaje/nota técnica obtenida por ninguna oferta en particular. Solo describen los criterios y fórmulas de evaluación [1][2][3].",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

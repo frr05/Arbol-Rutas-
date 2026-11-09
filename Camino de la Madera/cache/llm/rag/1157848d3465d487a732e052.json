@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:21",
+ "respuesta": {
+  "respuesta": "La última modificación del contrato se publicó en 2012 mediante el Convenio de Extinción N°342 [4][11].",
+  "fuentes": [
+   4,
+   11
+  ]
+ }
+}

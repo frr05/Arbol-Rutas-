@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:23",
+ "respuesta": {
+  "respuesta": "La Dirección General de Obras Públicas (DGOP) es el servicio del Ministerio de Obras Públicas que fiscaliza el contrato de concesión [7].",
+  "fuentes": [
+   7
+  ]
+ }
+}

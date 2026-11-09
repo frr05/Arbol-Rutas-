@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 02:00",
+ "respuesta": {
+  "respuesta": "La concesión abarca las comunas de Penco y Talcahuano [1][2][3].",
+  "fuentes": [
+   1,
+   2,
+   3
+  ]
+ }
+}

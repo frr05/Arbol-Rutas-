@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-03 21:24",
+ "respuesta": {
+  "respuesta": "Los fragmentos no contienen información sobre el Índice de Servicio Prestado (ISP) ni sus tramos. Solo se mencionan indicadores como el IRI (Índice de Regularidad Internacional) con umbral máximo de 4 m/km según las Bases de Licitación [3], modificado a 3,5 m/km en el Convenio Complementario N°1 [1], pero no se hace referencia al ISP.",
+  "fuentes": [
+   1,
+   3
+  ]
+ }
+}

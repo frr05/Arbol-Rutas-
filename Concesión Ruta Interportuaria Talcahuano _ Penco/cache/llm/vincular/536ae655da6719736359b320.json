@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:09",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0059]",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0060]",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0061]",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "[RITP.D10.F0062]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0063]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0064]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0065]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0066]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0067]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0068]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0071]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0072]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0073]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D10.F0074]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D06.F0001]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0005]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0006]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0007]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D06.F0008]",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "[RITP.D09.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D09.F0004]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D07.F0001]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D07.F0004]",
+    "destino": "BL:1.10.3"
+   },
+   {
+    "fragmento": "[RITP.D07.F0005]",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "[RITP.D07.F0006]",
+    "destino": "BL:1.10.3"
+   }
+  ]
+ }
+}

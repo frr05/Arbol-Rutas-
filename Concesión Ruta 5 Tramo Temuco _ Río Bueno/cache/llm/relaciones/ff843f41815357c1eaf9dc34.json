@@ -1,0 +1,42 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-27 12:26",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.10",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "artículo 35 del DFL MOP N*164 de 1991, Ley de Concesiones -cuyo texto, refundido con sus modificaciones, está contenido en el DS MOP N*900 de 1996-",
+    "debe_decir": "articulo 36 del DS N*900 de 1996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP N*164 de 1991",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.114,32",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "las diferencias de cada uno de ellos se resolverán por la Comisión Conciliadora en base a dos peritajes. uno contratado por el MOP y otro por la Sociedad Concesionaria, del cual se elegirá uno",
+    "debe_decir": "las diferencias de cada una de ellas se resolverán por la comisión conciliadora en base a dos peritajes, uno contratado por el MOP y otro por la Sociedad Concesionaria, pudiendo la comisión ordenar un tercer peritaje para los mismos efectos u establecer otro procedimiento en el mismo sentido",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.4.3.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "En el caso que no exista acuerdo la Comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u Otro de los peritajes realizados, no pudiendo adoptar valores intermedios",
+    "debe_decir": "En el caso que no exista acuerdo la comisión Conciliadora elegirá, para cada uno de los valores o parámetros en discusión, uno de los propuestos por uno u otro de lós peritajes realizados, lo que se entiende sin perjuicio de su facultad de exigir otro peritaje O establecer el procedimiento que mejor le parezca para la determinación de tales valores",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

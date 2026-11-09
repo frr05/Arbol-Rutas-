@@ -1,0 +1,43 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-11-05 01:04",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.13.2",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     388,
+     407
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.13.2.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Al menos doce (12) meses antes de la extinción de la concesión por cumplimiento de plazo, calculado por el Inspector Fiscal,",
+    "debe_decir": "Al menos doce (12) meses antes del plazo estimado de la extinción de la concesión, calculado por el Inspector Fiscal,",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.13.3",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "n) Incumplimiento de la Sociedad Concesionaria de la obligación de enterar el capital inicial de la misma, en el plazo indicado en el artículo 1.7,3 de las presentes Bases.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

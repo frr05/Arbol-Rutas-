@@ -1,0 +1,10 @@
+{
+ "tarea": "agente",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-04 02:36",
+ "respuesta": {
+  "falta": "",
+  "accion": "responder",
+  "argumento": "Sí, el contrato regula la explotación por niveles de servicio. Se mide principalmente mediante el Índice de Rugosidad Superficial (IRI), con un máximo de 3,5 m/km para pavimento asfáltico. La fórmula de cálculo del IRI se obtiene mediante mediciones continuas utilizando equipos como el Mays Meter o Perfilómetro Óptico, conforme a la metodología de la Dirección de Vialidad del MOP y el Instructivo de Inspección Visual de Caminos Pavimentados."
+ }
+}

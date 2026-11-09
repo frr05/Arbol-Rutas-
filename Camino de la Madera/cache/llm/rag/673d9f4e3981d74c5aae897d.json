@@ -1,0 +1,12 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 05:26",
+ "respuesta": {
+  "respuesta": "La concesión se ubica en la VIII Región, específicamente a través de las provincias de Bío-Bío y Concepción [1] [2].",
+  "fuentes": [
+   1,
+   2
+  ]
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:29",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.15 — 1.15 FÓRMULA DE AJUSTE TARIFARIO",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P3",
+     "P4",
+     "P5"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "donde, P, es la Tarifa Base reajustada para el año t de Explotación Concesión en pesos ($). IPC, es la variación del Índice Precios al Consumidor entre el 1% de Enero del año 1995 y el 31 de Diciembre del año anterior al comienzo de la Explotación de la Concesión, en fracción, publicado por el Instituto Nacional de Estadísticas (INE). IPC. para valores de t mayores que 1, es la variación del Índice Precios al Consumidor entre el 1? de Enero y el 31 de Diciembre del año t-1 de Explotación de la Concesión, en fracción, publicado por el Instituto Nacional de Estadísticas (INE). En el caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace.",
+    "debe_decir": "Es la variación del Índice de Precios al Consumidor entre el 01 de diciembre del año 1994 y el 30 de Noviembre del año t-1, que se determina como el cuociente Dicho índice es publicado por el Instituto Nacional de Estadísticas (INE). En el caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.15 — 1.15 FÓRMULA DE AJUSTE TARIFARIO",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     1315,
+     1317
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.17.2 — 1.17.2 DERECHOS Y DEBERES DE LA SOCIEDAD CONCESIONARIA",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "Las estructuras tarifarias normales y especiales deberán ser de conocimiento público y serán informadas por la Sociedad Concesionaria al menos con 30 días de anticipación a su aplicación al Ministerio de Obras Públicas y con 15 días de anticipación a los usuarios en forma destacada, a través de medios de prensa escritos y letreros en los lugares y por los plazos aprobados por el Inspector Fiscal.",
+    "debe_decir": "Las estructuras tarifarias normales y especiales deberán ser de conocimiento público y serán informadas por la Sociedad Concesionaria al menos con 20 días de anticipación a su aplicación al Ministerio de Obras Públicas y con 15 días de anticipación a los usuarios en forma destacada, a través de medios de prensa escritos y letreros en los lugares y por los plazos aprobados por el Inspector Fiscal.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.4.2 — 1.11,4,2 Nuevas Inversiones Exigidas por el Estado.",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     1322,
+     1328
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.11.7 — 1.11.7 PROCEDIMIENTO PARA LA REALIZACIÓN DE PAGOS POR EL MOP Y LA SOCIEDAD CONCESIONARIA",
+    "operacion": "aclara",
+    "parrafos": [],
+    "texto_nuevo": [
+     1329,
+     1331
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1332,
+     1366
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1369,
+     1374
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.10"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1375,
+     1377
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.10.1"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1378,
+     1380
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.10.2"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1381,
+     1387
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.10.3"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1388,
+     1390
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.10.4"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1391,
+     1396
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "5.10.5"
+   }
+  ]
+ }
+}

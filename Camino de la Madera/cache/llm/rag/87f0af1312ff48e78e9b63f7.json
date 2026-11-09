@@ -1,0 +1,13 @@
+{
+ "tarea": "rag",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 14:14",
+ "respuesta": {
+  "respuesta": "La Sociedad Concesionaria debe contratar seguros de responsabilidad civil por daños a terceros y de catástrofe [3]. Estos seguros deben mantenerse vigentes hasta el término de la vigencia del contrato o hasta 5 días hábiles siguientes a la publicación en el Diario Oficial del Decreto Supremo que apruebe el Convenio de Extinción, lo que ocurriere último [2]. Además, es responsabilidad de la Sociedad Concesionaria garantizar que estos seguros estén vigentes respecto de todas las nuevas inversiones tratadas en el convenio complementario, con las mismas exigencias establecidas en las Bases de Licitación para el resto de las obras del contrato [6].",
+  "fuentes": [
+   2,
+   3,
+   6
+  ]
+ }
+}

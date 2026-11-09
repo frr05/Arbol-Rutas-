@@ -1,0 +1,13 @@
+{
+ "documento": "TERB.D26",
+ "archivo": "5_otros_documentos/Reglamento-de-Servicio-TERB.pdf",
+ "sha256": "2fd9552ee8d438978ebe51f97740abf328b3ea4e65e603447ed89a236d22ac40",
+ "paginas": 163,
+ "motor": "tesseract",
+ "idioma": "spa",
+ "psm": 3,
+ "dpi": 300,
+ "version_tesseract": "5.3.4",
+ "version_codigo": 1,
+ "fecha": "2026-10-26 23:11"
+}

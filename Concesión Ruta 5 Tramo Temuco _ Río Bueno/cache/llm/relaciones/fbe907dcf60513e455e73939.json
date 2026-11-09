@@ -1,0 +1,175 @@
+{
+ "tarea": "relaciones",
+ "modelo": "google/gemini-2.5-flash",
+ "fecha": "2026-10-27 12:31",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.1 — 2.1 INTRODUCCIÓN",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P18"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "el valor para",
+    "debe_decir": "",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "2.1 — 2.1 INTRODUCCIÓN",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P19"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "total y definitivo de la construcción de las obras indicadas en el Anexo N* 1 Ítem 3 se contabilizará de acuerdo al procedimiento descrito en el numeral 3.2 del presente convenio. A fin de evitar que el costo total de las nuevas inversiones y demás gastos asociados sea superior al Valor Máximo Total establecido en el numeral 2.1 de la presente cláusula, el MOP definió y priorizó el uso de los recursos para respetar dicho Valor Máximo Total de inversión, garantizando la ejecución de todas las inversiones y gastos detallados en el Anexo N* 1 en sus Ítem 0, 1 y 2 y condicionando las inversiones del Anexo N* 1, Ítem 3 a la existencia de un saldo suficiente en el presupuesto del Valor Máximo Total para su ejecución. El procedimiento a seguir se muestra en el Ítem 4 del Anexo N* 1 y considera que al valor resultante de la licitación respectiva como costo de construcción, se le sumarán los costos de conservación, mantención, operación y explotación de cada una de las obras, de forma tal que sólo se puedan ejecutar aquéllas que cuenten con todos sus costos financiados. 2.10 2.11 El procedimiento de priorización de las inversiones definirá el conjunto de obras adicionales susceptibles de ejecutar. Por lo tanto, la Sociedad Concesionaria no estará obligada a ejecutar obras sin financiamiento. En el caso que quedaren obras sin ejecutar por haberse alcanzado el Valor Máximo Total antes señalado, no corresponderá compensación o indemnización alguna a la Sociedad Concesionaria ni al MOP, r…",
+    "debe_decir": "El valor total y definitivo de la construcción de las obras indicadas en el Anexo N° 1 Ítem 3 se contabilizará de acuerdo al procedimiento descrito en el numeral 3.2 del presente convenio. A fin de evitar que el costo total de las nuevas inversiones y demás gastos asociados sea superior al Valor Máximo Total establecido en el numeral 2.1 de la presente cláusula, el MOP definió y priorizó el uso de los recursos para respetar dicho Valor Máximo Total de inversión, garantizando la ejecución de todas las inversiones y gastos detallados en el Anexo N° 1 en sus Ítem 0, 1 y 2 y condicionando las inversiones del Anexo N° 1, Ítem 3 a la existencia de un saldo suficiente en el presupuesto del Valor Máximo Total para su ejecución. El procedimiento a seguir se muestra en el Ítem 4 del Anexo N° 1 y considera que al valor resultante de la licitación respectiva como costo de construcción, se le sumarán los costos de conservación, mantención, operación y explotación de cada una de las obras, de forma tal que sólo se puedan ejecutar aquéllas que cuenten con todos sus costos financiados. El procedimiento de priorización de las inversiones definirá el conjunto de obras adicionales susceptibles de ejecutar. Por lo tanto, la Sociedad Concesionaria no estará obligada a ejecutar obras sin financiamiento. En el caso que quedaren obras sin ejecutar por haberse alcanzado el Valor Máximo Total antes señalado, no corresponderá compensación o indemnización alguna a la Sociedad Concesionaria ni al MOP.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3567,
+     3570
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.10"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3571,
+     3574
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.11"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3575,
+     3578
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.12"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3579,
+     3583
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.13"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3584,
+     3602
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.14"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3603,
+     3607
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.15"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3608,
+     3612
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.16"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3613,
+     3618
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.17"
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3619,
+     3629
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.18"
+   },
+   {
+    "articulo": "3.1 — 3.1 FACTORES DE LICITACIÓN",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3630,
+     3642
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.2 — 3.2 OFERTA ECONÓMICA DEL LICITANTE",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3643,
+     3652
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.3 — 3.3 EVALUACIÓN DE LAS OFERTAS ECONÓMICAS",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     3575,
+     3578
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

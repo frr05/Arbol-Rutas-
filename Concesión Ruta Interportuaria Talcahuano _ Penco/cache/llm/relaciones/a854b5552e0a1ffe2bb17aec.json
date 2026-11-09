@@ -1,0 +1,21 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-27 19:51",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.10.10.2 — 1.10,10.2 Servicios Complementarios Propuestos por el Licitante o Grupo Licitante",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1406,
+     1469
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

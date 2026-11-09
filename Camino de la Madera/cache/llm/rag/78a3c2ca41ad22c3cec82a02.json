@@ -1,0 +1,11 @@
+{
+ "tarea": "rag",
+ "modelo": "deepseek/deepseek-chat-v3.1",
+ "fecha": "2026-10-29 12:03",
+ "respuesta": {
+  "respuesta": "Las Bases de Licitación fueron aprobadas por Resolución MOP N°2394 de fecha 8 de junio de 1993 [5].",
+  "fuentes": [
+   5
+  ]
+ }
+}

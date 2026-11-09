@@ -1,0 +1,245 @@
+{
+ "documento": "CM.D01",
+ "pagina": 128,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-10-29 04:44",
+ "tablas": [
+  {
+   "titulo": "PRECIOS UNITARIOS OFICIALES (Pesos, 31 de Agosto de 1992)",
+   "encabezados": [
+    "DESIGNACION",
+    "UNIDAD",
+    "PRECIO UNITARIO ($)"
+   ],
+   "filas": [
+    [
+     "Preparacion de la Faja",
+     "",
+     ""
+    ],
+    [
+     "a. Expropiaciones",
+     "m²",
+     "200"
+    ],
+    [
+     "b. Remocion de ductos de obras de arte",
+     "ML",
+     "2.500"
+    ],
+    [
+     "c. Demolicion de Estructuras",
+     "M3",
+     "8.300"
+    ],
+    [
+     "d. Roce, Despeje y Limpieza de la faja",
+     "KM",
+     "141.100"
+    ],
+    [
+     "Movimiento de Tierras",
+     "",
+     ""
+    ],
+    [
+     "a. Escarpe",
+     "M3",
+     "1.100"
+    ],
+    [
+     "b. Excavacion en terreno de cualquier naturaleza",
+     "M3",
+     "800"
+    ],
+    [
+     "c. Excavacion Especial",
+     "M3",
+     "1.600"
+    ],
+    [
+     "d. Terraplenes",
+     "M3",
+     "2.100"
+    ],
+    [
+     "e. Relleno Estructural",
+     "M3",
+     "2.900"
+    ],
+    [
+     "f. Preparación de la Sub-Rasante",
+     "M2",
+     "130"
+    ],
+    [
+     "Bases y Sub-bases",
+     "",
+     ""
+    ],
+    [
+     "a. Sub-base Granular",
+     "M3",
+     "2.500"
+    ],
+    [
+     "b. Base y Berma Granular Chancada",
+     "M3",
+     "3.100"
+    ],
+    [
+     "Revestimientos y Pavimentos",
+     "",
+     ""
+    ],
+    [
+     "a. Imprimación Bituminosa",
+     "M2",
+     "220"
+    ],
+    [
+     "b. Riego de Liga",
+     "M2",
+     "130"
+    ],
+    [
+     "c. Tratamiento Superficial Simple",
+     "M2",
+     "300"
+    ],
+    [
+     "d. Concreto Asfaltico",
+     "M3",
+     "31.000"
+    ],
+    [
+     "e. Binder",
+     "M3",
+     "28.000"
+    ],
+    [
+     "f. Pavimento de Hormigón",
+     "M3",
+     "37.000"
+    ],
+    [
+     "Estructuras y Obras Conexas",
+     "",
+     ""
+    ],
+    [
+     "a. Hormigon Estructural H-30",
+     "M3",
+     "34.000"
+    ],
+    [
+     "b. Hormigon Estructural H-20",
+     "M3",
+     "31.500"
+    ],
+    [
+     "c. Acero para Armaduras A44-28H",
+     "KG",
+     "500"
+    ],
+    [
+     "d. Mamposteria de Piedra",
+     "M2",
+     "4.600"
+    ],
+    [
+     "Drenaje y Protección de la Plataforma",
+     "",
+     ""
+    ],
+    [
+     "a. Tubo D=1.0 m",
+     "ML",
+     "68.500"
+    ],
+    [
+     "b. Limpieza Alcantarillas y Cauces",
+     "ML",
+     "850"
+    ],
+    [
+     "c. Fosos y Contrafosos",
+     "ML",
+     "1.200"
+    ],
+    [
+     "d. Suministro y Colocación de Soleras",
+     "ML",
+     "2.600"
+    ],
+    [
+     "e. Solera Zarpa",
+     "ML",
+     "5.100"
+    ],
+    [
+     "f. Subdren",
+     "ML",
+     "8.100"
+    ],
+    [
+     "g. Gaviones",
+     "M3",
+     "10.100"
+    ],
+    [
+     "Elementos de Control y Seguridad",
+     "",
+     ""
+    ],
+    [
+     "a. Remocion de Cercos",
+     "ML",
+     "250"
+    ],
+    [
+     "b. Recolocación de Cercos",
+     "ML",
+     "500"
+    ],
+    [
+     "c. Cercos Nuevos",
+     "UND",
+     "1.400"
+    ],
+    [
+     "d. Portones",
+     "ML",
+     "71.000"
+    ],
+    [
+     "e. Defensas Camineras",
+     "ML",
+     "13.100"
+    ],
+    [
+     "f. Señales Camineras Nuevas",
+     "UND",
+     "30.500"
+    ],
+    [
+     "g. Demarcación Linea Continua",
+     "M",
+     "140"
+    ],
+    [
+     "h. Demarcación Linea Sefmentada",
+     "M",
+     "100"
+    ],
+    [
+     "i. Demarcación con Linea Lateral Continua.",
+     "M",
+     "140"
+    ]
+   ],
+   "notas": "Nota: Los precios incluyen gastos generales y utilidades de la empresa contratista, no incluyen IVA."
+  }
+ ]
+}

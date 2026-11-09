@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D10",
+ "pagina": 25,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_4938-2000-y-Convenio-Complementari.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 86,
+ "segundos": 8.5,
+ "fecha": "2026-10-27 12:18",
+ "motivos": "palabras_baja_conf",
+ "calidad_ocr": {
+  "n_palabras": 32,
+  "conf_media": 0.729,
+  "frac_baja": 0.344,
+  "frac_rara": 0.0,
+  "tinta": 0.0117
+ },
+ "n_palabras_vlm": 69,
+ "frac_rara_vlm": 0.038,
+ "similitud": 0.553,
+ "truncado": false,
+ "texto_ocr": "ANEXO 1\nITEM 3\n\nCONSERVACION Y MANTENCION\n\nCosto de\n\nMantenimiento\nBy - Pass Lanco\n\nPuente Curaco 840,500\n_Señalización Vertical\n\nÑ 1 /\ny dl\nCARLOS DIAZ > VÁRGAS .\nINSRECFOR FISCAL 6%",
+ "texto_vlm": "ANEXO 1\nITEM 3\nCONSERVACION Y MANTENCION\n\n| N° | Obra | Km. | Costo de Mantenimiento |\n|---|---|---|---|\n| 1 | By - Pass Lanco | 18.364 |  |\n| 2 | Puente Curaco | 840,500 | 1.473 |\n| 3 | Señalización Vertical |  | 2.650 |\n| | | Total | 22.487 |\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nDIRECCION GENERAL DE OBRAS PUBLICAS\nDepartamento de Concesiones"
+}

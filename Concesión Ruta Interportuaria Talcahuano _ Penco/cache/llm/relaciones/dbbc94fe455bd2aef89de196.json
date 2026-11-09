@@ -1,0 +1,33 @@
+{
+ "tarea": "relaciones",
+ "modelo": "dots-studio/dots-3-note-preview:free",
+ "fecha": "2026-11-05 01:24",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "3.3.1",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     641,
+     649
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "anexo",
+    "parrafos": [],
+    "texto_nuevo": [
+     659,
+     682
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

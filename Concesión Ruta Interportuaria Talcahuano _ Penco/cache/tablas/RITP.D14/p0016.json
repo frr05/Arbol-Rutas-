@@ -1,0 +1,57 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 16,
+ "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 2,
+ "fecha": "2026-11-05 00:52",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 3: Contactos de emergencia",
+   "encabezados": [
+    "",
+    "NOMBRE CONTACTO",
+    "DIRECCIÓN",
+    "TELÉFONO"
+   ],
+   "filas": [
+    [
+     "AMBULANCIA (Coordinación directa con Bomberos)",
+     "(Coordinación con Bomberos)",
+     "(Coordinación con Bomberos)",
+     "131"
+    ],
+    [
+     "ASOCIACIÓN CHILENA DE SEGURIDAD",
+     "Mesa Central",
+     "Cardenio Avelló Nro. 36",
+     "(41)- 402222"
+    ],
+    [
+     "BOMBEROS",
+     "",
+     "Orompello Nro. 136",
+     "132"
+    ],
+    [
+     "CARABINEROS (COMISARIA)",
+     "Prefectura Lomas Verdes",
+     "Avda. Alessandri s/n",
+     "(41)- 481799 ó 133"
+    ],
+    [
+     "JEFE DE PLAZA",
+     "Nelson Duffau",
+     "Oficina Concesionaria",
+     "(41)- 466996"
+    ],
+    [
+     "JEFE DE MANTENCIÓN",
+     "(Por Contratar)",
+     "Oficina Concesionaria",
+     "(41)- 466996"
+    ]
+   ],
+   "notas": "El primer paso en la elaboración de un plan de prevención de riesgos y accidentes es identificar el tipo de emergencia al que se está expuesto."
+  }
+ ]
+}

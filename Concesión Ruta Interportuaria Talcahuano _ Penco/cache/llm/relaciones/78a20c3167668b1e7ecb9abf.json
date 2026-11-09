@@ -1,0 +1,21 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-05 00:57",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.13.1 — 1.13,1 Causas de Extinción de la Concesión",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     375,
+     385
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

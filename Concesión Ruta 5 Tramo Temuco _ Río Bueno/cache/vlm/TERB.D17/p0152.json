@@ -1,0 +1,27 @@
+{
+ "documento": "TERB.D17",
+ "pagina": 152,
+ "archivo": "4_modificacion_obras_convenios/TERB-Decreto-Supremo-N_20-2018.pdf",
+ "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 301,
+ "segundos": 19.2,
+ "fecha": "2026-10-28 02:55",
+ "motivos": "titulo_tabla",
+ "calidad_ocr": {
+  "n_palabras": 211,
+  "conf_media": 0.89,
+  "frac_baja": 0.128,
+  "frac_rara": 0.019,
+  "tinta": 0.0164
+ },
+ "n_palabras_vlm": 182,
+ "frac_rara_vlm": 0.01,
+ "similitud": 0.697,
+ "truncado": false,
+ "texto_ocr": "DS MOP Ubicación | Costos mensuales de\nN*336/2008 Conservación,\nOBRA Mantención, Operación\nN? NO y Explotación\nProyecto | Obra (UF)\nV\nConstrucción pasarela peatonal\n6 14 ] p P 769,600 64,55\nCollico\n| [Construcción pasarela peatonal 7\n7 15 832,850 67,33\nLos Lagos Sur, Km. 832,850\nho Pp T\nConstrucción pasarela peatonal\n8 16(* 730,580 96,20\n0) Liuco Km. 727,9\nConstrucción pasarela peatonal\n781,546 82,15\nKm. 783 aprox.\n— uN -\nConstrucción pasarela peatonal\n767,800 76,13\nKm. 767,8 aprox.\nL\nIluminación en Atraviesos y áreas Varios\n13 21 o 101,82\nde servicio sectores\ny el\nConstrucción Pistas aceleración 828,680 -\n14 22 53,47\nEnlace La Balsa 829,324\n\n(5 El Decreto Supremo MOP N*336, de 2008, señaló la ubicación de estas obras, la cual fue\najustada en el marco del desarrollo del proyecto de ingeniería, según consta Cn el Oficio Ord.\nN*275/EXPL. TCO-RB/2017, de 7 de diciembre de 2017, del Inspector Fiscal.\n\nTabla N* 4\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y\nseguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe\ndurante la etapa de explotación de “Obras Normativas”\n\nCostos mensuales de\no o, Conservación,\nN Ubicación o, ,\nOBRA Mantención, Operación\nProyecto Aprox.[km] o,\n\ny Explotación\n\n(UF)\n\nRÚÑA DE LOS RIOS me\nSOCIEDAD CONCESIONARIA S.A. / 11",
+ "texto_vlm": "DS MOP\nN°336/2008\nOBRA\nUbicación\nCostos mensuales de\nConservación,\nMantencción, Operación\ny Explotación\n(UF)\nN°\nProyecto\nN°\nObra\n[km]\n6\n14\nConstrucción pasarela peatonal\nCollico\n769,600\n64,55\n7\n15\nConstrucción pasarela peatonal\nLos Lagos Sur, Km. 832,850\n832,850\n67,33\n8\n16(*)\nConstrucción pasarela peatonal\nLiuco Km. 727,9\n730,580\n96,20\n9\n17(*)\nConstrucción pasarela peatonal\nKm. 783 aprox.\n781,546\n82,15\n10\n18\nConstrucción pasarela peatonal\nKm. 767,8 aprox.\n767,800\n76,13\n13\n21\nIluminación en Atravesos y áreas\nde servicio\nVarios\nsectores\n101,82\n14\n22\nConstrucción Pistas aceleración\nEnlace La Balsa\n828,680 -\n829,324\n53,47\n(*) El Decreto Supremo MOP N°336, de 2008, señaló la ubicación de estas obras, la cual fue\najustada en el marco del desarrollo del proyecto de ingeniería, según consta en el Oficio Ord.\nN°275/EXPL. TCO-RB/2017, de 7 de diciembre de 2017, del Inspector Fiscal.\n\nTabla N° 4\nCostos Mensuales de Conservación, Mantención, Operación y Explotación y\nseguros de Responsabilidad Civil por Daños a Terceros y de Catástrofe\ndurante la etapa de explotación de “Obras Normativas”\nN°\nProyecto\nOBRA\nUbicación\nAprox.[km]\nCostos mensuales de\nConservación,\nMantencción, Operación\ny Explotación\n(UF)"
+}

@@ -1,0 +1,79 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-03 21:24",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "La respuesta indica correctamente que no hay pago por administración y control, coincidiendo con la referencia."
+   },
+   {
+    "n": 22,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Confirma que el concesionario asume los costos y aclara que no hay monto global fijo, alineándose con la referencia."
+   },
+   {
+    "n": 23,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Indica correctamente el 80% de imputación para construcción, dato principal solicitado."
+   },
+   {
+    "n": 24,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Especifica la tasa de interés corriente para operaciones reajustables, cumpliendo con lo establecido en el Convenio Complementario N°1 mencionado en la referencia."
+   },
+   {
+    "n": 25,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Identifica correctamente el sistema manual como principal y menciona la posibilidad de pre/post pago, coherente con la referencia."
+   },
+   {
+    "n": 26,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Responde afirmativamente y detalla la diferenciación por tipo de vehículo, tal como indica la referencia."
+   },
+   {
+    "n": 27,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Indica el reajuste por IPC semestralmente, dato principal pedido. La fecha base específica (2005 vs Puesta en Servicio) es un detalle complementario que no invalida la corrección del mecanismo."
+   },
+   {
+    "n": 28,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Proporciona el monto base ($1.500) y la moneda/fecha, coincidiendo con la referencia."
+   },
+   {
+    "n": 29,
+    "falta": "",
+    "contradice": false,
+    "veredicto": "correcta",
+    "motivo": "Indica pesos chilenos y fecha base 31 de marzo de 1993, exacto a la referencia."
+   },
+   {
+    "n": 30,
+    "falta": "",
+    "contradice": true,
+    "veredicto": "incorrecta",
+    "motivo": "La referencia establece que no se puede responder porque los documentos no dan longitud total, mientras que la respuesta afirma una cifra específica (108 km)."
+   }
+  ]
+ }
+}

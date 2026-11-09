@@ -1,0 +1,6146 @@
+[
+ {
+  "id": "TABLA:CM.D01.p0043.1",
+  "titulo": null,
+  "encabezados": [
+   "Tipo de Garantía",
+   "Monto (UF)"
+  ],
+  "filas": [
+   [
+    "Boleta de Garantía Bancaria",
+    "10.000"
+   ],
+   [
+    "Boleta de Garantía Bancaria",
+    "3.000"
+   ],
+   [
+    "Boleta de Garantía Bancaria",
+    "3.000"
+   ],
+   [
+    "Boleta de Garantía Bancaria",
+    "1.000"
+   ]
+  ],
+  "notas": "Las boletas de garantía de explotación serán devueltas una vez transcurrida su vigencia y siempre que el Concesionario haya cumplido con todas las obligaciones contraídas con el MOP.",
+  "documento": "CM.D01",
+  "paginas": [
+   43
+  ],
+  "nodo": "BL:1.5.30",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo 1.5.30 [INSPECCION FISCAL DURANTE LA EXPLOTACION]"
+ },
+ {
+  "id": "TABLA:CM.D01.p0043.2",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "Monto del Subsidio",
+    "287.000 UF"
+   ],
+   [
+    "Plazo de Ejecución",
+    "12 meses"
+   ],
+   [
+    "Fecha de Inicio",
+    ""
+   ],
+   [
+    "Fecha de Término",
+    ""
+   ],
+   [
+    "Responsable",
+    "Inspector Técnico de la Explotación"
+   ],
+   [
+    "Objetivo",
+    "Verificar el cumplimiento del Contrato en todos sus aspectos"
+   ]
+  ],
+  "notas": "El Inspector Fiscal de la Explotación controlará el cumplimiento del Contrato, en todos sus aspectos, pudiendo delegar parte de sus atribuciones en el Inspector Fiscal adjunto. La DGOP podrá, a petición del Inspector Fiscal, incorporar a la I.T.E.O., en calidad de asesores del Inspector Fiscal, profesionales o especialistas, sean personas naturales o jurídicas. Entre otras actividades, le corresponderá a la I.T.E.O.: a) Administrar el contrato de Concesión por parte del MOP. b) Entregar a la DGOP los reportes que esta Dirección solicite.",
+  "documento": "CM.D01",
+  "paginas": [
+   43
+  ],
+  "nodo": "BL:1.5.30",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo 1.5.30 [INSPECCION FISCAL DURANTE LA EXPLOTACION]"
+ },
+ {
+  "id": "TABLA:CM.D01.p0085.1",
+  "titulo": null,
+  "encabezados": [
+   "obra (A)",
+   "600.000 (UF)"
+  ],
+  "filas": [
+   [
+    "obra (B)",
+    "360.000 (UF)"
+   ],
+   [
+    "obra (C)",
+    "600.000 (UF)"
+   ],
+   [
+    "obra (D)",
+    "55.000 (UF)"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D01",
+  "paginas": [
+   85
+  ],
+  "nodo": "BL:11.7",
+  "ruta": "Bases de Licitación › 11.7 [84]"
+ },
+ {
+  "id": "TABLA:CM.D01.p0085.2",
+  "titulo": null,
+  "encabezados": [
+   "MC - V2",
+   "Manual de Carreteras, Volumen N° 2"
+  ],
+  "filas": [
+   [
+    "MC - V3",
+    "Manual de Carreteras, Volumen N° 3"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D01",
+  "paginas": [
+   85
+  ],
+  "nodo": "BL:11.7",
+  "ruta": "Bases de Licitación › 11.7 [84]"
+ },
+ {
+  "id": "TABLA:CM.D01.p0111.1",
+  "titulo": "TABLA N° 1 NUMERO DE VEHICULOS ANUALES GARANTIZADOS PARA LA OBRA A",
+  "encabezados": [
+   "AÑO DE CONCESION",
+   "OPCION 1",
+   "OPCION 2",
+   "OPCION 3"
+  ],
+  "filas": [
+   [
+    "1",
+    "180000",
+    "190000",
+    "200000"
+   ],
+   [
+    "2",
+    "186000",
+    "197000",
+    "207000"
+   ],
+   [
+    "3",
+    "193000",
+    "203000",
+    "214000"
+   ],
+   [
+    "4",
+    "199000",
+    "210000",
+    "221000"
+   ],
+   [
+    "5",
+    "205000",
+    "217000",
+    "228000"
+   ],
+   [
+    "6",
+    "212000",
+    "224000",
+    "235000"
+   ],
+   [
+    "7",
+    "218000",
+    "230000",
+    "242000"
+   ],
+   [
+    "8",
+    "225000",
+    "237000",
+    "250000"
+   ],
+   [
+    "9",
+    "231000",
+    "244000",
+    "257000"
+   ],
+   [
+    "10",
+    "237000",
+    "250000",
+    "263000"
+   ],
+   [
+    "11",
+    "243000",
+    "257000",
+    "270000"
+   ],
+   [
+    "12",
+    "250000",
+    "264000",
+    "278000"
+   ],
+   [
+    "13",
+    "256000",
+    "270000",
+    "285000"
+   ],
+   [
+    "14",
+    "263000",
+    "277000",
+    "292000"
+   ],
+   [
+    "15",
+    "276000",
+    "291000",
+    "306000"
+   ],
+   [
+    "16",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "17",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "18",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "19",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "20",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "21",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "22",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "23",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "24",
+    "104000",
+    "110000",
+    "115000"
+   ],
+   [
+    "25",
+    "104000",
+    "110000",
+    "115000"
+   ]
+  ],
+  "notas": "BASES DE LICITACION CAMINO DE LA MADERA",
+  "documento": "CM.D01",
+  "paginas": [
+   111
+  ],
+  "nodo": "BL:11.9.9",
+  "ruta": "Bases de Licitación › 11.9 DE LA EXPLOTACION DE LA CONCESION › artículo 11.9.9"
+ },
+ {
+  "id": "TABLA:CM.D01.p0128.1",
+  "titulo": "PRECIOS UNITARIOS OFICIALES (Pesos, 31 de Agosto de 1992)",
+  "encabezados": [
+   "DESIGNACION",
+   "UNIDAD",
+   "PRECIO UNITARIO ($)"
+  ],
+  "filas": [
+   [
+    "Preparacion de la Faja",
+    "",
+    ""
+   ],
+   [
+    "a. Expropiaciones",
+    "m²",
+    "200"
+   ],
+   [
+    "b. Remocion de ductos de obras de arte",
+    "ML",
+    "2.500"
+   ],
+   [
+    "c. Demolicion de Estructuras",
+    "M3",
+    "8.300"
+   ],
+   [
+    "d. Roce, Despeje y Limpieza de la faja",
+    "KM",
+    "141.100"
+   ],
+   [
+    "Movimiento de Tierras",
+    "",
+    ""
+   ],
+   [
+    "a. Escarpe",
+    "M3",
+    "1.100"
+   ],
+   [
+    "b. Excavacion en terreno de cualquier naturaleza",
+    "M3",
+    "800"
+   ],
+   [
+    "c. Excavacion Especial",
+    "M3",
+    "1.600"
+   ],
+   [
+    "d. Terraplenes",
+    "M3",
+    "2.100"
+   ],
+   [
+    "e. Relleno Estructural",
+    "M3",
+    "2.900"
+   ],
+   [
+    "f. Preparación de la Sub-Rasante",
+    "M2",
+    "130"
+   ],
+   [
+    "Bases y Sub-bases",
+    "",
+    ""
+   ],
+   [
+    "a. Sub-base Granular",
+    "M3",
+    "2.500"
+   ],
+   [
+    "b. Base y Berma Granular Chancada",
+    "M3",
+    "3.100"
+   ],
+   [
+    "Revestimientos y Pavimentos",
+    "",
+    ""
+   ],
+   [
+    "a. Imprimación Bituminosa",
+    "M2",
+    "220"
+   ],
+   [
+    "b. Riego de Liga",
+    "M2",
+    "130"
+   ],
+   [
+    "c. Tratamiento Superficial Simple",
+    "M2",
+    "300"
+   ],
+   [
+    "d. Concreto Asfaltico",
+    "M3",
+    "31.000"
+   ],
+   [
+    "e. Binder",
+    "M3",
+    "28.000"
+   ],
+   [
+    "f. Pavimento de Hormigón",
+    "M3",
+    "37.000"
+   ],
+   [
+    "Estructuras y Obras Conexas",
+    "",
+    ""
+   ],
+   [
+    "a. Hormigon Estructural H-30",
+    "M3",
+    "34.000"
+   ],
+   [
+    "b. Hormigon Estructural H-20",
+    "M3",
+    "31.500"
+   ],
+   [
+    "c. Acero para Armaduras A44-28H",
+    "KG",
+    "500"
+   ],
+   [
+    "d. Mamposteria de Piedra",
+    "M2",
+    "4.600"
+   ],
+   [
+    "Drenaje y Protección de la Plataforma",
+    "",
+    ""
+   ],
+   [
+    "a. Tubo D=1.0 m",
+    "ML",
+    "68.500"
+   ],
+   [
+    "b. Limpieza Alcantarillas y Cauces",
+    "ML",
+    "850"
+   ],
+   [
+    "c. Fosos y Contrafosos",
+    "ML",
+    "1.200"
+   ],
+   [
+    "d. Suministro y Colocación de Soleras",
+    "ML",
+    "2.600"
+   ],
+   [
+    "e. Solera Zarpa",
+    "ML",
+    "5.100"
+   ],
+   [
+    "f. Subdren",
+    "ML",
+    "8.100"
+   ],
+   [
+    "g. Gaviones",
+    "M3",
+    "10.100"
+   ],
+   [
+    "Elementos de Control y Seguridad",
+    "",
+    ""
+   ],
+   [
+    "a. Remocion de Cercos",
+    "ML",
+    "250"
+   ],
+   [
+    "b. Recolocación de Cercos",
+    "ML",
+    "500"
+   ],
+   [
+    "c. Cercos Nuevos",
+    "UND",
+    "1.400"
+   ],
+   [
+    "d. Portones",
+    "ML",
+    "71.000"
+   ],
+   [
+    "e. Defensas Camineras",
+    "ML",
+    "13.100"
+   ],
+   [
+    "f. Señales Camineras Nuevas",
+    "UND",
+    "30.500"
+   ],
+   [
+    "g. Demarcación Linea Continua",
+    "M",
+    "140"
+   ],
+   [
+    "h. Demarcación Linea Sefmentada",
+    "M",
+    "100"
+   ],
+   [
+    "i. Demarcación con Linea Lateral Continua.",
+    "M",
+    "140"
+   ]
+  ],
+  "notas": "Nota: Los precios incluyen gastos generales y utilidades de la empresa contratista, no incluyen IVA.",
+  "documento": "CM.D01",
+  "paginas": [
+   128
+  ],
+  "nodo": "BL:A1",
+  "ruta": "Bases de Licitación › ANEXO N*1"
+ },
+ {
+  "id": "TABLA:CM.D02.p0018.1",
+  "titulo": null,
+  "encabezados": [
+   "TRAMO",
+   "KILOMETRAJE",
+   "ANCHO FAJA",
+   "ARCHIVADOR",
+   "EXPEDIENTE",
+   "UBICACION"
+  ],
+  "filas": [
+   [
+    "CONCEPCION - SANTA JUANA",
+    "0,0 ———>5",
+    "20 m",
+    "C3 - 78",
+    "Nº 2903",
+    "FISCALIA"
+   ],
+   [
+    "",
+    "16,8 ———>37,3",
+    "20 m",
+    "C4 - 78",
+    "Nº 3831",
+    "FISCALIA"
+   ],
+   [
+    "SANTA JUANA - NACIMIENTO",
+    "0,0 ———>9,32",
+    "20 m",
+    "S1 - 78",
+    "Nº 31 51",
+    "FISCALIA"
+   ],
+   [
+    "",
+    "9,32———>13,71",
+    "30 m",
+    "S1 - 78",
+    "Nº 3280",
+    "FISCALIA"
+   ],
+   [
+    "NACIMIENTO - SANTA JUANA",
+    "0,0 ———>8,612",
+    "20 m",
+    "N1 - 78",
+    "Nº 2372",
+    "FISCALIA"
+   ],
+   [
+    "(Sector Culenco - Santa Juana )",
+    "8,570———>14,780",
+    "20 m",
+    "N1 - 78",
+    "Nº 3612",
+    "FISCALIA"
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "COIHUE - NACIMIENTO",
+    "0,519———>9,706",
+    "30 m",
+    "C6 - 78",
+    "Nº 3673",
+    "FISCALIA"
+   ],
+   [
+    "SANTA JUANA - BALSEADERO LAJA",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Portezuelo - Sta. Juana",
+    "0,0———>13,391",
+    "30 m",
+    "S1 - 78",
+    "Nº 3835",
+    "FISCALIA"
+   ],
+   [
+    "Portezuelo - Balseadero Laja",
+    "0,0———>15,12",
+    "30 m",
+    "S1 - 78",
+    "Nº 3835",
+    "FISCALIA"
+   ]
+  ],
+  "notas": "Nota: El kilometraje se mide desde la ciudad o localidad nombrada en primer término",
+  "documento": "CM.D02",
+  "paginas": [
+   18
+  ],
+  "nodo": "BL:1.3.3-a1",
+  "ruta": "Bases de Licitación › 1.3 EVALUACION DE LA OPERTA › artículo 1.3.3 › aclaración 1"
+ },
+ {
+  "id": "TABLA:CM.D06.p0006.1",
+  "titulo": null,
+  "encabezados": [
+   "Obra",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "Obra (A):",
+    "10.000 UF"
+   ],
+   [
+    "Obra (B):",
+    "3.000 UF"
+   ],
+   [
+    "Obra (C):",
+    "3.000 UF"
+   ],
+   [
+    "Obra (D):",
+    "1.000 UF"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D06",
+  "paginas": [
+   6
+  ],
+  "nodo": "CM.D06.F0004",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo 1.5.29 [GARANTIA DE EXPLOTACION] › Decreto adjudicacion N°133 (1994-04-29)"
+ },
+ {
+  "id": "TABLA:CM.D07.p0001.1",
+  "titulo": "CONTRALORIA GENERAL TOMA DE RAZON",
+  "encabezados": [
+   "DEPART. JURIDICO",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   [
+    "DEP. T. R. Y REGISTRO",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. P. Y BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V. O. P., U V T.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "REF. POR $",
+    "",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "ANOT. POR $",
+    "",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    "",
+    ""
+   ]
+  ],
+  "notas": "",
+  "documento": "CM.D07",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D07.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°2633 (2009-06-05)"
+ },
+ {
+  "id": "TABLA:CM.D08.p0001.1",
+  "titulo": null,
+  "encabezados": [
+   "DEPART.",
+   "JURIDICO",
+   "",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEP. T. R.",
+    "Y REGISTRO",
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART.",
+    "CONTABIL.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP.",
+    "C. CENTRAL",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP.",
+    "E. CUENTAS",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP.",
+    "C. P. Y",
+    "BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "DEPART.",
+    "AUDITORIA",
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART.",
+    "V. O. P., U y T.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP.",
+    "MUNICIPI",
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D08",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D08.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°4333 (2007-12-21)"
+ },
+ {
+  "id": "TABLA:CM.D08.p0001.2",
+  "titulo": null,
+  "encabezados": [
+   "REFRENDACION",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "REF. POR",
+    "$",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "ANOT. POR",
+    "$",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D08",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D08.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°4333 (2007-12-21)"
+ },
+ {
+  "id": "TABLA:CM.D09.p0001.1",
+  "titulo": "CONTRALORIA GENERAL TOMA DE RAZON",
+  "encabezados": [
+   "DEPART. JURIDICO",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   [
+    "DEP.T.R. Y REGISTRO",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "SUB DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. P.Y. BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V.O.P,U yT",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D09",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D09.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°5066 (2008-12-09)"
+ },
+ {
+  "id": "TABLA:CM.D09.p0001.2",
+  "titulo": null,
+  "encabezados": [
+   "REF. POR $",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "REF. POR $",
+    "",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "ANOT. POR $",
+    "",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D09",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D09.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°5066 (2008-12-09)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0002.1",
+  "titulo": null,
+  "encabezados": [
+   "Vértice",
+   "Este",
+   "Norte"
+  ],
+  "filas": [
+   [
+    "1",
+    "266.000",
+    "5.695.000"
+   ],
+   [
+    "2",
+    "275.000",
+    "5.695.000"
+   ],
+   [
+    "3",
+    "275.000",
+    "5.685.000"
+   ],
+   [
+    "4",
+    "266.000",
+    "5.685.000"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "CM.D11.F0011",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0002.2",
+  "titulo": "Características técnicas del sistema radiante:",
+  "encabezados": [
+   "Polarización",
+   "Tipo Antena",
+   "Ganancia Antena",
+   "Número Antenas",
+   "Altura Centro Radiación",
+   "Pérdidas Totales"
+  ],
+  "filas": [
+   [
+    "Vertical",
+    "Arreglo de antenas Yagi de 4 elementos, con tilt eléctrico de 13.9° bajo la horizontal",
+    "15.2 dBd en máxima radiación y -6.9 dBd en el plano horizontal.",
+    "6",
+    "46 metros",
+    "1.56 dB"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "CM.D11.F0011",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0002.3",
+  "titulo": "Diagrama de radiación direccional, de acuerdo a la siguiente tabla:",
+  "encabezados": [
+   "Radial",
+   "0°",
+   "45°",
+   "90°",
+   "135°",
+   "180°",
+   "225°",
+   "270°",
+   "315°"
+  ],
+  "filas": [
+   [
+    "Pérdida por lóbulo (dB)",
+    "4,7",
+    "14,9",
+    "13,6",
+    "14,9",
+    "14,0",
+    "9,4",
+    "0,5",
+    "1,5"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "CM.D11.F0011",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0002.4",
+  "titulo": "Los plazos, serán los que se indican a continuación:",
+  "encabezados": [
+   "Inicio Obras",
+   "Término Obras",
+   "Inicio Servicio",
+   "Observación"
+  ],
+  "filas": [
+   [
+    "15 días",
+    "30 días",
+    "60 días",
+    "Todos estos plazos están referidos a la fecha de publicación en el Diario Oficial del decreto que autorice la modificación solicitada."
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "CM.D11.F0011",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0022.1",
+  "titulo": "Cuadro: Factores de Equivalencia",
+  "encabezados": [
+   "N°",
+   "Tipo de Vehículo",
+   "Factores de equivalencia f_i,p / Horario Normal",
+   "Factores de equivalencia f_i,p / Horario Punta"
+  ],
+  "filas": [
+   [
+    "1",
+    "Motos y Motonetas",
+    "0,50",
+    "0,50"
+   ],
+   [
+    "2",
+    "Autos",
+    "1,00",
+    "1,00"
+   ],
+   [
+    "3",
+    "Camionetas",
+    "1,00",
+    "1,00"
+   ],
+   [
+    "4",
+    "Camiones de 2 Ejes",
+    "2,88",
+    "2,88"
+   ],
+   [
+    "5",
+    "Camiones de más de 2 Ejes",
+    "3,85",
+    "4,81"
+   ],
+   [
+    "6",
+    "Buses de 2 Ejes",
+    "2,50",
+    "2,50"
+   ],
+   [
+    "7",
+    "Buses de más de 2 Ejes",
+    "3,00",
+    "3,00"
+   ],
+   [
+    "8",
+    "Autos y Camionetas con Remolque",
+    "1,50",
+    "1,50"
+   ]
+  ],
+  "notas": "Para la clasificación de los flujos en horario normal y horario punta se empleará la definición autorizada durante el año 2002.",
+  "documento": "CM.D11",
+  "paginas": [
+   22
+  ],
+  "nodo": "CM.D11.F0033",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0034.1",
+  "titulo": "ANEXO 1",
+  "encabezados": [
+   "",
+   "Monto",
+   ""
+  ],
+  "filas": [
+   [
+    "Item N°1",
+    "Obras Adicionales Sujetas a un Proceso de Licitación",
+    "71.793"
+   ],
+   [
+    "Item N°2",
+    "Proyectos Ejecutados",
+    "19.184"
+   ],
+   [
+    "Item N°3",
+    "Costos de Proyectos de Ingeniería por Ejecutar",
+    "1.122"
+   ],
+   [
+    "Item N°4",
+    "Presupuestos de Conservación, Mantención, Operación y Explotación",
+    "988"
+   ],
+   [
+    "Item N°5",
+    "Costos de Administración de la Sociedad Concesionaria",
+    "5.163"
+   ],
+   [
+    "Total",
+    "",
+    "98.249"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   34
+  ],
+  "nodo": "CM.D11.F0042",
+  "ruta": "Bases de Licitación › ANEXO N*1 › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0036.1",
+  "titulo": null,
+  "encabezados": [
+   "Item 2",
+   "Monto",
+   "UF"
+  ],
+  "filas": [
+   [
+    "1",
+    "Proyecto de Ingeniería Vial",
+    "9.620"
+   ],
+   [
+    "2",
+    "Estudio de Tránsito",
+    "1.577"
+   ],
+   [
+    "3",
+    "Estudio de Impacto Ambiental",
+    "1.183"
+   ],
+   [
+    "4",
+    "Estudio Estado y Conservación Pavimentos Ruta 160",
+    "1.913"
+   ],
+   [
+    "4",
+    "Administración",
+    "4.892"
+   ],
+   [
+    "TOTAL",
+    "",
+    "19.184"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   36
+  ],
+  "nodo": "CM.D11.F0044",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo la obra (C), deberá entregar un programa de conservación de la obra › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0038.1",
+  "titulo": null,
+  "encabezados": [
+   "",
+   "Item 4",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "1",
+    "Mejoramiento de Estándar Km. 26,5 al 45,4",
+    "0"
+   ],
+   [
+    "2",
+    "Reparación Losa Paso Superior Coihue",
+    "0"
+   ],
+   [
+    "3",
+    "Defensa Fluvial Km. 4,0",
+    "0"
+   ],
+   [
+    "4",
+    "Mejoramiento Seguridad Vial",
+    "700"
+   ],
+   [
+    "5",
+    "Estabilidad Talud Km. 58",
+    "0"
+   ],
+   [
+    "6",
+    "Mejoramiento Nacimiento - Cruce Hospital",
+    "138"
+   ],
+   [
+    "7",
+    "Mejoramiento Nacimiento - Cruce Anibal Pinto",
+    "150"
+   ],
+   [
+    "",
+    "TOTAL",
+    "988"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   38
+  ],
+  "nodo": "CM.D11.F0046",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo la obra (C), deberá entregar un programa de conservación de la obra › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0039.1",
+  "titulo": "ANEXO N° 1",
+  "encabezados": [
+   "Item 5",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "1 Costos de Administración e Inspección Licitación y Ejecución Obras",
+    "5.163"
+   ],
+   [
+    "TOTAL",
+    "5.163"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   39
+  ],
+  "nodo": "CM.D11.F0047",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo 1.5.41 › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0039.2",
+  "titulo": "Item N°5: Costos de Administración Sociedad Concesionaria",
+  "encabezados": [
+   "Item 5",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "1 Costos de Administración e Inspección Licitación y Ejecución Obras",
+    "5.163"
+   ],
+   [
+    "TOTAL",
+    "5.163"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   39
+  ],
+  "nodo": "CM.D11.F0047",
+  "ruta": "Bases de Licitación › 1.5 DEL COMCESTOMARIO › artículo 1.5.41 › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0046.1",
+  "titulo": "Cuadro: Parte 1 N° 1",
+  "encabezados": [
+   "N°",
+   "CONCEPTO",
+   "VALOR (UF)"
+  ],
+  "filas": [
+   [
+    "1",
+    "Costo Total Proyectos de Ingeniería (IVA incluido)",
+    "36.506,00"
+   ],
+   [
+    "2",
+    "Gasto Administración Concesionaria (IVA incluido)",
+    "31.860,00"
+   ],
+   [
+    "3",
+    "Boleta de Garantía (IVA incluido)",
+    "3.709,50"
+   ],
+   [
+    "4",
+    "Pólicas de Seguro (IVA incluido)",
+    "5.300,00"
+   ],
+   [
+    "",
+    "TOTAL",
+    "77.375,50"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   46
+  ],
+  "nodo": "CM.D11.F0064",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0046.2",
+  "titulo": "Cuadro: Parte 1 N° 2",
+  "encabezados": [
+   "OBRA",
+   "Monto Obra (UF)",
+   "IVA (UF)",
+   "O&M (UF)",
+   "TOTAL (UF)"
+  ],
+  "filas": [
+   [
+    "Obra N°1",
+    "25.000,00",
+    "4.500,00",
+    "3.750,00",
+    "33.250,00"
+   ],
+   [
+    "Obra N°2",
+    "15.000,00",
+    "2.700,00",
+    "2.250,00",
+    "19.950,00"
+   ],
+   [
+    "Obra N°3",
+    "12.000,00",
+    "2.160,00",
+    "",
+    "14.160,00"
+   ],
+   [
+    "Obra N°4",
+    "60.000,00",
+    "10.800,00",
+    "9.000,00",
+    "79.800,00"
+   ],
+   [
+    "Obra N°5",
+    "150.000,00",
+    "27.000,00",
+    "22.500,00",
+    "199.500,00"
+   ],
+   [
+    "Obra N°6",
+    "35.000,00",
+    "6.300,00",
+    "5.250,00",
+    "46.550,00"
+   ],
+   [
+    "Obra N°7",
+    "45.000,00",
+    "8.100,00",
+    "6.750,00",
+    "59.850,00"
+   ],
+   [
+    "Obra N°8",
+    "8.950,00",
+    "1.611,00",
+    "1.342,50",
+    "11.903,50"
+   ],
+   [
+    "Obra N°9",
+    "10.000,00",
+    "1.800,00",
+    "1.500,00",
+    "13.300,00"
+   ],
+   [
+    "Obra N°10",
+    "15.000,00",
+    "2.700,00",
+    "2.250,00",
+    "19.950,00"
+   ],
+   [
+    "TOTAL",
+    "375.950,00",
+    "67.671,00",
+    "54.592,50",
+    "498.213,50"
+   ],
+   [
+    "Obra N°1",
+    "25.000,00",
+    "4.500,00",
+    "3.750,00",
+    "33.250,00"
+   ],
+   [
+    "Obra N°2",
+    "15.000,00",
+    "2.700,00",
+    "2.250,00",
+    "19.950,00"
+   ],
+   [
+    "Obra N°3",
+    "12.000,00",
+    "2.160,00",
+    "",
+    "14.160,00"
+   ],
+   [
+    "Obra N°4",
+    "80.000,00",
+    "14.400,00",
+    "12.000,00",
+    "106.400,00"
+   ],
+   [
+    "Obra N°5",
+    "140.000,00",
+    "25.200,00",
+    "21.000,00",
+    "186.200,00"
+   ],
+   [
+    "Obra N°6",
+    "45.000,00",
+    "8.100,00",
+    "6.750,00",
+    "59.850,00"
+   ],
+   [
+    "Obra N°7",
+    "4.500,00",
+    "810,00",
+    "675,00",
+    "5.985,00"
+   ],
+   [
+    "Obra N°8",
+    "20.000,00",
+    "3.600,00",
+    "3.000,00",
+    "26.600,00"
+   ],
+   [
+    "Obra N°9",
+    "19.000,00",
+    "3.420,00",
+    "2.850,00",
+    "25.270,00"
+   ],
+   [
+    "Obra N°10",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "TOTAL",
+    "360.500,00",
+    "64.890,00",
+    "52.275,00",
+    "477.665,00"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   46,
+   47
+  ],
+  "nodo": "CM.D11.F0064",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0047.1",
+  "titulo": "Cuadro: Parte 1 N° 4",
+  "encabezados": [
+   "EVENTO",
+   "FECHA EVENTO",
+   "Monto (UF)",
+   "FECHA CONTABILIZACION"
+  ],
+  "filas": [
+   [
+    "Publicación en Diario Oficial Decreto Supremo",
+    "10-Oct-03",
+    "",
+    ""
+   ],
+   [
+    "Incorporación monto PSC a la cuenta MDI",
+    "10-Oct-03",
+    "575.058,92",
+    "31-Dic-02"
+   ],
+   [
+    "Pago obras adicionales ejecutadas",
+    "31-Oct-03",
+    "29.500,00",
+    "31-Dic-02"
+   ],
+   [
+    "Costo de O&M obras adicionales ejecutadas",
+    "31-Oct-03",
+    "3.750,00",
+    "31-Dic-02"
+   ],
+   [
+    "Aprobación 1er grupo proyectos de ingeniería",
+    "15-Nov-03",
+    "21.903,60",
+    "30-Nov-03"
+   ],
+   [
+    "Convocatoria primera licitación",
+    "30-Nov-03",
+    "",
+    ""
+   ],
+   [
+    "Adjudicación primera licitación",
+    "15-Feb-04",
+    "",
+    ""
+   ],
+   [
+    "Inicio Obras primera licitación",
+    "03-Abr-04",
+    "",
+    ""
+   ],
+   [
+    "Entrega pólizas de seguros",
+    "16-Feb-04",
+    "5.300,00",
+    "29-Feb-04"
+   ],
+   [
+    "Entrega boleta de garantía",
+    "16-Feb-04",
+    "3.709,50",
+    "29-Feb-04"
+   ],
+   [
+    "Pago anticipo primera licitación (30%)",
+    "25-Feb-04",
+    "95.403,00",
+    "29-Feb-04"
+   ],
+   [
+    "Aprobación 2do grupo proyectos de ingeniería",
+    "24-Dic-03",
+    "14.602,40",
+    "31-Dic-03"
+   ],
+   [
+    "Adjudicación segunda licitación",
+    "07-Mar-04",
+    "",
+    ""
+   ],
+   [
+    "Inicio Obras segunda licitación",
+    "04-Jun-04",
+    "",
+    ""
+   ],
+   [
+    "Pago anticipo segunda licitación (30%)",
+    "25-Mar-04",
+    "13.806,00",
+    "31-Mar-04"
+   ],
+   [
+    "Pago de ia concesionaria saldo PSC",
+    "28-Ene-05",
+    "20.018,42",
+    "31-Ene-05"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   47
+  ],
+  "nodo": "CM.D11.F0064",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0048.1",
+  "titulo": "Cuadro: Parte 1 N° 5",
+  "encabezados": [
+   "MES",
+   "AVANCE OBRA (%)",
+   "MONTO IVA INC (UF)"
+  ],
+  "filas": [
+   [
+    "Oct-03",
+    "10%",
+    "3.186,00"
+   ],
+   [
+    "Nov-03",
+    "50%",
+    "15.930,00"
+   ],
+   [
+    "Dic-03",
+    "40%",
+    "12.744,00"
+   ],
+   [
+    "TOTAL",
+    "",
+    "31.860,00"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   48
+  ],
+  "nodo": "CM.D11.F0065",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0048.2",
+  "titulo": "Cuadro: Parte 1 N° 6",
+  "encabezados": [
+   "MES",
+   "AVANCE (%)",
+   "Monto Iva inc (UF)",
+   "FECHA CONTABILIZACION"
+  ],
+  "filas": [
+   [
+    "Abr-04",
+    "3,00%",
+    "6.678,21",
+    "30-04-2004"
+   ],
+   [
+    "May-04",
+    "5,00%",
+    "11.130,35",
+    "31-05-2004"
+   ],
+   [
+    "Jun-04",
+    "9,00%",
+    "20.034,63",
+    "30-06-2004"
+   ],
+   [
+    "Jul-04",
+    "8,00%",
+    "17.808,56",
+    "31-07-2004"
+   ],
+   [
+    "Ago-04",
+    "15,00%",
+    "33.391,05",
+    "31-08-2004"
+   ],
+   [
+    "Sep-04",
+    "23,00%",
+    "51.199,61",
+    "30-09-2004"
+   ],
+   [
+    "Oct-04",
+    "20,00%",
+    "44.521,40",
+    "31-10-2004"
+   ],
+   [
+    "Nov-04",
+    "15,00%",
+    "33.391,05",
+    "30-11-2004"
+   ],
+   [
+    "Dic-04",
+    "2,00%",
+    "4.452,14",
+    "31-12-2004"
+   ],
+   [
+    "TOTAL",
+    "",
+    "222.607,00",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   48
+  ],
+  "nodo": "CM.D11.F0065",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0048.3",
+  "titulo": "Cuadro: Parte 1 N° 7",
+  "encabezados": [
+   "MES",
+   "AVANCE (%)",
+   "Monto Iva inc (UF)",
+   "FECHA CONTABILIZACION"
+  ],
+  "filas": [
+   [
+    "Jun-04",
+    "2,00%",
+    "644,28",
+    "30-06-2004"
+   ],
+   [
+    "Jul-04",
+    "4,00%",
+    "1.288,56",
+    "31-07-2004"
+   ],
+   [
+    "Ago-04",
+    "10,00%",
+    "3.221,40",
+    "31-08-2004"
+   ],
+   [
+    "Sep-04",
+    "25,00%",
+    "8.053,50",
+    "30-09-2004"
+   ],
+   [
+    "Oct-04",
+    "30,00%",
+    "9.664,20",
+    "31-10-2004"
+   ],
+   [
+    "Nov-04",
+    "27,00%",
+    "8.697,78",
+    "30-11-2004"
+   ],
+   [
+    "Dic-04",
+    "2,00%",
+    "644,28",
+    "31-12-2004"
+   ],
+   [
+    "TOTAL",
+    "",
+    "32.214,00",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   48
+  ],
+  "nodo": "CM.D11.F0065",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0049.1",
+  "titulo": "Cuadro: Parte 1 N° 8",
+  "encabezados": [
+   "",
+   "OBRA",
+   "FECHA HABILITACION",
+   "MONTO O&M (UF)",
+   "FECHA CONTABILIZACION"
+  ],
+  "filas": [
+   [
+    "",
+    "Obra N°2",
+    "25-12-03",
+    "2.250,00",
+    "31-12-03"
+   ],
+   [
+    "",
+    "Obra N°3",
+    "16-12-03",
+    "",
+    "31-12-03"
+   ],
+   [
+    "",
+    "Obra N°4",
+    "14-11-04",
+    "12.000,00",
+    "30-11-04"
+   ],
+   [
+    "",
+    "Obra N°5",
+    "06-12-04",
+    "21.000,00",
+    "31-12-04"
+   ],
+   [
+    "",
+    "Obra N°6",
+    "28-11-04",
+    "6.750,00",
+    "30-11-04"
+   ],
+   [
+    "",
+    "Obra N°7",
+    "15-05-04",
+    "675,00",
+    "31-05-04"
+   ],
+   [
+    "",
+    "Obra N°8",
+    "09-11-04",
+    "3.000,00",
+    "30-11-04"
+   ],
+   [
+    "",
+    "Obra N°9",
+    "12-12-04",
+    "2.850,00",
+    "31-12-04"
+   ],
+   [
+    "TOTAL",
+    "",
+    "",
+    "48.525,00",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   49
+  ],
+  "nodo": "CM.D11.F0066",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0050.1",
+  "titulo": "Cuadro: Parte 1 N° 9",
+  "encabezados": [
+   "Mes",
+   "Proyectos de Ingenieria",
+   "Obras ya ejecutadas",
+   "O&M Obras ejecut.",
+   "Seguros y boletas",
+   "Costos Adm. S.C.",
+   "Anticipos",
+   "Estados de Pago L1",
+   "Costo O&M L1",
+   "Estados de Pago L2",
+   "Costo O&M L2",
+   "Obras Prioritarias",
+   "Devolució n Saldo a MOP",
+   "TOTAL (UF)"
+  ],
+  "filas": [
+   [
+    "Dic-02",
+    "",
+    "29.500,00",
+    "3.750,00",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "33.250,00"
+   ],
+   [
+    "Ene-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Feb-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Abr-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "May-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Jun-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Jul-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Ago-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Sep-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "Oct-03",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "3.186,00"
+   ],
+   [
+    "Nov-03",
+    "21.903,60",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "15.930,00",
+    "",
+    "41.019,60"
+   ],
+   [
+    "Dic-03",
+    "14.602,40",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "12.744,00",
+    "2.250,00",
+    "32.782,40"
+   ],
+   [
+    "Ene-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00"
+   ],
+   [
+    "Feb-04",
+    "",
+    "",
+    "9.009,50",
+    "",
+    "3.186,00",
+    "95.403,00",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "107.598,50"
+   ],
+   [
+    "Mar-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "13.806,00",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "16.992,00"
+   ],
+   [
+    "Abr-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "6.678,21",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "9.864,21"
+   ],
+   [
+    "May-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "11.130,35",
+    "675,00",
+    "",
+    "",
+    "",
+    "",
+    "14.991,35"
+   ],
+   [
+    "Jun-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "20.034,63",
+    "",
+    "",
+    "644,28",
+    "",
+    "",
+    "23.864,91"
+   ],
+   [
+    "Jul-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "17.808,56",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "22.283,12"
+   ],
+   [
+    "Ago-04",
+    "",
+    "",
+    "",
+    "",
+    "3.186,00",
+    "",
+    "33.391,05",
+    "",
+    "",
+    "3.221,40",
+    "",
+    "",
+    "39.798,45"
+   ],
+   [
+    "Sep-04",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "51.199,61",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "59.253,11"
+   ],
+   [
+    "Oct-04",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "44.521,40",
+    "",
+    "",
+    "9.664,20",
+    "",
+    "",
+    "54.185,60"
+   ],
+   [
+    "Nov-04",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "33.391,05",
+    "18.750,00",
+    "8.697,78",
+    "3.000,00",
+    "",
+    "",
+    "63.838,83"
+   ],
+   [
+    "Dic-04",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "4.452,14",
+    "21.000,00",
+    "644,28",
+    "2.850,00",
+    "",
+    "",
+    "28.946,42"
+   ],
+   [
+    "Ene-05",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "20.018,42",
+    "20.018,42"
+   ],
+   [
+    "TOTAL",
+    "36.506,00",
+    "29.500,00",
+    "3.750,00",
+    "9.009,50",
+    "31.860,00",
+    "109.209,00",
+    "222.607,00",
+    "40.425,00",
+    "32.214,00",
+    "5.850,00",
+    "31.860,00",
+    "20.018,42",
+    "575.058,92"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   50
+  ],
+  "nodo": "CM.D11.F0066",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0056.1",
+  "titulo": "CUADRO PARTE 2 N° 1 (continuación)",
+  "encabezados": [
+   "N°",
+   "MES",
+   "PRIMA PSC (UF)",
+   "INGRESOS YCi (UF)",
+   "INVERSIONES INV i (UF)",
+   "COSTOS Ci (UF)",
+   "PAGOS MOP PMOPi (UF)",
+   "CUENTA MDIm (UF)"
+  ],
+  "filas": [
+   [
+    "90",
+    "Jun-10",
+    "575.058,92",
+    "93.655,39",
+    "5.679.431,64",
+    "-",
+    "-",
+    "5.748.708,94"
+   ],
+   [
+    "91",
+    "Jul-10",
+    "575.058,92",
+    "102.742,68",
+    "5.731.054,52",
+    "505.781,62",
+    "-",
+    "5.800.331,82"
+   ],
+   [
+    "92",
+    "Ago-10",
+    "575.058,92",
+    "99.706,28",
+    "5.780.774,29",
+    "505.781,62",
+    "-",
+    "5.858.051,59"
+   ],
+   [
+    "93",
+    "Sep-10",
+    "575.058,92",
+    "97.103,26",
+    "5.828.831,19",
+    "505.781,62",
+    "-",
+    "5.946.557,13"
+   ],
+   [
+    "94",
+    "Oct-10",
+    "575.058,92",
+    "98.638,03",
+    "5.877.279,83",
+    "505.781,62",
+    "-",
+    "5.996.970,86"
+   ],
+   [
+    "95",
+    "Nov-10",
+    "575.058,92",
+    "103.418,06",
+    "5.982.149,06",
+    "505.781,62",
+    "-",
+    "6.051.426,36"
+   ],
+   [
+    "96",
+    "Dic-10",
+    "575.058,92",
+    "112.557,38",
+    "6.056.158,40",
+    "505.781,62",
+    "-",
+    "6.125.435,70"
+   ],
+   [
+    "97",
+    "Ene-11",
+    "575.058,92",
+    "154.135,77",
+    "6.134.759,41",
+    "505.781,62",
+    "-",
+    "6.204.036,71"
+   ],
+   [
+    "98",
+    "Feb-11",
+    "575.058,92",
+    "164.941,44",
+    "6.194.295,08",
+    "505.781,62",
+    "-",
+    "6.263.572,38"
+   ],
+   [
+    "99",
+    "Mar-11",
+    "575.058,92",
+    "107.513,97",
+    "6.244.760,49",
+    "505.781,62",
+    "-",
+    "6.314.037,79"
+   ],
+   [
+    "100",
+    "Abr-11",
+    "575.058,92",
+    "105.698,32",
+    "6.293.999,84",
+    "505.781,62",
+    "-",
+    "6.363.277,14"
+   ],
+   [
+    "101",
+    "May-11",
+    "575.058,92",
+    "99.742,99",
+    "6.340.114,81",
+    "505.781,62",
+    "-",
+    "6.409.392,11"
+   ],
+   [
+    "102",
+    "Jun-11",
+    "575.058,92",
+    "109.420,95",
+    "6.390.323,08",
+    "505.781,62",
+    "-",
+    "6.459.600,38"
+   ],
+   [
+    "103",
+    "Jul-11",
+    "575.058,92",
+    "106.187,19",
+    "6.438.680,40",
+    "505.781,62",
+    "-",
+    "6.507.957,70"
+   ],
+   [
+    "104",
+    "Ago-11",
+    "575.058,92",
+    "103.414,97",
+    "6.485.420,41",
+    "505.781,62",
+    "-",
+    "6.554.697,71"
+   ],
+   [
+    "105",
+    "Sep-11",
+    "575.058,92",
+    "105.049,51",
+    "6.532.541,43",
+    "505.781,62",
+    "-",
+    "6.601.818,73"
+   ],
+   [
+    "106",
+    "Oct-11",
+    "575.058,92",
+    "110.140,23",
+    "6.581.573,69",
+    "505.781,62",
+    "-",
+    "6.650.850,99"
+   ],
+   [
+    "107",
+    "Nov-11",
+    "575.058,92",
+    "119.873,61",
+    "6.634.536,96",
+    "505.781,62",
+    "-",
+    "6.703.814,26"
+   ],
+   [
+    "108",
+    "Dic-11",
+    "575.058,92",
+    "162.767,38",
+    "6.705.909,95",
+    "505.781,62",
+    "-",
+    "6.775.187,25"
+   ],
+   [
+    "109",
+    "Ene-12",
+    "575.058,92",
+    "174.178,16",
+    "6.781.711,05",
+    "505.781,62",
+    "-",
+    "6.850.988,35"
+   ],
+   [
+    "110",
+    "Feb-12",
+    "575.058,92",
+    "132.931,38",
+    "6.839.125,95",
+    "505.781,62",
+    "-",
+    "6.908.403,25"
+   ],
+   [
+    "111",
+    "Mar-12",
+    "575.058,92",
+    "113.534,75",
+    "6.887.793,70",
+    "505.781,62",
+    "-",
+    "6.957.071,00"
+   ],
+   [
+    "112",
+    "Abr-12",
+    "575.058,92",
+    "111.617,43",
+    "6.935.279,06",
+    "505.781,62",
+    "-",
+    "7.004.556,36"
+   ],
+   [
+    "113",
+    "May-12",
+    "575.058,92",
+    "105.328,60",
+    "6.979.751,33",
+    "505.781,62",
+    "-",
+    "7.049.028,63"
+   ],
+   [
+    "114",
+    "Jun-12",
+    "575.058,92",
+    "115.548,52",
+    "7.028.171,09",
+    "505.781,62",
+    "-",
+    "7.097.448,39"
+   ],
+   [
+    "115",
+    "Jul-12",
+    "575.058,92",
+    "112.133,67",
+    "7.074.805,83",
+    "505.781,62",
+    "-",
+    "7.144.083,13"
+   ],
+   [
+    "116",
+    "Ago-12",
+    "575.058,92",
+    "109.206,21",
+    "7.119.880,88",
+    "505.781,62",
+    "-",
+    "7.189.158,18"
+   ],
+   [
+    "117",
+    "Sep-12",
+    "575.058,92",
+    "110.932,28",
+    "7.165.323,37",
+    "505.781,62",
+    "-",
+    "7.234.600,67"
+   ],
+   [
+    "118",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   56
+  ],
+  "nodo": "CM.D11.F0079",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0059.1",
+  "titulo": "CUADRO PARTE 2 N° 2-b",
+  "encabezados": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)",
+   "(5)"
+  ],
+  "filas": [
+   [
+    "N°",
+    "MES",
+    "20.000x 1,02 añoA-añoT",
+    "CMMi",
+    "Ci"
+   ],
+   [
+    "121",
+    "Ene-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "122",
+    "Feb-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "123",
+    "Mar-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "124",
+    "Abr-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "125",
+    "May-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "126",
+    "Jun-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "127",
+    "Jul-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "128",
+    "Ago-13",
+    "20.400,00",
+    "25.000,00",
+    "45.400,00"
+   ],
+   [
+    "129",
+    "Sep-13",
+    "20.400,00",
+    "50.000,00",
+    "70.400,00"
+   ],
+   [
+    "130",
+    "Oct-13",
+    "20.400,00",
+    "25.000,00",
+    "45.400,00"
+   ],
+   [
+    "131",
+    "Nov-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "132",
+    "Dic-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "133",
+    "Ene-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "134",
+    "Feb-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "135",
+    "Mar-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "136",
+    "Abr-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "137",
+    "May-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "138",
+    "Jun-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "139",
+    "Jul-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "140",
+    "Ago-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "141",
+    "Sep-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "142",
+    "Oct-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "143",
+    "Nov-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "144",
+    "Dic-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "145",
+    "Ene-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "146",
+    "Feb-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "147",
+    "Mar-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "148",
+    "Abr-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "149",
+    "May-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "150",
+    "Jun-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "151",
+    "Jul-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "152",
+    "Ago-15",
+    "21.224,16",
+    "25.000,00",
+    "46.224,16"
+   ],
+   [
+    "153",
+    "Sep-15",
+    "21.224,16",
+    "50.000,00",
+    "71.224,16"
+   ],
+   [
+    "154",
+    "Oct-15",
+    "21.224,16",
+    "25.000,00",
+    "46.224,16"
+   ],
+   [
+    "155",
+    "Nov-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "156",
+    "Dic-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "157",
+    "Ene-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "158",
+    "Feb-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "159",
+    "Mar-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "160",
+    "Abr-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "161",
+    "May-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "162",
+    "Jun-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "163",
+    "Jul-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   59
+  ],
+  "nodo": "CM.D11.F0080",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0059.2",
+  "titulo": null,
+  "encabezados": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)",
+   "(5)"
+  ],
+  "filas": [
+   [
+    "N°",
+    "MES",
+    "20.000x 1,02 añoA-añoT",
+    "CMMi",
+    "Ci"
+   ],
+   [
+    "164",
+    "Ago-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "165",
+    "Sep-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "166",
+    "Oct-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "167",
+    "Nov-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "168",
+    "Dic-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "169",
+    "Ene-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "170",
+    "Feb-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "171",
+    "Mar-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "172",
+    "Abr-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "173",
+    "May-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "174",
+    "Jun-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "175",
+    "Jul-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "176",
+    "Ago-17",
+    "22.081,62",
+    "25.000,00",
+    "47.081,62"
+   ],
+   [
+    "177",
+    "Sep-17",
+    "22.081,62",
+    "50.000,00",
+    "72.081,62"
+   ],
+   [
+    "178",
+    "Oct-17",
+    "22.081,62",
+    "25.000,00",
+    "47.081,62"
+   ],
+   [
+    "179",
+    "Nov-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "180",
+    "Dic-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "181",
+    "Ene-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "182",
+    "Feb-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "183",
+    "Mar-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "184",
+    "Abr-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "185",
+    "May-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "186",
+    "Jun-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "187",
+    "Jul-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "188",
+    "Ago-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "189",
+    "Sep-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "190",
+    "Oct-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "191",
+    "Nov-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "192",
+    "Dic-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "193",
+    "Ene-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "194",
+    "Feb-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "195",
+    "Mar-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "196",
+    "Abr-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "197",
+    "May-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "198",
+    "Jun-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "199",
+    "Jul-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "200",
+    "Ago-19",
+    "22.973,71",
+    "25.000,00",
+    "47.973,71"
+   ],
+   [
+    "201",
+    "Sep-19",
+    "22.973,71",
+    "50.000,00",
+    "72.973,71"
+   ],
+   [
+    "202",
+    "Oct-19",
+    "22.973,71",
+    "25.000,00",
+    "47.973,71"
+   ],
+   [
+    "203",
+    "Nov-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "204",
+    "Dic-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "205",
+    "Ene-20",
+    "23.433,19",
+    "-",
+    "23.433,19"
+   ],
+   [
+    "206",
+    "Feb-20",
+    "23.433,19",
+    "-",
+    "23.433,19"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   59
+  ],
+  "nodo": "CM.D11.F0080",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0060.1",
+  "titulo": "CUADRO PARTE 2 N° 3",
+  "encabezados": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)",
+   "(5)",
+   "(6)",
+   "(7)",
+   "(8)",
+   "(9)",
+   "(10)",
+   "(11)",
+   "(12)"
+  ],
+  "filas": [
+   [
+    "N°",
+    "MES",
+    "PRIMA",
+    "INGRESOS",
+    "INGRESOS",
+    "INVERSIONES",
+    "INVERSIONES",
+    "COSTOS",
+    "COSTOS",
+    "PAGOS MOP",
+    "PAGOS MOP",
+    "CUENTA"
+   ],
+   [
+    "",
+    "",
+    "PSC",
+    "YC",
+    "∑ (1 + 0,7592%)",
+    "INV",
+    "∑ (1 + 0,7592%)",
+    "C",
+    "∑ (1 + 0,7592%)",
+    "PMOP",
+    "∑ (1 + 0,7592%)",
+    "MDI"
+   ],
+   [
+    "",
+    "",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)",
+    "(UF)"
+   ],
+   [
+    "0",
+    "Dic-02",
+    "575.058,92",
+    "-",
+    "33.250,00",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "541.808,92"
+   ],
+   [
+    "1",
+    "Ene-03",
+    "575.058,92",
+    "93.443,99",
+    "92.739,91",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "634.548,83"
+   ],
+   [
+    "2",
+    "Feb-03",
+    "575.058,92",
+    "99.994,87",
+    "191.233,57",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "733.042,49"
+   ],
+   [
+    "3",
+    "Mar-03",
+    "575.058,92",
+    "76.315,29",
+    "265.836,76",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "807.645,68"
+   ],
+   [
+    "4",
+    "Abr-03",
+    "575.058,92",
+    "65.179,77",
+    "329.074,16",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "870.883,08"
+   ],
+   [
+    "5",
+    "May-03",
+    "575.058,92",
+    "64.079,04",
+    "390.775,20",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "932.584,12"
+   ],
+   [
+    "6",
+    "Jun-03",
+    "575.058,92",
+    "60.468,66",
+    "448.561,12",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "990.370,04"
+   ],
+   [
+    "7",
+    "Jul-03",
+    "575.058,92",
+    "66.335,87",
+    "511.476,30",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.053.285,22"
+   ],
+   [
+    "8",
+    "Ago-03",
+    "575.058,92",
+    "64.375,42",
+    "572.072,08",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.113.881,00"
+   ],
+   [
+    "9",
+    "Sep-03",
+    "575.058,92",
+    "62.694,77",
+    "630.641,23",
+    "-",
+    "33.250,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.172.450,15"
+   ],
+   [
+    "10",
+    "Oct-03",
+    "575.058,92",
+    "63.685,70",
+    "689.687,82",
+    "3.186,00",
+    "36.203,92",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.228.542,82"
+   ],
+   [
+    "11",
+    "Nov-03",
+    "575.058,92",
+    "66.771,93",
+    "751.129,36",
+    "41.019,60",
+    "73.948,94",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.252.239,34"
+   ],
+   [
+    "12",
+    "Dic-03",
+    "575.058,92",
+    "72.672,73",
+    "817.496,78",
+    "32.782,40",
+    "103.887,04",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.288.668,66"
+   ],
+   [
+    "13",
+    "Ene-04",
+    "575.058,92",
+    "95.312,87",
+    "903.884,16",
+    "3.186,00",
+    "106.774,69",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.372.168,39"
+   ],
+   [
+    "14",
+    "Feb-04",
+    "575.058,92",
+    "101.994,77",
+    "995.631,17",
+    "107.598,50",
+    "203.562,41",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.367.127,68"
+   ],
+   [
+    "15",
+    "Mar-04",
+    "575.058,92",
+    "77.841,59",
+    "1.065.124,17",
+    "16.992,00",
+    "218.732,00",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.421.451,09"
+   ],
+   [
+    "16",
+    "Abr-04",
+    "575.058,92",
+    "66.483,37",
+    "1.124.029,91",
+    "9.864,21",
+    "227.471,91",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.471.616,92"
+   ],
+   [
+    "17",
+    "May-04",
+    "575.058,92",
+    "65.360,63",
+    "1.181.504,53",
+    "14.991,35",
+    "240.654,50",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.515.908,95"
+   ],
+   [
+    "18",
+    "Jun-04",
+    "575.058,92",
+    "61.678,03",
+    "1.235.332,21",
+    "23.864,91",
+    "261.481,90",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.548.909,23"
+   ],
+   [
+    "19",
+    "Jul-04",
+    "575.058,92",
+    "67.662,58",
+    "1.293.937,80",
+    "22.283,12",
+    "280.782,31",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.588.214,41"
+   ],
+   [
+    "20",
+    "Ago-04",
+    "575.058,92",
+    "65.662,92",
+    "1.350.382,87",
+    "39.798,45",
+    "314.993,80",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.610.447,99"
+   ],
+   [
+    "21",
+    "Sep-04",
+    "575.058,92",
+    "63.948,67",
+    "1.404.940,14",
+    "59.253,11",
+    "365.545,09",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.614.453,97"
+   ],
+   [
+    "22",
+    "Oct-04",
+    "575.058,92",
+    "64.959,42",
+    "1.459.942,14",
+    "54.185,60",
+    "411.424,76",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.623.576,30"
+   ],
+   [
+    "23",
+    "Nov-04",
+    "575.058,92",
+    "68.107,37",
+    "1.517.175,04",
+    "63.838,83",
+    "465.070,66",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.627.163,30"
+   ],
+   [
+    "24",
+    "Dic-04",
+    "575.058,92",
+    "74.126,19",
+    "1.578.996,41",
+    "28.946,42",
+    "489.212,02",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.664.843,31"
+   ],
+   [
+    "25",
+    "Ene-05",
+    "575.058,92",
+    "96.266,00",
+    "1.658.677,48",
+    "20.018,42",
+    "505.781,62",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.727.954,78"
+   ],
+   [
+    "26",
+    "Feb-05",
+    "575.058,92",
+    "103.014,71",
+    "1.743.302,11",
+    "-",
+    "505.781,62",
+    "-",
+    "-",
+    "-",
+    "-",
+    "1.812.579,41"
+   ],
+   [
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":"
+   ],
+   [
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":",
+    ":"
+   ],
+   [
+    "119",
+    "Nov-12",
+    "575.058,92",
+    "75.150,11",
+    "5.824.368,04",
+    "-",
+    "505.781,62",
+    "-",
+    "-",
+    "-",
+    "-",
+    "5.893.645,34"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   60
+  ],
+  "nodo": "CM.D11.F0081",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0062.1",
+  "titulo": "CUADRO PARTE 2 N° 3-b",
+  "encabezados": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)",
+   "(5)"
+  ],
+  "filas": [
+   [
+    "N°",
+    "MES",
+    "20.000x 1,02 añoA-anoT",
+    "CMMi",
+    "Ci"
+   ],
+   [
+    "121",
+    "Ene-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "122",
+    "Feb-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "123",
+    "Mar-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "124",
+    "Abr-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "125",
+    "May-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "126",
+    "Jun-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "127",
+    "Jul-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "128",
+    "Ago-13",
+    "20.400,00",
+    "25.000,00",
+    "45.400,00"
+   ],
+   [
+    "129",
+    "Sep-13",
+    "20.400,00",
+    "50.000,00",
+    "70.400,00"
+   ],
+   [
+    "130",
+    "Oct-13",
+    "20.400,00",
+    "25.000,00",
+    "45.400,00"
+   ],
+   [
+    "131",
+    "Nov-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "132",
+    "Dic-13",
+    "20.400,00",
+    "-",
+    "20.400,00"
+   ],
+   [
+    "133",
+    "Ene-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "134",
+    "Feb-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "135",
+    "Mar-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "136",
+    "Abr-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "137",
+    "May-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "138",
+    "Jun-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "139",
+    "Jul-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "140",
+    "Ago-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "141",
+    "Sep-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "142",
+    "Oct-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "143",
+    "Nov-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "144",
+    "Dic-14",
+    "20.808,00",
+    "-",
+    "20.808,00"
+   ],
+   [
+    "145",
+    "Ene-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "146",
+    "Feb-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "147",
+    "Mar-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "148",
+    "Abr-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "149",
+    "May-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "150",
+    "Jun-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "151",
+    "Jul-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "152",
+    "Ago-15",
+    "21.224,16",
+    "25.000,00",
+    "46.224,16"
+   ],
+   [
+    "153",
+    "Sep-15",
+    "21.224,16",
+    "50.000,00",
+    "71.224,16"
+   ],
+   [
+    "154",
+    "Oct-15",
+    "21.224,16",
+    "25.000,00",
+    "46.224,16"
+   ],
+   [
+    "155",
+    "Nov-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "156",
+    "Dic-15",
+    "21.224,16",
+    "-",
+    "21.224,16"
+   ],
+   [
+    "157",
+    "Ene-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "158",
+    "Feb-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "159",
+    "Mar-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "160",
+    "Abr-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "161",
+    "May-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "162",
+    "Jun-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "163",
+    "Jul-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "164",
+    "Ago-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "165",
+    "Sep-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "166",
+    "Oct-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "167",
+    "Nov-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "168",
+    "Dic-16",
+    "21.648,64",
+    "-",
+    "21.648,64"
+   ],
+   [
+    "169",
+    "Ene-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "170",
+    "Feb-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "171",
+    "Mar-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "172",
+    "Abr-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "173",
+    "May-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "174",
+    "Jun-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "175",
+    "Jul-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "176",
+    "Ago-17",
+    "22.081,62",
+    "25.000,00",
+    "47.081,62"
+   ],
+   [
+    "177",
+    "Sep-17",
+    "22.081,62",
+    "50.000,00",
+    "72.081,62"
+   ],
+   [
+    "178",
+    "Oct-17",
+    "22.081,62",
+    "25.000,00",
+    "47.081,62"
+   ],
+   [
+    "179",
+    "Nov-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "180",
+    "Dic-17",
+    "22.081,62",
+    "-",
+    "22.081,62"
+   ],
+   [
+    "181",
+    "Ene-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "182",
+    "Feb-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "183",
+    "Mar-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "184",
+    "Abr-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "185",
+    "May-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "186",
+    "Jun-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "187",
+    "Jul-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "188",
+    "Ago-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "189",
+    "Sep-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "190",
+    "Oct-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "191",
+    "Nov-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "192",
+    "Dic-18",
+    "22.523,25",
+    "-",
+    "22.523,25"
+   ],
+   [
+    "193",
+    "Ene-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "194",
+    "Feb-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "195",
+    "Mar-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "196",
+    "Abr-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "197",
+    "May-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "198",
+    "Jun-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "199",
+    "Jul-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "200",
+    "Ago-19",
+    "22.973,71",
+    "25.000,00",
+    "47.973,71"
+   ],
+   [
+    "201",
+    "Sep-19",
+    "22.973,71",
+    "50.000,00",
+    "72.973,71"
+   ],
+   [
+    "202",
+    "Oct-19",
+    "22.973,71",
+    "25.000,00",
+    "47.973,71"
+   ],
+   [
+    "203",
+    "Nov-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "204",
+    "Dic-19",
+    "22.973,71",
+    "-",
+    "22.973,71"
+   ],
+   [
+    "205",
+    "Ene-20",
+    "23.433,19",
+    "-",
+    "23.433,19"
+   ],
+   [
+    "206",
+    "Feb-20",
+    "23.433,19",
+    "-",
+    "23.433,19"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   62
+  ],
+  "nodo": "CM.D11.F0082",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D11.p0068.1",
+  "titulo": "Cuadro: Alza de Tarifa Base",
+  "encabezados": [
+   "(1) AÑO",
+   "(2) AÑO t",
+   "(3) veq_t-1 (veq)",
+   "(4) veq_0 * (1,05)^(t-1) (veq)",
+   "(5) Δveq_t-1 (%)",
+   "(6) Δtarifa_max_t (%)",
+   "(7) Δtarifa_t (%)",
+   "(8) Σ Δtarifa_j (j=0) (%)"
+  ],
+  "filas": [
+   [
+    "2002",
+    "0",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "2003",
+    "1",
+    "699.394,00",
+    "699.394,00",
+    "0,00%",
+    "-",
+    "0,00%",
+    "0,00%"
+   ],
+   [
+    "2004",
+    "2",
+    "720.375,82",
+    "734.363,70",
+    "1,94%",
+    "-",
+    "0,00%",
+    "0,00%"
+   ],
+   [
+    "2005",
+    "3",
+    "734.783,34",
+    "771.081,89",
+    "4,94%",
+    "4,94%",
+    "4,94%",
+    "4,94%"
+   ],
+   [
+    "2006",
+    "4",
+    "786.218,17",
+    "809.635,98",
+    "2,98%",
+    "0,00%",
+    "0,00%",
+    "4,94%"
+   ],
+   [
+    "2007",
+    "5",
+    "853.046,71",
+    "850.117,78",
+    "-0,34%",
+    "0,00%",
+    "0,00%",
+    "4,94%"
+   ],
+   [
+    "2008",
+    "6",
+    "844.516,24",
+    "892.623,67",
+    "5,70%",
+    "0,76%",
+    "0,00%",
+    "4,94%"
+   ],
+   [
+    "2009",
+    "7",
+    "912.077,54",
+    "937.254,85",
+    "2,76%",
+    "0,00%",
+    "0,76%",
+    "5,70%"
+   ],
+   [
+    "2010",
+    "8",
+    "902.956,76",
+    "984.117,59",
+    "8,99%",
+    "3,29%",
+    "3,29%",
+    "8,99%"
+   ],
+   [
+    "2011",
+    "9",
+    "875.868,06",
+    "1.033.323,47",
+    "17,98%",
+    "5,00%",
+    "1,01%",
+    "10,00%"
+   ],
+   [
+    "2012",
+    "10",
+    "840.833,34",
+    "1.084.989,65",
+    "29,04%",
+    "5,00%",
+    "0,00%",
+    "10,00%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D11",
+  "paginas": [
+   68
+  ],
+  "nodo": "CM.D11.F0089",
+  "ruta": "Otros contenidos de los actos › tarifas y peajes › Convenio complementario N°1 (2004-07-29)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0001.1",
+  "titulo": null,
+  "encabezados": [
+   "DEPART. JURIDICO",
+   "",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEPART. JURIDICO",
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPT. T. R. Y REGISTRO",
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. CENTRAL",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEPTO. BIENES NAC.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "IFH",
+    "06 DIC. 2012",
+    ""
+   ],
+   [
+    "SUB. DEPTO. MUNICIP.",
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D12.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0001.2",
+  "titulo": null,
+  "encabezados": [
+   "REF. POR $",
+   "IMPUTAC.",
+   "ANOT. POR $",
+   "IMPUTAC.",
+   "DEDUC.DTO."
+  ],
+  "filas": [
+   [
+    "REF. POR $",
+    "IMPUTAC.",
+    "ANOT. POR $",
+    "IMPUTAC.",
+    "DEDUC.DTO."
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   1
+  ],
+  "nodo": "CM.D12.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0015.1",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Fecha",
+   "Interés Mensual",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "30/06/2010",
+    "",
+    "736.343,00"
+   ],
+   [
+    "31/07/2010",
+    "5.589,58",
+    "741.932,58"
+   ],
+   [
+    "31/08/2010",
+    "5.632,01",
+    "747.564,59"
+   ],
+   [
+    "31/10/2010",
+    "5.717,84",
+    "758.957,19"
+   ],
+   [
+    "31/11/2010",
+    "5.761,24",
+    "764.718,43"
+   ],
+   [
+    "31/12/2010",
+    "5.804,98",
+    "770.523,41"
+   ],
+   [
+    "28/02/2011",
+    "5.893,44",
+    "782.265,89"
+   ],
+   [
+    "31/03/2011",
+    "5.938,18",
+    "788.204,07"
+   ],
+   [
+    "30/04/2011",
+    "5.983,26",
+    "794.187,33"
+   ],
+   [
+    "31/05/2011",
+    "6.028,68",
+    "800.216,01"
+   ],
+   [
+    "30/06/2011",
+    "6.074,44",
+    "806.290,45"
+   ],
+   [
+    "31/07/2011",
+    "6.120,55",
+    "812.411,00"
+   ],
+   [
+    "31/08/2011",
+    "6.167,01",
+    "818.578,01"
+   ],
+   [
+    "30/09/2011",
+    "6.213,83",
+    "824.791,84"
+   ],
+   [
+    "31/10/2011",
+    "6.260,99",
+    "831.052,83"
+   ],
+   [
+    "31/11/2011",
+    "6.308,52",
+    "837.361,35"
+   ],
+   [
+    "30/12/2011",
+    "6.356,41",
+    "843.717,76"
+   ],
+   [
+    "31/01/2012",
+    "6.404,66",
+    "850.122,42"
+   ],
+   [
+    "29/02/2012",
+    "6.453,28",
+    "856.575,70"
+   ],
+   [
+    "31/03/2012",
+    "6.502,27",
+    "863.077,97"
+   ],
+   [
+    "30/04/2012",
+    "6.551,62",
+    "869.629,59"
+   ],
+   [
+    "31/05/2012",
+    "6.601,36",
+    "876.230,95"
+   ],
+   [
+    "30/06/2012",
+    "6.651,47",
+    "882.882,42"
+   ],
+   [
+    "31/07/2012",
+    "6.701,96",
+    "889.584,38"
+   ],
+   [
+    "31/08/2012",
+    "6.752,84",
+    "896.337,22"
+   ],
+   [
+    "30/09/2012",
+    "6.804,10",
+    "903.141,32"
+   ],
+   [
+    "31/10/2012",
+    "6.855,75",
+    "909.997,07"
+   ],
+   [
+    "30/11/2012",
+    "6.907,79",
+    "916.904,86"
+   ],
+   [
+    "31/12/2012",
+    "6.960,22",
+    "923.865,08"
+   ]
+  ],
+  "notas": "- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.",
+  "documento": "CM.D12",
+  "paginas": [
+   15
+  ],
+  "nodo": "CM.D12.F0025",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0015.2",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Trimestre",
+   "Flujo Neto del Trimestre UF",
+   "N° de meses desde el último día del Trimestre al 31-12-12",
+   "Interés hasta el 31-12-12",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "jul-10 a sep-10",
+    "14.786,84",
+    "27",
+    "3.349,55",
+    "18.136,39"
+   ],
+   [
+    "oct-10 a dic-10",
+    "21.548,22",
+    "24",
+    "4.288,31",
+    "25.836,53"
+   ],
+   [
+    "ene-11 a mar-11",
+    "5.699,21",
+    "21",
+    "980,91",
+    "6.680,12"
+   ],
+   [
+    "abr-11 a jun-11",
+    "-358,25",
+    "18",
+    "-52,24",
+    "-410,49"
+   ],
+   [
+    "jul-11 a sep-11",
+    "9.468,36",
+    "15",
+    "1.137,33",
+    "10.605,69"
+   ],
+   [
+    "oct-11 a dic-11",
+    "6.883,38",
+    "12",
+    "653,87",
+    "7.537,25"
+   ],
+   [
+    "ene-12 a mar-12",
+    "7.968,98",
+    "9",
+    "561,26",
+    "8.530,24"
+   ],
+   [
+    "abr-12 a jun-12",
+    "9.722,74",
+    "6",
+    "451,32",
+    "10.174,06"
+   ],
+   [
+    "jul-12 a sep-12",
+    "7.933,01",
+    "3",
+    "182,03",
+    "8.115,04"
+   ]
+  ],
+  "notas": "- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.\n- Los flujos netos de los trimestres de abr-12 a jun-12 y jul-12 a sep-12, son referenciales y no comprometen a las partes",
+  "documento": "CM.D12",
+  "paginas": [
+   15
+  ],
+  "nodo": "CM.D12.F0025",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0015.3",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Fecha del Pago",
+   "Monto UF",
+   "N° de días al 31-12-12",
+   "Interés",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "09/01/2012",
+    "44.905,18",
+    "357",
+    "4.156,49",
+    "49.061,67"
+   ],
+   [
+    "09/01/2012",
+    "16.938,01",
+    "357",
+    "1.567,81",
+    "18.505,82"
+   ]
+  ],
+  "notas": "- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.",
+  "documento": "CM.D12",
+  "paginas": [
+   15
+  ],
+  "nodo": "CM.D12.F0025",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0015.4",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "Tasa de interés mensual (Tm)",
+    "0,7591%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   15
+  ],
+  "nodo": "CM.D12.F0025",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0015.5",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "Tasa de interés anual (Ta)",
+    "9,5%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   15
+  ],
+  "nodo": "CM.D12.F0025",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0015.6",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "Tasa de interés diaria (Td)",
+    "0,0248%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   15
+  ],
+  "nodo": "CM.D12.F0025",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.1",
+  "titulo": "ÍTEM 4: Ejemplo de las diferencias producidas por las rebajas tarifarias dispuestas por el MOP en el segundo semestre de 2010 y el año 2011 pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+  "encabezados": [
+   "Tasa de interés anual (Ta)",
+   "Tasa de interés diaria (Td)"
+  ],
+  "filas": [
+   [
+    "9,5%",
+    "0,0248%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.2",
+  "titulo": null,
+  "encabezados": [
+   "Fecha del Pago",
+   "Monto UF",
+   "N° de días al 31-12-12",
+   "Interés",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "18/01/2012",
+    "77.894,20",
+    "348",
+    "7.020,29",
+    "84.914,49"
+   ],
+   [
+    "18/01/2012",
+    "52.265,94",
+    "348",
+    "4.710,52",
+    "56.976,46"
+   ],
+   [
+    "29/06/2012",
+    "55.504,01",
+    "185",
+    "2.605,51",
+    "58.109,52"
+   ],
+   [
+    "TOTAL",
+    "",
+    "",
+    "",
+    "200.000,47"
+   ]
+  ],
+  "notas": "Nota:\nPara efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.",
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.3",
+  "titulo": "ÍTEM 4: Ejemplo de las diferencias producidas por las rebajas tarifarias dispuestas por el MOP en el segundo semestre de 2010 y el año 2011 pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+  "encabezados": [
+   "Tasa de interés anual (Ta)",
+   "Tasa de interés diaria (Td)"
+  ],
+  "filas": [
+   [
+    "9,5%",
+    "0,0248%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.4",
+  "titulo": "ÍTEM 5: Ejemplo de las diferencias producidas por la rebaja tarifaria dispuesta por el MOP en el primer semestre de 2012 que será pagado por el MOP, actualizados desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+  "encabezados": [
+   "Tasa de interés anual (Ta)",
+   "Tasa de interés diaria (Td)"
+  ],
+  "filas": [
+   [
+    "9,5%",
+    "0,0248%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.5",
+  "titulo": null,
+  "encabezados": [
+   "Fecha del Pago",
+   "Monto UF",
+   "N° de días al 31-12-12",
+   "Interés",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "26/09/2012",
+    "50.898,23",
+    "96",
+    "1.293,63",
+    "54.991,86"
+   ],
+   [
+    "TOTAL",
+    "",
+    "",
+    "",
+    "54.991,86"
+   ]
+  ],
+  "notas": "Nota:\nPara efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.",
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.6",
+  "titulo": "PRESUPUESTO OBRAS CONSERVACIÓN MAYOR PAVIMENTOS",
+  "encabezados": [
+   "TRAMO",
+   "ITEM",
+   "UN",
+   "CANTIDAD",
+   "PRECIO UNITARIO (UF)",
+   "PRECIO TOTAL (UF)"
+  ],
+  "filas": [
+   [
+    "1",
+    "Sello grietas",
+    "ML",
+    "1.306,0",
+    "0,0873",
+    "114,01"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "616,0",
+    "0,0873",
+    "53,76"
+   ],
+   [
+    "3",
+    "Sello grietas",
+    "ML",
+    "5.430,3",
+    "0,6763",
+    "3.672,46"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "1.179,5",
+    "1,051",
+    "1.239,65"
+   ],
+   [
+    "",
+    "Reposicion Asfaltica",
+    "M2",
+    "4.571,0",
+    "1,1182",
+    "5.111,29"
+   ],
+   [
+    "",
+    "Slurry Calzada",
+    "M2",
+    "231.945,0",
+    "0,0583",
+    "13.522,39"
+   ],
+   [
+    "",
+    "Slurry Bermas",
+    "M2",
+    "39.480,0",
+    "0,0583",
+    "2.301,68"
+   ],
+   [
+    "4",
+    "Sello grietas",
+    "ML",
+    "702,0",
+    "0,0873",
+    "61,28"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "3.664,5",
+    "0,6763",
+    "2.478,30"
+   ],
+   [
+    "",
+    "Geomalia",
+    "M2",
+    "1.722,0",
+    "0,1448",
+    "249,35"
+   ],
+   [
+    "",
+    "Recapado en calzada",
+    "M2",
+    "21.021,0",
+    "0,3384",
+    "7.113,51"
+   ],
+   [
+    "",
+    "Recapado en Berma",
+    "M2",
+    "4.804,8",
+    "0,3384",
+    "1.625,94"
+   ],
+   [
+    "5",
+    "Sello grietas",
+    "ML",
+    "749,0",
+    "1,1182",
+    "837,53"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "1.130,0",
+    "0,0873",
+    "98,65"
+   ],
+   [
+    "6",
+    "Sello grietas",
+    "ML",
+    "5.681,6",
+    "0,6763",
+    "3.842,47"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "900,0",
+    "1,051",
+    "945,90"
+   ],
+   [
+    "",
+    "Reposicion Asfaltica",
+    "M2",
+    "6.335,9",
+    "1,1182",
+    "7.113,51"
+   ],
+   [
+    "",
+    "Geomalia",
+    "M2",
+    "987,0",
+    "0,1448",
+    "142,98"
+   ],
+   [
+    "",
+    "Reconstruccion",
+    "M2",
+    "248.825,3",
+    "1,1182",
+    "277.103,86"
+   ],
+   [
+    "",
+    "Recapado en calzada",
+    "M2",
+    "47.209,6",
+    "0,3384",
+    "15.975,73"
+   ],
+   [
+    "7",
+    "Sello grietas",
+    "ML",
+    "365,5",
+    "0,0873",
+    "31,90"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "1.652,5",
+    "0,6763",
+    "1.117,59"
+   ],
+   [
+    "",
+    "Reconstruccion",
+    "M2",
+    "476,0",
+    "1,1182",
+    "532,26"
+   ],
+   [
+    "",
+    "Slurry Calzada",
+    "M2",
+    "157.779,0",
+    "0,0583",
+    "9.198,52"
+   ],
+   [
+    "",
+    "Slurry Bermas",
+    "M2",
+    "26.856,0",
+    "0,0583",
+    "1.565,70"
+   ],
+   [
+    "8",
+    "Sello grietas",
+    "ML",
+    "1.351,8",
+    "0,6763",
+    "914,19"
+   ],
+   [
+    "",
+    "Bacheo Simple",
+    "M2",
+    "236,3",
+    "1,051",
+    "248,27"
+   ],
+   [
+    "",
+    "Geomalia",
+    "M2",
+    "52.522,5",
+    "0,1448",
+    "7.599,76"
+   ],
+   [
+    "",
+    "Recapado en calzada",
+    "M2",
+    "11.920,0",
+    "0,3384",
+    "4.033,73"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.7",
+  "titulo": null,
+  "encabezados": [
+   "TOTAL NETO",
+   "IVA",
+   "PRECIO TOTAL"
+  ],
+  "filas": [
+   [
+    "180.601,84",
+    "34.314,35",
+    "214.916,19"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.8",
+  "titulo": "PRESUPUESTO INSPECCIÓN TÉCNICA DE OBRAS",
+  "encabezados": [
+   "ITEM",
+   "UN",
+   "CANTIDAD",
+   "PRECIO UNITARIO (UF)",
+   "PRECIO TOTAL (UF)"
+  ],
+  "filas": [
+   [
+    "Asesoria Tecnica Obras, control administrativo contrato, control de calidad prevencion de riesgos y laboratorio",
+    "1",
+    "gl",
+    "6.254,0",
+    "6.254,0"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.9",
+  "titulo": null,
+  "encabezados": [
+   "TOTAL NETO",
+   "IVA",
+   "PRECIO TOTAL"
+  ],
+  "filas": [
+   [
+    "6.254,00",
+    "1.188,26",
+    "7.442,26"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.10",
+  "titulo": "ÍTEM 6: Ejemplo numérico del pago realizado por el MOP en virtud de la facultad que le otorgan los numerales 5.3 y 5.5 del Convenio Complementario N° 1, actualizado desde la fecha efectiva de pago hasta el 31 de diciembre de 2012",
+  "encabezados": [
+   "Tasa de interés anual (Ta)",
+   "Tasa de interés diaria (Td)"
+  ],
+  "filas": [
+   [
+    "9,5%",
+    "0,0248%"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0016.11",
+  "titulo": null,
+  "encabezados": [
+   "Fecha Pagos",
+   "Monto Pago UF",
+   "N° de días al 31-12-12",
+   "Interés",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "06/01/2012",
+    "416.403,00",
+    "360",
+    "38.881,49",
+    "455.284,49"
+   ],
+   [
+    "TOTAL",
+    "",
+    "",
+    "",
+    "455.284,49"
+   ]
+  ],
+  "notas": "Nota:\nPara efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.\nLa fecha y monto es sólo referencial y no comprometen a las partes.",
+  "documento": "CM.D12",
+  "paginas": [
+   16
+  ],
+  "nodo": "CM.D12.F0030",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.1",
+  "titulo": "Item 8: Ejemplo numérico de los estados de avance de las obras señaladas en numeral 3.1, actualizados hasta el 31 de diciembre de 2012",
+  "encabezados": [
+   "Fecha",
+   "N° de meses al 31-12-12",
+   "Avance mensual de la Ejecución de obras de conservación mayor UF",
+   "Avance mensual de la Ejecución de obras de mejoramiento UF",
+   "Tasa de interés del Periodo",
+   "Avance Total Actualizado al 31/12/12 UF",
+   "Avance Acumulado y Actualizado al 31-12-12 UF"
+  ],
+  "filas": [
+   [
+    "mar-12",
+    "9",
+    "28.312,55",
+    "1.728,61",
+    "0,4074%",
+    "29.086,23",
+    "29.086,23"
+   ],
+   [
+    "abr-12",
+    "8",
+    "35.698,12",
+    "4.934,77",
+    "0,4074%",
+    "41.976,24",
+    "71.062,47"
+   ],
+   [
+    "may-12",
+    "7",
+    "38.945,21",
+    "2.641,15",
+    "0,4074%",
+    "42.786,91",
+    "113.849,38"
+   ],
+   [
+    "jun-12",
+    "6",
+    "40.000,00",
+    "956,33",
+    "0,4074%",
+    "41.967,72",
+    "155.817,10"
+   ],
+   [
+    "jul-12",
+    "5",
+    "17.896,33",
+    "769,84",
+    "0,4074%",
+    "19.049,51",
+    "174.866,61"
+   ],
+   [
+    "ago-12",
+    "4",
+    "12.389,58",
+    "569,30",
+    "0,4074%",
+    "13.150,01",
+    "188.016,62"
+   ],
+   [
+    "sep-12",
+    "3",
+    "5.388,58",
+    "200,00",
+    "0,4074%",
+    "5.636,92",
+    "193.653,54"
+   ],
+   [
+    "oct-12",
+    "2",
+    "0,00",
+    "1.200,00",
+    "0,4074%",
+    "1.209,80",
+    "194.863,34"
+   ],
+   [
+    "TOTAL",
+    "",
+    "178.588,37",
+    "13.000,00",
+    "",
+    "",
+    "194.863,34"
+   ]
+  ],
+  "notas": "- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-06-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12\n- Las fechas y montos de avance de obras son sólo referenciales y no comprometen a las partes",
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.2",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Fecha",
+   "N° de meses al 31-12-12",
+   "Avance mensual de la Ejecución de obras de conservación mayor UF",
+   "Tasa de interés del Periodo",
+   "Avance Total Actualizado al 31/12/12 UF",
+   "Avance Acumulado y Actualizado al 31-12-12 UF"
+  ],
+  "filas": [
+   [
+    "oct-11",
+    "14",
+    "28.387,34",
+    "0,4074%",
+    "30.050,02",
+    "30.050,02"
+   ],
+   [
+    "nov-11",
+    "13",
+    "0,00",
+    "0,4074%",
+    "0,00",
+    "30.050,02"
+   ],
+   [
+    "dic-11",
+    "12",
+    "0,00",
+    "0,4074%",
+    "0,00",
+    "30.050,02"
+   ],
+   [
+    "ene-12",
+    "11",
+    "15.464,05",
+    "0,4074%",
+    "16.171,35",
+    "46.221,37"
+   ],
+   [
+    "feb-12",
+    "10",
+    "4.976,85",
+    "0,4074%",
+    "5.183,36",
+    "51.404,73"
+   ],
+   [
+    "TOTAL",
+    "",
+    "48.828,24",
+    "",
+    "",
+    "51.404,73"
+   ]
+  ],
+  "notas": "- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12\n- Las fecha y montos de avance de obras son sólo referenciales y no comprometen a las partes",
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.3",
+  "titulo": "Item 10: Ejemplo numérico de los desembolsos señalados en el numeral 3.3, actualizados hasta el 31 de diciembre de 2012",
+  "encabezados": [
+   "Fecha",
+   "N° de meses al 31-12-12",
+   "Desembolsos por la adquisición y cambio del equipamiento UF",
+   "Tasa de interés del Periodo",
+   "Avance Total Actualizado al 31/12/12 UF",
+   "Avance Acumulado y Actualizado al 31-12-12 UF"
+  ],
+  "filas": [
+   [
+    "ago-12",
+    "4",
+    "700,00",
+    "0,4074%",
+    "711,48",
+    "711,48"
+   ],
+   [
+    "sep-12",
+    "3",
+    "2.600,00",
+    "0,4074%",
+    "2.631,91",
+    "3.343,39"
+   ],
+   [
+    "oct-12",
+    "2",
+    "700,00",
+    "0,4074%",
+    "705,72",
+    "4.049,11"
+   ],
+   [
+    "nov-12",
+    "1",
+    "0,00",
+    "0,4074%",
+    "0,00",
+    "4.049,11"
+   ],
+   [
+    "TOTAL",
+    "",
+    "4.000,00",
+    "",
+    "",
+    "4.049,11"
+   ]
+  ],
+  "notas": "- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12\n- Las fecha y montos de avance de obras son sólo referenciales y no comprometen a las partes",
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.4",
+  "titulo": "Ítem 11: Ejemplo numérico del cálculo de la indemnización de conformidad a lo señalado en el numeral 4.1, actualizado al 31 de diciembre de 2012",
+  "encabezados": [
+   "Valor presente de la concesión al 31-12-12",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "Numerar 2.2",
+    "923.865,08"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.5",
+  "titulo": null,
+  "encabezados": [
+   "Cantidades a restar actualizadas al 31-12-12",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "Numerar 2.3",
+    "95.204,83"
+   ],
+   [
+    "Numerar 2.4",
+    "67.567,49"
+   ],
+   [
+    "Numerar 2.5 y 2.6",
+    "200.000,47"
+   ],
+   [
+    "Numerar 2.7",
+    "54.991,86"
+   ],
+   [
+    "Numerar 2.8",
+    "455.284,49"
+   ],
+   [
+    "TOTAL",
+    "873.049,14"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.6",
+  "titulo": null,
+  "encabezados": [
+   "Cantidades a sumar actualizadas al 31-12-12",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "Numerar 3.1",
+    "194.863,34"
+   ],
+   [
+    "Numerar 3.2",
+    "51.404,73"
+   ],
+   [
+    "Numerar 3.3",
+    "4.049,11"
+   ],
+   [
+    "TOTAL",
+    "250.317,18"
+   ]
+  ],
+  "notas": null,
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0017.7",
+  "titulo": null,
+  "encabezados": [
+   "Valor presente de la concesión al 31-12-12",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "Numerar 4.1",
+    "301.133,12"
+   ]
+  ],
+  "notas": "Nota:\n- La cantidad señalada en el numeral 2.3 es sólo referencial y no compromete a las partes\n- La cantidad señalada en el numeral 2.7 es sólo referencial y no compromete a las partes\n- La cantidad señalada en el numeral 3.1 es sólo referencial y no compromete a las partes\n- La cantidad señalada en el numeral 3.3 es sólo referencial y no compromete a las partes\n\n- Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.",
+  "documento": "CM.D12",
+  "paginas": [
+   17
+  ],
+  "nodo": "CM.D12.F0034",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.1",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Tasa de interés diaria (Td)"
+  ],
+  "filas": [
+   [
+    "0,0248%"
+   ]
+  ],
+  "notas": "Ítem 12: Ejemplo del procedimiento establecido en el numeral 4.2, actualizado al 31 de diciembre de 2012",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.2",
+  "titulo": null,
+  "encabezados": [
+   "Fecha de Prepago",
+   "Total UF"
+  ],
+  "filas": [
+   [
+    "15/11/2012",
+    "170.000,00"
+   ]
+  ],
+  "notas": "A modo de ejemplo: si se realizare un prepago parcial el 15-11-12 por UF 170.000, entonces:",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.3",
+  "titulo": null,
+  "encabezados": [
+   "Fecha de Actualización",
+   "Monto de Prepago actualizado al 31-12-12 UF"
+  ],
+  "filas": [
+   [
+    "31/12/2012",
+    "171.950,22"
+   ]
+  ],
+  "notas": "De conformidad a lo señalado en numeral 4.2:",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.4",
+  "titulo": null,
+  "encabezados": [
+   "Fecha",
+   "Valor presente de la concesión al 31-12-12 UF",
+   "Prepago UF",
+   "Saldo por pagar al 31-12-12 UF"
+  ],
+  "filas": [
+   [
+    "31/12/2012",
+    "301.133,12",
+    "171.950,22",
+    "129.182,90"
+   ]
+  ],
+  "notas": "Nota: - Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12. - Las cantidades presentadas incluyen fechas y montos referenciales, por lo que no comprometen a las partes",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.5",
+  "titulo": "ANEXO N° 1 CONVENIO DE EXTINCIÓN",
+  "encabezados": [
+   "Tasa de interés diaria (Td)"
+  ],
+  "filas": [
+   [
+    "0,0248%"
+   ]
+  ],
+  "notas": "Ítem 13: Ejemplo del cálculo del pago de la indemnización por término del contrato de concesión por mutuo acuerdo",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.6",
+  "titulo": null,
+  "encabezados": [
+   "Valor de la indemnización Total numeral 4.1",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "31/12/2012",
+    "301.133,12"
+   ]
+  ],
+  "notas": "a) Si el pago del monto final fuese realizado por el MOP el 21-01-13, entonces el monto a pagar es:",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.7",
+  "titulo": null,
+  "encabezados": [
+   "Valor a pagar por el MOP",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "21/01/2013",
+    "302.705,32"
+   ]
+  ],
+  "notas": "b) Si el pago del monto final fuese realizado por el MOP el 20-02-13, entonces el monto a pagar es:",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ },
+ {
+  "id": "TABLA:CM.D12.p0018.8",
+  "titulo": null,
+  "encabezados": [
+   "Valor a pagar por el MOP",
+   "Monto UF"
+  ],
+  "filas": [
+   [
+    "20/02/2013",
+    "304.965,56"
+   ]
+  ],
+  "notas": "Nota: - Las cantidades presentadas incluyen montos referenciales, por lo que no comprometen a las partes - Este ejemplo supone que el MOP no realizó prepagos - Para efectos del presente ejemplo se supone como fecha de publicación en el Diario Oficial del Decreto Supremo que aprueba el presente convenio, el día 30-09-12. Por lo tanto, la fecha de extinción del contrato será el 31-12-12.",
+  "documento": "CM.D12",
+  "paginas": [
+   18
+  ],
+  "nodo": "CM.D12.F0035",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio extincion N°342 (2012-11-30)"
+ }
+]

@@ -1,0 +1,18 @@
+acto;documento;pag_inicio;pag_fin;tipo;numero;fecha;origen;titulo
+RITP.D01.A1;RITP.D01;1;220;bases licitacion;;2001-08-01;llm;BALI Concesión Ruta Interportuaria Talcahuano – Penco
+RITP.D02.A1;RITP.D02;1;4;circular aclaratoria;1;2001-10-23;manual;Ruta Interportuaria Talcahuano – Penco CA 1
+RITP.D02.A2;RITP.D02;5;20;circular aclaratoria;2;2001-11-09;manual;Ruta Interportuaria Talcahuano – Penco CA 1
+RITP.D02.A3;RITP.D02;21;24;circular aclaratoria;3;2001-11-16;manual;Ruta Interportuaria Talcahuano – Penco CA 1
+RITP.D02.A4;RITP.D02;25;46;circular aclaratoria;4;2001-11-22;manual;Ruta Interportuaria Talcahuano – Penco CA 1
+RITP.D05.A1;RITP.D05;1;5;publicacion diario oficial;37.240;2002;manual;2002-04-20_Publicacion-DO Ruta Interportuaria Talcahuano – Penco-2
+RITP.D04.A1;RITP.D04;1;10;decreto adjudicacion;112;2002-01-31;manual;Decreto Adjudicacion Red Interportuaria
+RITP.D03.A1;RITP.D03;1;1;oferta economica;;;sin fecha;Oferta economica Interportuaria
+RITP.D08.A1;RITP.D08;1;5;resolucion;2965;2004-11-16;texto;Res 2965
+RITP.D14.A1;RITP.D14;1;64;reglamento servicio;;2005-05-01;llm;Reglamento Interportuaria
+RITP.D10.A1;RITP.D10;1;83;convenio complementario;1;2005-05-16;manual;Convenio 1 Interportuaria
+RITP.D06.A1;RITP.D06;1;3;puesta en servicio;1570;2005-05-27;texto;2005-05-27_Resol_N-1570-PSP
+RITP.D09.A1;RITP.D09;1;3;resolucion;1569;2005-05-31;texto;Res 1569
+RITP.D07.A1;RITP.D07;1;3;puesta en servicio;4067;2005-12-26;manual;2005-12-26_Resol_N-4067-PSD
+RITP.D12.A1;RITP.D12;1;3;decreto supremo;663;2006-08-17;texto;(2006-08-16) DS N-663
+RITP.D11.A1;RITP.D11;1;29;convenio complementario;2;2007-04-30;manual;Convenio 2 Interportuaria
+RITP.D13.A1;RITP.D13;1;8;decreto supremo;136;2023-07-25;texto;DS Nº136_25-07-2023

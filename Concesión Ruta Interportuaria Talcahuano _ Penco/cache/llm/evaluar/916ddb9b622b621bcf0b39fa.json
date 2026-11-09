@@ -1,0 +1,59 @@
+{
+ "tarea": "evaluar",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-10-29 12:25",
+ "respuesta": {
+  "veredictos": [
+   {
+    "n": 21,
+    "veredicto": "correcta",
+    "motivo": "La respuesta incluye los montos principales de UF 3.800 y UF 2.400 correspondientes a las etapas definidas en la referencia."
+   },
+   {
+    "n": 22,
+    "veredicto": "parcial",
+    "motivo": "La respuesta omite el monto base de UF 37.000 (primera cuota) mencionado explícitamente en la referencia, citando solo los adicionales."
+   },
+   {
+    "n": 23,
+    "veredicto": "correcta",
+    "motivo": "Confirma el dato principal del 80% imputado al servicio de construcción, coincidiendo con la referencia."
+   },
+   {
+    "n": 24,
+    "veredicto": "parcial",
+    "motivo": "Aunque menciona los intereses correctos, cambia la referencia normativa de Convenio Complementario N°71 a N°1 y N°2, lo cual contradice o desvía la información específica de la referencia."
+   },
+   {
+    "n": 25,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia en el sistema de cobro a la salida y la tecnología de Control de Accesos Manual."
+   },
+   {
+    "n": 26,
+    "veredicto": "correcta",
+    "motivo": "La respuesta confirma que las tarifas se diferencian por tipo de vehículo y menciona la facultad de alterar relaciones tarifarias, acorde con la referencia."
+   },
+   {
+    "n": 27,
+    "veredicto": "correcta",
+    "motivo": "La respuesta identifica correctamente el IPC como índice de reajuste y la condición de reemplazo si dejara de existir, datos presentes en la referencia."
+   },
+   {
+    "n": 28,
+    "veredicto": "correcta",
+    "motivo": "La respuesta reproduce exactamente los valores de tarifa máxima base ($50 punta, $35 fuera de punta) y la fecha base indicados en la referencia."
+   },
+   {
+    "n": 29,
+    "veredicto": "correcta",
+    "motivo": "La respuesta coincide con la referencia indicando pesos con fecha base al 31 de diciembre de 2000."
+   },
+   {
+    "n": 30,
+    "veredicto": "incorrecta",
+    "motivo": "La respuesta indica una longitud de 10,9 km, omitiendo los 3,5 km de la Prolongación Av. Alessandri que suman el total de 14,4 km indicado en la referencia."
+   }
+  ]
+ }
+}

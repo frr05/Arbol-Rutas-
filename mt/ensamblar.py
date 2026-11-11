@@ -52,7 +52,9 @@ def _enfasis_posible(t: str, c: str) -> bool:
 
 
 def md_escapar(t: str) -> str:
-    t = t.replace("<", "&lt;")
+    # "$" abre fórmulas en los visores con KaTeX/MathJax: montos ("$50 y de $70") y fórmulas que el modelo de
+    # visión transcribe en LaTeX ("$$YP_t = \sum…$$") se muestran tal cual
+    t = t.replace("<", "&lt;").replace("$", "\\$")
     for c in "*_":
         if _enfasis_posible(t, c):
             t = t.replace(c, "\\" + c)
@@ -77,7 +79,7 @@ def es_tabla(texto: str) -> bool:
 def bloque_md(texto: str) -> str:
     """Un párrafo como Markdown: las tablas conservan sus filas; el resto se une en una línea."""
     if es_tabla(texto):
-        return "\n".join(l.strip().replace("<", "&lt;") for l in texto.splitlines() if l.strip())
+        return "\n".join(l.strip().replace("<", "&lt;").replace("$", "\\$") for l in texto.splitlines() if l.strip())
     return md_escapar(_plano(texto))
 
 
@@ -205,7 +207,7 @@ class Escritor:
         if n["tipo"] != "tabla":
             return
         t, v = n["tabla"], n["versiones"][0]
-        celda = lambda x: x.replace("|", "\\|").replace("<", "&lt;")
+        celda = lambda x: x.replace("|", "\\|").replace("<", "&lt;").replace("$", "\\$")
         self.md += [f"*{md_escapar(n['titulo'])} — tabla transcrita con visión ({self.cita(v)})* "
                     f"<!-- {n['id']} · tabla -->", "",
                     "| " + " | ".join(celda(h) for h in t["encabezados"]) + " |",

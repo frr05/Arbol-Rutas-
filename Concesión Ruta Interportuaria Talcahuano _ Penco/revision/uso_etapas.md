@@ -16,6 +16,9 @@ Solo llamadas a la red (lo que salió de caché no cuenta). Detalle por modelo e
 | 2026-11-11 13:04 | vincular | 2.9 min | deepseek/deepseek-v4-flash, qwen/qwen3.7-flash | 12 | 144,264 | 10,378 | 0 | 0.0110 |
 | 2026-11-11 13:05 | arbol | 0.0 min | — | 0 | 0 | 0 | 0 | 0.0000 |
 | 2026-11-11 13:05 | ensamblar | 0.0 min | — | 0 | 0 | 0 | 0 | 0.0000 |
+| 2026-11-11 13:25 | verificar | 0.0 min | — | 0 | 0 | 0 | 0 | 0.0000 |
+| 2026-11-11 13:35 | ensamblar | 0.0 min | — | 0 | 0 | 0 | 0 | 0.0000 |
+| 2026-11-11 13:35 | verificar | 0.0 min | — | 0 | 0 | 0 | 0 | 0.0000 |
 | | **Total** | **76.2 min** | | **791** | **3,211,706** | **924,863** | **515,826** | **0.5313** |
 
 ## Por modelo

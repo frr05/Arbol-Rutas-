@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000724,
+ "usage": {
+  "completion_tokens": 1521,
+  "prompt_tokens": 4199,
+  "total_tokens": 5720,
+  "completion_tokens_details": {
+   "reasoning_tokens": 852
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.7,
+ "truncado": false,
+ "texto": "diferentes numerales de 2.2 de este Convenio y de los anexos N° 2 y N° 6,\nmenos la disminución de algunas obras originales contempladas en la\nOferta Técnica, asciende a la suma neta única, total y definitiva de UF\n173.413 (Ciento Setenta y Tres Mil Cuatrocientas Trece Unidades de\nFomento).\n\nEste valor incluye los costos de los proyectos de ingeniería y estudios\nasociados, los gastos administrativos, los cambios de servicios valorizados\nsegún cláusula 2.6 del presente Convenio, y la construcción de las obras,\nsu conservación, mantención, operación y explotación en los términos\nseñalados en las Bases de Licitación y en el presente convenio. Las\ncantidades señaladas se establecen de común acuerdo, entendiendo por\ntal un valor neto y total que asume la Sociedad Concesionaria a su entero\nriesgo o beneficio.\n\nEl Director General de Obras Públicas certifica que los valores acordados\nhan sido adecuadamente determinados, y corresponden a aquellos que\nnormalmente prevalecerían en el mercado para obras de este tipo.\n\n2.2 Empalme de la Ruta con Av. Alessandri, en el Sector de Carriel Sur.\n\n2.2.1 En virtud de lo establecido en el artículo 1.3.2 de las Bases de Licitación y,\nparticularmente, de lo señalado en el inciso séptimo del mismo, la Sociedad\nConcesionaria realizará un conjunto de nuevas inversiones en obras de la\nRuta, donde ésta empalma con la Av. Alessandri, en el sector de acceso al\naeropuerto de Carriel Sur. La construcción, será de cargo y responsabilidad\nde la Sociedad Concesionaria, en los términos y condiciones estipulados en\nel presente convenio.\n\nUna vez construidas estas obras, la conservación, mantención, operación y\nexplotación de las obras del camino que llegan hasta el Km. 0,000 del nuevo\ntrazado de la concesión Ruta Interportuaria Talcahuano-Penco por Isla\nRocuant, en el sector de su empalme con Av. Alessandri, estará a cargo de la\nSociedad Concesionaria, de acuerdo a lo que consignan los anexos N° 1, N°\n2 y N° 6, Ítem 2.\n\nUna parte de las obras del empalme serán construidas en el área actual de la\nconcesión Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción, por\nlo que, conforme a lo indicado en el artículo 92° del DS MOP N° 956, de 1997,\nla Dirección de Vialidad dictará la resolución correspondiente antes del 31 de\nmarzo de 2005. Para estos efectos, la Sociedad Concesionaria deberá\nentregar, con 15 días de antelación al inicio de los trabajos, una boleta\nbancaria de garantía, por la suma de UF 100, con fecha de vencimiento el 30\nde abril de 2005, a nombre de la Dirección de Vialidad, con la siguiente glosa:\n\n5"
+}

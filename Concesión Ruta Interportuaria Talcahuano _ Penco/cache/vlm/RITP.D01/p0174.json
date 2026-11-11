@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 174,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 218,
+ "segundos": 5.9,
+ "fecha": "2026-11-11 11:52",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 137,
+  "conf_media": 0.944,
+  "frac_baja": 0.029,
+  "frac_rara": 0.0,
+  "tinta": 0.0152
+ },
+ "n_palabras_vlm": 133,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.985,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLos dos últimos años la Sociedad Concesionaria deberá entregar Informes Ambientales con una periodicidad de\nseis (6) meses.\n\nEl atraso en la entrega de estos informes en los plazos señalados hará incurrir a la Sociedad Concesionaria en la\nmulta establecida en el artículo 1.8.5.1 de las presentes Bases de Licitación.\n\nAdemás de incorporar la información arriba señalada, estos informes deberán incluir:\n\n+ Problemas ambientales registrados durante la Etapa de Explotación y propuestas de solución.\n\no Eficacia de las nuevas medidas de mejoramiento ambiental adoptadas. o\n(\n\nLa elaboración de los presentes informes, es sin perjuicio de aquellos que la Inspección Fiscal pudiese exigir O.\n\nante eventos excepcionales entre cada trimestre (incendios, sismos de gran intensidad u otros). E\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 160",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLos dos últimos años la Sociedad Concesionaria deberá entregar Informes Ambientales con una periodicidad de\nseis (6) meses.\n\nEl atraso en la entrega de estos informes en los plazos señalados hará incurrir a la Sociedad Concesionaria en la\nmulta establecida en el artículo 1.8.5.1 de las presentes Bases de Licitación.\n\nAdemás de incorporar la información arriba señalada, estos informes deberán incluir:\n\n• Problemas ambientales registrados durante la Etapa de Explotación y propuestas de solución.\n• Eficacia de las nuevas medidas de mejoramiento ambiental adoptadas.\n\nLa elaboración de los presentes informes, es sin perjuicio de aquellos que la Inspección Fiscal pudiese exigir\nante eventos excepcionales entre cada trimestre (incendios, sismos de gran intensidad u otros).\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES\n160"
+}

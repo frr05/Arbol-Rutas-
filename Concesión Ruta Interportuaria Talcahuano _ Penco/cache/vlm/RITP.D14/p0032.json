@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 32,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 392,
+ "segundos": 7.3,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 270,
+  "conf_media": 0.923,
+  "frac_baja": 0.011,
+  "frac_rara": 0.006,
+  "tinta": 0.0444
+ },
+ "n_palabras_vlm": 281,
+ "frac_rara_vlm": 0.006,
+ "similitud": 0.983,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\na. Usuario se rehúsa a pagar\n\nMuestre un trato especialmente deferente, esto puede hacer\ncambiar de posición al usuario,\n\nHágale ver que su obligación es cobrar por el servicio de la ruta.\nDe no tener éxito, llame a su stiperior.\n\nEl Administrador Jefe de Plaza explicará entonces la facultad que\nle cabe al usuario de anotar cualquier reclamo en el Libro\ncorrespondiente, si esa es la causa de su negativa a pagar.\n\nDe persistir, el Administrador Jefe de Plaza en vista de la\naglomeración que esto pudiere generar autorizará el levantamiento\nde barrera invitando al usuario a pagar o a conversar en el Edificio\nde la Concesionaria.\n\nb. Paso de vehiculos de emergencia, Bomberos o Carabineros\n\nDetermine primeramente si se trata de un paso en el desempeño\nde sus funciones o simplemente un traslado.\n\nDe ser un traslado simple el usuario debe pagar.\nDe ser un traslado en el desempeño de la función deberá levantar\nla barrera de acuerdo al Manual del Equipo y seguir el\n\nprocedimiento de registro en las anotaciones del turno,\n\nLlame al Administrador Jefe de Plaza posteriormente para informar.\n\n€. Palla en los equipos automatizados de cobro\n\nUn servicio de mantenimiento preventivo a los equipos de cobro hará\ndisminuir la ocurrencia de fallas de los mismos. Sin embargo, ésta posibilldad\nexiste y puede llegar a impedir la utilización de los mismos:\n\nSi la falla es en una de las pistas\n\nLlame al Administrador Jefe de Plaza y siga sus instrucciones\n\nSi la falla impide el Uso del equipo, deberá implementar el\nprocedimiento de cierre de caja y bloqueo de pista.\n\n31",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\na. Usuario se rehúsa a pagar\n\n- Muestre un trato especialmente deferente, esto puede hacer\ncambiar de posición al usuario.\n\n- Hágale ver que su obligación es cobrar por el servicio de la ruta.\n\n- De no tener éxito, llame a su superior.\n\n- El Administrador Jefe de Plaza explicará entonces la facultad que\nle cabe al usuario de anotar cualquier reclamo en el Libro\ncorrespondiente, si esa es la causa de su negativa a pagar.\n\n- De persistir, el Administrador Jefe de Plaza en vista de la\naglomeración que esto pudiere generar autorizará el levantamiento\nde barrera invitando al usuario a pagar o a conversar en el Edificio\nde la Concesionaria.\n\nb. Paso de vehículos de emergencia, Bomberos o Carabineros\n\n- Determine primeramente si se trata de un paso en el desempeño\nde sus funciones o simplemente un traslado.\n\n- De ser un traslado simple el usuario debe pagar.\n\n- De ser un traslado en el desempeño de la función deberá levantar\nla barrera de acuerdo al Manual del Equipo y seguir el\nprocedimiento de registro en las anotaciones del turno.\n\n- Llame al Administrador Jefe de Plaza posteriormente para informar.\n\nc. Falla en los equipos automatizados de cobro\n\nUn servicio de mantenimiento preventivo a los equipos de cobro hará\ndisminuir la ocurrencia de fallas de los mismos. Sin embargo, ésta posibilidad\nexiste y puede llegar a impedir la utilización de los mismos:\n\nSi la falla es en una de las pistas\n\n- Llame al Administrador Jefe de Plaza y siga sus instrucciones\n\n- Si la falla impide el uso del equipo, deberá implementar el\nprocedimiento de cierre de caja y bloqueo de pista.\n\n31"
+}

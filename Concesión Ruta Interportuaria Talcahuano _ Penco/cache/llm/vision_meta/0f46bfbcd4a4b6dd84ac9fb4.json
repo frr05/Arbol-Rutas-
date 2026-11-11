@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000611,
+ "usage": {
+  "completion_tokens": 848,
+  "prompt_tokens": 4413,
+  "total_tokens": 5261,
+  "completion_tokens_details": {
+   "reasoning_tokens": 598
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.7,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"A) Construcci\\u00f3n\", \"UF 240.211\"], [\"B) Conservaci\\u00f3n y Mantenci\\u00f3n\", \"UF 22.287\"], [\"C) Proyectos de Ingenier\\u00eda\", \"UF 8.642\"], [\"D) Seguros adicionales\", \"UF 6.513\"], [\"E) Mayores Gastos Generales\", \"UF 18.980\"], [\"F) Gastos Adicionales de Administraci\\u00f3n y Control\", \"UF 12.138\"], [\"G) Gastos de Financiamiento\", \"UF 8.000\"], [\"Subtotal Neto\", \"UF 316.771\"], [\"Menos Disminuci\\u00f3n de Obras\", \"UF 26.973\"], [\"TOTAL NETO\", \"UF 289.798\"], [\"(Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades de Fomento).\", \"\"]], \"notas\": null}]}"
+}

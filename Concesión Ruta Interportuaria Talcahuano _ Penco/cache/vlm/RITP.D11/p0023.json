@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D11",
+ "pagina": 23,
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 412,
+ "segundos": 7.3,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 224,
+  "conf_media": 0.927,
+  "frac_baja": 0.04,
+  "frac_rara": 0.007,
+  "tinta": 0.0474
+ },
+ "n_palabras_vlm": 230,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.928,
+ "truncado": false,
+ "texto_ocr": "RUTA INTERPORTUARIÍA TALCAHUANO PENCO POR ISLA ROCUANT\n\n10.- MEDIDAS AMBIENTALES ADICIONALES:\n\nLa Resolución Exenta NO 46 de fecha 24 de Febrero de 2004, emitida\npor la COREMA VIII Región, que califica ambientalmente el Proyecto,\nestablece un conjunto de medidas ambientales adicionales, las cuales\ndeben ser financiadas conforme a los procedimientos establecidos en las\nBases de Licitación del Contrato para estos efectos.\n\n1Í0.2.- RUIDO:\n\nC 125 A.- MEDICIÓN DE RUIDO SECTOR LAS SALINAS, ANTES DE LA\nOPERACION\n\nCorresponde al monitoreo de la línea base complementario al del ElA, el\ncual se realizó en un punto de la Población Las Salinas, antes del inicio\nde la operación de la Ruta,\n\nCc 125 B.- MEDICIÓN DE RUIDO SECTOR LAS SALINAS, DURANTE LA\nOPERACION\n\nMonitoreo trimestral en Población las Salinas, durante el primer año de\noperación de la Ruta, a objeto de evaluar el impacto por este concepto. '\n\nC125E.- MEDICIÓN DE RUIDO POBLACIÓN DESIDERIO GUZMÁN,\nDURANTE LA OPERACIÓN\n\nMonitoreo trimestral en dos puntos de la Población Desiderio Guzmán,\ndurante el primer año de operación de la Ruta, a objeto de evaluar el\nimpacto por este concepto.\n\n10.2.- GEOMORFOLOGÍA:\n\nD175A.- ESTABILIZACIÓN DE TALUDES Y LADERAS APLICANDO\nHIDROSIEMBRA\n\nControl de laderas, de taludes y de escarpes y aplicación del tratamiento\n\na los taludes diseñado. Uso de Hidrosiembra.o tratamiento equivalente,\ncon semillas locales y mallas. ps\n\nTÍ)\n\nCONVENIO COMPLEMENTARIO N*2",
+ "texto_vlm": "RUTA INTERPORTUARIA TALCAHUANO PENCO POR ISLA ROCUANT\n\n10.- MEDIDAS AMBIENTALES ADICIONALES:\n\nLa Resolución Exenta Nº 46 de fecha 24 de Febrero de 2004, emitida\npor la COREMA VIII Región, que califica ambientalmente el Proyecto,\nestablece un conjunto de medidas ambientales adicionales, las cuales\ndeben ser financiadas conforme a los procedimientos establecidos en las\nBases de Licitación del Contrato para estos efectos.\n\n10.1.- RUIDO:\n\nC 125 A.- MEDICIÓN DE RUIDO SECTOR LAS SALINAS, ANTES DE LA\nOPERACIÓN\n\nCorresponde al monitoreo de la línea base complementario al del EIA, el\ncual se realizó en un punto de la Población Las Salinas, antes del inicio\nde la operación de la Ruta.\n\nC 125 B.- MEDICIÓN DE RUIDO SECTOR LAS SALINAS, DURANTE LA\nOPERACIÓN\n\nMonitoreo trimestral en Población las Salinas, durante el primer año de\noperación de la Ruta, a objeto de evaluar el impacto por este concepto.\n\nC 125 E.- MEDICIÓN DE RUIDO POBLACIÓN DESIDERIO GUZMÁN,\nDURANTE LA OPERACIÓN\n\nMonitoreo trimestral en dos puntos de la Población Desiderio Guzmán,\ndurante el primer año de operación de la Ruta, a objeto de evaluar el\nimpacto por este concepto.\n\n10.2.- GEOMORFOLOGÍA:\n\nD 175 A.- ESTABILIZACIÓN DE TALUDES Y LADERAS APLICANDO\nHIDROSIEMBRA\n\nControl de laderas, de taludes y de escarpes y aplicación del tratamiento\na los taludes diseñado. Uso de Hidrosiembra o tratamiento equivalente,\ncon semillas locales y mallas.\n\nCONVENIO COMPLEMENTARIO Nº2 PAG. 4 DE 8"
+}

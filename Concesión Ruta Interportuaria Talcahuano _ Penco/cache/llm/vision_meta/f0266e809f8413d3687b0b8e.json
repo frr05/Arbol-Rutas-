@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000614,
+ "usage": {
+  "completion_tokens": 1000,
+  "prompt_tokens": 4142,
+  "total_tokens": 5142,
+  "completion_tokens_details": {
+   "reasoning_tokens": 492
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.6,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nminutos. Aun en el caso que la posición no provoque una fatalidad, los pulmones\ndañados pueden incapacitar a la víctima por un tiempo bastante largo.\n\nUn riesgo adicional con potencial de gravedad, ocurre al inducir el vómito a la\nvictima de una intoxicación, ya que existe la posibilidad que aspire bencina hacia\nlos pulmones.\n\nRecomendaciones\n\n- Asegúrese de que no haya ninguna fuente de llama (cigarrillos; motores\nencendidos, etc.) antes de realizar ninguna operación.\n\n- Todos los destilados del petróleo que incluyen parafina, gasolina,\nsolventes, etc., deben almacenarse en un lugar seguro y\nconvenientemente señalizado.\n\n- Todos los envases que contengan o hayan contenido combustible deben\nser rotulados, señalando los riesgos de su utilización.\n\n- No succionar gasolina por medio de la boca. Si necesita hacer un\ntrasvasije por medio de un sifón, evite de hacerlo aspirando el líquido a\ntravés de una manguera. Utilice un embudo adecuado para la ocasión.\n\n- Los bidones de bencina de emergencia, que utilicen el vehículo, deberán\ncontar con un ducto embudo flexible, que permita realizar el trasvasije en\nforma directa del bidón auxiliar.\n\n- Acate las disposiciones sanitarias y de seguridad respecto a la utilización\nde la bencina exclusivamente en motores de combustión interna.\n\n- Para la limpieza de pisos, equipos y herramientas, utilice detergentes\nindustriales que permitan realizar las actividades de limpieza de equipos y\nherramientas sin riesgos para la salud de los trabajadores y la seguridad\nde nuestra faena.\n\n- Si fuera necesario almacenar bencina, guarde ésta en un lugar ventilado,\nlejos de fuentes de ignición, en envases de seguridad y bajo llave. Con\nesto impedirá un uso inadecuado y riesgoso.\n\nRiesgos desconocidos de la bencina\n\nPor disposiciones sanitarias y de seguridad, está prohibido el uso en los lugares\nde trabajo de bencina para vehículo motorizado en cualquier uso distinto de la\ncombustión en los motores respectivos (Art. 59, Reglamento sobre Condiciones\nSanitarias y Ambientales Básicas en los Lugares de Trabajo).\n\n46"
+}

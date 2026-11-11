@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 97,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 718,
+ "segundos": 10.3,
+ "fecha": "2026-11-11 11:49",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 328,
+  "conf_media": 0.919,
+  "frac_baja": 0.055,
+  "frac_rara": 0.005,
+  "tinta": 0.0448
+ },
+ "n_palabras_vlm": 430,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.841,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nIngresos Mínimos Garantizados IMG,\n(UF)\n\nSin Av. Alessandri\n\nAño Calendario\nExplotación\n\nCon Ay. Alessandri\n\n13 89.919x f 31.341\n14 97.132x f 33.855\n\n18 132.355x f 46.133\n\n5\n\nDonde:\n\nf=1-1,9459x10%xS con0<S<290.000\n\nf se aproximará a 4 decimales.\nS = Subsidio solicitado por el Licitante o Grupo Licitante en su Oferta Económica.\n\nPara los efectos de aplicación de los IMG correspondientes, se deberán tener en cuenta las siguientes\nconsideraciones:\n\ne En caso que el licitante o grupo licitante, en su Oferta Económica, no acepte ejecutar la obra de\nProlongación Av. Alessandri señalada en el artículo 1.3.2 de las presentes Bases, se considerarán como\nIngresos Mínimos Garantizados por el Estado aquéllos señalados en la tercera columna (“Sin Av.\nAlessandri”) de la Tabla N* 3 anterior. |\n\ne Siel licitante o grupo licitante opta por ejecutar dicha obra y decide postergar su Puesta en Servicio\nProvisoria, el Concesionario deberá considerar como Ingresos Mínimos Garantizados aquéllos señalados\nen la tercera columna (“Sin Av. Alessandri”) de la Tabla N* 3 hasta que obtenga la Puesta en Servicio\nDefinitiva de dicha obra, a partir de lo cual se considerarán los Ingresos Mínimos Garantizados señalados\n\nen la segunda columna (“Con Av. Alessandri”) de Tabla N* 3.\n\ne En caso que acepte ejecutar la Prolongación de Av. Alessandri, sin postergar su Puesta en Servicio\nProvisoria, se considerarán los Ingresos Mínimos señalados en la segunda columna (“Con Av.\nAlessandri”) de la Tabla N*3.\n\nEl pago que el MOP efectuará a favor del Concesionario, por efecto del mecanismo de Ingresos Mínimos\nGarantizados, procederá cuando se cumplan copulativamente las siguientes condiciones:\n\ni) Los ingresos de la Sociedad Concesionaria en el año calendario't de explotación (Y;) sean inferiores al\nmonto IMG, definido anteriormente en la Tabla N? 3; y\n\nii) Los ingresos Y, de la Sociedad Concesionaria sean superiores al 60% del Ingreso Potencial YP,, el cual\n\nse calculará de la siguiente manera:\n\n-MINISTERIO DE OBRAS PUBLICAS —- COORDINACION GENERAL DE CONCESIONES",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nAño Calendario Explotación | Ingresos Mínimos Garantizados IMGt (UF) |\n| Con Av. Alessandri | Sin Av. Alessandri |\n9 | 67.018 x f | 23.359 |\n10 | 71.869 x f | 25.050 |\n11 | 77.081 x f | 26.867 |\n12 | 83.249 x f | 29.016 |\n13 | 89.919 x f | 31.341 |\n14 | 97.132 x f | 33.855 |\n15 | 104.932 x f | 36.574 |\n16 | 113.368 x f | 39.514 |\n17 | 122.490 x f | 42.694 |\n18 | 132.355 x f | 46.133 |\n19 | 143.024 x f | 49.851 |\n20 | 154.561 x f | 53.872 |\nDonde:\nf = 1 - 1,9459x10^-6 x S con 0 ≤ S ≤ 290.000\nf se aproximará a 4 decimales.\nS = Subsidio solicitado por el Licitante o Grupo Licitante en su Oferta Económica.\nPara los efectos de aplicación de los IMG correspondientes, se deberán tener en cuenta las siguientes consideraciones:\n• En caso que el licitante o grupo licitante, en su Oferta Económica, no acepte ejecutar la obra de Prolongación Av. Alessandri señalada en el artículo 1.3.2 de las presentes Bases, se considerarán como Ingresos Mínimos Garantizados por el Estado aquéllos señalados en la tercera columna (“Sin Av. Alessandri”) de la Tabla Nº 3 anterior.\n• Si el licitante o grupo licitante opta por ejecutar dicha obra y decide postergar su Puesta en Servicio Provisoria, el Concesionario deberá considerar como Ingresos Mínimos Garantizados aquéllos señalados en la tercera columna (“Sin Av. Alessandri”) de la Tabla Nº 3 hasta que obtenga la Puesta en Servicio Definitiva de dicha obra, a partir de lo cual se considerarán los Ingresos Mínimos Garantizados señalados en la segunda columna (“Con Av. Alessandri”) de Tabla Nº 3.\n• En caso que acepte ejecutar la Prolongación de Av. Alessandri, sin postergar su Puesta en Servicio Provisoria, se considerarán los Ingresos Mínimos señalados en la segunda columna (“Con Av. Alessandri”) de la Tabla Nº 3.\nEl pago que el MOP efectuará a favor del Concesionario, por efecto del mecanismo de Ingresos Mínimos Garantizados, procederá cuando se cumplan copulativamente las siguientes condiciones:\ni) Los ingresos de la Sociedad Concesionaria en el año calendario t de explotación (Yt) sean inferiores al monto IMGt definido anteriormente en la Tabla Nº 3; y\nii) Los ingresos Yt de la Sociedad Concesionaria sean superiores al 60% del Ingreso Potencial YPt, el cual se calculará de la siguiente manera:\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 83"
+}

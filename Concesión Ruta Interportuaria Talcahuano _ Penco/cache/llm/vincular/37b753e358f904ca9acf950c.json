@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-11 13:03",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "[RITP.D10.F0055]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0056]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0057]",
+    "destino": "TEMA:plazos_y_puesta_en_servicio"
+   },
+   {
+    "fragmento": "[RITP.D10.F0058]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0059]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0060]",
+    "destino": "A3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0061]",
+    "destino": "A3"
+   },
+   {
+    "fragmento": "[RITP.D10.F0062]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0063]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0064]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0065]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0066]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0068]",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0069]",
+    "destino": "TEMA:otros"
+   },
+   {
+    "fragmento": "[RITP.D10.F0070]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0071]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0072]",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "[RITP.D10.F0073]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0074]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0075]",
+    "destino": "BL:1.8.4"
+   },
+   {
+    "fragmento": "[RITP.D10.F0076]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0077]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0078]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0079]",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "[RITP.D10.F0080]",
+    "destino": "A1"
+   }
+  ]
+ }
+}

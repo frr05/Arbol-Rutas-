@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000602,
+ "usage": {
+  "completion_tokens": 940,
+  "prompt_tokens": 4142,
+  "total_tokens": 5082,
+  "completion_tokens_details": {
+   "reasoning_tokens": 476
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.0,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\na. Exigir por parte del usuario el pago por el servicio prestado de\nacuerdo a las tarifas publicadas en las plazas, correspondiente al\ntipo de vehículo utilizado, como contraprestación por el derecho a\ntransitar por la ruta.\n\nb. Exigir judicialmente el pago por el servicio prestado. El alcance de\neste derecho del concesionario es equivalente al indicado en la Ley\nde Concesiones, esto es, a demandar al usuario ante el Juez de\nPolicía Local por hasta 40 veces el importe más reajustes.\n\nc. Exigir al usuario el cumplimiento de las instrucciones que\nfuncionarios autorizados por la Concesionaria o de su operadora\npudieren impartir con motivo de la explotación del servicio; normas\nde seguridad y prevención de accidentes, y en general respecto de\ncualquier medida tendiente a garantizar, al mismo usuario u otros,\nuna ruta segura y expedita.\n\nd. Coordinadamente, y con autorización previa de la Inspección Fiscal\nalterar temporalmente las condiciones del servicio mediante la\nadopción de medidas como fijación de horarios, señalización,\niluminación, entre otras. Estas alteraciones deberán ser informadas\npreviamente al MOP y posteriormente al usuario. El Concesionario\ndispondrá las medidas para la oportuna reanudación del servicio.\n\n4.2 Deberes del concesionario:\n\na. Exigir el cobro por el servicio de acuerdo a las tarifas vigentes.\n\nb. Informar al usuario las tarifas vigentes en la plaza a través de la\npublicación de éstas en la prensa y su publicación en lugares\nvisibles en las plazas de peaje.\n\nc. Informar oportunamente al usuario de cualquier cambio en las\ncondiciones de prestación del servicio, ya sea en términos de\ncambios tarifarios, trabajos en la ruta, cierre o desvío temporal de\nla ruta, etc.\n\nd. Mantener las obras ejecutadas en las condiciones establecidas en\nlas Bases de Licitación.\n\ne. Restituir la circulación vial en caso de interrupción en el menor\ntiempo posible.\n\n12"
+}

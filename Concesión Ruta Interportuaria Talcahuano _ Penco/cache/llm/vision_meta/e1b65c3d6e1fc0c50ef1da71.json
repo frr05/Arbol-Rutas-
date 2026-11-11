@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000677,
+ "usage": {
+  "completion_tokens": 1287,
+  "prompt_tokens": 4199,
+  "total_tokens": 5486,
+  "completion_tokens_details": {
+   "reasoning_tokens": 730
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.7,
+ "truncado": false,
+ "texto": "entenderá aprobado. En caso que el informe sea observado por el\nInspector Fiscal, la Sociedad Concesionaria tendrá un plazo de 10 días\npara entregar el informe corregido. El Inspector Fiscal tendrá 10 días\npara aprobar o rechazar el informe corregido. En caso que el Inspector\nFiscal no cumpla con lo anterior en el plazo estipulado, se entenderá\nque aprueba el referido informe en todas sus partes.\n\nEn caso que producto de la revisión del informe se registren\ndiferencias entre el avance de obras presentado por la Sociedad\nConcesionaria y el aprobado por el Inspector Fiscal, el monto de dicha\ndiferencia, debidamente actualizado, se descontará en el siguiente\ninforme de avance mensual que deberá ser presentado por la\nSociedad Concesionaria así como en la Resolución respectiva.\n\nSin perjuicio de lo anterior, los informes de avance no podrán\npresentar inversiones o gastos que excedan el valor a suma alzada\nconvenido para cada unos de los ítems de la Cláusula Segunda del\npresente Convenio Complementario.\n\nLas cantidades contabilizadas mensualmente por el Inspector Fiscal\nen la “Cuenta de Inversión Convenio Complementario N° 1”, se\nactualizarán mensualmente a una tasa real mensual compuesta de\n0,54189%.\n\nc. Dentro del plazo de 5 días contado desde la fecha en que el Inspector\nFiscal reciba el informe indicado en la letra b) anterior, deberá\ncertificar tal circunstancia y los montos presentados en el Libro de\nObra, remitiendo una copia de dicha certificación y de sus\nantecedentes de respaldo a la Dirección General de Obras Públicas.\nAsimismo deberá certificarse en el Libro de Obra la aprobación del\ninforme de avance del mes anterior y, en caso de que existiesen,\nindicar los montos y descuentos producto de la revisión del Inspector\nFiscal.\n\nd. Con el mérito de la certificación e informe acompañado, indicado en la\nletra c) anterior y dentro del plazo de 10 días desde la recepción de\nesos antecedentes, el Director General de Obras Públicas emitirá una\nResolución que reconozca los valores devengados por la Sociedad\nConcesionaria durante el mes correspondiente. Transcurrido el plazo\nde 15 días desde la entrega del informe señalado en la letra c)\nanterior, sin que el MOP haya emitido la Resolución correspondiente,\nse devengará un interés real diario de 0,02612%. En caso de\nregistrarse atraso en la emisión de la Resolución por parte del MOP el\ninterés antes indicado será contabilizado con signo positivo en la\n\n18"
+}

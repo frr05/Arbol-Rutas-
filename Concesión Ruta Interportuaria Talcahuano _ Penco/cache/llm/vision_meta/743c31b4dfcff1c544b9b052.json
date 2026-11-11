@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000487,
+ "usage": {
+  "completion_tokens": 232,
+  "prompt_tokens": 4409,
+  "total_tokens": 4641,
+  "completion_tokens_details": {
+   "reasoning_tokens": 73
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 3.4,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N° 5: Clasificación Según Tipo de Vehículo.\", \"encabezados\": [\"Tipo\", \"Clase de Vehículo\"], \"filas\": [[\"Tipo 1\", \"Motos y Motonetas\"], [\"Tipo 2\", \"Autos y Camionetas\"], [\"Tipo 3\", \"Autos y Camionetas con Remolque\"], [\"Tipo 4\", \"Buses de 2 Ejes\"], [\"Tipo 5\", \"Camiones de 2 Ejes\"], [\"Tipo 6\", \"Buses de más de 2 Ejes\"], [\"Tipo 7\", \"Camiones de más de 2 Ejes\"]], \"notas\": null}]}"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D02",
+ "pagina": 42,
+ "archivo": "1_licitacion/Ruta-Interportuaria-Talcahuano-Penco-CA-1.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 554,
+ "segundos": 10.8,
+ "fecha": "2026-11-11 11:54",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 332,
+  "conf_media": 0.922,
+  "frac_baja": 0.036,
+  "frac_rara": 0.005,
+  "tinta": 0.0364
+ },
+ "n_palabras_vlm": 337,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.923,
+ "truncado": false,
+ "texto_ocr": "14.\n\n16.\n\nCircidar Acluratoria NS\n\nRevisando dicho Formulario, se detectan las siguientes observaciones:\n\na) El documento se titula ANEXO N*2, FORMULARIO N*6,\n\nb) Contiene solamente el desglose de partidas de la obra 1.3.1\nincluyendo el detalle de la obra opcional establecida en 1.3.2,\n\nc) El ítem C.4.4 no sería concordante con lo establecido en el art. 1.14,1 b), c), d) y e).\n\nRuta Interportuaria, no\n\nRespuesta:\n\na) Remítase a la Rectificación N*7 de la presente Circular Aclaratoria,\nb) y c) Remítase a lo señalado en las Bases de Licitación,\n\nSolicitamos entregar un Calendario de Expropiaciones, indicando el avance de estas a la fecha y si\nse estableció contacto con todos los propietarios.\n\nRespuesta:\nRemítase a lo señalado en las Bases de Licitación.\n\nEl talaje de árboles en zona de expropiaciones forestal, ¿De quién será cargo?.\n\nRespuesta:\nRemítase a lo señalado en las Bases de Licitación.\n\n¿Existe alguna condición para considerar accesos a terrenos de Asmar y/o-Futura Placa Logística\nde Inmobiliaria Andalién?.\n\nRespuesta;\nRemítase a lo señalado en las Bases de Licitación.\n\n¿Esta concesión incluirá una Plaza de Pesaje y si es así deberá ser en ambos sentidos?\n\nRespuesta:\nRemítase a lo señalado en las Bases de Licitación.\n\n¿Cuáles son las obras preexistentes, que deben considerase para el mantenimiento, y que se citan\nen varias partes de las bases de licitación? .\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n¿Cuáles serán las distancias oficiales a considerar para efectos de tarificación, considerando que\nen las bases se acompañan con la palabra \"aproximadamente\"?\n\nRespuesta:\n\nRemitase a lo señalado en las Bases de Licitación y la Rectificación N*22 de la presente\nCircular Aclaratoria,\n\n¿Cómo serán medidas para efectos de tarificación, una vez terminado el proyecto?\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación y la Rectificación N%22 de la presente\nCircular Aeclaratoria.\n\nextensiva también al plazo total de la concesión?\n\nPágina 18 de 20\n\nA\n\n¿Es posible que, la compensación que se ofrece en el párrafo cuatro del artículo 1.8.4.2 sa",
+ "texto_vlm": "Revisando dicho Formulario, se detectan las siguientes observaciones:\n\na) El documento se titula ANEXO N°2, FORMULARIO N°6.\nb) Contiene solamente el desglose de partidas de la obra 1.3.1 Ruta Interportuaria, no\nincluyendo el detalle de la obra opcional establecida en 1.3.2.\nc) El ítem C.4.4 no sería concordante con lo establecido en el art. 1.14.1 b), c), d) y e).\n\nRespuesta:\n\na) Remítase a la Rectificación N°7 de la presente Circular Aclaratoria.\nb) y c) Remítase a lo señalado en las Bases de Licitación.\n\n12.- Solicitamos entregar un Calendario de Expropiaciones, indicando el avance de estas a la fecha y si\nse estableció contacto con todos los propietarios.\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n13.- El talaje de árboles en zona de expropiaciones forestal, ¿De quién será cargo?.\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n14.- ¿Existe alguna condición para considerar accesos a terrenos de Asmar y/o Futura Placa Logística\nde Inmobiliaria Andalién?.\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n15.- ¿Esta concesión incluirá una Plaza de Pesaje y si es así deberá ser en ambos sentidos?\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n16.- ¿Cuáles son las obras preexistentes, que deben considerase para el mantenimiento, y que se citan\nen varias partes de las bases de licitación?\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n17.- ¿Cuáles serán las distancias oficiales a considerar para efectos de tarificación, considerando que\nen las bases se acompañan con la palabra \"aproximadamente\"?\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación y la Rectificación N°22 de la presente\nCircular Aclaratoria.\n\n18.- ¿Cómo serán medidas para efectos de tarificación, una vez terminado el proyecto?\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación y la Rectificación N°22 de la presente\nCircular Aclaratoria.\n\n19.- ¿Es posible que, la compensación que se ofrece en el párrafo cuatro del artículo 1.8.4.2 sea\nextensiva también al plazo total de la concesión?\n\nCircular Aclaratoria N°4\nPágina 18 de 20"
+}

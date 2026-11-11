@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000526,
+ "usage": {
+  "completion_tokens": 424,
+  "prompt_tokens": 4413,
+  "total_tokens": 4837,
+  "completion_tokens_details": {
+   "reasoning_tokens": 229
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 4.9,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"ITEM\", \"PARTIDA DESCRIPCION\", \"UNIDAD\", \"PRECIO UNITARIO (U.F.)\"], \"filas\": [[\"205\", \"MAYOR COSTO DIRECTO EN FORMACION Y COMPACTACION DE TERRAPLENES\", \"M3\", \"0,070\"], [\"241\", \"PILOTES IN SITU\", \"M\", \"22,110\"], [\"261\", \"ACERO EN BARRAS A63 - 42H\", \"KG\", \"0,056\"], [\"361\", \"ELEMENTOS DE APOYO, ANCLAJE Y BARBACANAS\", \"TR\", \"120,000\"], [\"351\", \"SUMINISTRO Y COLOCACION DE CANTONERAS\", \"M\", \"90,670\"]], \"notas\": null}]}"
+}

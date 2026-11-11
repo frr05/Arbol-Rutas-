@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000706,
+ "usage": {
+  "completion_tokens": 1326,
+  "prompt_tokens": 4409,
+  "total_tokens": 5735,
+  "completion_tokens_details": {
+   "reasoning_tokens": 621
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.5,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"ITEM\", \"DESCRIPCION\", \"VALORES (UF) / Mes 1\", \"VALORES (UF) / Mes 2\", \"VALORES (UF) / Mes ..\", \"VALORES (UF) / Mes ..\", \"VALORES (UF) / Total\"], \"filas\": [[\"B.1\", \"Tel\\u00e9fonos de Emergencia\", \"\", \"\", \"\", \"\", \"\"], [\"B.2\", \"Estaci\\u00f3n de Atenci\\u00f3n de Emergencias\", \"\", \"\", \"\", \"\", \"\"], [\"B.3\", \"Plazas de Peaje\", \"\", \"\", \"\", \"\", \"\"], [\"SUBTOTAL B (UF)\", \"SUBTOTAL B (UF)\", \"\", \"\", \"\", \"\", \"\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"ITEM\", \"DESCRIPCION\", \"VALORES (UF) / Mes 1\", \"VALORES (UF) / Mes 2\", \"VALORES (UF) / Mes ..\", \"VALORES (UF) / Mes..\", \"VALORES (UF) / Total\"], \"filas\": [[\"C.1\", \"Estudios\", \"\", \"\", \"\", \"\", \"\"], [\"C.1.1\", \"De Ingenier\\u00eda Definitiva\", \"\", \"\", \"\", \"\", \"\"], [\"C.1.2\", \"De Impacto Ambiental\", \"\", \"\", \"\", \"\", \"\"], [\"C.1.3\", \"De Plazas de Peajes\", \"\", \"\", \"\", \"\", \"\"], [\"C.1.4\", \"De Paisajismo y Revegetaci\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"C.1.5\", \"De Arquitectura de Servicios Obligatorios\", \"\", \"\", \"\", \"\", \"\"], [\"C.2\", \"Garant\\u00edas\", \"\", \"\", \"\", \"\", \"\"], [\"C.3\", \"Seguros\", \"\", \"\", \"\", \"\", \"\"], [\"C.4\", \"Aportes de la Sociedad Concesionaria al Estado\", \"\", \"\", \"\", \"\", \"\"], [\"C.4.1\", \"Expropiaciones y Adquisiciones\", \"\", \"\", \"\", \"\", \"\"], [\"C.4.2\", \"Expropiaciones y Adquisiciones Adicionales Requeridas por la Sociedad Concesionaria\", \"\", \"\", \"\", \"\", \"\"], [\"C.4.3\", \"Control y Administraci\\u00f3n del Contrato Per\\u00edodo de Construcci\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"C.4.4\", \"Por Instalaciones, Estudios y Modificaci\\u00f3n Vialidad Secundaria\", \"\", \"\", \"\", \"\", \"\"], [\"C.5\", \"Mitigaci\\u00f3n Impacto Ambiental (No considerados en las Obras)\", \"\", \"\", \"\", \"\", \"\"], [\"C.6\", \"Otros\", \"\", \"\", \"\", \"\", \"\"], [\"SUBTOTAL C (UF)\", \"SUBTOTAL C (UF)\", \"\", \"\", \"\", \"\", \"\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"\", \"\", \"\", \"\", \"\", \"\"], \"filas\": [[\"TOTAL A + B + C (UF)\", \"TOTAL A + B + C (UF)\", \"\", \"\", \"\", \"\"]], \"notas\": null}]}"
+}

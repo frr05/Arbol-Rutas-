@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 16,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 603,
+ "segundos": 11.2,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 382,
+  "conf_media": 0.933,
+  "frac_baja": 0.021,
+  "frac_rara": 0.009,
+  "tinta": 0.0623
+ },
+ "n_palabras_vlm": 388,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.937,
+ "truncado": false,
+ "texto_ocr": "por parte del MOP, de los Anteproyectos de ingeniería del nuevo Acceso a\nTalcahuano y la Conexión Alessandri, se efectuó en tiempo y forma el 1 de\nmayo de 2004 y antes del 30 de septiembre de 2004, respectivamente; y\nque la entrega de la totalidad de los terrenos necesarios para la ejecución\nde las obras, se efectuará de acuerdo al siguiente cuadro:\n\nTabla 1: Cuadro de Entrega de Terrenos\n\nTerrenos Obra Plazo de Entrega\nSector sur entre Av. Colón y | Modificación de Trazado en el|Entregado en\nCanal el Morro Acceso a Talcahuano tiempo y forma\nSector norte entre Canal El|Modificación de Trazado en el Entregado en\nMorro y trazado actual de Ruta | Acceso a Talcahuano tiempo y forma\nTroncal\n\nLote 14-b y 15 de propiedad de | Empalme con la Av. Alessandri | Entregado en\nVALMAR tiempo y forma\nLotes 7, 13 y 8 de la concesión | Empalme con la Av. Alessandri | 15-11-2004\n\nTerminal de Pasajeros\nAeropuerto Carriel Sur de\nConcepción\n\nSi existe retraso en relación a las fechas de entrega de terrenos consignada\nen la Tabla 1 anterior, el MOP debe aumentar el plazo de término de las\nobras en el mismo número de días del atraso registrado, sin perjuicio de las\nfacultades del artículo 1.14.2.3.3 de las Bases de Licitación.\n\nLos avances en la ejecución de las obras adicionales en el Anexo N%1, Ítem\na) que se contratan en la presente Cláusula Segunda y la materialización\nde la inversión correspondiente se contabilizarán al igual que las demás del\ncontrato de concesión original conforme a las reglas del artículo 1.9.4 de las\nBases de Licitación.\n\nTERCERO: CONTABILIZACIÓN DE LAS NUEVAS INVERSIONES\n\nPara la contabilización de las inversiones se seguirá el siguiente procedimiento:\n\n3.1\n\nLos montos correspondientes a la inversión adicional que la Sociedad\nConcesionaria efectúe serán contabilizados mensualmente en una cuenta\nque se denominará “Cuenta de Inversión Convenio Complementario N*\n1”. A contar del momento de su contabilización en dicha cuenta, las\ncantidades se actualizarán a una tasa real mensual de 0,54189%. El cálculo\nde intereses se efectuará mensualmente y los intereses calculados se\nexpresarán en unidades de fomento, redondeados a dos decimales.\n\nLas partes acuerdan que el monto de inversión total en obras contratadas en\nvirtud del presente Convenio Complementario, que realice la Sociedad\n\n13",
+ "texto_vlm": "por parte del MOP, de los Anteproyectos de ingeniería del nuevo Acceso a\nTalcahuano y la Conexión Alessandri, se efectuó en tiempo y forma el 1 de\nmayo de 2004 y antes del 30 de septiembre de 2004, respectivamente; y\nque la entrega de la totalidad de los terrenos necesarios para la ejecución\nde las obras, se efectuará de acuerdo al siguiente cuadro:\n\nTabla 1: Cuadro de Entrega de Terrenos\nTerrenos | Obra | Plazo de Entrega\nSector sur entre Av. Colón y Canal el Morro | Modificación de Trazado en el Acceso a Talcahuano | Entregado en tiempo y forma\nSector norte entre Canal El Morro y trazado actual de Ruta Troncal | Modificación de Trazado en el Acceso a Talcahuano | Entregado en tiempo y forma\nLote 14-b y 15 de propiedad de VALMAR | Empalme con la Av. Alessandri | Entregado en tiempo y forma\nLotes 7, 13 y 8 de la concesión Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción | Empalme con la Av. Alessandri | 15-11-2004\n\nSi existe retraso en relación a las fechas de entrega de terrenos consignada\nen la Tabla 1 anterior, el MOP debe aumentar el plazo de término de las\nobras en el mismo número de días del atraso registrado, sin perjuicio de las\nfacultades del artículo 1.14.2.3.3 de las Bases de Licitación.\n\nLos avances en la ejecución de las obras adicionales en el Anexo Nº1, Ítem\na) que se contratan en la presente Cláusula Segunda y la materialización\nde la inversión correspondiente se contabilizarán al igual que las demás del\ncontrato de concesión original conforme a las reglas del artículo 1.9.4 de las\nBases de Licitación.\n\nTERCERO: CONTABILIZACIÓN DE LAS NUEVAS INVERSIONES\n\nPara la contabilización de las inversiones se seguirá el siguiente procedimiento:\n\n3.1 Los montos correspondientes a la inversión adicional que la Sociedad\nConcesionaria efectúe serán contabilizados mensualmente en una cuenta\nque se denominará “Cuenta de Inversión Convenio Complementario Nº\n1”. A contar del momento de su contabilización en dicha cuenta, las\ncantidades se actualizarán a una tasa real mensual de 0,54189%. El cálculo\nde intereses se efectuará mensualmente y los intereses calculados se\nexpresarán en unidades de fomento, redondeados a dos decimales.\n\nLas partes acuerdan que el monto de inversión total en obras contratadas en\nvirtud del presente Convenio Complementario, que realice la Sociedad\n\n13"
+}

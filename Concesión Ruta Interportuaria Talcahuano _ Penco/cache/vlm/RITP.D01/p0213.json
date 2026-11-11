@@ -2,15 +2,15 @@
  "documento": "RITP.D01",
  "pagina": 213,
  "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 149,
- "segundos": 9.9,
- "fecha": "2026-11-05 00:44",
- "motivos": "conf_media",
+ "tokens": 212,
+ "segundos": 5.1,
+ "fecha": "2026-11-11 11:52",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 69,
   "conf_media": 0.894,
@@ -18,10 +18,10 @@
   "frac_rara": 0.025,
   "tinta": 0.0176
  },
- "n_palabras_vlm": 111,
- "frac_rara_vlm": 0.025,
- "similitud": 0.784,
+ "n_palabras_vlm": 101,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.824,
  "truncado": false,
  "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nDESCRIPCIÓN\n\nITEM\n\nUNIDAD| PRECIO\nUNITARIO\n(UF)\n907-1 [Sellado de juntas y grietas\n\n908-1 Rehabilitación y reinstalación de defensas camineras simples | NP?\n1909-1 | Rehabilitación y reinstalación de señalización vertical lateral\n\nPAISAJISMO Y MITIGACION IMPACTO AMBIENTAL\nHidrosiembra y Protección de Taludes m2 0,05\n\nA\n\n| Barreras Acústicas (h = 3 m)\n\nMINISTERIO DE OBRAS PUBLICAS — COORDINACION GENERAL DE CONCESIONES",
- "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n| ITEM | DESCRIPCION | UNIDAD | PRECIO UNITARIO (UF) |\n|---|---|---|---|\n| 907-1 | Sellado de juntas y grietas | Km | 100,22 |\n| 908-1 | Rehabilitación y reinstalación de defensas camineras simples | N° | 0,60 |\n| 909-1 | Rehabilitación y reinstalación de señalización vertical lateral | N° | 2,24 |\n\nPAISAJISMO Y MITIGACION IMPACTO AMBIENTAL\n\n| | | m2 | 0,05 |\n| | Pantallas Acústicas (h = 1,5 m) | ml | 2,17 |\n| | Barreras Acústicas (h = 3 m) | ml | 3,60 |\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nITEM | DESCRIPCION | UNIDAD | PRECIO UNITARIO (UF)\n907-1 | Sellado de juntas y grietas | Km | 100,22\n908-1 | Rehabilitación y reinstalación de defensas camineras simples | N° | 0,60\n909-1 | Rehabilitación y reinstalación de señalización vertical lateral | N° | 2,24\nPAISAJISMO Y MITIGACION IMPACTO AMBIENTAL\n | Hidrosiembra y Protección de Taludes | m2 | 0,05\n | Pantallas Acústicas (h = 1,5 m) | ml | 2,17\n | Barreras Acústicas (h = 3 m) | ml | 3,60\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES"
 }

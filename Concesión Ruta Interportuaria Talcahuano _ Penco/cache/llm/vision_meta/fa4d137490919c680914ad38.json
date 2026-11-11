@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.00055,
+ "usage": {
+  "completion_tokens": 544,
+  "prompt_tokens": 4409,
+  "total_tokens": 4953,
+  "completion_tokens_details": {
+   "reasoning_tokens": 278
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.5,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Año Calendario Explotación\", \"Ingresos Mínimos Garantizados IMGt (UF) / Con Av. Alessandri\", \"Ingresos Mínimos Garantizados IMGt (UF) / Sin Av. Alessandri\"], \"filas\": [[\"9\", \"67.018 x f\", \"23.359\"], [\"10\", \"71.869 x f\", \"25.050\"], [\"11\", \"77.081 x f\", \"26.867\"], [\"12\", \"83.249 x f\", \"29.016\"], [\"13\", \"89.919 x f\", \"31.341\"], [\"14\", \"97.132 x f\", \"33.855\"], [\"15\", \"104.932 x f\", \"36.574\"], [\"16\", \"113.368 x f\", \"39.514\"], [\"17\", \"122.490 x f\", \"42.694\"], [\"18\", \"132.355 x f\", \"46.133\"], [\"19\", \"143.024 x f\", \"49.851\"], [\"20\", \"154.561 x f\", \"53.872\"]], \"notas\": null}]}"
+}

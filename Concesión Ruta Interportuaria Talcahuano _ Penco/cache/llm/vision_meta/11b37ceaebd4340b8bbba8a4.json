@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000622,
+ "usage": {
+  "completion_tokens": 1040,
+  "prompt_tokens": 4142,
+  "total_tokens": 5182,
+  "completion_tokens_details": {
+   "reasoning_tokens": 515
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.0,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n7.15 Plan de Acción frente a derrame de sustancias y materiales\npeligrosos.\n\nLos vehículos que transportan materiales podrían transitar por la ruta y provocar\nderramamiento o escape de su carga. Tales emergencias requieren de una\nestrecha coordinación con los departamentos locales de Bomberos, ambulancia\ny Carabineros.\n\nPrimera Acción Apropiada\n\na. Determinar si se trata de un derrame mayor (más de un tambor) o menor.\nEn caso de ser menor y no revestir peligro la sustancia derramada, se\nllevarán los elementos necesarios para retirar de la ruta la sustancia.\n\nb. Contactar al Administrador/supervisor del turno e informar de ello.\n\nc. Si el derrame es mayor (más de un tambor) o bien la sustancia reviste\npeligro se deberá evitar cualquier contacto con el material. Asegurar el\nlugar con los elementos de seguridad para evitar accidentes posteriores.\nDe ser necesario se deberá bloquear la pista e impedir el paso de\nvehículos.\n\nd. Intentar mantenerse contra el viento, o si el material es Gas Propano\nLicuado, intente mantenerse en un lugar de altura.\n\ne. Extinguir todas las fuentes de inflamación en el área.\n\nf. Si se sospecha un escape de vapor, mantenerse alejado dado que las\nemisiones invisibles generalmente se extienden mucho más allá de la\nnube visible.\n\ng. Si es posible, determinar de qué materiales se trata. Si el material pudiera\nser identificado y de acuerdo a la rotulación o las instrucciones en la Hoja\nInformativa de la Seguridad del Material del Vehículo, éste no requiere un\nequipo especializado de protección, llevar a cabo los pasos (8) y (9). Para\nfacilitar esta acción, los peajistas y el edificio de la Concesionaria\ncontarán con una ficha con la identificación de los símbolos distintivos de\ncada tipo de sustancias peligrosas (Ver Anexo Nº 2). Además, los\npatrulleros contarán con una cartilla resumen en la que se individualicen\nlas sustancias más probables de derrame en la zona de la Concesión, y\nlos procedimientos respectivos para hacer un control rápido frente a una\nsituación de emergencia.\n\nh. Llamar al Administrador Jefe de Plaza, informar del incidente y solicitar\nasistencia para limpiar el derrame.\n\n57"
+}

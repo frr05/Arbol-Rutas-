@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000569,
+ "usage": {
+  "completion_tokens": 775,
+  "prompt_tokens": 4142,
+  "total_tokens": 4917,
+  "completion_tokens_details": {
+   "reasoning_tokens": 400
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.9,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Llame a su superior si es que funcionan las lineas\ntelefónicas, o use un celular, si estuviera disponible.\n\n- Informe de su condición y de la situación que observa en\nel camino.\n\n- Informe de accidentes, incendios, etc. A su Administrador\no supervisor a cargo.\n\n- Si el camino se encuentra abierto al tránsito, continúe\noperándolo en los modos de cobro. Si no fuera seguro\npermanecer en la cabina de peaje, cierre la pista\nutilizando un mínimo de diez conos. Luego de su llegada,\nel supervisor cerrará la pista conforme con los\nprocedimientos establecidos.\n\n- Si no fuera seguro mantenerse en la cabina de peaje,\nsalga de la misma y, de estar disponible, llévese el\nequipo de comunicaciones de respaldo.\n\n- Si hay tiempo, sin hacer peligrar su seguridad personal,\nponga llave al cajón que contiene la recaudación del\npeaje.\n\nDespués del Terremoto\n\n- Manténgase con calma y anime a los otros a lo mismo.\n\n- Siga las instrucciones de sus supervisores.\n\n- Verifique si existen heridos\n\n- Ayude en la evacuación si fuera necesario.\n\n- Busque e intente apagar incendios. Use un extintor de\nincendio sólo si ha sido entrenado y cuando al hacerlo no\nle cause lesiones a usted ni a otros.\n\n- Corte el suministro de gas, agua y/o energía según lo\nindicado, o salga si no tiene éxito.\n\n- Revise las instalaciones para verificar letreros o\nestructuras caídas.\n\n- Manténgase cortés y profesional en todos sus tratos con\nel público.\n\n20"
+}

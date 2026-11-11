@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000596,
+ "usage": {
+  "completion_tokens": 774,
+  "prompt_tokens": 4409,
+  "total_tokens": 5183,
+  "completion_tokens_details": {
+   "reasoning_tokens": 485
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.3,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"NOMBRE\", \"\"], [\"DOMICILIO\", \"\"], [\"FONO\", \"\"], [\"FAX\", \"\"], [\"Marque con una cruz (X) donde corresponda: LICITANTE\", \"\"], [\"GRUPO LICITANTE\", \"\"], [\"Firma del Representante ante el MOP (*)\", \"\"], [\"Nombre\", \"\"], [\"RUT\", \"\"]], \"notas\": \"(En caso de tratarse de un Grupo Licitante, se deber\\u00e1 consignar un \\u00fanico Domicilio, Fono y Fax).\"}, {\"titulo\": null, \"encabezados\": [\"Nombre o Raz\\u00f3n Social / Integrante del Licitante / Grupo Licitante\", \"RUT\"], \"filas\": [[\"1.\", \"\"], [\"2.\", \"\"], [\"3.\", \"\"], [\"4.\", \"\"], [\"5.\", \"\"], [\"6.\", \"\"], [\"7.\", \"\"], [\"8.\", \"\"], [\"9.\", \"\"], [\"10.\", \"\"]], \"notas\": \"(*) De acuerdo a lo establecido en el art\\u00edculo 1.5.5 letra A) Documento N\\u00ba3 de las Bases de Licitaci\\u00f3n.\"}]}"
+}

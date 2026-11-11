@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 29,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 378,
+ "segundos": 8.0,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 260,
+  "conf_media": 0.907,
+  "frac_baja": 0.046,
+  "frac_rara": 0.006,
+  "tinta": 0.0439
+ },
+ "n_palabras_vlm": 260,
+ "frac_rara_vlm": 0.006,
+ "similitud": 0.978,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A,\n\n6.2 Estándar de servicio\n\n- Del Personal\nEl personal representa la imagen hacia el público y deberá, por consiguiente,\nmantener en todo momento una actitud, prestancia y disposición hacia el cliente\nacorde con un alto nivel de servicio.\n\n- Delos turnos\nEl Jefe de Plaza será la persona encargada de determinar los turnos de la\nsemana. Estos estarán en un lugar visible. El faltar a un turno de manera\nrelterada es considerado falta grave y puede ser causal de término de contrato.\n\n- Uso de uniformes\nTodo el personal excepto su gerencia y auditoria, deberá usar su uniforme\nprovisto por la empresa en todo momento durante la jornada laboral, de acuerdo\na las normas de la empresa.\nEl uso de indumentaria de seguridad reflectante de acuerdo al Manual de\nSeñalización de Tránsito es obligatorio para todo el personal una vez que\ntransite o permanezca en la vía. Sólo se levanta esta obligación mientras\npermanezca en las oficinas o en las cabinas de pago.\nEs responsabilidad de cada empleado traer su uniforme limpio y zapatos\nlustrados al lugar de trabajo. Deberán además usar su correspondiente\ncredencial de manera visible e identificando el nombre del mismo.\n\n6.3, Relación con el usuario\nEs una condición esencial del servicio el trato deferente y cordial al usuario.\nEsto se resume en:\n* Ser positivo\n- Salude al llegar e irse.\n\n- Asistir al trabajo con uniferme limpio, completo, zapatos\nlustrados y correctamente afeitado si corresponde.\n\n- — Reportarse a! lugar de trabajo antes del horario asignado en el\nturno.\n\n28",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n6.2. Estándar de servicio\n\n- Del Personal\n\nEl personal representa la imagen hacia el público y deberá, por consiguiente,\nmantener en todo momento una actitud, prestancia y disposición hacia el cliente\nacorde con un alto nivel de servicio.\n\n- De los turnos\n\nEl Jefe de Plaza será la persona encargada de determinar los turnos de la\nsemana. Estos estarán en un lugar visible. El faltar a un turno de manera\nreiterada es considerado falta grave y puede ser causal de término de contrato.\n\n- Uso de uniformes\n\nTodo el personal excepto su gerencia y auditoria, deberá usar su uniforme\nprovisto por la empresa en todo momento durante la jornada laboral, de acuerdo\na las normas de la empresa.\n\nEl uso de indumentaria de seguridad reflectante de acuerdo al Manual de\nSeñalización de Tránsito es obligatorio para todo el personal una vez que\ntransite o permanezca en la via. Sólo se levanta esta obligación mientras\npermanezca en las oficinas o en las cabinas de pago.\n\nEs responsabilidad de cada empleado traer su uniforme limpio y zapatos\nlustrados al lugar de trabajo. Deberán además usar su correspondiente\ncredencial de manera visible e identificando el nombre del mismo.\n\n6.3. Relación con el usuario\n\nEs una condición esencial del servicio el trato deferente y cordial al usuario.\nEsto se resume en:\n\n• Ser positivo\n\n- Salude al llegar e irse.\n\n- Asistir al trabajo con uniforme limpio, completo, zapatos\nlustrados y correctamente afeitado si corresponde.\n\n- Reportarse al lugar de trabajo antes del horario asignado en el\nturno.\n\n28"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:54",
+ "costo": 0.000646,
+ "usage": {
+  "completion_tokens": 1133,
+  "prompt_tokens": 4195,
+  "total_tokens": 5328,
+  "completion_tokens_details": {
+   "reasoning_tokens": 167
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.1,
+ "truncado": false,
+ "texto": "Ministerio de Obras Públicas\nCoordinación General de Concesiones\n\npara garantizar seguridad en su uso, realizado por una Consultora inscrita en los\nregistros del MOP.\n\ng) La Sociedad Concesionaria no podrá rechazar a terceros interesados en accesos o\nconexiones a la o las vías concesionadas siempre que se cumpla con lo estipulado\nen las presentes Bases de Licitación. Dichos accesos no podrán estar localizados\nen puntos que puedan constituir variantes a las plazas de peaje e impedir de este\nmodo el cobro de peajes por parte de la Sociedad Concesionaria..\"\n\nh) La Sociedad Concesionaria podrá establecer conexiones directas a las vías\nconcesionadas o a las calles de servicio, para los Servicios Obligatorios y\nComplementarios establecidos en el artículo 1.10.10 de las presentes Bases,\ncumpliendo con la normativa vigente, ya sea que estos servicios sean\noperados directamente por el Concesionario o a través de un tercero de\nacuerdo a lo establecido en el artículo 64º del DS MOP Nº956 de 1997.\"\n\n13. En 1.8.11 \"Seguros de Responsabilidad Civil por Daños a Terceros\", se rectifica el primer\npárrafo del artículo de la siguiente manera:\n\n• Donde dice:\n\n\"... que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por\ndaños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en\nsus personas y que hubiesen acontecido dentro del Area de Concesión.\"\n\n• Donde dice:\n\n\"... que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por\ndaños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en\nsus personas y que hubiesen acontecido dentro del Area de Concesión y en los lugares\ndonde la Sociedad Concesionaria se encuentre ejecutando obras.\"\n\n14. En 1.8.17 \"Infraestructura que se entrega a la Sociedad Concesionaria\" y en 1.8.17.1\n\"Infraestructura Preexistente que se entrega al Concesionario\", ambos artículos se rectifican\nreemplazándolos por el siguiente artículo:\n\n\"1.8.17 Infraestructura Preexistente que se entrega a la Sociedad Concesionaria\n\nLa infraestructura preexistente que se entrega a la Sociedad Concesionaria\ncorresponde a la calle La Isla, desde el km 10,40 del eje principal de la Ruta\nInterportuaria proyectada hasta la Intersección con calle Las Industrias definida\nen el respectivo Anteproyecto Referencial; y la vía existente desde la Intersección\nLas Industrias hasta el empalme con Av. Colón incluyendo el Puente sobre el\ncanal El Morro (Puente Rocuant).\n\nDicha entrega se hará mediante anotación en el Libro de Obra por parte del\nInspector Fiscal, en el estado que se encuentre, en un plazo máximo de 420 días,\ncontados desde la publicación en el Diario Oficial del Decreto Supremo de\nAdjudicación de la Concesión.\n\nDesde ese momento, la Sociedad Concesionaria será responsable de mantener,\nconservar y operar, según sea el caso, las obras preexistentes en condiciones de\nseguridad y transitabilidad, aún cuando éstas deban ser demolidas o\naprovechadas sólo parcialmente en el proyecto, con el fin de dar al usuario un\nnivel de seguridad y confort compatible con lo dispuesto en los artículos 1.8.10,\n1.9.2.3, 1.9.8, 1.9.9 y 1.9.10 de las presentes Bases, desde su entrega hasta la\naprobación del Plan y Programa de Conservación señalado en el artículo 1.9.2.4\nde las presentes Bases. Para la mantención, conservación y operación de las obras\npreexistentes, la Sociedad Concesionaria deberá utilizar el plan propuesto en su\nOferta Técnica según el artículo 1.5.5 letra B Documento Nº8, hasta la\naprobación por parte del Inspector Fiscal del Plan y Programa de Conservación\nde las Obras señalado en el artículo 1.9.2.4. En todo caso, la Sociedad\nConcesionaria será responsable de subsanar cualquier deficiencia aunque no se\nhaya incluido en el Plan presentado en su Oferta Técnica.\n\nCircular Aclaratoria Nº4\nPágina 7 de 20"
+}

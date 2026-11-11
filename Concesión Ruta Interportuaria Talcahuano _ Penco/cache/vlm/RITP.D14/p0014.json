@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 14,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 527,
+ "segundos": 8.9,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 336,
+  "conf_media": 0.919,
+  "frac_baja": 0.024,
+  "frac_rara": 0.004,
+  "tinta": 0.0614
+ },
+ "n_palabras_vlm": 336,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.978,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARÍA S.A.\n\nE Mantener un sistema de Reclamos y Sugerencias disponible en\ntodo momento para el usuario, y responder de la manera indicada\nen este Reglamento.\n\ng. Brindar en todo morrento un trato deferente al usuario.\n\nh, Prestar el servicio básico contemplado en el Contrato de\nConcesión.\n\n1. Prestar asistencia caminera al Usuario que asi lo requiera,\n\nj. Cumplir a cabalidad las Normas de Derecho Laboral! para con sus\ndependientes, incluyendo empresas subcontratistas.\n\nk, Apoyar y coordinar en conjunto con Carabineros el retiro de la ruta,\nde cualquier vehículo que pudiere amenazar la seguridad para el\nmismo usuario o de terceros. (se refiere a vehiculos averiados\nprincipalmente)\n\n4.3 De la seguridad pública\n\nLa seguridad pública es responsabilidad de Carabineros de Chile tal como lo\nestablecen las leyes vigentes, Carabineros de Chile y los Inspectores Fiscales y\nMunicipales serán los encargados de velar por el cumplimiento de las\ndisposiciones a que se refiere la Ley de Tránsito, sus reglamentos y las de\ntransporte y tránsito terrestre que dicte el Ministerio de Transportes y\nTelecomunicaciones o las Municipalidades, debiendo denunciar, al Juzgado que\ncorresponda, las infracciones o contravenciones que se cometan.\n\n4.4 De las emergencias\n\nEn caso de emergencia se destinarán todos los recursos disponibles con los que\ncuente la Concesionaria para dar atención y solución rápida ai problema\npresentado. — Dicha coordinación estará a cargo del Jefe de Plaza o, en su\nausencia, del Supervisor de turno. Los procedimientos que se deriven de esta\ncoordinación responderán a la acción conjunta entre la Concesionaria y los\nservicios de Ambulancias, Bomberos y Carabineros, Adicionalmente, la\nSociedad Concesionaria se preocupará de disponer de toda la información que\nestos servicios necesiten, de manera que les permita actuar de la forma más\nrápida y eficiente posible.\n\nEn caso de un accidente con heridos de mayor consideración, corresponde a los\nservicios médicos (paramédicos) y asistenciales dependientes del Servicio\nNacional de Salud el coordinar los procedimientos que correspondan, una vez\nque los hechos sean informados en forma adecuada por la Sociedad",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nf. Mantener un sistema de Reclamos y Sugerencias disponible en\ntodo momento para el usuario, y responder de la manera indicada\nen este Reglamento.\n\ng. Brindar en todo momento un trato deferente al usuario.\n\nh. Prestar el servicio básico contemplado en el Contrato de\nConcesión.\n\ni. Prestar asistencia caminera al usuario que así lo requiera.\n\nj. Cumplir a cabalidad las Normas de Derecho Laboral para con sus\ndependientes, incluyendo empresas subcontratistas.\n\nk. Apoyar y coordinar en conjunto con Carabineros el retiro de la ruta,\nde cualquier vehículo que pudiere amenazar la seguridad para el\nmismo usuario o de terceros. (se refiere a vehículos averiados\nprincipalmente)\n\n4.3 De la seguridad pública\n\nLa seguridad pública es responsabilidad de Carabineros de Chile tal como lo\nestablecen las leyes vigentes. Carabineros de Chile y los Inspectores Fiscales y\nMunicipales serán los encargados de velar por el cumplimiento de las\ndisposiciones a que se refiere la Ley de Tránsito, sus reglamentos y las de\ntransporte y tránsito terrestre que dicte el Ministerio de Transportes y\nTelecomunicaciones o las Municipalidades, debiendo denunciar, al Juzgado que\ncorresponda, las infracciones o contravenciones que se cometan.\n\n4.4 De las emergencias\n\nEn caso de emergencia se destinarán todos los recursos disponibles con los que\ncuente la Concesionaria para dar atención y solución rápida al problema\npresentado. Dicha coordinación estará a cargo del Jefe de Plaza o, en su\nausencia, del Supervisor de turno. Los procedimientos que se deriven de esta\ncoordinación responderán a la acción conjunta entre la Concesionaria y los\nservicios de Ambulancias, Bomberos y Carabineros. Adicionalmente, la\nSociedad Concesionaria se preocupará de disponer de toda la información que\nestos servicios necesiten, de manera que les permita actuar de la forma más\nrápida y eficiente posible.\n\nEn caso de un accidente con heridos de mayor consideración, corresponde a los\nservicios médicos (paramédicos) y asistenciales dependientes del Servicio\nNacional de Salud el coordinar los procedimientos que correspondan, una vez\nque los hechos sean informados en forma adecuada por la Sociedad\n\n13"
+}

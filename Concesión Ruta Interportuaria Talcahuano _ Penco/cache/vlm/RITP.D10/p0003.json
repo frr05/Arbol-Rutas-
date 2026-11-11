@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 3,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 579,
+ "segundos": 9.2,
+ "fecha": "2026-11-11 11:55",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 344,
+  "conf_media": 0.913,
+  "frac_baja": 0.061,
+  "frac_rara": 0.004,
+  "tinta": 0.0324
+ },
+ "n_palabras_vlm": 339,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.933,
+ "truncado": false,
+ "texto_ocr": "DECRETO:\n\nAPRUÉBASE el convenio complementario N* 1, de fecha 12 de enero de 2005, que se anexa y\nforma parte infegrante del presente decreto, celebrado entre la Dirección General de Obras Públicas,\nrepresentada por su Director General, don Gennán Millán Pérez, ambos domiciliados para estos\nefectos en calle Morandé N* 71, tercer piso, comuna y ciudad de Santiago y “Sociedad\nConcesionaria Autopista Interportuaria S.A.”, debidamente representada por don Paulo Bezanilla\nSaavedra, chileno, casado, ingeniero civil, cédula de identidad N* 7.060.4$1-5 y por don Ignacio\nSweit Lazcano, chileno, casado, Ingeniero Civil, cédula de identidad N* 4.773.940-3, todos\ndomiciliados, para estos efectos, en calle Ebro N*2705, comuna de Las Condes, Santiago. Dicho\nconvenio complementario pasará a formar parte del contrato de concesión.\n\nDISPÓNESE que en todo lo no modificado por el convenio complementario que se aprueba por el\npresente Decreto Supremo, rigen plenamente las estipulaciones del Decreto Supremo MOP NW 112,\nde fecha 31 de enero de 2002, las Bases de Licitación y demás instrumentos que conforman el\ncontrato de concesión.\n\nESTABLÉCESE que la sociedad concesionaria deberá suscribir ante notario tres transcripciones\ndel presente Decreto Supremo en señal de aceptación de su contenido, debiendo protocolizar ante el\nmismo notario uno de sus ejemplares conjuntamente con un original del convenio complementario\nque se aprueba, dentro del plazo de 15 días corridos contados desde su publicación en el Diario\nOficial, Una de las transcripciones referidas precedentemente será entregada para su archivo a la\nCoordinación General de Concesiones de la Dirección General de Obras Públicas, y la otra a la\nFiscalía del Ministerio de Obras Públicas, ambas deberán acompañarse de una copia autorizada de\nla protocolización efectuada,\n\nESTABLÉCESE que el Director General de Obras Públicas informará semestralmente a la\nDirección de Presupuestos del Ministerio de Hacienda sobre el desarrollo y cumplimiento de\nlas estipulaciones del Convenio Complementario aprobado por el presente Decreto Supremo.\n\nANOTESE, TOMESE RAZON Y PUBLIQUESE\n\nRICARDO ON\n\nPRESIDENFÉ DE LA REPÚBLICA\n\ny\n\nCA) TT AA?\n\n> a Ñ o Ss\n\nNY\n\nJAIME ESTÉVEZ VALENCIA SS MARIÓ MARCEL CULEEL\nMinistro de Obras Públicas Ministro de Hacienda\nSubrogante",
+ "texto_vlm": "DECRETO:\n\n1. APRUÉBASE el convenio complementario Nº 1, de fecha 12 de enero de 2005, que se anexa y\nforma parte integrante del presente decreto, celebrado entre la Dirección General de Obras Públicas,\nrepresentada por su Director General, don Germán Millán Pérez, ambos domiciliados para estos\nefectos en calle Morandé Nº 71, tercer piso, comuna y ciudad de Santiago y “Sociedad\nConcesionaria Autopista Interportuaria S.A.”, debidamente representada por don Paulo Bezanilla\nSaavedra, chileno, casado, ingeniero civil , cédula de identidad Nº 7.060.451-5 y por don Ignacio\nSwett Lazcano, chileno, casado, Ingeniero Civil, cédula de identidad Nº 4.773.940-3, todos\ndomiciliados, para estos efectos, en calle Ebro Nº2705, comuna de Las Condes, Santiago. Dicho\nconvenio complementario pasará a formar parte del contrato de concesión.\n\n2. DISPÓNESE que en todo lo no modificado por el convenio complementario que se aprueba por el\npresente Decreto Supremo, rigen plenamente las estipulaciones del Decreto Supremo MOP Nº 112,\nde fecha 31 de enero de 2002, las Bases de Licitación y demás instrumentos que conforman el\ncontrato de concesión.\n\n3. ESTABLÉCESE que la sociedad concesionaria deberá suscribir ante notario tres transcripciones\ndel presente Decreto Supremo en señal de aceptación de su contenido, debiendo protocolizar ante el\nmismo notario uno de sus ejemplares conjuntamente con un original del convenio complementario\nque se aprueba, dentro del plazo de 15 días corridos contados desde su publicación en el Diario\nOficial. Una de las transcripciones referidas precedentemente será entregada para su archivo a la\nCoordinación General de Concesiones de la Dirección General de Obras Públicas, y la otra a la\nFiscalía del Ministerio de Obras Públicas, ambas deberán acompañarse de una copia autorizada de\nla protocolización efectuada.\n\n4. ESTABLÉCESE que el Director General de Obras Públicas informará semestralmente a la\nDirección de Presupuestos del Ministerio de Hacienda sobre el desarrollo y cumplimiento de\nlas estipulaciones del Convenio Complementario aprobado por el presente Decreto Supremo.\n\nANOTESE, TOMESE RAZON Y PUBLIQUESE\n\nRICARDO LAGOS ESCOBAR\nPRESIDENTE DE LA REPÚBLICA\n\nJAIME ESTÉVEZ VALENCIA\nMinistro de Obras Públicas\n\nMARIO MARCEL CULLEL\nMinistro de Hacienda\nSubrogante"
+}

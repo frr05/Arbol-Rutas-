@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 78,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 51,
+ "segundos": 5.2,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 7,
+  "conf_media": 0.932,
+  "frac_baja": 0.0,
+  "frac_rara": 0.0,
+  "tinta": 0.0048
+ },
+ "n_palabras_vlm": 19,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.462,
+ "truncado": false,
+ "texto_ocr": "ANEXO N* 8\nMODELO DE RESOLUCION DGOP",
+ "texto_vlm": "ANEXO Nº 8\n\nMODELO DE RESOLUCION DGOP\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO PP.\nDEPTO. DE\nCONCESIONES"
+}

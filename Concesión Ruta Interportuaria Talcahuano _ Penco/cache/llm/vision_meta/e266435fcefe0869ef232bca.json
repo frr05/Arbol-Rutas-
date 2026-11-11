@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000576,
+ "usage": {
+  "completion_tokens": 780,
+  "prompt_tokens": 4199,
+  "total_tokens": 4979,
+  "completion_tokens_details": {
+   "reasoning_tokens": 220
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.3,
+ "truncado": false,
+ "texto": "(Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho\nUnidades de Fomento), conforme a lo indicado en el Anexo Nº1\n(Presupuesto de las Nuevas Inversiones).\n\nEl valor total del presente convenio se determina según el siguiente detalle:\n\nA) Construcción | UF 240.211\nB) Conservación y Mantención | UF 22.287\nC) Proyectos de Ingeniería | UF 8.642\nD) Seguros adicionales | UF 6.513\nE) Mayores Gastos Generales | UF 18.980\nF) Gastos Adicionales de Administración y Control | UF 12.138\nG) Gastos de Financiamiento | UF 8.000\n\nSubtotal Neto | UF 316.771\n\nMenos Disminución de Obras | UF 26.973\n\nTOTAL NETO | UF 289.798\n(Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades\nde Fomento).\n\n2.16 Se deja constancia que las obras contratadas en la presente Cláusula, se\nconstruirán durante la etapa de construcción del contrato, por lo que no\nsignificarán para el MOP costos adicionales por concepto de control y\nadministración del Contrato de Concesión, de tal forma que la sociedad\nconcesionaria no deberá efectuar ningún pago adicional a favor del FISCO-\nMOP por concepto de control y administración del Contrato de Concesión,\nni tampoco ningún pago extra al MOP por concepto de expropiaciones.\n\n2.17 Para la construcción de las obras descritas en la presente Cláusula y en los\nanexos N° 1 y N° 2, no se afectan áreas protegidas y por lo mismo, no se\nrequiere someter su ejecución al Sistema de Evaluación de Impacto\nAmbiental (SEIA) regulado por la Ley N° 19.300, sin perjuicio de las\natribuciones de los organismos competentes. Por esta razón, en el presente\nconvenio no se han contemplado costos ni plazos asociados a estas\nregulaciones.\n\n2.18 El plazo de construcción de las obras indicadas en los numerales 2.1 al 2.3,\nasí como las condiciones de su Puesta en Servicio Provisoria y Definitiva,\nse regularán por lo establecido en las Bases de Licitación y demás\nestipulaciones del presente Convenio Complementario, de acuerdo a los\nplazos que consigna el Anexo Nº4. Sin perjuicio de ello, las partes dejan\nestablecido que el cumplimiento del plazo anterior considera que la entrega,\n\n12"
+}

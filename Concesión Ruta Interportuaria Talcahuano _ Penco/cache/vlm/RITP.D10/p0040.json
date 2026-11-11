@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 40,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 245,
+ "segundos": 11.2,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 141,
+  "conf_media": 0.95,
+  "frac_baja": 0.007,
+  "frac_rara": 0.011,
+  "tinta": 0.0249
+ },
+ "n_palabras_vlm": 140,
+ "frac_rara_vlm": 0.01,
+ "similitud": 0.965,
+ "truncado": false,
+ "texto_ocr": "2.2 CONEXIÓN AV. ALESSANDRI\n\nDebido a que las obras \"Ampliación Av. Jorge Alessandri\" no estarán ejecutadas\nantes de la Puesta en Servicio Provisoria del Ramal Alessandri, se deben\nejecutar las obras de conexión provisoria entre la Ruta Interportuaria (Ramal\nAlessandri) y la vialidad existente.\n\nEsta obra consiste en la continuidad del Ramal Alessandri y su conexión con la\nvía existente en las inmediaciones del acceso al Aeropuerto de Carriel Sur.\n\nSe contempla el empalme a la Avenida Alessandri, a través de un acceso a\nnivel provisorio semaforizado, cuyo diseño involucra los giros necesarios para\ningresar al aeropuerto, como también acceder a la Avenida Alessandri en\ndirección a Concepción - Talcahuano. Se consulta iluminación y paisajismo.\n\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 41.363 U.F.\n\nP\ne\n\nEPTO. DE\n\nESIONES |",
+ "texto_vlm": "2.2 CONEXIÓN AV. ALESSANDRI\n\nDebido a que las obras \"Ampliación Av. Jorge Alessandri\" no estarán ejecutadas\nantes de la Puesta en Servicio Provisoria del Ramal Alessandri, se deben\nejecutar las obras de conexión provisoria entre la Ruta Interportuaria (Ramal\nAlessandri) y la vialidad existente.\nEsta obra consiste en la continuidad del Ramal Alessandri y su conexión con la\nvía existente en las inmediaciones del acceso al Aeropuerto de Carriel Sur.\n\nSe contempla el empalme a la Avenida Alessandri, a través de un acceso a\nnivel provisorio semaforizado, cuyo diseño involucra los giros necesarios para\ningresar al aeropuerto, como también acceder a la Avenida Alessandri en\ndirección a Concepción - Talcahuano. Se consulta iluminación y paisajismo.\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 41.363 U.F.\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL"
+}

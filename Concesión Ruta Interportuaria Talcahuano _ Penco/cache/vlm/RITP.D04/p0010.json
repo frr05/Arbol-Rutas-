@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D04",
+ "pagina": 10,
+ "archivo": "2_adjudicacion/Decreto-Adjudicacion-Red-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 618,
+ "segundos": 9.1,
+ "fecha": "2026-11-11 11:54",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 349,
+  "conf_media": 0.93,
+  "frac_baja": 0.052,
+  "frac_rara": 0.01,
+  "tinta": 0.0313
+ },
+ "n_palabras_vlm": 383,
+ "frac_rara_vlm": 0.013,
+ "similitud": 0.873,
+ "truncado": false,
+ "texto_ocr": "se indican en el artículo 1.13.2.1 de las Bases de Licitación. Dicha garantía será entregada a más\ntardar cuando falten 24 meses para la extinción de la concesión, y consistirá en dos o más boletas de\ngarantía bancarias de igual monto, emitidas en la ciudad de Santiago de Chile por un banco de la\nplaza, a nombre del Director General de Obras Públicas, pagaderas a la vista El plazo de vigencia\nde esta garantía será de 3 años. El valor total de esta garantía será de UF 15.000 (quince mil\nUnidades de Fomento). '\n\nLas boletas de garantía bancarias de explotación serán devueltas en el plazo de 30 días, contados\ndesde que el Inspector Fiscal certifique que el Concesionario ha cumplido todas las obligaciones\ncontraídas con el MOP.\n\nEl incumplimiento de las obligaciones y plazos establecidos precedentemente, hará incurrir a la\nSociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 du las Bases de Licitación.\n\n13. La Sociedad Concesionaria y el MOP realizarán los Pagos establecidos en el Contrato de Concesión\nen los plazos señalados en las Bases de Licitación. En el caso de que se produzcan retrasos, dichos\npagos devengarán un interés real diario de 0,0198%; todo ello de conformidad con el artículo 1.14.4\nde las Bases de Licitación, lo que debe entenderse sin perjuicio de la aplicación de las multas que\n\ne 14. Las multas que procedan se aplicarán conforme a lo estipulado en las Bases de Licitación, sus o\n\nue Circulares Aclaratorias, en el D.S. MOP N* 900 de 1996, que fija el texto refundido, coordinado y 7\nsistematizado del DFL MOP NP 164 de 1991, Ley de Concesiones de Obras Públicas y en el DS.\nMOP N 956 de 1997, Reglamento de la Ley de Concesiones.\n\n15. La Dirección General de Obras Públicas será el servicio del Ministerio de Obras Públicas que\nfiscalizará el contrato de concesión en sus diversos aspectos.\n\nANÓTESE, TÓMESE RAZÓN Y PUBLÍQUESE\n\nA o\n\n[CARDO LAGOS E,\nRESIDENTE DE LA\n\nAA A A A e e\n\n=\n\n=> y A _————\nNICOLÁS EYZAGUIRRE G ZMÁN\nMinistro de Haci\n\no\nRS",
+ "texto_vlm": "se indican en el artículo 1.13.2.1 de las Bases de Licitación. Dicha garantía será entregada a más\ntardar cuando falten 24 meses para la extinción de la concesión, y consistirá en dos o más boletas de\ngarantía bancarias de igual monto, emitidas en la ciudad de Santiago de Chile por un banco de la\nplaza, a nombre del Director General de Obras Públicas, pagaderas a la vista. El plazo de vigencia\nde esta garantía será de 3 años. El valor total de esta garantía será de UF 15.000 (quince mil\nUnidades de Fomento).\n\nLas boletas de garantía bancarias de explotación serán devueltas en el plazo de 30 días, contados\ndesde que el Inspector Fiscal certifique que el Concesionario ha cumplido todas las obligaciones\ncontraídas con el MOP.\n\nEl incumplimiento de las obligaciones y plazos establecidos precedentemente, hará incurrir a la\nSociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 de las Bases de Licitación.\n\n13. La Sociedad Concesionaria y el MOP realizarán los pagos establecidos en el Contrato de Concesión\nen los plazos señalados en las Bases de Licitación. En el caso de que se produzcan retrasos, dichos\npagos devengarán un interés real diario de 0,0198%; todo ello de conformidad con el artículo 1.14.4\nde las Bases de Licitación, lo que debe entenderse sin perjuicio de la aplicación de las multas que\ncorresponda. No obstante lo anterior, el retraso de los pagos que la Sociedad Concesionaria tenga que\nrealizar al Estado dará derecho al cobro, por parte del MOP, de la correspondiente garantía conforme\na lo previsto en el artículo 1.8.3 letra k) de las Bases de Licitación.\n\n14. Las multas que procedan se aplicarán conforme a lo estipulado en las Bases de Licitación, sus\nCirculares Aclaratorias, en el D.S. MOP Nº 900 de 1996, que fija el texto refundido, coordinado y\nsistematizado del DFL MOP Nº 164 de 1991, Ley de Concesiones de Obras Públicas y en el D.S.\nMOP Nº 956 de 1997, Reglamento de la Ley de Concesiones.\n\n15. La Dirección General de Obras Públicas será el servicio del Ministerio de Obras Públicas que\nfiscalizará el contrato de concesión en sus diversos aspectos.\n\nANÓTESE, TÓMESE RAZÓN Y PUBLÍQUESE\n\nRICARDO LAGOS ESCOBAR\nPRESIDENTE DE LA REPÚBLICA\n\nJAVIER ETCHEBERRY CELHAY\nMinistro de Obras Públicas\n\nNICOLÁS EYZAGUIRRE GUZMÁN\nMinistro de Hacienda\n\n10"
+}

@@ -1,8 +1,8 @@
 {
  "documento": "RITP.D05",
  "pagina": 1,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:04",
+ "fecha": "2026-11-11 12:03",
  "tablas": []
 }

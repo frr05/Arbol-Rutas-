@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.00049,
+ "usage": {
+  "completion_tokens": 381,
+  "prompt_tokens": 4142,
+  "total_tokens": 4523,
+  "completion_tokens_details": {
+   "reasoning_tokens": 25
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 4.8,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Asegure el lugar con los elementos de señalización\ndisponibles.\n\n- No abandonar a la victima.\n\n- Enviar a alguien a llamar a la ambulancia y al Jefe de\nPlaza desde el primer teléfono o radio disponible para\nsolicitar una ambulancia y personal de primeros auxilios,\nde ser posible.\n\nPidiendo Auxilio al servicio de ambulancia\n\n- Describa la naturaleza de la emergencia.\n\n- Identifique la ubicación exacta de la víctima.\n\n- Si hay más de una persona en la escena de la\nemergencia, una persona debe permanecer con la\nvíctima mientras la otra dirige a los servicios de\nemergencia al lugar.\n- NO MOVER A LA PERSONA.\n\nNOTA: En casos de un peligro inminente, podrá decidir mover a la víctima.\nJAMÁS ponga en peligro su seguridad personal en el intento por\nrescatar a otros.\n\n5.7 Emergencias sin peligro de muerte\n\nUtilice este procedimiento cuando no existe peligro de muerte, pero sí se\nrequiere de primeros auxilios o atención médica de emergencia.\n\n- En caso de ser necesario, llame a la ambulancia.\n\n- Pida ayuda o, si es posible, notifique al Jefe de Plaza\npara que pida ayuda.\n\n- Asegure el lugar con los elementos de señalización\ndisponibles para evitar potenciales riesgos de accidentes\nadicionales. NO abandone a la víctima.\n\n- Envíe a alguien a conseguir a una persona entrenada en\nprimeros auxilios o a llamar a una ambulancia, si fuera\nnecesario.\n\n18"
+}

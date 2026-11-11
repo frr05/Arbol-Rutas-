@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:48",
+ "costo": 0.000623,
+ "usage": {
+  "completion_tokens": 1019,
+  "prompt_tokens": 4195,
+  "total_tokens": 5214,
+  "completion_tokens_details": {
+   "reasoning_tokens": 416
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.4,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nArtículo | Monto | Tipo de Infracción | Criterio de | Otros\nBases de | Multa | | Aplicación |\nLicitación | (UTM) | | |\n2.6.3.4 | 20 | Ausencia de señalización para prevenir a los usuarios sobre la realización de labores de mantenimiento y conservación, como así mismo no cumplir la señalización utilizada con la normativa vigente. | Cada día |\n2.6.3.5.2 | 50 | Incumplimiento en la reparación de daños a las instalaciones. | Cada vez |\n2.6.3.6 | 50 | No establecer un sistema de libros de reclamos y sugerencias cuyo diseño deberá ser aprobado por el Inspector Fiscal. | Cada semana |\n2.6.3.6 | 120 | Modificación y/o adulteración de los reclamos presentados por los usuarios en el Libro de Reclamos. | Cada vez |\n2.6.5 | 20 | Incumplimiento en la medición continua de flujo vehicular de acuerdo a lo señalado en dicho artículo. | Cada vez |\n2.7.2, 2.11 | 200 | Incumplimiento de las normas y consideraciones de manejo ambiental. | Cada vez |\n2.7.2, 2.11 | 100 | Incumplimiento de ejecución de obras de ajuste o complementarias requeridas por el inspector fiscal para el cumplimiento de las normas ambientales. | Cada día |\n2.7, 2.8 | 100 | Incumplimiento en las acciones a tomar señaladas en el Plan de Prevención de Riesgos y/o Plan de Medidas de Control de Accidentes o Contingencias durante la etapa de Explotación | Cada vez |\n1.8.5.2 Procedimiento en la Aplicación de las Multas\nEl Inspector Fiscal fijará la cuantía de la multa y la propondrá al DGOP, el cual requerirá el pronunciamiento de la Comisión Conciliadora, en los casos previstos en los artículos 29º y 30º del DS MOP Nº900 de 1996.\nCuando el Concesionario no cumpla sus obligaciones o incurra en alguna de las infracciones establecidas en el artículo 1.8.5.1 de las presentes Bases, y una vez aprobada la multa, el Inspector Fiscal notificará por escrito al Concesionario de:\na) Tipo de infracción en que ha incurrido;\nb) Características de la infracción, tales como el número de días de incumplimiento de la obligación a la fecha de la notificación, u otros elementos señalados en las presentes Bases de Licitación; y\nc) Monto de la multa.\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 43"
+}

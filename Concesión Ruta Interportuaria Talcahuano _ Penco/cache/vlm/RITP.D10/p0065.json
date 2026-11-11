@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 65,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 141,
+ "segundos": 5.4,
+ "fecha": "2026-11-11 11:57",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 49,
+  "conf_media": 0.931,
+  "frac_baja": 0.02,
+  "frac_rara": 0.0,
+  "tinta": 0.012
+ },
+ "n_palabras_vlm": 66,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.832,
+ "truncado": false,
+ "texto_ocr": "ANEXO NS 6\nMONOGRAFIAS DESCRIPTIVAS\n\nITEM 2. EMPALME CON LA AV, ALESSANDRI EN SECTOR CARRIEL SUR\nc) Plano de Terrenos que se desafectan de la concesión Terminal de Pasajeros\nAeropuerto Carriel Sur de Concepción y que se afectan a la concesión Ruta\ninterportuaria Talcahuano - Penco por Isla Rocuant",
+ "texto_vlm": "ANEXO Nº 6\n\nMONOGRAFIAS DESCRIPTIVAS\n\nITEM 2. EMPALME CON LA AV. ALESSANDRI EN SECTOR CARRIEL SUR\nc) Plano de Terrenos que se desafectan de la concesión Terminal de Pasajeros\nAeropuerto Carriel Sur de Concepción y que se afectan a la concesión Ruta\nInterportuaria Talcahuano - Penco por Isla Rocuant\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO. PP.\nDEPTO. DE\nCONCESIONES"
+}

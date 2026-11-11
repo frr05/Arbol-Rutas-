@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000476,
+ "usage": {
+  "completion_tokens": 309,
+  "prompt_tokens": 4142,
+  "total_tokens": 4451,
+  "completion_tokens_details": {
+   "reasoning_tokens": 176
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 3.7,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nINDICE\n\nI. ANTECEDENTES GENERALES 2\n\nII. NORMAS GENERALES 4\n\nIII. DEBERES Y DERECHOS DEL USUARIO 6\n\nIV. DEBERES Y DERECHOS DEL CONCESIONARIO 12\n\nV. MEDIDAS DE SEGURIDAD PREVENTIVAS 15\n\nVI. MANUAL DEL PEAJISTA 28\n\nVII. MANUAL DEL PATRULLERO 32\n\n_ ANEXO Nº 1\n\nANEXO Nº 2\n\n1"
+}

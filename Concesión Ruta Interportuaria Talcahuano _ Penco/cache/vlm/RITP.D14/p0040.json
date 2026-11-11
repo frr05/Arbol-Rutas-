@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 40,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 508,
+ "segundos": 9.7,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 336,
+  "conf_media": 0.925,
+  "frac_baja": 0.012,
+  "frac_rara": 0.004,
+  "tinta": 0.0613
+ },
+ "n_palabras_vlm": 337,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.981,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A,\n\nLa Central de Llamados se comunicará con la base que corresponda informando\ndel accidente (vehículos ocupando ambos sentidos de la ruta). Además de\nindicar kilómetro, cantidad de lesionados y tipos de vehículos involucrados,\npedirá el apoyo de Carabineros en el lugar, Ambulancia, Bomberos, equipo de\nrescate, etc.\n\nLa base se comunicará al Patrullero informando de accidente y en forma\ninmediata mandará ambulancia, grúa y comunicará al Administrador Jefe de\nPlaza de accidente nivel 3,\n\nUna vez en el lugar el Patrullero y Carabineros buscarán caminos alternativos\npara el desvio del flujo vehicular momentáneamente hasta que se pueda habilitar\nel tránsito en un sentido de la ruta, esto significa retirar los vehículos de una\ncalzada, la que puede ser lado oriente o poniente,\n\nUna vez despejada una de las calzadas se procederá a implementar desvio\nconforme al procedimiento establecido en el Manual de Señalización de Tránsito,\n\n7.6 Clasificación según gravedad del accidente\n\nCuando ocurren accidentes vehiculares, las acciones de rescate cobran principal\nimportancia. Además de mantener la calma, es necesario conocer y cumplir las\nrecomendaciones señaladas a continuación.\n\nAl recibir un llamado de emergencia o percatarse de ello en su inspección\nhabitual, lo primero es hacer una evaluación de la gravedad del hecho para asi\nho perder tiempo en las acciones posteriores.\n\nPara cada una de estas situaciones, deberá asegurar la zona antes de asistir al\nafectado. Existen 3 tipos de atenciones:\n\na. Insitu\n\nEste tipo de asistencia es el que da solución en el lugar del evento a los\nproblemas menores del vehículo averiado. Esta prestación se hará siempre que\nno lleve un tiempo de duración de más de 20 minutos aproximado y ho incluye\nrepuestos. Ejemplo: puente de batería, cambio de neumáticos, falta de\ncombustible. etc. Refiérase a las técnicas mencionadas anteriormente al\nrespecto.\n\nb. Remolque\nes la asistencia de trasiado de vehículos averiados o accidentados que no\n\npuedan desplazarse por sus propios medios. El servicio proporcionado por la\nConcesionaria establece como única responsabilidad al respecto el mantener la\n\n39",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nLa Central de Llamados se comunicará con la base que corresponda informando\ndel accidente (vehiculos ocupando ambos sentidos de la ruta). Además de\nindicar kilómetro, cantidad de lesionados y tipos de vehículos involucrados,\npedirá el apoyo de Carabineros en el lugar, Ambulancia, Bomberos, equipo de\nrescate, etc.\n\nLa base se comunicará al Patrullero informando de accidente y en forma\ninmediata mandará ambulancia, grúa y comunicará al Administrador Jefe de\nPlaza de accidente nivel 3.\n\nUna vez en el lugar el Patrullero y Carabineros buscarán caminos alternativos\npara el desvio del flujo vehicular momentáneamente hasta que se pueda habilitar\nel tránsito en un sentido de la ruta, esto significa retirar los vehículos de una\ncalzada, la que puede ser lado oriente o poniente.\n\nUna vez despejada una de las calzadas se procederá a implementar desvio\nconforme al procedimiento establecido en el Manual de Señalización de Tránsito.\n\n7.6 Clasificación según gravedad del accidente\n\nCuando ocurren accidentes vehiculares, las acciones de rescate cobran principal\nimportancia. Además de mantener la calma, es necesario conocer y cumplir las\nrecomendaciones señaladas a continuación.\n\nAl recibir un llamado de emergencia o percatarse de ello en su inspección\nhabitual, lo primero es hacer una evaluación de la gravedad del hecho para así\nno perder tiempo en las acciones posteriores.\n\nPara cada una de estas situaciones, deberá asegurar la zona antes de asistir al\nafectado. Existen 3 tipos de atenciones:\n\na. In situ\n\nEste tipo de asistencia es el que da solución en el lugar del evento a los\nproblemas menores del vehículo averiado. Esta prestación se hará siempre que\nno lleve un tiempo de duración de más de 20 minutos aproximado y no incluye\nrepuestos. Ejemplo: puente de batería, cambio de neumáticos, falta de\ncombustible. etc. Refiérase a las técnicas mencionadas anteriormente al\nrespecto.\n\nb. Remolque\n\nEs la asistencia de traslado de vehículos averiados o accidentados que no\npuedan desplazarse por sus propios medios. El servicio proporcionado por la\nConcesionaria establece como única responsabilidad al respecto el mantener la\n\n39"
+}

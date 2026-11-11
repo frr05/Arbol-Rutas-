@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000584,
+ "usage": {
+  "completion_tokens": 822,
+  "prompt_tokens": 4195,
+  "total_tokens": 5017,
+  "completion_tokens_details": {
+   "reasoning_tokens": 143
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.9,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nespecies a utilizar y métodos de siembra y plantación a considerar. Además se deben proyectar todas las\ninstalaciones para el riego de las áreas señaladas, en caso que se requiera.\n\nDe igual forma, la Sociedad Concesionaria debe cumplir con lo establecido en el artículo 2.10.10 de las Bases\nTécnicas y en el artículo 3.2.1.1 de la Ordenanza General sobre Plantaciones y Areas de Ornato.\n\n2.3.2.11 Iluminación\n\nLos proyectos de iluminación deberán ser confeccionados de acuerdo a los criterios básicos para proyectos de\niluminación en carreteras concesionadas de la Coordinación general de Concesiones, la normativa SEC y a las\ndisposiciones mínimas de iluminación que establece la Dirección de Vialidad. Dichos proyectos contarán con la\naprobación del Inspector Fiscal y del servicio eléctrico respectivo, en lo relacionado con el empalme a la red\neléctrica existente.\n\nSin perjuicio de lo anterior el Concesionario podrá someter a la aprobación del Inspector Fiscal proyectos que\nconsideren propuestas alternativas de los diferentes Sistemas de Iluminación a incorporar en las obras por\niniciativa propia, con fines de optimizar los recursos energéticos y minimizar las mantenciones.\n\nLa optimización se podrá realizar en todos los parámetros de diseño, a modo de ejemplo en:\n\n• Interdistancias de postes\n• Altura de montaje\n• Potencia de lamparas\n• Etc.\n\nLas propuestas alternativas deberán adecuarse estrictamente a las reglamentaciones internacionales y/o\nnacionales en cuantos a todos los parámetros de la luminotecnia.\n\nLos parámetros que se deberán tener en cuenta serán:\n\n• Los niveles promedios de luminancia por cada una de las zonas a iluminar.\n• Las uniformidades generales y longitudinales.\n• Deslumbramiento (TI).\n\nSe tomará como referencia de los diferentes niveles mínimos a conseguir, la clasificación de una vía rápida de\nalto tránsito.\n\nTodas las propuestas deberán estar justificadas con cálculos basados en condiciones reales de pavimentación\n(asfalto u hormigón). Para los diferentes entornos de la ruta no se deberá considerar ninguna discrepancia entre\nellos, ciñéndose a los valores más elevados de las reglamentaciones utilizadas.\n\nPara la elaboración de estos Proyectos Alternativos, el Concesionario podrá utilizar los parámetros y\nrecomendaciones establecidas en la Norma CIE-115.\n\nSe podrán presentar proyectos que incluyan sistemas de reducción de potencia con la utilización de reactores de\ndoble nivel de potencia. Sin embargo, se deberá adjuntar para su presentación un certificado del fabricante de\nlas lámparas que certifique el funcionamiento de éstas con dichos reactores y su influencia sobre la vida útil.\n\nEl Concesionario podrá presentar un sistema de control de iluminación de las vías, que utilice los datos de flujo,\nutilización, ambiente, horas, etc., el cual deberá estar en perfecta coordinación con la gestión de tráfico y ser\naprobado por el Inspector Fiscal, antes de su puesta en servicio.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n114"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 48,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 582,
+ "segundos": 14.1,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 371,
+  "conf_media": 0.904,
+  "frac_baja": 0.038,
+  "frac_rara": 0.004,
+  "tinta": 0.0657
+ },
+ "n_palabras_vlm": 370,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.964,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nNo obstante lo anterior y a pesar del elevado potencial de inflamabilidad y\ntoxicidad del producto, la bencina sigue siendo utilizada para otras funciones,\nprincipalmente por desconocimiento en los serios esgos para la salud de las\npersonas y la seguridad de las instalaciones que conlleva su uso Inadecuado,\n\nPor ejemplo:\n\n- Utilización de envases inapropiados para el almacenamiento y el\ntransporte del combustible. La utilización de envases de bebida para\nalmacenar bencina puede ocasionar riesgos de ingestión del llquido por\npersonas que desconocen su contenido. Envases de material no\napropiado pueden romperse facilmente y producir derrames y riesgos de\nincendio.\n\n- — Falta de rotulación y señalización de bidones y tambores autorizados. La\nfalta de rotulación y señalización de los envases puede ocasionar\naccidentes. Por ejemplo, al aplicar oxicorte a un envase en el cual se ha\nalmacenado combustible, el encendido de los gases del combustible\npuede provocar una explosión.\n\n- Tnexistencia de prohibición de fumar. La falta de la señalización sobre la\nprohibición de fumar en los lugares donde se almacena combustible, ha\nsido la causa de numerosos incendios.\n\n- Limpieza de pisos, equipos y herramientas. El esparcir la gasolina en\nsuperficies amplias, permite la generación de Yapores inflamables que\npueden fácilmente encenderse al entrar en contacto con fuentes de\nignición.\n\n- Su gran volatilidad, permite que sus vapores se esparzan con facilidad y\npuedan alcanzar llamas abiertas (pitotos de calefón, estufas a gas,\ncocinas, trabajos de oxicorte) e inflamarse. Una chispa puede provocar\nuna explosión si enciende vapores de gasolina contenidos en recipientes\ncerrados.\n\n- Succión de bencina por medio de la boca. La aspiración de vapores del\ncombustible puede provocar irritación y daño a los tejidos del pulmón. La\ndestrucción de los telidos permite que los pulmones se llenen de líquido,\nprovocando lo que se conoce como un edema pulmenar. En cuanto a la\ntoxicidad de la gasolina en ef estómago, fa sustancia entra rapidamente\nen la corriente sanguinea y puede disminuir la respiración y la función\ncardíaca. Como estas reacciones ocurren en breves segundos, la muerte\ncausada por una combinación de edema pulmonar y falla cardiaca puede\nocurrir en cosa de minutos. Aún en el caso de que la explosión no\n\n47",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nNo obstante lo anterior y a pesar del elevado potencial de inflamabilidad y\ntoxicidad del producto, la bencina sigue siendo utilizada para otras funciones,\nprincipalmente por desconocimiento en los serios riesgos para la salud de las\npersonas y la seguridad de las instalaciones que conlleva su uso inadecuado.\n\nPor ejemplo:\n\n- Utilización de envases inapropiados para el almacenamiento y el\ntransporte del combustible. La utilización de envases de bebida para\nalmacenar bencina puede ocasionar riesgos de ingestión del líquido por\npersonas que desconocen su contenido. Envases de material no\napropiado pueden romperse fácilmente y producir derrames y riesgos de\nincendio.\n\n- Falta de rotulación y señalización de bidones y tambores autorizados. La\nfalta de rotulación y señalización de los envases puede ocasionar\naccidentes. Por ejemplo, al aplicar oxicorte a un envase en el cual se ha\nalmacenado combustible, el encendido de los gases del combustible\npuede provocar una explosión.\n\n- Inexistencia de prohibición de fumar. La falta de la señalización sobre la\nprohibición de fumar en los lugares donde se almacena combustible, ha\nsido la causa de numerosos incendios.\n\n- Limpieza de pisos, equipos y herramientas. El esparcir la gasolina en\nsuperficies amplias, permite la generación de vapores inflamables que\npueden fácilmente encenderse al entrar en contacto con fuentes de\nignición.\n\n- Su gran volatilidad, permite que sus vapores se esparzan con facilidad y\npuedan alcanzar llamas abiertas (pilotos de calefón, estufas a gas,\ncocinas, trabajos de oxicorte) e inflamarse. Una chispa puede provocar\nuna explosión si enciende vapores de gasolina contenidos en recipientes\ncerrados.\n\n- Succión de bencina por medio de la boca. La aspiración de vapores del\ncombustible puede provocar irritación y daño a los tejidos del pulmón. La\ndestrucción de los tejidos permite que los pulmones se llenen de líquido,\nprovocando lo que se conoce como un edema pulmonar. En cuanto a la\ntoxicidad de la gasolina en el estómago, la sustancia entra rápidamente\nen la corriente sanguínea y puede disminuir la respiración y la función\ncardíaca. Como estas reacciones ocurren en breves segundos, la muerte\ncausada por una combinación de edema pulmonar y falla cardíaca puede\nocurrir en cosa de minutos. Aún en el caso de que la explosión no\n\n47"
+}

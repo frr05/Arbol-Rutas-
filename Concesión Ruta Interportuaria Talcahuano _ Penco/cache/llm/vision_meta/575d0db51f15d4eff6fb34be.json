@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000584,
+ "usage": {
+  "completion_tokens": 824,
+  "prompt_tokens": 4196,
+  "total_tokens": 5020,
+  "completion_tokens_details": {
+   "reasoning_tokens": 63
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.3,
+ "truncado": false,
+ "texto": "La Resolución DGOP (Exenta) Nº 1146 de fecha 03 de mayo de 2005, que designa a los\nintegrantes de la Comisión de Autorización de Puesta en Servicio Provisoria de la obra pública\nfiscal denominada \"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\".\n\nEl Memorando Nº 104 de fecha 24 de mayo de 2005 y el Ord. Nº 148 de fecha 26 de mayo de\n2005, ambos del Inspector Fiscal de la obra pública fiscal denominada \"Ruta Interportuaria\nTalcahuano – Penco por Isla Rocuant\".\n\nActa de la Comisión de Autorización de Puesta en Servicio Provisoria de la obra pública fiscal\ndenominada \"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\" de fecha 24 de mayo de\n2005.\n\nLa Carta SCRIT-MOP-Nº 541/05 de fecha 16 de mayo de 2005, de la Sociedad Concesionaria\nAutopista Interportuaria S.A.\n\nLa Resolución DGOP Nº 1569 de fecha 26 de mayo de 2005, que excluye por razones de interés\npúblico y urgencia, obra que indica de la obra pública fiscal denominada \"Ruta Interportuaria\nTalcahuano – Penco por Isla Rocuant\"\n\nEl Ord. Nº 1386 de fecha 26 de mayo de 2005, de Fiscal Ministerio de Obras Públicas\n\nEl numeral 1.10.1 de las bases de licitación de la obra pública fiscal denominada \"Ruta\nInterportuaria Talcahuano – Penco por Isla Rocuant\"\n\nLa Resolución Nº 520 de 1996 de la Contraloría General de la República, que fija el texto\nrefundido, coordinado y sistematizado de la Resolución Nº 55 de 1992.\n\nCONSIDERANDO:\n\nQue mediante carta SCRIT-MOP-Nº 499/05 de fecha 12 de abril de 2005 de \"Sociedad\nConcesionaria Autopista Interportuaria S.A.\" solicitó comprobar la correcta ejecución de las\nobras conforme a las Especificaciones Técnicas Aprobadas, de la obra pública fiscal denominada\n\"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\"\n\nQue mediante Acta de fecha 24 de mayo de 2005, la Comisión de Autorización de Puesta en\nServicio Provisoria de la obra pública fiscal denominada \"Ruta Interportuaria Talcahuano –\nPenco por Isla Rocuant\", en virtud de lo observado en terreno, y de acuerdo a lo informado por\nel Inspector Fiscal mediante Memorando Nº 104 de fecha 24 de mayo de 2005, consideró que de\nacuerdo a lo observado en terreno, el camino se encuentra construido, de acuerdo a las\nespecificaciones, en condiciones de serviciabilidad adecuadas y no se detectan observaciones que\nafecten la buena operación de la vía. Por tanto estimó procedente recomendar al Sr. Director\nGeneral de Obras Públicas, la Puesta en Servicio Provisoria de la obra pública fiscal denominada\n\"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\"\n\nQue mediante carta SCRIT-MOP-Nº 541/05 de fecha 16 de mayo de 2005, \"Sociedad\nConcesionaria Autopista Interportuaria S.A.\", solicitó a la Dirección General de Obras Públicas\nla autorización de Puesta en Servicio Provisoria de la obra pública fiscal denominada \"Ruta\nInterportuaria Talcahuano – Penco por Isla Rocuant\""
+}

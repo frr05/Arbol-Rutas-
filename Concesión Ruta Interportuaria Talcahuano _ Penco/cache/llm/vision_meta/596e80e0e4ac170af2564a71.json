@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000708,
+ "usage": {
+  "completion_tokens": 1438,
+  "prompt_tokens": 4199,
+  "total_tokens": 5637,
+  "completion_tokens_details": {
+   "reasoning_tokens": 774
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.2,
+ "truncado": false,
+ "texto": "días de cada mes calendario, la Sociedad Concesionaria informará por\nescrito al Inspector Fiscal los pagos realizados por concepto de gestión de\ntraslado y cambios de servicios, los avances en el desarrollo y aprobación\nde la ingeniería y en la construcción de las obras correspondientes de las\nnuevas inversiones que consigna el Anexo Nº 1 y los desembolsos que\nhubiere efectuado por los gastos de financiamiento de las obras del\nConvenio, efectuados en el mes anterior.\n\nEl Inspector Fiscal tendrá un plazo de 15 días para observar el informe\npresentado, plazo después del cual, si no hubiere observaciones, se\nentenderá aprobado. En caso que el informe sea observado por el Inspector\nFiscal, la Sociedad Concesionaria tendrá un plazo de 5 días para entregar el\ninforme corregido, el Inspector Fiscal tendrá 5 días para aprobar o rechazar\nel informe corregido. En caso que el Inspector Fiscal no cumpla con lo\nanterior en el plazo estipulado, se entenderá que aprueba el referido informe\nen todas sus partes. Una vez que el Inspector Fiscal dé su aprobación a\nlos pagos y/o avances recién indicados, ellos se contabilizarán en la\n“Cuenta de Inversión Convenio Complementario Nº1”, de acuerdo a lo\nseñalado en el numeral 3.1 y a lo siguiente:\n\na) Para el caso del avance en la Construcción de las obras del Anexo Nº\n1, ítem a), consignadas en el numeral 2.6 precedente, se cuantificará\nmensualmente el avance porcentual efectivo de obra ejecutada,\ncalculado en base a las cantidades definidas en los planos de\ningeniería aprobados, restándose la misma proporción correspondiente\na las disminuciones de obras y contabilizándose el resultado de dicha\nresta el último día del mes en que se registró el avance. No obstante lo\nanterior, el valor máximo a contabilizar por este concepto ascenderá\na UF 221.893 (Doscientas Veintiún Mil Ochocientas Noventa y Tres\nUnidades de Fomento).\n\nb) Para el caso de los pagos por los Cambios de Servicios, consignados\nen el numeral 2.6 precedente, se contabilizará mensualmente el monto\ncorrespondiente a los desembolsos que la Sociedad Concesionaria\nhubiere efectuado el mes anterior, el último día del mes en que se\nefectuó el desembolso y por separado se contabilizará el 10% de dicha\ncifra (redondeado a dos decimales) correspondiente a los gastos de\ngestión de los cambios de servicios. No obstante lo anterior, el valor\nmáximo a contabilizar por ambos conceptos ascenderá a UF 18.318\n(Dieciocho Mil Trescientas Dieciocho Unidades de Fomento), en los\ntérminos señalados en la cláusula 2.6 del presente Convenio.\n\nc) Para el caso del avance en los Proyectos de Ingeniería de las obras\ndel Anexo Nº 1, consignada en el numeral 2.8 precedente, éste se\n\n15"
+}

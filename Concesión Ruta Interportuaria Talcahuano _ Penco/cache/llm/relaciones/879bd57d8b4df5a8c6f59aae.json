@@ -1,0 +1,34 @@
+{
+ "tarea": "relaciones",
+ "modelo": "dots-studio/dots-3-note-preview:free",
+ "fecha": "2026-11-11 12:17",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.3",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P8"
+    ],
+    "texto_nuevo": [
+     160,
+     178
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.7.3",
+    "operacion": "elimina",
+    "parrafos": [
+     "P10"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

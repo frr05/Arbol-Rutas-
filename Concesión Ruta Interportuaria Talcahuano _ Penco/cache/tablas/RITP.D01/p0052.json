@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D01",
  "pagina": 52,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 02:59",
+ "fecha": "2026-11-11 12:02",
  "tablas": [
   {
-   "titulo": "Tabla N° 3: Bases de Licitación - Concesión Ruta Interportuaria Talcahuano - Penco",
+   "titulo": null,
    "encabezados": [
     "Artículo Bases de Licitación",
     "Monto Multa (UTM)",
@@ -66,10 +66,10 @@
     ],
     [
      "b) Durante la Etapa de Construcción",
-     "",
-     "",
-     "",
-     ""
+     "b) Durante la Etapa de Construcción",
+     "b) Durante la Etapa de Construcción",
+     "b) Durante la Etapa de Construcción",
+     "b) Durante la Etapa de Construcción"
     ],
     [
      "1.9.1.1",

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000539,
+ "usage": {
+  "completion_tokens": 492,
+  "prompt_tokens": 4409,
+  "total_tokens": 4901,
+  "completion_tokens_details": {
+   "reasoning_tokens": 73
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.8,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Artículo Bases de Licitación\", \"Monto Multa (UTM)\", \"Tipo de Infracción\", \"Criterio de Aplicación\", \"Otros\"], \"filas\": [[\"2.6.3.4\", \"20\", \"Ausencia de señalización para prevenir a los usuarios sobre la realización de labores de mantenimiento y conservación, como así mismo no cumplir la señalización utilizada con la normativa vigente.\", \"Cada día\", \"\"], [\"2.6.3.5.2\", \"50\", \"Incumplimiento en la reparación de daños a las instalaciones.\", \"Cada vez\", \"\"], [\"2.6.3.6\", \"50\", \"No establecer un sistema de libros de reclamos y sugerencias cuyo diseño deberá ser aprobado por el Inspector Fiscal.\", \"Cada semana\", \"\"], [\"2.6.3.6\", \"120\", \"Modificación y/o adulteración de los reclamos presentados por los usuarios en el Libro de Reclamos.\", \"Cada vez\", \"\"], [\"2.6.5\", \"20\", \"Incumplimiento en la medición continua de flujo vehicular de acuerdo a lo señalado en dicho artículo.\", \"Cada vez\", \"\"], [\"2.7.2, 2.11\", \"200\", \"Incumplimiento de las normas y consideraciones de manejo ambiental.\", \"Cada vez\", \"\"], [\"2.7.2, 2.11\", \"100\", \"Incumplimiento de ejecución de obras de ajuste o complementarias requeridas por el inspector fiscal para el cumplimiento de las normas ambientales.\", \"Cada día\", \"\"], [\"2.7, 2.8\", \"100\", \"Incumplimiento en las acciones a tomar señaladas en el Plan de Prevención de Riesgos y/o Plan de Medidas de Control de Accidentes o Contingencias durante la etapa de Explotación\", \"Cada vez\", \"\"]], \"notas\": null}]}"
+}

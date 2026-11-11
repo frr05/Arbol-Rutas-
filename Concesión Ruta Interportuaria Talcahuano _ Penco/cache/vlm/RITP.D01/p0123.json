@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 123,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 571,
+ "segundos": 8.3,
+ "fecha": "2026-11-11 11:50",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 203,
+  "conf_media": 0.902,
+  "frac_baja": 0.069,
+  "frac_rara": 0.0,
+  "tinta": 0.0441
+ },
+ "n_palabras_vlm": 296,
+ "frac_rara_vlm": 0.032,
+ "similitud": 0.789,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nTabla N* 16: Perfiles Transversales Tipo en Calzada Doble.\n\nELEMENTO\n\nNúmero de calzadas 2\n\nAncho de calzada unidireccional de dos pistas 7,0\nAncho mediana (no incluye bermas interiores) 3,0.m\n\nBombeo mínimo 2,5 %\n\nAncho bermas exteriores\n\nAncho bermas interiores 1,0 m\n\nSobreanchos de compactación en zonas sin defensa caminera 0\nexterior (lateral)\n\n53m.\nSobreanchos de compactación en zonas con defensa caminera 1,0 m\n\nDIMENSIÓN\n\nexterior (lateral)\n\nPendiente transversal bermas exteriores 4,0 % hacia el\nexterior\n\nPendiente transversal berma interior (inclinación igual a bombeo)\n\nTalud corte en tierra (*) 2:2,5(H:V)\nTalud corte en roca meteorizada (*) 1:2(H4:V)\nTalud corte en roca (*), n<4 1:n(H4:V)\n\nTalud terraplén 3:2(H:V)\nCuneta mediana Trapezoidal cuando\nsea necesario\n\nAncho mínimo cuneta lateral de corte\n\nTabla N* 17: Perfiles Transversales Tipo en Calzada Simple.\n\nNúmero de calzadas\nAncho de calzada bidireccional de dos pistas\nBombeo mínimo (en un solo sentido)\n\nAncho bermas 2,5 m.\n\nPendiente transversal bermas 4.0%\nTalud corte en tierra (*) 2:2,5(H: Y)\nTalud corte en roca meteorizada (*) o 1:2(H: V)\nTalud corte en roca (*), n< 4 1:n(H: V)\n\nTalud terraplén\n\nAncho mínimo cuneta lateral de corte\n\nALÍNISTERIO DE OBRAS PUBLICAS — COORDINACION GENERAL DE CONCESIONES 109",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nTabla Nº 16: Perfiles Transversales Tipo en Calzada Doble.\n\nELEMENTO | DIMENSIÓN\nNúmero de calzadas | 2\nAncho de calzada unidireccional de dos pistas | 7,0\nAncho mediana (no incluye bermas interiores) | 3,0 m\nBombeo mínimo | 2,5 %\nAncho bermas exteriores | 2,5 m.\nAncho bermas interiores | 1,0 m\nSobreanchos de compactación en zonas sin defensa caminera exterior (lateral) | 0,5 m.\nSobreanchos de compactación en zonas con defensa caminera exterior (lateral) | 1,0 m\nPendiente transversal bermas exteriores | 4,0 % hacia el exterior\nPendiente transversal berma interior (inclinación igual a bombeo) | 2,5 %\nTalud corte en tierra (*) Talud corte en roca meteorizada (*) Talud corte en roca (*), n ≤ 4 | 2 : 2,5 (H:V) 1 : 2 (H:V) 1 : n (H:V)\nTalud terraplén | 3 : 2 (H:V)\nCuneta mediana | Trapezoidal cuando sea necesario\nAncho mínimo cuneta lateral de corte | 0,8 m.\n\nTabla Nº 17: Perfiles Transversales Tipo en Calzada Simple.\n\nELEMENTO | DIMENSIÓN\nNúmero de calzadas | 1\nAncho de calzada bidireccional de dos pistas | 7,0\nBombeo mínimo (en un solo sentido) | 2,5 %\nAncho bermas | 2,5 m.\nSobreanchos de compactación en zonas sin defensa caminera exterior (lateral) | 0,5 m.\nSobreanchos de compactación en zonas con defensa caminera exterior (lateral) | 1,0 m\nPendiente transversal bermas | 4,0 %\nTalud corte en tierra (*) Talud corte en roca meteorizada (*) Talud corte en roca (*), n ≤ 4 | 2 : 2,5 (H: V) 1 : 2 (H: V) 1 : n (H: V)\nTalud terraplén | 3 : 2 (H:V)\nAncho mínimo cuneta lateral de corte | 1,0 m.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 109"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000598,
+ "usage": {
+  "completion_tokens": 892,
+  "prompt_tokens": 4195,
+  "total_tokens": 5087,
+  "completion_tokens_details": {
+   "reasoning_tokens": 102
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLa Sociedad Concesionaria será responsable de establecer las medidas de control y seguridad en la vía\nconcesionada, sujeto a todas las disposiciones legales vigentes como son las del Ministerio de Transportes y\nTelecomunicaciones y las del Ministerio de Obras Públicas, según se indica:\n\n• Manual de Señalización de Tránsito del Ministerio de Transporte y Telecomunicaciones.\n\n• Especificaciones Técnicas de Señales y Elementos de Seguridad Vial, de la Dirección de Vialidad del\nMOP.\n\n• Instructivo para proyectos de Señalización, Dirección de Vialidad.\n\n• Especificaciones Técnicas “Nuevas Tecnologías en Seguridad Vial”, Dirección de Vialidad,\nDepartamento de Seguridad Vial.\n\nAdemás, la Sociedad Concesionaria deberá cumplir en el tiempo, con los nuevos instructivos y normas que se\nestablezcan oficialmente, así como las posibles modificaciones que sufran los documentos antes señalados.\n\nLa Sociedad Concesionaria es el responsable de operar y mantener el camino en condiciones normales de\nservicio, de modo de evitar accidentes y responderá ante toda acción legal que los usuarios pudieran entablar en\nsu contra, debido a negligencias cometidas a este respecto.\n\nPara estos efectos debe disponer de sistemas de vigilancia permanente y sistemas de patrullaje que permitan\ndetectar y tomar las medidas de seguridad necesarias en forma oportuna.\n\n2.6.5 Medición Continua de Flujo Vehicular\n\nSerá obligación de la Sociedad Concesionaria disponer, como mínimo, de un (1) punto de conteo de tránsito\npermanente, en el cual realizará mediciones de flujo vehicular horario, clasificado por sentido, pista y por tipo\nde vehículo, para las 24 horas del día y para cada mes del año, ininterrumpidamente. Su ubicación será indicada\npor el Inspector Fiscal.\n\nAdicionalmente, la Sociedad Concesionaria deberá mantener puntos de conteo de tránsito permanentes en todos\nlos puntos de cobro de la concesión, que estarán permanentemente a disposición del Inspector Fiscal.\n\nCada punto de conteo deberá considerar en forma permanente un instrumento de registro de datos de tránsito\nque cuente con unidades de registro, dispositivos de programación y de almacenamiento de datos. Como\nelementos detectores deberán instalarse elementos del tipo espiras inductivas y sensores piezoeléctricos u otros\nequivalentes o superiores que contabilicen el número de ejes de cada vehículo. El licitante o grupo licitante\npodrá proponer en su oferta otros sistemas correspondientes a nuevas tecnologías, lo que será aprobado por el\nInspector Fiscal.\n\nEl equipamiento señalado, deberá estar instalado 30 días antes de la Puesta en Servicio Provisoria de la obra. El\nMOP no autorizará la Puesta en Servicio Provisoria de la obra en caso que los correspondientes equipos no\nhayan sido instalados y se haya comprobado su correcto funcionamiento.\n\nLa mantención del sistema y la recolección de los datos será de cuenta de la Sociedad Concesionaria a lo largo\nde toda la concesión.\n\nPor otra parte el MOP podrá instalar equipos propios en los lugares que estime convenientes para efectuar estas\nu otras mediciones.\n\n2.6.6 Información Estadística durante la Explotación\n\nLa Sociedad Concesionaria deberá elaborar y presentar al Inspector Fiscal, en los plazos que se indican, los\ninformes estadísticos que se indican a continuación. El incumplimiento de estas obligaciones hará incurrir a la\nSociedad Concesionaria en la multa señalada en el artículo 1.8.5.1 de las presentes Bases de Licitación.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 129"
+}

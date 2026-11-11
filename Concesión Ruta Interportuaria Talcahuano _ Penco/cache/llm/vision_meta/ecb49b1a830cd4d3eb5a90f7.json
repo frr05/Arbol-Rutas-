@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000777,
+ "usage": {
+  "completion_tokens": 1790,
+  "prompt_tokens": 4195,
+  "total_tokens": 5985,
+  "completion_tokens_details": {
+   "reasoning_tokens": 953
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 15.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1 BASES ADMINISTRATIVAS\n\n1.1 INTRODUCCION\n\nLas presentes Bases Administrativas regirán la concesión para la ejecución, conservación y explotación de la\nobra pública fiscal denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\", por el sistema\nestablecido en el artículo 87° del DFL MOP N°850 de 1997, ya se trate de la explotación de las obras y\nservicios o respecto del uso y goce sobre bienes nacionales de uso público o fiscales, destinados a desarrollar\nlas obras o las áreas de servicios que se convengan, así como el proceso de licitación, adjudicación y\nejecución del Contrato de Concesión, formando parte integrante de éste. Comprende además las obras\ncorrespondientes a la Obra Opcional denominada \"Prolongación Camino Carriel Sur (Avenida Alessandri)\"\nespecificadas en las Bases Técnicas, si procediere.\n\n1.2 ANTECEDENTES GENERALES\n\n1.2.1 Normas Complementarias\n\nForman parte integrante de las presentes Bases de Licitación la Ley de Concesiones de Obras Públicas\ncontenida en el Decreto Supremo MOP N°900 de 1996, que fijó el Texto Refundido, Coordinado y\nSistematizado del Decreto con Fuerza de Ley MOP N°164 de 1991, el Reglamento de la Ley de Concesiones\naprobado por Decreto Supremo MOP N°956 de 1997, el Decreto Supremo MOP N°240 de 1991, sólo en lo\nreferente a lo señalado en el artículo 1.2.4 de las presentes Bases de Licitación, y el Decreto con Fuerza de\nLey MOP N°850 de 1997 que fija el Texto Refundido, Coordinado y Sistematizado de la Ley N°15.840 de\n1964, Orgánica del Ministerio de Obras Públicas y del DFL N°206 de 1960, Ley de Caminos y las normas\nreglamentarias de ésta.\n\n1.2.2 Definiciones\n\nPara la correcta interpretación de las presentes Bases de Licitación, los términos que a continuación se\nseñalan, tendrán el significado que se indica:\n\n1) Anteproyecto Alternativo: Corresponde al o los anteproyecto(s) que debe presentar en la Oferta el\nlicitante o grupo licitante cuando no haga suyo total o parcialmente los Anteproyectos Referenciales\nentregados por el Ministerio de Obras Públicas.\n\n2) Anteproyectos Referenciales: Corresponden a los Anteproyectos elaborados para la obra pública\nfiscal objeto de la presente licitación y entregados por el Ministerio de Obras Públicas, que forman\nparte de las presentes Bases de Licitación, y que el licitante o grupo licitante puede hacer suyo en la\nOferta Técnica.\n\n3) Año Calendario: Período de doce meses que se inicia el 1° de Enero y termina el día 31 de\nDiciembre.\n\n4) Area de Concesión: El área requerida para ejecutar las obras y prestar los servicios definidos en el\nContrato de Concesión, que deberán estar ubicados en bienes nacionales de uso público o fiscales.\n\n5) Area de Servicios Complementarios: El área conformada por los terrenos susceptibles de ser\nocupados por las instalaciones destinadas a prestar los servicios complementarios convenidos en el\nContrato de Concesión. Dichos servicios podrán ser instalados en bienes nacionales de uso público,\nterrenos fiscales o en terrenos adquiridos especialmente al efecto por la Sociedad Concesionaria.\n\n6) Bien afecto a la Concesión: Es todo bien o derecho que adquiera el Concesionario a cualquier título\ndurante la concesión y que sea calificado como tal por el Director General de Obras Públicas.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 1"
+}

@@ -2,15 +2,15 @@
  "documento": "RITP.D11",
  "pagina": 2,
  "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 464,
- "segundos": 27.2,
- "fecha": "2026-11-05 00:29",
- "motivos": "conf_media",
+ "tokens": 739,
+ "segundos": 11.6,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 342,
   "conf_media": 0.754,
@@ -18,10 +18,10 @@
   "frac_rara": 0.04,
   "tinta": 0.0533
  },
- "n_palabras_vlm": 320,
- "frac_rara_vlm": 0.044,
- "similitud": 0.624,
+ "n_palabras_vlm": 364,
+ "frac_rara_vlm": 0.046,
+ "similitud": 0.682,
  "truncado": false,
  "texto_ocr": "po\n\nA O\n\nCIOBIERNO DE CHILL.\nAESTERIO DEOBIAS PUBLICAS\n\nContralor eneral o\n“de la República * e\n\nMINISTERIO DE HACIENDA Ref: Aprueba Convenio Complementario N* 2,\nOFICINA DE PARTES ' 3 que modifica el contrato de concesión de\nho tar ) «+ Ja obra pública fisea] denoninada “Ruta\n08 RAYO 2007 Interportuaria. Falcahuano — Penco. por\nRECIBIDO Isla Rocuant”,\n\nE - 30 AR 2007 |\nCONTRALORIA GENERAL\nTOMA DE RAZON\n\n¿0\n+ A\nN9 52d\n\nA\n\n» ES AAN\nEA\n\n40)\n\n¿\n\nnn\n\nVISTOS: - El artículo-87 del DFL MOP NY 850, de\n1997, que fijó el texto refundido, coordinado\ny sistematizado de la Ley N\" 15.840, de\n1964, Orgánica del: Ministerio de: Obras\nPúblicas y del DFL N* 206, de 1960, Ley de\nCaminos, |\n\nRECEPCION\n\nEl D.S. MOP N? 900, de 1996, que fijó el\ntexto refuudido, coordinado y sistematizado\ndel DFL MOP N' 164, de 1991, Ley. de\nConcesiones - de Obras Públicas, y en\nparticular su:artículo 20.\n\nDEPART,\nCONTABIL,\n\nSUB. DEP,\nC, CENTRAL\n\nSUB DEP.\nE. CUENTAS\n\nL1-D.S. MOP N* 956, de 1997, Reglamento\nde la Loy de Concesiones.\n\nSUB DEP.\nC.P. Y\n\nBIENES NAC,\n\n- - El Decreto Supremo MOP N* 112 de Íecha\n31 de enero de 2002, que. adjudicó «el\ncontrato de concesión para la ejecución,\nconservación y explotación de lá obra\npública - fiscal denominada “Ruta\nInterportuaria Talcahuano — Penco por 1sla\nRocuant”.\n\nDEPART.\nAUDITORÍA\n\nDEPART.\nVOP,UyT\n\nSUB. DEP.\nMUNICIP,\n\n- El Decreto Supremo MOP NO? 71, de fecha 1\nde Febrero de 2005, que aprobó el “Convenio\nComplementario N* 1 de Modificación: del\nContrato de Concesión de la Obrá. Pública\nFiscal” Denóminada “Ruta Interportuaria\nTalcahuano — Penco por Isla Rocuant”,\n\nR\n\nREF. POR\nIMPUTAC.\nANOT. POR $\nIMPUTAC.\n\n- — La Resolución N*. 520 de 1996, de “la\nContraloría General de la República, que fijó\nel texto refuidido, — coordinado y\nsistematizado de la Resolución N* 55 de\n1992,\n\nDEDUC DTO,\n\n! VIQE: E DO\n\nINGENTERO po\nDIRECTOR\" \"ENERAL Di FA\n\nArs ad\nAAA\n\ny\nqe,\n\nMojo OL\nRO UE UR\nA rió",
- "texto_vlm": "MINISTERIO DE HACIENDA\nOFICINA DE PARTES\n08 MAYO 2007\nRECIBIDO\n\nCONTRALORIA GENERAL\nTOMA DE RAZON\n29 JUL. 2007\n\nRECEPCION\nDEPART.\nJURIDICO\nDEP. T.R.\nY REGISTRO\nDEPART.\nCONTABIL.\nSUB DEP.\nC. CENTRAL\nSUB DEP.\nE. CUENTAS\nSUB DEP.\nC.P. Y\nBIENES NAC.\nDEPART.\nAUDITORIA\nDEPART.\nV.O.P., U y T.\nSUB. DEP.\nMUNICIP.\n\nREFRENDACION\nREF. POR $\nIMPUTAC.\nANOT. POR $\nIMPUTAC.\nDEDUC DTO.\n\nVISTOS:\n- El artículo 87 del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N° 206, de 1960, Ley de Caminos.\n- El D.S. MOP N° 900, de 1996, que fijó el texto refundido, coordinado y sistematizado del DFL MOP N° 164, de 1991, Ley de Concesiones de Obras Públicas, y en particular su artículo 20.\n- El D.S. MOP N° 956, de 1997, Reglamento de la Ley de Concesiones.\n- El Decreto Supremo MOP N° 112 de fecha 31 de enero de 2002, que adjudicó el contrato de concesión para la ejecución, conservación y explotación de la obra pública fiscal denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\".\n- El Decreto Supremo MOP N° 71, de fecha 1 de febrero de 2005, que aprobó el \"Convenio Complementario N° 1 de Modificación del Contrato de Concesión de la Obra Pública Fiscal Denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\".\n- La Resolución N° 520 de 1996, de la Contraloría General de la República, que fijó el texto refundido, coordinado y sistematizado de la Resolución N° 55 de 1992.\n\nRef.: Aprueba Convenio Complementario N° 2, que modifica el contrato de concesión de la obra pública fiscal denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\".\n\nSANTIAGO,\n30 ABR 2007\nN° 316\n\nVIGENTE PARD0 DIAZ\nINGENIERO CIVIL\nDIRECTOR GENERAL DE OBRAS PUBLICAS\nCONTRALORIA GENERAL\nDE LA REPUBLICA\n30 ABR 2007\n126)0 20\n2007\n126)0 20\n2007"
+ "texto_vlm": "GOBIERNO DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\n\nTOMADO RAZON\n3 SET. 2007\nContralor General\nde la República\n\nMINISTERIO DE HACIENDA\nOFICINA DE PARTES\n08 MAYO 2007\nRECIBIDO\n\nRef.: Aprueba Convenio Complementario N° 2,\nque modifica el contrato de concesión de\nla obra pública fiscal denominada \"Ruta\nInterportuaria Talcahuano - Penco por\nIsla Rocuant\".\n\nSANTIAGO, 30 ABR 2007\nN° 316\n\nCONTRALORIA GENERAL\nTOMA DE RAZON\n29 JUN. 2007\nRECEPCION\nDEPART. JURIDICO |  | \nDEP. T.R. Y REGISTRO |  | \nDEPART. CONTABIL. |  | \nSUB DEP. C. CENTRAL |  | \nSUB DEP. E. CUENTAS |  | \nSUB DEP. C.P. Y BIENES NAC. |  | \nDEPART. AUDITORIA |  | \nDEPART. V.O.P., U y T. |  | \nSUB. DEP. MUNICIP. |  | \n |  | \n |  | \nREFRENDACION\nREF. POR $ | \nIMPUTAC. | \nANOT. POR $ | \nIMPUTAC. | \n | \nDEDUC DTO. | \n |  | \n\nVISTOS: - El artículo 87 del DFL MOP N° 850, de\n1997, que fijó el texto refundido, coordinado\ny sistematizado de la Ley N° 15.840, de\n1964, Orgánica del Ministerio de Obras\nPúblicas y del DFL N° 206, de 1960, Ley de\nCaminos.\n\n- El D.S. MOP N° 900, de 1996, que fijó el\ntexto refundido, coordinado y sistematizado\ndel DFL MOP N° 164, de 1991, Ley de\nConcesiones de Obras Públicas, y en\nparticular su artículo 20.\n\n- El D.S. MOP N° 956, de 1997, Reglamento\nde la Ley de Concesiones.\n\n- El Decreto Supremo MOP N° 112 de fecha\n31 de enero de 2002, que adjudicó el\ncontrato de concesión para la ejecución,\nconservación y explotación de la obra\npública fiscal denominada \"Ruta\nInterportuaria Talcahuano - Penco por Isla\nRocuant\".\n\n- El Decreto Supremo MOP N° 71, de fecha 1\nde Febrero de 2005, que aprobó el \"Convenio\nComplementario N° 1 de Modificación del\nContrato de Concesión de la Obra Pública\nFiscal Denominada \"Ruta Interportuaria\nTalcahuano - Penco por Isla Rocuant\".\n\n- La Resolución N° 520 de 1996, de la\nContraloría General de la República, que fijó\nel texto refundido, coordinado y\nsistematizado de la Resolución N° 55 de\n1992.\n\nSUBSECRETARIA DE OO.PP.\nOFICINA DE PARTES\nTRAMITADO\nFECHA 05 SEP 2007\n\nVICENTE PARDO DIAZ\nINGENIERO CIVIL\nDIRECTOR GENERAL DE OBRAS PUBLICAS"
 }

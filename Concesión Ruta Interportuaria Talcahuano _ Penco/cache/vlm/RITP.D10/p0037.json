@@ -2,15 +2,15 @@
  "documento": "RITP.D10",
  "pagina": 37,
  "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 138,
- "segundos": 8.4,
- "fecha": "2026-10-27 19:06",
- "motivos": "conf_media,palabras_baja_conf",
+ "tokens": 219,
+ "segundos": 6.6,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 64,
   "conf_media": 0.31,
@@ -18,10 +18,10 @@
   "frac_rara": 0.038,
   "tinta": 0.0209
  },
- "n_palabras_vlm": 96,
- "frac_rara_vlm": 0.023,
+ "n_palabras_vlm": 91,
+ "frac_rara_vlm": 0.0,
  "similitud": 0.043,
  "truncado": false,
  "texto_ocr": "/\ntr\nIVOSI YO LOAASNI\nSVIYVA ZVIA/SOTUVO\n\nIYNONVSSIUV “AV IVIAVH 085'Z\n(40) SATVLOL ss\n\n0008 NA 184'9 INM IMANVSSIV NO109 AV\nWA ZoN \"IVIAAAANALNI OSVA || IVIATAANALNI OSVd || AVIAIYSAYALNI OS VA\n\n. JINIVAMNA A SVIYVASNONI\nAY NON3NO9 SV1 NOIOOISHUILNI\n\nLON OIYSVANINIIANOD\nOINJANO9 SV48O OLSINANSINA\n\nOLN3NNVIONVNIJ 30 SOLSVO (uy\n\nSINOISY4JANI SVAJIAN SV 30 OLSINANSIYA\n\nLl oN OXINV\n\nDE\nNES\n\nO\nOn\n5D\nul\n\n05",
- "texto_vlm": "ANEXO Nº 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\nh) GASTOS DE FINANCIAMIENTO\n\n| PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 | INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON | CONEXIÓN AV. ALESSANDRI | PASO INTERPREIAL KM 6,787 | PASO INTERPREIAL KM 8,000 | PASO INTERPREIAL 2,580 RAMAL AV. ALESSANDRI N° 2 KM | TOTALES (UF) |\n|---|---|---|---|---|---|---|\n| 1 | GASTOS DE FINANCIAMIENTO | | | | | 8.000 |\n| | TOTAL | | | | | 8.000 |\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OOO\nDEPTO. DE\nCONCESIONES\np."
+ "texto_vlm": "ANEXO N° 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\nh) GASTOS DE FINANCIAMIENTO\nPRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 | INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON | CONEXIÓN AV. ALESSANDRI | PASO INTERPREDIAL KM 6,787 | PASO INTERPREDIAL KM 8,000 | PASO INTERPREDIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI | TOTALES (UF)\n1 | GASTOS DE FINANCIAMIENTO |  |  |  |  |  | 8.000\nTOTAL |  |  |  |  |  |  | 8.000\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO. PP.\nDEPTO. DE CONCESIONES"
 }

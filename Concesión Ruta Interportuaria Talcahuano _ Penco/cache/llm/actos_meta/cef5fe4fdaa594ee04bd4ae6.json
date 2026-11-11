@@ -1,0 +1,10 @@
+{
+ "tarea": "actos_meta",
+ "modelo": "deepseek/deepseek-v4.1-flash",
+ "fecha": "2026-11-11 12:07",
+ "respuesta": {
+  "tipo": "Anexo de Bases",
+  "numero": "1",
+  "fecha": null
+ }
+}

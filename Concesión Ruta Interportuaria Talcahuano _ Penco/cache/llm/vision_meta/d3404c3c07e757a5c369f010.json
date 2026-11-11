@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000752,
+ "usage": {
+  "completion_tokens": 1663,
+  "prompt_tokens": 4195,
+  "total_tokens": 5858,
+  "completion_tokens_details": {
+   "reasoning_tokens": 843
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.0,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\ntodo caso, la Sociedad Concesionaria deberá cumplir con todos los estándares e indicadores establecidos en las Bases Técnicas realizando las obras adicionales que sean necesarias para ello. En especial, los pavimentos nuevos, además de cumplir con las características establecidas en las Especificaciones Técnicas del respectivo Anteproyecto Referencial, no podrán presentar un IRI superior a 2 m/km al momento de la recepción provisoria.\n\nb) El Director General de Obras Públicas, en el plazo de cinco días de ingresada la respectiva solicitud en la Oficina de Partes de la DGOP, nombrará la Comisión de Autorización de Puesta en Servicio Provisoria, la que estará formada por tres personas: un representante del Director General de Obras Públicas, otro del Director de Vialidad y un último designado por el Ministro de Obras Públicas.\n\nDicha Comisión en el plazo de 30 días, comprobará la correcta ejecución de las obras correspondientes, según los estándares definidos en las presentes Bases de Licitación, Circulares Aclaratorias y demás documentos que forman parte del Contrato de Concesión. La Comisión dejará constancia de su análisis mediante un Acta y recomendará al DGOP la aceptación o rechazo de las obras.\n\nEn caso de rechazo, la Comisión deberá dejar constancia de las observaciones que justifiquen tal decisión.\n\nLa Comisión solicitará al Inspector Fiscal los informes que estime pertinentes acerca de la construcción de la obras y podrá solicitar cualesquiera otros informes que estime convenientes.\n\nc) Con posterioridad o en forma paralela al procedimiento anterior, la Sociedad Concesionaria deberá remitir al Inspector Fiscal todos los documentos exigidos en las Bases de Licitación para la puesta en servicio provisoria de las obras, tales como: Garantía de Explotación, seguros que correspondan a esta Etapa, entre otros.\n\nd) Una vez que se haya comprobado la correcta ejecución de las obras correspondientes y acompañando todos los documentos exigidos en las Bases de Licitación, según los párrafos anteriores, así como también se haya verificado la existencia de la correspondiente Resolución Ambiental, el cumplimiento del Plan de Gestión Ambiental indicado en el artículo 1.9.2.5, de todas las medidas ambientales señaladas en el artículo 2.10, y una vez aprobados el Plan de Gestión Ambiental para la Etapa de Explotación indicado en el artículo 1.10.11 y el Reglamento de Servicio de la totalidad de la obra según los requisitos exigidos en los artículos 1.10.5 y 2.6.3.7 de las presentes Bases de Licitación, la Sociedad Concesionaria podrá solicitar al DGOP la Puesta en Servicio Provisoria de la totalidad de las obras, para lo cual deberá presentar su solicitud de puesta en servicio provisoria en la Oficina de Partes de la DGOP.\n\nEl DGOP deberá aprobar o rechazar la Puesta en Servicio Provisoria correspondiente en un plazo máximo de 30 días contados desde la fecha de presentación de la solicitud, de acuerdo al número 1 del artículo 55º del DS MOP Nº956 de 1997. En caso que la apruebe, autorizará la Puesta en Servicio Provisoria de las obras correspondientes, mediante resolución.\n\nLa garantía de construcción será devuelta conforme al procedimiento establecido en el artículo 1.8.3.1 de las presentes Bases de Licitación.\n\n1.10.2 Inicio del Cobro de Tarifas\n\nLa Sociedad Concesionaria podrá iniciar el cobro de tarifas, una vez obtenida la autorización de Puesta en Servicio Provisoria de las obras definidas en 1.3.1, de acuerdo a lo señalado en 1.10.1 y teniendo en cuenta lo dispuesto en 1.16, todos artículos de las presentes Bases de Licitación.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 67"
+}

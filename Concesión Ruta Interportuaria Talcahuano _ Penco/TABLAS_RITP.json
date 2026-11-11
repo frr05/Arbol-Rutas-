@@ -9,14 +9,14 @@
   ],
   "filas": [
    [
-    "1. Anteproyecto de Ingeniería: Proposición de la obra por Concesión \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\", Estudio de Ingeniería.",
+    "1. Anteproyecto de Ingenieria: Proposición de la obra por Concesión “Ruta Interportuaria Talcahuano - Penco por Isla Rocuant”, Estudio de Ingeniería.",
     "Postulante",
     "8"
    ],
    [
-    "2. Anteproyecto de Ingeniería \"Prolongación Avenida Alessandri\".",
+    "2. Anteproyecto de Ingeniería “Prolongación Avenida Alessandri”.",
     "CITRA Consultores",
-    "1"
+    "I"
    ],
    [
     "Estudios",
@@ -54,17 +54,17 @@
   ],
   "filas": [
    [
+    "a) Relacionadas con las Obligaciones de Información y Otras",
+    "a) Relacionadas con las Obligaciones de Información y Otras",
+    "a) Relacionadas con las Obligaciones de Información y Otras",
+    "a) Relacionadas con las Obligaciones de Información y Otras",
+    "a) Relacionadas con las Obligaciones de Información y Otras"
+   ],
+   [
     "1.7.2",
     "1.000",
     "Imputar costos del contrato de concesión u otros señalados en dicho artículo, a la contabilidad de la Sociedad Concesionaria.",
     "Cada vez.",
-    ""
-   ],
-   [
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
@@ -103,14 +103,14 @@
     "Sin perjuicio de la extinción de la concesión por incumplimiento grave según el artículo 1.13.3 letra g), cuando el hecho ocurra en más de una oportunidad."
    ],
    [
-    "1.8.2 N°1, N°2, N°4 y N°5",
+    "1.8.2 Nº1, Nº2, Nº4 y Nº5",
     "20",
     "Incumplimiento de la obligación de entregar información al Inspector Fiscal después de transcurridos 5 días desde que haya sido requerida.",
     "Cada día",
     "Sin perjuicio del cobro de las garantías establecidas en el artículo 1.8.3."
    ],
    [
-    "1.8.2 N°3, 2.6.6.4",
+    "1.8.2 Nº3, 2.6.6.4",
     "60",
     "No permitir u obstaculizar el libre acceso del Inspector Fiscal a la información.",
     "Cada vez",
@@ -175,7 +175,7 @@
    [
     "1.8.14",
     "400",
-    "Incumplimiento de la Ley N°19.300 sobre Bases Generales del Medio Ambiente, en cuanto al ingreso al SEIA de obras y/o actividades complementarias asociadas al proyecto.",
+    "Incumplimiento de la Ley Nº19.300 sobre Bases Generales del Medio Ambiente, en cuanto al ingreso al SEIA de obras y/o actividades complementarias asociadas al proyecto.",
     "Cada día",
     ""
    ],
@@ -219,7 +219,7 @@
     "2.000",
     "Incumplimiento por subcontratación de contratistas no inscritos o cuya inscripción no se encuentre vigente en los registros del MOP.",
     "Cada vez",
-    "Sin perjuicio de la responsabilidad del Conce- sionario por la correcta ejecución de las obras."
+    "Sin perjuicio de la responsabilidad del Concesionario por la correcta ejecución de las obras."
    ],
    [
     "1.9.15",
@@ -272,10 +272,10 @@
    ],
    [
     "b) Durante la Etapa de Construcción",
-    "",
-    "",
-    "",
-    ""
+    "b) Durante la Etapa de Construcción",
+    "b) Durante la Etapa de Construcción",
+    "b) Durante la Etapa de Construcción",
+    "b) Durante la Etapa de Construcción"
    ],
    [
     "1.9.1.1",
@@ -420,7 +420,7 @@
    [
     "2.3",
     "450",
-    "Incumplimiento de las Especificaciones Técnicas, aprobadas por el Inspector Fiscal y procedimientos de trabajo estipulados en Volumen N° 5 del Manual de Carreteras sobre la Construcción de las Obras.",
+    "Incumplimiento de las Especificaciones Técnicas, aprobadas por el Inspector Fiscal y procedimientos de trabajo estipulados en Volumen Nº 5 del Manual de Carreteras sobre la Construcción de las Obras.",
     "Cada vez",
     ""
    ],
@@ -454,10 +454,10 @@
    ],
    [
     "c) Durante la Etapa de Explotación",
-    "",
-    "",
-    "",
-    ""
+    "c) Durante la Etapa de Explotación",
+    "c) Durante la Etapa de Explotación",
+    "c) Durante la Etapa de Explotación",
+    "c) Durante la Etapa de Explotación"
    ],
    [
     "1.10.4",
@@ -705,7 +705,7 @@
     ""
    ]
   ],
-  "notas": "",
+  "notas": null,
   "documento": "RITP.D01",
   "paginas": [
    49,
@@ -718,12 +718,12 @@
    56,
    57
   ],
-  "nodo": "BL:1.8.5.1",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO › artículo 1.8.5 infracciones y Multas › artículo 1.8.5.1 Tipos de Infracciones y Multas"
+  "nodo": "BL:1.8.4.3",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO › artículo 1.8.4 Terrenos Necesarios para Ejecutar las Obras › artículo 1.8.4.3 Pago de la Sociedad Concesionaria por Concepto de Adquisiciones y Expropiaciones"
  },
  {
   "id": "TABLA:RITP.D01.p0096.1",
-  "titulo": "Tabla N° 3: Ingresos Mínimos Garantizados por el Estado.",
+  "titulo": "Tabla Nº 3: Ingresos Mínimos Garantizados por el Estado.",
   "encabezados": [
    "Año Calendario Explotación",
    "Ingresos Mínimos Garantizados IMGt (UF) / Con Av. Alessandri",
@@ -769,19 +769,244 @@
     "8",
     "62.502 x f",
     "21.785"
+   ],
+   [
+    "9",
+    "67.018 x f",
+    "23.359"
+   ],
+   [
+    "10",
+    "71.869 x f",
+    "25.050"
+   ],
+   [
+    "11",
+    "77.081 x f",
+    "26.867"
+   ],
+   [
+    "12",
+    "83.249 x f",
+    "29.016"
+   ],
+   [
+    "13",
+    "89.919 x f",
+    "31.341"
+   ],
+   [
+    "14",
+    "97.132 x f",
+    "33.855"
+   ],
+   [
+    "15",
+    "104.932 x f",
+    "36.574"
+   ],
+   [
+    "16",
+    "113.368 x f",
+    "39.514"
+   ],
+   [
+    "17",
+    "122.490 x f",
+    "42.694"
+   ],
+   [
+    "18",
+    "132.355 x f",
+    "46.133"
+   ],
+   [
+    "19",
+    "143.024 x f",
+    "49.851"
+   ],
+   [
+    "20",
+    "154.561 x f",
+    "53.872"
    ]
   ],
   "notas": null,
   "documento": "RITP.D01",
   "paginas": [
-   96
+   96,
+   97
   ],
   "nodo": "BL:1.14.6.1.1",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.146 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado › artículo 1.14.6.1 Distribución de Riesgos de Demanda entre el Concesionario y el Estado › artículo 1.14.6.1.1 Ingresos Mínimos Garantizados por el Estado"
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.6 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado › artículo 1.14.6.1 Distribución de Riesgos de Demanda entre el Concesionario y el Estado › artículo 1.14.6.1.1 Ingresos Mínimos Garantizados por el Estado"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0098.1",
+  "titulo": "Tabla Nº 4: Banda Superior de Ingresos.",
+  "encabezados": [
+   "Año Calendario Explotación",
+   "Banda Superior de Ingresos BSYt (UF) / Incluye Av. Alessandri",
+   "Banda Superior de Ingresos BSYt (UF) / No Incluye Av. Alessandri"
+  ],
+  "filas": [
+   [
+    "1",
+    "48.671 x g",
+    "39.389"
+   ],
+   [
+    "2",
+    "52.246 x g",
+    "43.170"
+   ],
+   [
+    "3",
+    "56.094 x g",
+    "47.333"
+   ],
+   [
+    "4",
+    "60.238 x g",
+    "51.917"
+   ],
+   [
+    "5",
+    "64.698 x g",
+    "56.963"
+   ],
+   [
+    "6",
+    "69.501 x g",
+    "62.518"
+   ],
+   [
+    "7",
+    "74.672 x g",
+    "68.633"
+   ],
+   [
+    "8",
+    "80.057 x g",
+    "74.924"
+   ],
+   [
+    "9",
+    "85.842 x g",
+    "81.813"
+   ],
+   [
+    "10",
+    "92.056 x g",
+    "89.356"
+   ],
+   [
+    "11",
+    "98.732 x g",
+    "97.616"
+   ],
+   [
+    "12",
+    "106.632 x g",
+    "105.383"
+   ],
+   [
+    "13",
+    "115.176 x g",
+    "113.782"
+   ],
+   [
+    "14",
+    "124.415 x g",
+    "122.865"
+   ],
+   [
+    "15",
+    "134.406 x g",
+    "132.687"
+   ],
+   [
+    "16",
+    "145.211 x g",
+    "143.309"
+   ],
+   [
+    "17",
+    "156.896 x g",
+    "154.797"
+   ],
+   [
+    "18",
+    "169.532 x g",
+    "167.219"
+   ],
+   [
+    "19",
+    "183.197 x g",
+    "180.653"
+   ],
+   [
+    "20",
+    "197.974 x g",
+    "195.181"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   98,
+   99
+  ],
+  "nodo": "BL:1.14.6.1.2",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.6 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado › artículo 1.14.6.1 Distribución de Riesgos de Demanda entre el Concesionario y el Estado › artículo 1.14.6.1.2 Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0101.1",
+  "titulo": "Tabla N° 5: Clasificación Según Tipo de Vehículo.",
+  "encabezados": [
+   "Tipo",
+   "Clase de Vehículo"
+  ],
+  "filas": [
+   [
+    "Tipo 1",
+    "Motos y Motonetas"
+   ],
+   [
+    "Tipo 2",
+    "Autos y Camionetas"
+   ],
+   [
+    "Tipo 3",
+    "Autos y Camionetas con Remolque"
+   ],
+   [
+    "Tipo 4",
+    "Buses de 2 Ejes"
+   ],
+   [
+    "Tipo 5",
+    "Camiones de 2 Ejes"
+   ],
+   [
+    "Tipo 6",
+    "Buses de más de 2 Ejes"
+   ],
+   [
+    "Tipo 7",
+    "Camiones de más de 2 Ejes"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   101
+  ],
+  "nodo": "BL:1.15.1",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.15 SISTEMA TARIFARIO › artículo 1.15.1 Clasificación de los Tipos de Vehículos"
  },
  {
   "id": "TABLA:RITP.D01.p0103.1",
-  "titulo": "Tabla N° 6: Factor Tarifas Máximas para cada Tipo de Vehículo.",
+  "titulo": "Tabla Nº 6: Factor Tarifas Máximas para cada Tipo de Vehículo.",
   "encabezados": [
    "Tipo",
    "Clase de Vehículo",
@@ -829,12 +1054,170 @@
   "paginas": [
    103
   ],
-  "nodo": "BL:1.16",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,16 SISTEMA Y TECNOLOGÍAS DE COBRO Y LOCALIZACIÓN DE LAS PLAZAS DE PEAJE"
+  "nodo": "BL:1.15.4",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.15 SISTEMA TARIFARIO › artículo 1.15.4 Factores por Tipo de Vehículo"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0110.1",
+  "titulo": "Tabla Nº 7: Calzadas a construir por la Sociedad Concesionaria Ruta Interportuaria.",
+  "encabezados": [
+   "Km inicio",
+   "Km final",
+   "Longitud (m)",
+   "Obra"
+  ],
+  "filas": [
+   [
+    "0,00",
+    "0,53",
+    "530",
+    "Calzada Doble"
+   ],
+   [
+    "0,53",
+    "4,00",
+    "3.470",
+    "Calzada Simple"
+   ],
+   [
+    "4,00",
+    "10,40",
+    "6.400",
+    "Calzada Simple"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   110
+  ],
+  "nodo": "BL:2.2.1.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.2 Puentes y Estructuras a Desnivel"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0110.2",
+  "titulo": "Tabla Nº 8: Terceras pistas a construir por la Sociedad Concesionaria Ruta Interportuaria.",
+  "encabezados": [
+   "Km inicio",
+   "Km final",
+   "Longitud (m)",
+   "Lado",
+   "Observación"
+  ],
+  "filas": [
+   [
+    "1,32",
+    "2,75",
+    "1.430",
+    "Izquierdo",
+    "Pista tráfico lento."
+   ],
+   [
+    "0,00(*)",
+    "0,33(*)",
+    "330",
+    "Derecho",
+    "Pista segregada de empalme a Av. Colón."
+   ]
+  ],
+  "notas": "(*) kilometraje local del eje.",
+  "documento": "RITP.D01",
+  "paginas": [
+   110
+  ],
+  "nodo": "BL:2.2.1.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.2 Puentes y Estructuras a Desnivel"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0111.1",
+  "titulo": "Tabla Nº 9: Puentes y Pasos a Desnivel Ruta Interportuaria.",
+  "encabezados": [
+   "Nombre",
+   "Ubicac. Aprox. (km)",
+   "Longitud Aprox. (m)",
+   "Ancho (m)"
+  ],
+  "filas": [
+   [
+    "Paso Superior Las Gaviotas",
+    "2,90",
+    "39",
+    "12,4"
+   ],
+   [
+    "Puente Las Ballenas",
+    "3,30",
+    "110",
+    "12,4"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   111
+  ],
+  "nodo": "BL:2.2.1.4",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.4 Intersecciones a Desnivel Mínimas"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0111.2",
+  "titulo": "Tabla Nº 10: Intersecciones a Desnivel con conexión a la Ruta Interportuaria a construir por la Sociedad Concesionaria.",
+  "encabezados": [
+   "Nombre",
+   "Ubic. Aprox. (km)",
+   "Conexión a:",
+   "Tipo",
+   "Observación"
+  ],
+  "filas": [
+   [
+    "Enlace Penco",
+    "0,00",
+    "Autopista del Itata y Autopista Concepción - Penco",
+    "Trébol",
+    "Complemento del Paso Superior existente."
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   111
+  ],
+  "nodo": "BL:2.2.1.4",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.4 Intersecciones a Desnivel Mínimas"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0111.3",
+  "titulo": "Tabla Nº 11: Pasos Interprediales.",
+  "encabezados": [
+   "Ubic. Aprox. (km)",
+   "Sección (m²)"
+  ],
+  "filas": [
+   [
+    "0,70",
+    "5 x 5"
+   ],
+   [
+    "2,30",
+    "5 x 5"
+   ],
+   [
+    "3,40",
+    "5 x 5"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   111
+  ],
+  "nodo": "BL:2.2.1.4",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.4 Intersecciones a Desnivel Mínimas"
  },
  {
   "id": "TABLA:RITP.D01.p0112.1",
-  "titulo": "Tabla N° 12: Zonas de Instalación de Mallas Perimetrales",
+  "titulo": "Tabla Nº 12: Zonas de Instalación de Mallas Perimetrales",
   "encabezados": [
    "De Km Aproximado",
    "A Km Aproximado",
@@ -845,7 +1228,7 @@
   "filas": [
    [
     "4,30",
-    "6,0",
+    "6.0",
     "1.700",
     "Derecho",
     "Costado de la vía concesionada."
@@ -858,7 +1241,7 @@
     "Costado de la vía concesionada."
    ]
   ],
-  "notas": "Todo lo anterior se entiende sin perjuicio de la facultad del Inspector Fiscal de aprobar cierros de características similares y equivalentes.",
+  "notas": null,
   "documento": "RITP.D01",
   "paginas": [
    112
@@ -867,55 +1250,886 @@
   "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.6 Cierros Perimetrales"
  },
  {
-  "id": "TABLA:RITP.D01.p0185.1",
-  "titulo": "ANEXO N°2: FORMULARIO N°1",
+  "id": "TABLA:RITP.D01.p0115.1",
+  "titulo": "Tabla Nº 13: Obras de Mejoramiento y/o Modificaciones de Intersecciones y Calzadas Existentes.",
+  "encabezados": [
+   "Nombre",
+   "Km aprox.",
+   "Obras a Ejecutar"
+  ],
+  "filas": [
+   [
+    "Enlace Penco",
+    "0,00",
+    "• Transformación ramal Penco–Autopista Itata en ramal Penco–Talcahuano. • Modificación lazo Autopista Itata–Concepción. • Incluye señalización e iluminación. • Drenaje y saneamiento."
+   ],
+   [
+    "Las Industrias",
+    "10,40",
+    "• Recapado asfáltico de calle La Isla desde calle Las Industrias (813 m aprox.). • Modificación intersección calles La Isla - Las Industrias, mediante canalización. • Incluye señalización e iluminación. • Drenaje y saneamiento."
+   ],
+   [
+    "Empalme con Av. Colón",
+    "11,15",
+    "• Recapado asfáltico de calle Las Industrias, desde el estribo sur Puente Rocuant hasta Av. Colón (230 m aprox.). • Nueva calzada segregada desde el estribo sur del puente hasta Av. Colón frente a calle Hualpén (34 m aprox.). • Modificación pista central de viraje en Av. Colón hacia Ruta Interportuaria. • Semaforización • Incluye iluminación y paisajismo. • Drenaje y saneamiento"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   115
+  ],
+  "nodo": "BL:2.2.2.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.2 Mejoramiento de Infraestructura y Superestructura Preexistente › artículo 2.2.2.2 Mantenimiento de Puentes y Estructuras"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0115.2",
+  "titulo": "Tabla Nº 14: Mantenimiento de Estructuras.",
+  "encabezados": [
+   "Nombre",
+   "Ubic. Aprox. (km)",
+   "Obras a ejecutar"
+  ],
+  "filas": [
+   [
+    "Estructura Enlace Penco",
+    "0,00",
+    "Mantenimiento General"
+   ],
+   [
+    "Puente Rocuant (sobre canal El Morro)",
+    "10,81",
+    "Reposición de barandas, cantoneras y recapado asfáltico."
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   115
+  ],
+  "nodo": "BL:2.2.2.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.2 Mejoramiento de Infraestructura y Superestructura Preexistente › artículo 2.2.2.2 Mantenimiento de Puentes y Estructuras"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0122.1",
+  "titulo": "Tabla Nº 15: Secciones Transversales.",
+  "encabezados": [
+   "Kilómetro / Desde",
+   "Kilómetro / Hasta",
+   "Sección Transversal"
+  ],
+  "filas": [
+   [
+    "0,00",
+    "0,55",
+    "Calzada Doble"
+   ],
+   [
+    "0,55",
+    "0,85",
+    "Transición"
+   ],
+   [
+    "0,85",
+    "1,36",
+    "Calzada Simple"
+   ],
+   [
+    "1,36",
+    "1,50",
+    "Transición"
+   ],
+   [
+    "1,50",
+    "2,60",
+    "Calzada Simple con Tercera Pista"
+   ],
+   [
+    "2,60",
+    "2,70",
+    "Transición"
+   ],
+   [
+    "2,70",
+    "4,00",
+    "Calzada Simple"
+   ],
+   [
+    "4,00",
+    "10,4",
+    "Calzada Simple"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   122
+  ],
+  "nodo": "BL:2.3.2.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE › artículo 2.3.2.2 Diseño Geométrico"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0123.1",
+  "titulo": "Tabla Nº 16: Perfiles Transversales Tipo en Calzada Doble.",
+  "encabezados": [
+   "ELEMENTO",
+   "DIMENSIÓN"
+  ],
+  "filas": [
+   [
+    "Número de calzadas",
+    "2"
+   ],
+   [
+    "Ancho de calzada unidireccional de dos pistas",
+    "7,0"
+   ],
+   [
+    "Ancho mediana (no incluye bermas interiores)",
+    "3,0 m"
+   ],
+   [
+    "Bombeo mínimo",
+    "2,5 %"
+   ],
+   [
+    "Ancho bermas exteriores",
+    "2,5 m."
+   ],
+   [
+    "Ancho bermas interiores",
+    "1,0 m"
+   ],
+   [
+    "Sobreanchos de compactación en zonas sin defensa caminera exterior (lateral)",
+    "0,5 m."
+   ],
+   [
+    "Sobreanchos de compactación en zonas con defensa caminera exterior (lateral)",
+    "1,0 m"
+   ],
+   [
+    "Pendiente transversal bermas exteriores",
+    "4,0 % hacia el exterior"
+   ],
+   [
+    "Pendiente transversal berma interior (inclinación igual a bombeo)",
+    "2,5 %"
+   ],
+   [
+    "Talud corte en tierra (*)",
+    "2 : 2,5 (H:V)"
+   ],
+   [
+    "Talud corte en roca meteorizada (*)",
+    "1 : 2 (H:V)"
+   ],
+   [
+    "Talud corte en roca (*), n ≤ 4",
+    "1 : n (H:V)"
+   ],
+   [
+    "Talud terraplén",
+    "3 : 2 (H:V)"
+   ],
+   [
+    "Cuneta mediana",
+    "Trapezoidal cuando sea necesario"
+   ],
+   [
+    "Ancho mínimo cuneta lateral de corte",
+    "0,8 m."
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   123
+  ],
+  "nodo": "BL:2.3.2.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE › artículo 2.3.2.2 Diseño Geométrico"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0123.2",
+  "titulo": "Tabla Nº 17: Perfiles Transversales Tipo en Calzada Simple.",
+  "encabezados": [
+   "ELEMENTO",
+   "DIMENSIÓN"
+  ],
+  "filas": [
+   [
+    "Número de calzadas",
+    "1"
+   ],
+   [
+    "Ancho de calzada bidireccional de dos pistas",
+    "7,0"
+   ],
+   [
+    "Bombeo mínimo (en un solo sentido)",
+    "2,5 %"
+   ],
+   [
+    "Ancho bermas",
+    "2,5 m."
+   ],
+   [
+    "Sobreanchos de compactación en zonas sin defensa caminera exterior (lateral)",
+    "0,5 m."
+   ],
+   [
+    "Sobreanchos de compactación en zonas con defensa caminera exterior (lateral)",
+    "1,0 m"
+   ],
+   [
+    "Pendiente transversal bermas",
+    "4,0 %"
+   ],
+   [
+    "Talud corte en tierra (*)",
+    "2 : 2,5 (H: V)"
+   ],
+   [
+    "Talud corte en roca meteorizada (*)",
+    "1 : 2 (H: V)"
+   ],
+   [
+    "Talud corte en roca (*), n ≤ 4",
+    "1 : n (H: V)"
+   ],
+   [
+    "Talud terraplén",
+    "3 : 2 (H:V)"
+   ],
+   [
+    "Ancho mínimo cuneta lateral de corte",
+    "1,0 m."
+   ],
+   [
+    "Número de calzadas",
+    "1"
+   ],
+   [
+    "Ancho de calzadas de tres pistas (3ª Pista de subida)",
+    "10,5"
+   ],
+   [
+    "Bombeo mínimo (en un solo sentido)",
+    "2,5 %"
+   ],
+   [
+    "Ancho bermas",
+    "2,5 m."
+   ],
+   [
+    "Sobreanchos de compactación en zonas sin defensa caminera exterior (lateral)",
+    "0,5 m."
+   ],
+   [
+    "Sobreanchos de compactación en zonas con defensa caminera exterior (lateral)",
+    "1,0 m"
+   ],
+   [
+    "Pendiente transversal bermas",
+    "4,0 %"
+   ],
+   [
+    "Talud corte en tierra (*)",
+    "2 : 2,5 (H: V)"
+   ],
+   [
+    "Talud corte en roca meteorizada (*)",
+    "1 : 2 (H: V)"
+   ],
+   [
+    "Talud corte en roca (*), n ≤ 4",
+    "1 : n (H: V)"
+   ],
+   [
+    "Talud terraplén",
+    "3 : 2 (H:V)"
+   ],
+   [
+    "Ancho mínimo cuneta lateral de corte",
+    "1,0 m."
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   123,
+   124
+  ],
+  "nodo": "BL:2.3.2.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE › artículo 2.3.2.2 Diseño Geométrico"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0124.1",
+  "titulo": "Tabla Nº 19: Ejes Equivalentes de Diseño Mínimo.",
+  "encabezados": [
+   "Tipo de Obra",
+   "Millones de Ejes Equivalentes Asfalto"
+  ],
+  "filas": [
+   [
+    "Tramo Calzada Doble",
+    "29"
+   ],
+   [
+    "Tramo Calzada Simple",
+    "31"
+   ],
+   [
+    "Ramales y Lazos",
+    "10"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   124
+  ],
+  "nodo": "BL:2.3.2.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE › artículo 2.3.2.2 Diseño Geométrico"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0151.1",
+  "titulo": null,
+  "encabezados": [
+   "CONTINGENCIAS",
+   "ACCIONES"
+  ],
+  "filas": [
+   [
+    "Derrame de sustancias peligrosas - Almacenamiento",
+    "Si el derrame es menor - menos de un tambor- se procederá a: 1. Utilizar los elementos de contención de derrames pequeños -tapones- a fin de detener el vertimiento del producto. 2. Se avisará al Supervisor correspondiente de la obra, quién determinará las acciones a seguir para limpiar el área afectada. 3. Si existe un derrame hacia algún curso o masa de agua se deberá diseñar un plan de monitoreo de contingencia, a fin de revisar la calidad de las aguas a posterior. 4. Se mantendrá un registro -ficha- indicando la información mínima que permita dimensionar el derrame producido. 5. El supervisor comunicará semanalmente a la inspección fiscal respecto de la estadística de estos derrames. Si el derrame es mayor - más de un tambor- se procederá a: 1. Se aplicará el plan para derrames menores, aunque previamente se verificará si hay personas que se hayan visto afectadas por el derrame o trabajadores que hayan estado laborando en el área del accidente. 2. Si es así, se procederá a utilizar los elementos apropiados para resguardar primero la vida y salud de dichas personas. 3. El supervisor de la obra determinará la necesidad de requerir servicios externos para contener el derrame (bomberos, carabineros, contratistas, etc.). 4. Se registrará el accidente y se avisará de inmediato a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa."
+   ],
+   [
+    "Incendio en Areas de Faenas",
+    "1. Se organizará el equipo previamente entrenado para estos efectos. 2. El supervisor de obra deberá decidir si es necesario solicitar la ayuda de servicios externos para detener el fuego –bomberos, CONAF. 3. Se registrará el accidente y se avisará de inmediato a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa."
+   ],
+   [
+    "Explosión",
+    "1. Si hay personas heridas, se procederá a darle atención de urgencia y enviarlas de inmediato al hospital, clínica o consultorio más cercano. 2. Se prohibirá el paso a personas no involucradas en las labores de salvamento al área afectada. 3. Si producto de la explosión ocurre un incendio o derrame, se procederá a aplicar los planes de contingencia detallados específicamente para estos riesgos. 4. El supervisor de obra avisará de inmediato a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa."
+   ],
+   [
+    "Accidentes de trabajadores",
+    "1. Se dará atención de primeros auxilios en el área del accidente. 2. Si el accidente es mayor, se trasladará al herido hasta el centro asistencial más cercano. 3. Se dará el aviso correspondiente a la mutual de seguridad. 4. Se registrará el accidente en forma apropiada y se avisará a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa."
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   151
+  ],
+  "nodo": "BL:2.8.1",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.8 PLAN DE MEDIDAS DE CONTROL DE ACCIDENTES O CONTINGENCIAS › artículo 2.8.1 Plan de Control de Accidentes o Plan de Contingencias durante la Etapa de Construcci"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0154.1",
+  "titulo": "Tabla Nº 22: Actividades NO ejecutables en Zonas de Restricción(*).",
+  "encabezados": [
+   "Nº",
+   "Actividad"
+  ],
+  "filas": [
+   [
+    "1",
+    "Instalación, operación y abandono de faenas (campamentos, estacionamientos, bodegas o almacenajes)."
+   ],
+   [
+    "2",
+    "Operación de plantas de producción de materiales (chancado, asfalto, hormigón)."
+   ],
+   [
+    "3",
+    "Apertura, uso y manejo de empréstitos y áridos (canteras, pozos, encauzamientos, nivelaciones, etc.)."
+   ],
+   [
+    "4",
+    "Apertura, uso y manejo de botaderos."
+   ],
+   [
+    "5",
+    "Movimiento de maquinaria."
+   ],
+   [
+    "6",
+    "Transporte de material de construcción."
+   ]
+  ],
+  "notas": "(*) Las Zonas de Restricción se localizan fuera de la faja fiscal.",
+  "documento": "RITP.D01",
+  "paginas": [
+   154
+  ],
+  "nodo": "BL:2.9.2",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.9 CONSIDERACIONES AMBIENTALES DE LA OBRA › artículo 2.9.2 Zonas de Restricción"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0167.1",
+  "titulo": "Tabla N° 23: Alternativas de Reutilización y Disposición Final de Residuos Sólidos.",
+  "encabezados": [
+   "Tipo de residuo",
+   "Reutilización en las obras y/o actividades de la concesión",
+   "Recuperación para Reutilización, reciclaje y/o disposición final previo tratamiento",
+   "Disposición final en vertederos para materiales inertes",
+   "Disposición final en vertederos municipales"
+  ],
+  "filas": [
+   [
+    "Asfalto",
+    "Si",
+    "Si",
+    "Si",
+    "No"
+   ],
+   [
+    "Concreto",
+    "Si",
+    "Si",
+    "Si",
+    "No"
+   ],
+   [
+    "Tierra y material de descarte",
+    "Si",
+    "Si",
+    "Si",
+    "Si"
+   ],
+   [
+    "Fierros y chatarras",
+    "No",
+    "Si",
+    "Si",
+    "No"
+   ],
+   [
+    "Orgánicos vegetales",
+    "Si",
+    "Si",
+    "Si",
+    "Si"
+   ],
+   [
+    "Lodos de piscinas de decantación",
+    "No",
+    "Si",
+    "Si",
+    "No"
+   ],
+   [
+    "Grasas, aceites y lubricantes",
+    "No",
+    "Si",
+    "No",
+    "No"
+   ],
+   [
+    "Restos de pinturas y solventes",
+    "No",
+    "Si",
+    "No",
+    "No"
+   ],
+   [
+    "Orgánicos domésticos",
+    "No",
+    "No",
+    "No",
+    "Si"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   167
+  ],
+  "nodo": "BL:2.10.12.1",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.10 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA CONSTRUCCION › artículo 2.10.12 Obligaciones Ambientales para la Ejecución de Faenas › artículo 2.10.12.1 Reutilización y Disposición Final de Residuos Industriales Sólidos"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0169.1",
+  "titulo": "Tabla N° 24: Contenidos mínimos de los Informes Ambientales.",
+  "encabezados": [
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "1. INTRODUCCIÓN",
+    "1. INTRODUCCIÓN"
+   ],
+   [
+    "1.1 Aspectos Generales",
+    "Nombre de la Concesionaria, período que comprende (trimestre), N° de informes ambientales entregados, observaciones relevantes relacionadas con el trimestre que finaliza y el que comienza, y cronograma general, indicando las etapas que actualmente se están desarrollando."
+   ],
+   [
+    "1.2 Breve descripción de la obra",
+    "Localización geográfica, principales características, obras comprometidas y realizadas en el trimestre, etc."
+   ],
+   [
+    "1.3 Actividades Realizadas",
+    "Terrenos, inspecciones, entrega de informes o documentos, descripción de nuevas obras de carácter ambiental."
+   ],
+   [
+    "1.4 Aspectos Ambientales",
+    "Descripción de los principales problemas ambientales del trimestre y cumplimiento de observaciones realizadas al informe ambiental anterior"
+   ],
+   [
+    "2. ESTADO DE AVANCE DE LAS OBRAS O TRABAJOS (POR OBRA COMPLEMENTARIA)",
+    "2. ESTADO DE AVANCE DE LAS OBRAS O TRABAJOS (POR OBRA COMPLEMENTARIA)"
+   ],
+   [
+    "2.1 Construcción Vial",
+    "• Breve descripción de áreas con frente de trabajo actual, indicando avances y actividades por realizar (ej. Caminos de acceso construidos, cierre de frentes de trabajo, etc.). • Estado y Avance del Plan de Manejo con especial énfasis en: - Medidas de Mitigación Implementadas (propuestas de solución, calendario de aplicación de las medidas, permisos involucrados). - Plan de Seguimiento y Control ."
+   ],
+   [
+    "2.2 Plantas de Producción de Materiales",
+    "• Breve descripción de plantas instaladas, su tecnología y localización. • Estado y Avance del Plan de Manejo con especial énfasis en: - Medidas de Mitigación Implementadas (propuestas de solución, calendario de aplicación de las medidas, permisos involucrados). - Plan de Seguimiento y Control."
+   ],
+   [
+    "2.3 Botaderos y Escombreras",
+    "• Breve descripción de botaderos habilitados o cerrados, sus características y localización. • Estado y Avance del Plan de Manejo con especial énfasis en: - Medidas de Mitigación Implementadas (propuestas de solución, calendario de aplicación de las medidas, permisos involucrados). - Plan de Seguimiento y Control."
+   ],
+   [
+    "2.4 Faenas o Campamentos",
+    "Breve descripción de faenas o campamentos habilitados o cerrados para las distintas obras, sus características y localización Avances y estado del Plan de Manejo Estado y Avance del Plan de Manejo con especial énfasis en: Medidas de Mitigación Implementadas (propuestas de solución, calendario de aplicación de las medidas, permisos involucrados) Plan de Seguimiento y Control"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   169
+  ],
+  "nodo": "BL:2.10.13.1",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.10 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA CONSTRUCCION › artículo 2.10.13 Informes Ambientales › artículo 2.10.13.1 Contenidos mínimos de los Informes Ambientales"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0173.1",
+  "titulo": "Tabla N° 25: Puntos de Monitoreo de la Fauna.",
+  "encabezados": [
+   "Km Ubicación",
+   "Lugar"
+  ],
+  "filas": [
+   [
+    "2,00",
+    "Bosque de pinos"
+   ],
+   [
+    "3,30",
+    "Riberas del río Andalién"
+   ],
+   [
+    "4,50",
+    "Marisma de Andalién"
+   ],
+   [
+    "7,00",
+    "Dunas y playa"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   173
+  ],
+  "nodo": "BL:2.11.7.1",
+  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.11 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA EXPLOTACION › artículo 2.11.7 Fauna › artículo 2.11.7.1 Plan de Seguimiento Fauna"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0181.1",
+  "titulo": null,
   "encabezados": [
    "Campo",
    "Valor"
   ],
   "filas": [
    [
-    "Nombre o Razón Social",
-    "RUT"
+    "Plazo de la Concesión ofrecido (NM), expresado en meses. (1)",
+    "________________ meses"
+   ],
+   [
+    "Monto del Subsidio solicitado (S), expresado en UF. (2)",
+    "________________ UF"
+   ],
+   [
+    "Plazo de Postergación de la Puesta en Servicio Provisoria de Av. Alessandri ofrecido (ND), expresado en días.(3)",
+    "________________ días"
    ]
   ],
-  "notas": "De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento N°3 de las Bases de Licitación.",
+  "notas": "Notas: (1) \"NM\" corresponde al plazo de la concesión ofrecido, de acuerdo a lo indicado en el artículo 3.2 de las presentes Bases, el cual deberá ser inferior o igual a 378 meses (NM ≤ 378). (2) \"S\" corresponde al monto de Subsidio solicitado al Estado, de acuerdo a lo indicado en los artículos 1.14.7 y 3.2 de las presentes Bases, el cual deberá ser inferior o igual a UF 290.000 (0 < S ≤ 290.000). Si el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el valor del Subsidio S con valor \"0\" (S = 0). (3) \"ND\" corresponde al número de días contados desde la Puesta en Servicio Provisoria de las obras descritas en el artículo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las mismas Bases. Si el licitante o grupo licitante opta por SÍ construir las obras indicadas en el artículo 1.3.2, deberá señalar el número de días ND dentro del rango entre 1 y 1.800 (1 ≤ ND ≤ 1.800). Si el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras señaladas en el artículo 1.3.2 conjuntamente con la Puesta en Servicio Provisoria de las obras indicadas en el artículo 1.3.1, deberá completar ND con valor cero (ND = 0). Si el licitante o grupo licitante opta por NO ejecutar las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las presentes Bases, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el número ND con el valor 5.000 (ND = 5.000).",
+  "documento": "RITP.D01",
+  "paginas": [
+   181
+  ],
+  "nodo": "BL:3.3.5",
+  "ruta": "Bases de Licitación › 3 BASES ECONÓMICAS › 3.3 EVALUACIÓN DE LAS OFERTAS ECONÓMICAS › artículo 3.3.5 Adjudicación"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0185.1",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "NOMBRE",
+    ""
+   ],
+   [
+    "DOMICILIO",
+    ""
+   ],
+   [
+    "FONO",
+    ""
+   ],
+   [
+    "FAX",
+    ""
+   ],
+   [
+    "Marque con una cruz (X) donde corresponda: LICITANTE",
+    ""
+   ],
+   [
+    "GRUPO LICITANTE",
+    ""
+   ],
+   [
+    "Firma del Representante ante el MOP (*)",
+    ""
+   ],
+   [
+    "Nombre",
+    ""
+   ],
+   [
+    "RUT",
+    ""
+   ]
+  ],
+  "notas": "(En caso de tratarse de un Grupo Licitante, se deberá consignar un único Domicilio, Fono y Fax).",
   "documento": "RITP.D01",
   "paginas": [
    185
   ],
   "nodo": "BL:A1",
-  "ruta": "Bases de Licitación › ANEXO N*1: FORMULARIO PROPUESTA ECONOMICA"
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0185.2",
+  "titulo": null,
+  "encabezados": [
+   "Nombre o Razón Social / Integrante del Licitante / Grupo Licitante",
+   "RUT"
+  ],
+  "filas": [
+   [
+    "1.",
+    ""
+   ],
+   [
+    "2.",
+    ""
+   ],
+   [
+    "3.",
+    ""
+   ],
+   [
+    "4.",
+    ""
+   ],
+   [
+    "5.",
+    ""
+   ],
+   [
+    "6.",
+    ""
+   ],
+   [
+    "7.",
+    ""
+   ],
+   [
+    "8.",
+    ""
+   ],
+   [
+    "9.",
+    ""
+   ],
+   [
+    "10.",
+    ""
+   ]
+  ],
+  "notas": "(*) De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento Nº3 de las Bases de Licitación.",
+  "documento": "RITP.D01",
+  "paginas": [
+   185
+  ],
+  "nodo": "BL:A1",
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0189.1",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "NOMBRE LICITANTE/GRUPO LICITANTE:",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   189
+  ],
+  "nodo": "BL:A1",
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0189.2",
+  "titulo": "IDENTIFICACION DE APORTES (*)",
+  "encabezados": [
+   "Nombre Integrante del Licitante/ Grupo Licitante",
+   "Participación (Porcentaje) (A)",
+   "Patrimonio Total Integrante (Millones de pesos) (B)",
+   "Patrimonio Ponderado (Millones de pesos) (C)"
+  ],
+  "filas": [
+   [
+    "1.",
+    "",
+    "",
+    "-"
+   ],
+   [
+    "2.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "3.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "4.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "5.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "6.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "7.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "8.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "9.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "10.",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Totales",
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": "(Los montos serán expresados en moneda al 31 de diciembre de 2000) Notas: (A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación. (B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación. (C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.350.000.000 (patrimonio mínimo). (D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo. (*) Formulario a utilizar por los Licitantes/Grupos Licitantes y por aquellas Sociedades constituidas especialmente para proyectos de concesión que no puedan acreditar por sí mismas los requisitos patrimoniales exigidos por las Bases de Licitación. (**) De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento N°3 de las Bases de Licitación.",
+  "documento": "RITP.D01",
+  "paginas": [
+   189
+  ],
+  "nodo": "BL:A1",
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
  },
  {
   "id": "TABLA:RITP.D01.p0191.1",
-  "titulo": "ANEXO N°2: FORMULARIO N°4",
+  "titulo": null,
   "encabezados": [
-   "Nombre Integrante",
-   "Participación (%) / a%",
-   "Año",
-   "1998",
-   "1999",
-   "2000",
-   "Integrante n",
-   "Participación (%) / z%",
-   "Año",
-   "1998",
-   "1999",
-   "2000",
-   "Consolidado",
-   "100%",
-   "1998",
-   "1999",
-   "2000"
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "GRUPO LICITANTE",
+    ""
+   ],
+   [
+    "MONEDA",
+    "Millones de $ del 31 de Diciembre de 2000"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   191
+  ],
+  "nodo": "BL:A1",
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0191.2",
+  "titulo": null,
+  "encabezados": [
+   "Nombre Integrante / Participación (%) / Año",
+   "Integrante 1 / a% / 1998",
+   "Integrante 1 / a% / 1999",
+   "Integrante 1 / a% / 2000",
+   "...... / / 1998",
+   "...... / / 1999",
+   "...... / / 2000",
+   "Integrante n / z% / 1998",
+   "Integrante n / z% / 1999",
+   "Integrante n / z% / 2000",
+   "Consolidado / 100% / 1998",
+   "Consolidado / 100% / 1999",
+   "Consolidado / 100% / 2000"
   ],
   "filas": [
    [
     "ACTIVO CIRCULANTE",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -942,18 +2156,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
     "Cuentas por cobrar",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -980,18 +2186,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
     "TOTAL ACTIVOS",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -1018,18 +2216,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
     "PASIVO LARGO PLAZO",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -1056,10 +2246,6 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
@@ -1075,18 +2261,38 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
-   ],
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D01",
+  "paginas": [
+   191
+  ],
+  "nodo": "BL:A1",
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
+ },
+ {
+  "id": "TABLA:RITP.D01.p0191.3",
+  "titulo": null,
+  "encabezados": [
+   "Nombre Integrante / Participación (%) / Año",
+   "Integrante 1 / a% / 1998",
+   "Integrante 1 / a% / 1999",
+   "Integrante 1 / a% / 2000",
+   "...... / / 1998",
+   "...... / / 1999",
+   "...... / / 2000",
+   "Integrante n / z% / 1998",
+   "Integrante n / z% / 1999",
+   "Integrante n / z% / 2000",
+   "Consolidado / 100% / 1998",
+   "Consolidado / 100% / 1999",
+   "Consolidado / 100% / 2000"
+  ],
+  "filas": [
    [
     "INGRESOS DE EXPLOTACION",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -1113,18 +2319,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
     "RESULTADO OPERACIONAL",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -1151,18 +2349,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
     "RESULTADO Antes IMPUESTOS",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -1189,18 +2379,10 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
     "Gastos Financieros",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -1227,10 +2409,6 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ],
    [
@@ -1246,32 +2424,28 @@
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
     ""
    ]
   ],
-  "notas": "(1) La columna Consolidado corresponde a la suma ponderada según el porcentaje de participación de cada integrante del Grupo Licitante.\n(2) Las cifras deben ser expresadas en pesos del 31/12/2000.",
+  "notas": "(1) La columna Consolidado corresponde a la suma ponderada según el porcentaje de participación de cada integrante del Grupo Licitante. (2) Las cifras deben ser expresadas en pesos del 31/12/2000.",
   "documento": "RITP.D01",
   "paginas": [
    191
   ],
   "nodo": "BL:A1",
-  "ruta": "Bases de Licitación › ANEXO N*1: FORMULARIO PROPUESTA ECONOMICA"
+  "ruta": "Bases de Licitación › ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA"
  },
  {
   "id": "TABLA:RITP.D01.p0195.1",
-  "titulo": "CRONOGRAMA REFERENCIAL DE INVERSION TIPO CARTA GANTT",
+  "titulo": null,
   "encabezados": [
    "ITEM",
    "DESCRIPCION",
-   "Mes 1",
-   "Mes 2",
-   "Mes ..",
-   "Mes n",
-   "Total"
+   "VALORES (UF) / Mes 1",
+   "VALORES (UF) / Mes 2",
+   "VALORES (UF) / Mes ..",
+   "VALORES (UF) / Mes n",
+   "VALORES (UF) / Total"
   ],
   "filas": [
    [
@@ -1402,7 +2576,7 @@
    ],
    [
     "A.4.1",
-    "Puente sobre Río Andalíen (Puente Las Ballenas)",
+    "Puente sobre Río Andalién (Puente Las Ballenas)",
     "",
     "",
     "",
@@ -1536,7 +2710,7 @@
     ""
    ],
    [
-    "",
+    "SUBTOTAL A (UF)",
     "SUBTOTAL A (UF)",
     "",
     "",
@@ -1555,15 +2729,15 @@
  },
  {
   "id": "TABLA:RITP.D01.p0197.1",
-  "titulo": "Tabla N° 3: SERVICIOS ESPECIALES OBLIGATORIOS",
+  "titulo": null,
   "encabezados": [
    "ITEM",
    "DESCRIPCION",
-   "Mes 1",
-   "Mes 2",
-   "Mes ..",
-   "Mes ..",
-   "Total"
+   "VALORES (UF) / Mes 1",
+   "VALORES (UF) / Mes 2",
+   "VALORES (UF) / Mes ..",
+   "VALORES (UF) / Mes ..",
+   "VALORES (UF) / Total"
   ],
   "filas": [
    [
@@ -1594,7 +2768,7 @@
     ""
    ],
    [
-    "",
+    "SUBTOTAL B (UF)",
     "SUBTOTAL B (UF)",
     "",
     "",
@@ -1617,11 +2791,11 @@
   "encabezados": [
    "ITEM",
    "DESCRIPCION",
-   "Mes 1",
-   "Mes 2",
-   "Mes ..",
-   "Mes..",
-   "Total"
+   "VALORES (UF) / Mes 1",
+   "VALORES (UF) / Mes 2",
+   "VALORES (UF) / Mes ..",
+   "VALORES (UF) / Mes..",
+   "VALORES (UF) / Total"
   ],
   "filas": [
    [
@@ -1760,7 +2934,7 @@
     ""
    ],
    [
-    "",
+    "SUBTOTAL C (UF)",
     "SUBTOTAL C (UF)",
     "",
     "",
@@ -1785,12 +2959,14 @@
    "",
    "",
    "",
+   "",
    ""
   ],
   "filas": [
    [
-    "",
     "TOTAL A + B + C (UF)",
+    "TOTAL A + B + C (UF)",
+    "",
     "",
     "",
     ""
@@ -1806,7 +2982,7 @@
  },
  {
   "id": "TABLA:RITP.D01.p0205.1",
-  "titulo": "ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)",
+  "titulo": null,
   "encabezados": [
    "ITEM",
    "DESCRIPCION",
@@ -1814,6 +2990,12 @@
    "PRECIO UNITARIO (UF)"
   ],
   "filas": [
+   [
+    "ELEMENTOS DE PUENTES",
+    "ELEMENTOS DE PUENTES",
+    "ELEMENTOS DE PUENTES",
+    "ELEMENTOS DE PUENTES"
+   ],
    [
     "151",
     "Escolleras de protección",
@@ -1911,6 +3093,18 @@
     "8,62"
    ],
    [
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUPERESTRUCTURA",
+    "SUPERESTRUCTURA",
+    "SUPERESTRUCTURA",
+    "SUPERESTRUCTURA"
+   ],
+   [
     "251",
     "Moldajes",
     "m²",
@@ -1937,104 +3131,116 @@
    [
     "282",
     "Losas de aproximación",
-    "m²",
+    "m³",
     "5,00"
    ],
    [
     "283",
     "Pavimento asfáltico",
-    "m²",
+    "m³",
     "2,50"
    ],
    [
     "331",
     "Vigas postensadas L=15 m",
-    "Nº",
+    "N°",
     "200,00"
    ],
    [
     "331",
     "Vigas postensadas L=16 m",
-    "Nº",
+    "N°",
     "220,00"
    ],
    [
     "331",
     "Vigas postensadas L=17 m",
-    "Nº",
+    "N°",
     "240,00"
    ],
    [
     "331",
     "Vigas postensadas L=18 m",
-    "Nº",
+    "N°",
     "260,00"
    ],
    [
-    "332",
+    "331",
     "Vigas postensadas L=19 m",
-    "Nº",
-    "300,00"
+    "N°",
+    "280,00"
    ],
    [
     "332",
     "Vigas postensadas L=20 m",
-    "Nº",
-    "320,00"
+    "N°",
+    "300,00"
    ],
    [
     "332",
     "Vigas postensadas L=21 m",
-    "Nº",
-    "340,00"
+    "N°",
+    "320,00"
    ],
    [
     "332",
     "Vigas postensadas L=22 m",
-    "Nº",
+    "N°",
+    "340,00"
+   ],
+   [
+    "332",
+    "Vigas postensadas L=23m",
+    "N°",
     "360,00"
    ],
    [
     "332",
-    "Vigas postensadas L=23 m",
-    "Nº",
-    "380,00"
+    "Vigas postensadas L=24 m",
+    "N°",
+    "380.00"
    ],
    [
-    "332",
-    "Vigas postensadas L=24 m",
-    "Nº",
-    "400,00"
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "ELEMENTOS DE PUENTES",
+    "ELEMENTOS DE PUENTES",
+    "ELEMENTOS DE PUENTES",
+    "ELEMENTOS DE PUENTES"
    ],
    [
     "333",
     "Vigas postensadas L=29 m",
-    "Nº",
+    "N°",
     "480,00"
    ],
    [
     "334",
     "Vigas postensadas L=30 m",
-    "Nº",
-    "500,00"
+    "N°",
+    "500.00"
    ],
    [
     "334",
     "Vigas postensadas L=31 m",
-    "Nº",
+    "N°",
     "520,00"
    ],
    [
     "334",
     "Vigas postensadas L=32 m",
-    "Nº",
+    "N°",
     "540,00"
    ],
    [
     "334",
     "Vigas postensadas L=33 m",
-    "Nº",
-    "560,00"
+    "N°",
+    "560,50"
    ]
   ],
   "notas": null,
@@ -2043,7 +3249,7 @@
    205
   ],
   "nodo": "BL:A3",
-  "ruta": "Bases de Licitación › ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
+  "ruta": "Bases de Licitación › ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
  },
  {
   "id": "TABLA:RITP.D01.p0207.1",
@@ -2098,6 +3304,12 @@
     "840,00"
    ],
    [
+    "337",
+    "Vigas postensadas L=45 m",
+    "Nº",
+    "904,70"
+   ],
+   [
     "341",
     "Vigas metálicas y arriostramientos",
     "Kg",
@@ -2117,7 +3329,7 @@
    ],
    [
     "352-354",
-    "Barandas antimpactos – barandas mixtas",
+    "Barandas antimpactos -- barandas mixtas",
     "m",
     "5,20"
    ],
@@ -2130,14 +3342,14 @@
    [
     "360",
     "Placas de neopreno",
-    "dm²",
+    "dm³",
     "0,81"
    ],
    [
-    "",
-    "",
-    "",
-    ""
+    "VARIOS",
+    "VARIOS",
+    "VARIOS",
+    "VARIOS"
    ],
    [
     "620",
@@ -2158,10 +3370,10 @@
     "9,00"
    ],
    [
-    "",
-    "",
-    "",
-    ""
+    "5.100",
+    "PREPARACION DEL AREA DE TRABAJO",
+    "PREPARACION DEL AREA DE TRABAJO",
+    "PREPARACION DEL AREA DE TRABAJO"
    ],
    [
     "101-1",
@@ -2189,66 +3401,78 @@
    ],
    [
     "101-5",
+    "Remoción de obras de drenaje superficial",
+    "m",
+    "0,05"
+   ],
+   [
+    "101-6",
     "Remoción de defensas camineras simples",
     "m",
     "0,27"
    ],
    [
-    "101-6",
+    "101-7",
     "Remoción de defensas camineras dobles",
     "m",
     "0,27"
    ],
    [
-    "101-7",
-    "Remoción de señalización vertical sobre la calzada",
+    "101-8",
+    "Remoción de señalización vertical lateral",
     "Nº",
     "0,41"
    ],
    [
-    "101-8",
-    "Remoción de aceras",
-    "m",
+    "101-9",
+    "Remoción de señalización vertical sobre la calzada",
+    "Nº",
     "0,50"
    ],
    [
-    "101-9",
-    "Remoción de cercos",
-    "m",
+    "101-10",
+    "Remoción de aceras",
+    "m²",
     "0,02"
    ],
    [
-    "101-10",
+    "101-11",
+    "Remoción de cercos",
+    "m",
+    "0,07"
+   ],
+   [
+    "101-13",
     "Remoción de casetas de paraderos para la locomoción colectiva",
     "Nº",
     "9,22"
    ],
    [
-    "101-11",
+    "101-14",
     "Traslado de postación",
     "Nº",
     "32,26"
    ],
    [
-    "101-13",
+    "101-15",
     "Suministro Demolición de construcciones",
     "m²",
     "0,60"
    ],
    [
-    "101-14",
+    "101-17",
     "Remoción de soleras",
     "m",
     "0,06"
    ],
    [
-    "101-15",
+    "101-21",
     "Remoción Barreras Antiruido",
     "ml",
     "0,54"
    ],
    [
-    "101-17",
+    "101-22",
     "Remoción Bermas TSD",
     "m²",
     "0,05"
@@ -2266,10 +3490,10 @@
     "248,99"
    ],
    [
-    "",
-    "",
-    "",
-    ""
+    "5.200",
+    "MOVIMIENTOS DE TIERRA",
+    "MOVIMIENTOS DE TIERRA",
+    "MOVIMIENTOS DE TIERRA"
    ],
    [
     "201-1",
@@ -2290,52 +3514,58 @@
     "0,09"
    ],
    [
+    "201-4",
+    "Excavación de corte en roca",
+    "m³",
+    "0,30"
+   ],
+   [
     "202-1",
     "Excavación especial",
     "m³",
-    "0,18"
+    "0.18"
    ],
    [
     "202-3",
     "Excavación especial con agotamiento",
     "m³",
-    "0,21"
+    "0.21"
    ],
    [
     "204-1",
     "Suministro y Colocación Geotextil para estabilización de suelos",
     "m²",
-    "0,04"
+    "0.04"
    ],
    [
     "204-3",
     "Geotextil para drenaje",
     "m²",
-    "0,05"
+    "0.05"
    ],
    [
     "205-1",
     "Formación y compactación de terraplenes",
     "m³",
-    "0,13"
+    "0.13"
    ],
    [
     "205-1a",
     "Espigones de Encauzamiento",
     "m³",
-    "0,17"
+    "0.17"
    ],
    [
     "206-1",
     "Relleno estructural",
-    "m³",
-    "0,46"
+    "",
+    "0.46"
    ],
    [
     "207-3",
     "Enrocados de protección",
     "",
-    "0,86"
+    "0.86"
    ]
   ],
   "notas": null,
@@ -2344,7 +3574,7 @@
    207
   ],
   "nodo": "BL:A3",
-  "ruta": "Bases de Licitación › ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
+  "ruta": "Bases de Licitación › ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
  },
  {
   "id": "TABLA:RITP.D01.p0209.1",
@@ -2383,8 +3613,8 @@
    [
     "5.300",
     "CAPAS GRANULARES",
-    "",
-    ""
+    "CAPAS GRANULARES",
+    "CAPAS GRANULARES"
    ],
    [
     "301-1.A",
@@ -2419,18 +3649,18 @@
    [
     "5.400",
     "REVESTIMIENTOS Y PAVIMENTOS",
-    "",
-    ""
+    "REVESTIMIENTOS Y PAVIMENTOS",
+    "REVESTIMIENTOS Y PAVIMENTOS"
    ],
    [
     "401-1",
-    "Imprimaclón",
+    "Imprimación",
     "m²",
     "0,02"
    ],
    [
     "401-2",
-    "Imprimaclón reforzada",
+    "Imprimación reforzada",
     "m²",
     "0,03"
    ],
@@ -2455,38 +3685,38 @@
    [
     "408-1",
     "Concreto asfáltico de superficie",
-    "m²",
+    "m³",
     "2,88"
    ],
    [
     "408-2",
     "Concreto asfáltico capa intermedia",
-    "m²",
+    "m³",
     "2,54"
    ],
    [
     "408-3",
     "Base asfáltica en caliente de graduación gruesa",
-    "m²",
+    "m³",
     "2,24"
    ],
    [
     "408-4",
     "Base asfáltica en caliente de graduación abierta",
-    "m²",
+    "m³",
     "2,24"
    ],
    [
     "410-1",
     "Pavimento de hormigón",
-    "m²",
+    "m³",
     "4,14"
    ],
    [
     "5.500",
     "ESTRUCTURAS Y OBRAS CONEXAS",
-    "",
-    ""
+    "ESTRUCTURAS Y OBRAS CONEXAS",
+    "ESTRUCTURAS Y OBRAS CONEXAS"
    ],
    [
     "501-1.A",
@@ -2562,9 +3792,9 @@
    ],
    [
     "5.600",
-    "DRENAJE Y PROTECCIÓN DE LA PLATAFORMA",
-    "",
-    ""
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA"
    ],
    [
     "601-1.A",
@@ -2586,63 +3816,69 @@
    ],
    [
     "601-2.B",
-    "Tubos de base plana de alta resistencia D = 1,00 m",
+    "Tubos de base plana de alta resistencia D = 0,80 m",
     "m",
     "3,00"
+   ],
+   [
+    "601-2.C",
+    "Tubos de base plana de alta resistencia D = 1,00 m",
+    "m",
+    "3,30"
    ],
    [
     "601-2.D",
     "Tubos de base plana de alta resistencia D = 1,50 m",
     "m",
-    "3,30"
+    "5,19"
    ],
    [
     "602-1.A",
     "Tubo de metal corrugado D = 0.60 m",
     "m",
-    "2,43"
+    "2.43"
    ],
    [
     "602-1.C",
-    "Tubo circulares de metal corrugado D = 1.80 m",
+    "Tubo circulares de metal corrugado D = 1.00 m",
     "m",
-    "4,90"
+    "4.90"
    ],
    [
     "602-1.D",
     "Tubo de metal corrugado D = 1.80 m",
     "m",
-    "10,38"
+    "10.38"
    ],
    [
     "603-1",
     "Drenes longitudinales al borde del pavimento",
     "m",
-    "0,25"
+    "0.25"
    ],
    [
     "603-2",
     "Construcción de subdrenes",
     "m",
-    "0,65"
+    "0.65"
    ],
    [
     "605-1",
     "Embudo para descarga de aguas lluvias",
     "Nº",
-    "6,79"
+    "6.79"
    ],
    [
     "605-2.A",
     "Descarga de agua en tubos corrugados de media caña D = 0.60m",
     "m",
-    "2,43"
+    "2.43"
    ],
    [
     "605-2.B",
     "Descarga de agua en tubos corrugados de media caña D = 0.80m",
     "m",
-    "2,7"
+    "2./"
    ]
   ],
   "notas": null,
@@ -2651,7 +3887,7 @@
    209
   ],
   "nodo": "BL:A3",
-  "ruta": "Bases de Licitación › ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
+  "ruta": "Bases de Licitación › ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
  },
  {
   "id": "TABLA:RITP.D01.p0211.1",
@@ -2704,6 +3940,12 @@
     "Cunetas Triangular de hormigón,",
     "m",
     "0,68"
+   ],
+   [
+    "609-1.B",
+    "Canaletas de Hormigón en Terrazas de Corte",
+    "m",
+    "0,41"
    ],
    [
     "610-1",
@@ -2778,10 +4020,16 @@
     "2,99"
    ],
    [
+    "613-3",
+    "Construcción de canales, fosos y contrafosos con cotas de fondo preestablecida",
+    "M",
+    "0,22"
+   ],
+   [
     "614-1",
     "Revestimiento de canales, fosos y contrafosos",
     "m²",
-    "0,22"
+    "1,26"
    ],
    [
     "",
@@ -2821,7 +4069,7 @@
    ],
    [
     "703-2.A",
-    "Señalización vertical sobre la calzada, marcos portaletros",
+    "Señalización vertical sobre la calzada, marcos portaletreros",
     "Nº",
     "189,21"
    ],
@@ -2839,13 +4087,13 @@
    ],
    [
     "704-2",
-    "Demarcación del pavimento, línea lateral continua",
+    "Demarcación del pavimento, línea central segmentada",
     "Km",
     "9,51"
    ],
    [
     "704-3",
-    "Demarcación del pavimento, líneas, símbolos y leyendas",
+    "Demarcación del pavimento, línea lateral continua",
     "Km",
     "12,91"
    ],
@@ -2904,12 +4152,6 @@
     "4,50"
    ],
    [
-    "",
-    "",
-    "",
-    ""
-   ],
-   [
     "5.900",
     "CONSERVACION",
     "",
@@ -2919,43 +4161,43 @@
     "902-1",
     "Limpieza de alcantarillas igual o menor que 1.00 m",
     "m",
-    "0,07"
+    "0.07"
    ],
    [
     "902-2",
-    "Limpieza de alcantarillas de altura mayor que 1,00 m",
+    "Limpieza de alcantarillas de altura mayor que 1.00 m",
     "m",
-    "0,14"
+    "0.14"
    ],
    [
     "903-1",
     "Rehabilitación de cauces",
     "m",
-    "0,15"
+    "0.15"
    ],
    [
     "903-2",
     "Rehabilitación de fosos y contrafosos",
     "m",
-    "0,05"
+    "0.05"
    ],
    [
     "905-1",
     "Bacheo superficial pavimento existente",
     "m²",
-    "0,29"
+    "0.29"
    ],
    [
     "905-2",
     "Bacheo profundo pavimento existente",
     "m²",
-    "0,50"
+    "0.50"
    ],
    [
     "906-1",
     "Reposición de losas en pavimentos de hormigón",
     "m²",
-    "1,15"
+    "1.15"
    ]
   ],
   "notas": null,
@@ -2964,7 +4206,7 @@
    211
   ],
   "nodo": "BL:A3",
-  "ruta": "Bases de Licitación › ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
+  "ruta": "Bases de Licitación › ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
  },
  {
   "id": "TABLA:RITP.D01.p0213.1",
@@ -3001,10 +4243,10 @@
     ""
    ],
    [
-    "",
     "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
-    "",
-    ""
+    "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
+    "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
+    "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL"
    ],
    [
     "",
@@ -3031,11 +4273,32 @@
    213
   ],
   "nodo": "BL:A3",
-  "ruta": "Bases de Licitación › ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
+  "ruta": "Bases de Licitación › ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA)"
  },
  {
   "id": "TABLA:RITP.D02.p0017.1",
-  "titulo": "ANEXO N°2: FORMULARIO N°3",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "NOMBRE LICITANTE/GRUPO LICITANTE:",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D02",
+  "paginas": [
+   17
+  ],
+  "nodo": "BL:1.5.5-a1",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.5 DE LAS OFERTAS › artículo 1.5.5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica › aclaración 1"
+ },
+ {
+  "id": "TABLA:RITP.D02.p0017.2",
+  "titulo": null,
   "encabezados": [
    "Nombre Integrante del Licitante/ Grupo Licitante",
    "Participación (Porcentaje) (A)",
@@ -3102,7 +4365,26 @@
     "",
     "",
     ""
-   ],
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D02",
+  "paginas": [
+   17
+  ],
+  "nodo": "BL:1.5.5-a1",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.5 DE LAS OFERTAS › artículo 1.5.5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica › aclaración 1"
+ },
+ {
+  "id": "TABLA:RITP.D02.p0017.3",
+  "titulo": null,
+  "encabezados": [
+   "Nombre Integrante del Licitante/ Grupo Licitante",
+   "Participación (Porcentaje) (A)",
+   "Patrimonio Total Integrante (Millones de pesos) (B)",
+   "Patrimonio Ponderado (Millones de pesos) (C)"
+  ],
+  "filas": [
    [
     "Totales",
     "",
@@ -3110,25 +4392,25 @@
     ""
    ]
   ],
-  "notas": "(A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación.\n(B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación.\n(C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.600.000.000 (patrimonio mínimo).\n(D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo.",
+  "notas": "Notas: (A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación. (B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación. (C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.600.000.000 (patrimonio mínimo). (D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo.",
   "documento": "RITP.D02",
   "paginas": [
    17
   ],
-  "nodo": "RITP.D02.F0043",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.5 DE LAS OFERTAS › artículo 1.5,5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica › Circular aclaratoria N°2 (2001-11-09)"
+  "nodo": "BL:1.5.5-a1",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.5 DE LAS OFERTAS › artículo 1.5.5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica › aclaración 1"
  },
  {
   "id": "TABLA:RITP.D02.p0039.1",
-  "titulo": "Tabla N° 3: Obras de Ingeniería Ruta Interportuaria",
+  "titulo": "A) OBRAS DE INGENIERIA RUTA INTERPORTUARIA",
   "encabezados": [
    "ITEM",
    "DESCRIPCION",
-   "Mes 1",
-   "Mes 2",
-   "Mes ...",
-   "Mes n",
-   "Total"
+   "VALORES (UF) / Mes 1",
+   "VALORES (UF) / Mes 2",
+   "VALORES (UF) / Mes ...",
+   "VALORES (UF) / Mes n",
+   "VALORES (UF) / Total"
   ],
   "filas": [
    [
@@ -3331,7 +4613,7 @@
    ],
    [
     "A.7",
-    "Misceláneos",
+    "Miceláneos",
     "",
     "",
     "",
@@ -3384,7 +4666,7 @@
     ""
    ],
    [
-    "",
+    "SUBTOTAL A (UF)",
     "SUBTOTAL A (UF)",
     "",
     "",
@@ -3393,16 +4675,45 @@
     ""
    ]
   ],
-  "notas": "",
+  "notas": null,
   "documento": "RITP.D02",
   "paginas": [
    39
   ],
-  "nodo": "RITP.D02.F0087",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,3 DEL PROYECTO › artículo 1.3.1 Descripción del Proyecto › Circular aclaratoria N°4 (2001-11-22)"
+  "nodo": "BL:A2",
+  "ruta": "Bases de Licitación › ANEXO Nº2: FORMULARIO Nº6"
  },
  {
   "id": "TABLA:RITP.D03.p0001.1",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "Identificación del Licitante / Grupo Licitante:",
+    "CONSORCIO AUTOPISTA INTERPORTUARIA"
+   ],
+   [
+    "1.- Acepta Distribuir Riesgos entre la Sociedad Concesionaria y el Estado, según lo indicado en el artículo 1.14.6.1 de estas Bases: (Indicar SI o NO)",
+    "SI"
+   ],
+   [
+    "2.- Tasa de Descuento de los Ingresos para el cálculo del VPIm, según lo indicado en el artículo 1.7.6.1 de estas Bases: (indicar Tasa Fija/Tasa Variable)",
+    "Tasa Fija"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D03",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D03.F0004",
+  "ruta": "Bases de Licitación › 3 BASES ECONÓMICAS › 3.1 FACTORES DE LICITACION › artículo 3.1.1 Plazo de la Concesión › Oferta economica N°1"
+ },
+ {
+  "id": "TABLA:RITP.D03.p0001.2",
   "titulo": "COMPOSICIÓN DE LOS FACTORES DE LICITACIÓN (Completar)",
   "encabezados": [
    "Campo",
@@ -3419,19 +4730,649 @@
    ],
    [
     "Plazo de Postergación de la Puesta en Servicio Provisoria de Av. Alessandri ofrecido (ND), expresado en días. (3)",
-    "días"
+    "— días"
    ]
   ],
-  "notas": "(1) “ITC” corresponde al monto de Ingresos Totales de la Concesión que postula obtener el licitante o grupo licitante, de acuerdo a lo indicado en los artículos 1.14.7 y 3.2 de las presentes Bases, el cual deberá ser inferior o igual a UF 290.000 (0 < S ≤ 290.000). Si el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el valor del Subsidio S con valor “0” (S = 0). (2) “ND” corresponde al número de días contados desde la Puesta en Servicio Provisoria de las obras descritas en el artículo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las mismas Bases. Para los efectos del Tramo C de licitación, si el licitante o grupo licitante opta por Sí construir las obras indicadas en el artículo 1.3.2, deberá señalar el número de días ND dentro del rango entre 720 y 1.800 (720 < ND ≤ 1.800). Para este mismo tramo, si el licitante o grupo licitante opta por NO ejecutar las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el número ND con el valor 5.000 (ND = 5.000).",
+  "notas": "Notas: (1) \"ITC\" corresponde al monto de Ingresos Totales de la Concesión que postula obtener el licitante o grupo licitante, de acuerdo a lo indicado en los artículos 3.1.1 y 3.2.1 de las presentes Bases. (2) \"S\" corresponde al monto de Subsidio solicitado al Estado, de acuerdo a lo indicado en los artículos 1.14.7 y 3.2 de las presentes Bases, el cual deberá ser inferior o igual a UF 290.000 (0 < S ≤ 290.000). Si el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el valor del Subsidio S con valor \"0\" (S = 0). (3) \"ND\" corresponde al número de días contados desde la Puesta en Servicio Provisoria de las obras descritas en el artículo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las mismas Bases. Para los efectos del Tramo C de licitación, si el licitante o grupo licitante opta por SÍ construir las obras indicadas en el artículo 1.3.2, deberá señalar el número de días ND dentro del rango entre 720 y 1.800 (720 < ND ≤ 1.800). Para este mismo tramo, si el licitante o grupo licitante opta por NO ejecutar las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el número ND con el valor 5.000 (ND = 5.000).",
   "documento": "RITP.D03",
   "paginas": [
    1
   ],
-  "nodo": "RITP.D03.F0005",
-  "ruta": "Bases de Licitación › 3 BASES ECONÓMICAS › 3.1 FACTORES DE LICITACION › artículo 3.1.1 Plazo de la Concesión › Oferta economica"
+  "nodo": "RITP.D03.F0004",
+  "ruta": "Bases de Licitación › 3 BASES ECONÓMICAS › 3.1 FACTORES DE LICITACION › artículo 3.1.1 Plazo de la Concesión › Oferta economica N°1"
+ },
+ {
+  "id": "TABLA:RITP.D04.p0001.1",
+  "titulo": null,
+  "encabezados": [
+   "CONTRALORIA GENERAL TOMA DE RAZON / RECEPCION",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPT. T. R. Y REGISTRO",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEPTO. C.P.Y BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V.O.P., U y T.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEPTO. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D04",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D04.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Decreto adjudicacion N°112 (2002-01-31)"
+ },
+ {
+  "id": "TABLA:RITP.D04.p0001.2",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "REF. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "ANOT. POR",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "DEDUC. DTO.",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D04",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D04.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Decreto adjudicacion N°112 (2002-01-31)"
+ },
+ {
+  "id": "TABLA:RITP.D04.p0003.1",
+  "titulo": null,
+  "encabezados": [
+   "OBRAS A REALIZAR",
+   "CLÁUSULAS DE LAS BASES DE LICITACIÓN"
+  ],
+  "filas": [
+   [
+    "A) Obras Ruta Interportuaria",
+    "A) Obras Ruta Interportuaria"
+   ],
+   [
+    "A.1 Obras Nuevas",
+    "2.2.1"
+   ],
+   [
+    "1. Calzadas Nuevas",
+    "2.2.1.1"
+   ],
+   [
+    "2. Puentes y Estructuras a Desnivel",
+    "2.2.1.2"
+   ],
+   [
+    "3. Defensas Fluviales",
+    "2.2.1.3"
+   ],
+   [
+    "4. Obras Complementarias en Intersecciones a Desnivel existentes",
+    "2.2.1.4"
+   ],
+   [
+    "5. Pasos Interprediales",
+    "2.2.1.5"
+   ],
+   [
+    "6. Cierros Perimetrales",
+    "2.2.1.6"
+   ],
+   [
+    "7. Servicios Especiales Obligatorios",
+    "2.2.1.7"
+   ],
+   [
+    "A.2 Mejoramiento de Infraestructura y Superestructura Preexistente",
+    "2.2.2"
+   ],
+   [
+    "1. Obras de Mejoramiento de Intersecciones y Calzadas existentes",
+    "2.2.2.1"
+   ],
+   [
+    "2. Mantenimiento de Puentes y Estructuras",
+    "2.2.2.2"
+   ],
+   [
+    "3. Mantenimiento General del Sistema de Drenaje y Saneamiento",
+    "2.2.2.3"
+   ],
+   [
+    "4. Mantenimiento de Obras Preexistentes",
+    "2.2.2.4"
+   ],
+   [
+    "5. Accesos Privados Provisorios",
+    "2.2.2.5"
+   ],
+   [
+    "A.3 Obras de Seguridad, Señalización y Demarcación",
+    "2.2.3"
+   ],
+   [
+    "1. Señalización y Demarcación",
+    "2.2.3.1"
+   ],
+   [
+    "2. Defensas Camineras",
+    "2.2.3.2"
+   ],
+   [
+    "3. Iluminación",
+    "2.2.3.3"
+   ],
+   [
+    "4. Obras de Semaforización",
+    "2.2.3.4"
+   ],
+   [
+    "B) Obras de Prolongación Camino Carriel Sur (Av. Alessandri)",
+    "2.2.4"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D04",
+  "paginas": [
+   3
+  ],
+  "nodo": "RITP.D04.F0011",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.9 DE LA CONSTRUCCION › artículo 1.9.1 Etapa de Ingeniería › artículo 1.9.1.2 De los Proyectos de Ingeniería de Detalle Ejecutados por el Concesionario › Decreto adjudicacion N°112 (2002-01-31)"
+ },
+ {
+  "id": "TABLA:RITP.D04.p0004.1",
+  "titulo": "Factor Tarifas Máximas para cada Tipo de Vehículo.",
+  "encabezados": [
+   "Tipo",
+   "Clase de Vehículo",
+   "Factor (F)"
+  ],
+  "filas": [
+   [
+    "Tipo 1",
+    "Motos y Motonetas",
+    "0,3"
+   ],
+   [
+    "Tipo 2",
+    "Autos y Camionetas",
+    "1,0"
+   ],
+   [
+    "Tipo 3",
+    "Autos y Camionetas con Remolque",
+    "1,0"
+   ],
+   [
+    "Tipo 4",
+    "Buses de 2 Ejes",
+    "1,8"
+   ],
+   [
+    "Tipo 5",
+    "Camiones de 2 Ejes",
+    "1,8"
+   ],
+   [
+    "Tipo 6",
+    "Buses de más de 2 Ejes",
+    "3,2"
+   ],
+   [
+    "Tipo 7",
+    "Camiones de más de 2 Ejes",
+    "3,2"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D04",
+  "paginas": [
+   4
+  ],
+  "nodo": "RITP.D04.F0011",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.9 DE LA CONSTRUCCION › artículo 1.9.1 Etapa de Ingeniería › artículo 1.9.1.2 De los Proyectos de Ingeniería de Detalle Ejecutados por el Concesionario › Decreto adjudicacion N°112 (2002-01-31)"
+ },
+ {
+  "id": "TABLA:RITP.D04.p0006.1",
+  "titulo": "Banda Superior de Ingresos (en UF)",
+  "encabezados": [
+   "Año Calendario Explotación",
+   "Con Av. Alessandri",
+   "Sin Av. Alessandri"
+  ],
+  "filas": [
+   [
+    "1",
+    "69.955",
+    "39.389"
+   ],
+   [
+    "2",
+    "75.093",
+    "43.170"
+   ],
+   [
+    "3",
+    "80.624",
+    "47.333"
+   ],
+   [
+    "4",
+    "86.580",
+    "51.917"
+   ],
+   [
+    "5",
+    "92.990",
+    "56.963"
+   ],
+   [
+    "6",
+    "99.894",
+    "62.518"
+   ],
+   [
+    "7",
+    "107.326",
+    "68.633"
+   ],
+   [
+    "8",
+    "115.066",
+    "74.924"
+   ],
+   [
+    "9",
+    "123.381",
+    "81.813"
+   ],
+   [
+    "10",
+    "132.312",
+    "89.356"
+   ],
+   [
+    "11",
+    "141.908",
+    "97.616"
+   ],
+   [
+    "12",
+    "153.262",
+    "105.383"
+   ],
+   [
+    "13",
+    "165.542",
+    "113.782"
+   ],
+   [
+    "14",
+    "178.822",
+    "122.865"
+   ],
+   [
+    "15",
+    "193.182",
+    "132.687"
+   ],
+   [
+    "16",
+    "208.712",
+    "143.309"
+   ],
+   [
+    "17",
+    "225.507",
+    "154.797"
+   ],
+   [
+    "18",
+    "243.668",
+    "167.219"
+   ],
+   [
+    "19",
+    "263.309",
+    "180.653"
+   ],
+   [
+    "20",
+    "284.548",
+    "195.181"
+   ],
+   [
+    "1",
+    "16.776",
+    "13.244"
+   ],
+   [
+    "2",
+    "18.008",
+    "14.217"
+   ],
+   [
+    "3",
+    "19.335",
+    "15.264"
+   ],
+   [
+    "4",
+    "20.763",
+    "16.392"
+   ],
+   [
+    "5",
+    "22.301",
+    "17.606"
+   ],
+   [
+    "6",
+    "23.956",
+    "18.912"
+   ],
+   [
+    "7",
+    "25.738",
+    "20.320"
+   ],
+   [
+    "8",
+    "27.595",
+    "21.785"
+   ],
+   [
+    "9",
+    "29.588",
+    "23.359"
+   ],
+   [
+    "10",
+    "31.730",
+    "25.050"
+   ],
+   [
+    "11",
+    "34.031",
+    "26.867"
+   ],
+   [
+    "12",
+    "36.754",
+    "29.016"
+   ],
+   [
+    "13",
+    "39.699",
+    "31.341"
+   ],
+   [
+    "14",
+    "42.884",
+    "33.855"
+   ],
+   [
+    "15",
+    "46.327",
+    "36.574"
+   ],
+   [
+    "16",
+    "50.052",
+    "39.514"
+   ],
+   [
+    "17",
+    "54.079",
+    "42.694"
+   ],
+   [
+    "18",
+    "58.435",
+    "46.133"
+   ],
+   [
+    "19",
+    "63.145",
+    "49.851"
+   ],
+   [
+    "20",
+    "68.239",
+    "53.872"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D04",
+  "paginas": [
+   6,
+   7,
+   8
+  ],
+  "nodo": "RITP.D04.F0017",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO › artículo 1.8.11 Seguros de Responsabilidad Civil por Daños a Terceros › Decreto adjudicacion N°112 (2002-01-31)"
  },
  {
   "id": "TABLA:RITP.D05.p0003.1",
+  "titulo": null,
+  "encabezados": [
+   "Obras a Realizar",
+   "Cláusulas de las Bases de Licitación"
+  ],
+  "filas": [
+   [
+    "A) Obras Ruta Interportuaria",
+    ""
+   ],
+   [
+    "A.1 Obras Nuevas",
+    "2.2.1"
+   ],
+   [
+    "1. Calzadas Nuevas",
+    "2.2.1.1"
+   ],
+   [
+    "2. Puentes y Estructuras a Desnivel",
+    "2.2.1.2"
+   ],
+   [
+    "3. Defensas Fluviales",
+    "2.2.1.3"
+   ],
+   [
+    "4. Obras Complementarias en Intersecciones a Desnivel existentes",
+    "2.2.1.4"
+   ],
+   [
+    "5. Pasos Interprediales",
+    "2.2.1.5"
+   ],
+   [
+    "6. Cierros Perimetrales",
+    "2.2.1.6"
+   ],
+   [
+    "7. Servicios Especiales Obligatorios",
+    "2.2.1.7"
+   ],
+   [
+    "A.2 Mejoramiento de Infraestructura y Superestructura Preexistente",
+    "2.2.2."
+   ],
+   [
+    "1. Obras de Mejoramiento de Intersecciones y Calzadas existentes",
+    "2.2.2.1"
+   ],
+   [
+    "2. Mantenimiento de Puentes y Estructuras",
+    "2.2.2.2"
+   ],
+   [
+    "3. Mantenimiento General del Sistema de Drenaje y Saneamiento",
+    "2.2.2.3"
+   ],
+   [
+    "4. Mantenimiento de Obras Preexistentes",
+    "2.2.2.4"
+   ],
+   [
+    "5. Accesos Privados Provisorios",
+    "2.2.2.5"
+   ],
+   [
+    "A.3 Obras de Seguridad, Señalización y Demarcación",
+    "2.2.3"
+   ],
+   [
+    "1. Señalización y Demarcación",
+    "2.2.3.1"
+   ],
+   [
+    "2. Defensas Camineras",
+    "2.2.3.2"
+   ],
+   [
+    "3. Iluminación",
+    "2.2.3.3."
+   ],
+   [
+    "4. Obras de Semaforización",
+    "2.2.3.4"
+   ],
+   [
+    "B) Obras de Prolongación Camino Carriel Sur (Av. Alessandri)",
+    "2.2.4"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D05",
+  "paginas": [
+   3
+  ],
+  "nodo": "RITP.D05.F0026",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.9 DE LA CONSTRUCCION › artículo 1.9.1 Etapa de Ingeniería › artículo 1.9.1.2 De los Proyectos de Ingeniería de Detalle Ejecutados por el Concesionario › Publicacion diario oficial N°37.240 (2002)"
+ },
+ {
+  "id": "TABLA:RITP.D05.p0003.2",
   "titulo": "Factor Tarifas Máximas para cada Tipo de Vehículo",
   "encabezados": [
    "Tipo",
@@ -3480,109 +5421,8 @@
   "paginas": [
    3
   ],
-  "nodo": "RITP.D05.F0015",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.9 DE LA CONSTRUCCION › artículo 1.9.1 Etapa de Ingeniería › artículo 1.9.1.1 Dela Ingeniería de la Obra › Publicacion diario oficial N°37.240 (2002)"
- },
- {
-  "id": "TABLA:RITP.D05.p0003.2",
-  "titulo": null,
-  "encabezados": [
-   "Obras a Realizar",
-   "Cláusulas de las Bases de Licitación"
-  ],
-  "filas": [
-   [
-    "A) Obras Ruta Interportuaria",
-    ""
-   ],
-   [
-    "A.1 Obras Nuevas",
-    ""
-   ],
-   [
-    "1. Calzadas Nuevas",
-    "2.2.1"
-   ],
-   [
-    "2. Puentes y Estructuras a Desnivel",
-    "2.2.1.2"
-   ],
-   [
-    "3. Defensas Fluviales",
-    "2.2.1.3"
-   ],
-   [
-    "4. Obras Complementarias en Intersecciones a Desnivel existentes",
-    "2.2.1.4"
-   ],
-   [
-    "5. Pasos Interpediales",
-    "2.2.1.5"
-   ],
-   [
-    "6. Cierros Perimetrales",
-    "2.2.1.6"
-   ],
-   [
-    "7. Servicios Especiales Obligatorios",
-    "2.2.1.7"
-   ],
-   [
-    "A.2 Mejoramiento de Infraestructura y Superestructura Preexistente",
-    ""
-   ],
-   [
-    "1. Obras de Mejoramiento de Intersecciones y Calzadas existentes",
-    "2.2.2.1"
-   ],
-   [
-    "2. Mantenimiento de Puentes y Estructuras",
-    "2.2.2.2"
-   ],
-   [
-    "3. Mantenimiento General del Sistema de Drenaje y Saneamiento",
-    "2.2.2.3"
-   ],
-   [
-    "4. Mantenimiento de Obras Preexistentes",
-    "2.2.2.4"
-   ],
-   [
-    "5. Accesos Privados Provisorios",
-    "2.2.2.5"
-   ],
-   [
-    "A.3 Obras de Seguridad, Señalización y Demarcación",
-    ""
-   ],
-   [
-    "1. Señalización y Demarcación",
-    "2.2.3"
-   ],
-   [
-    "2. Defensas Camineras",
-    "2.2.3.2"
-   ],
-   [
-    "3. Iluminación",
-    "2.2.3.3."
-   ],
-   [
-    "4. Obras de Semaforización",
-    "2.2.3.4"
-   ],
-   [
-    "B) Obras de Prolongación Camino Carriel Sur (Av. Alessandri)",
-    "2.2.4"
-   ]
-  ],
-  "notas": null,
-  "documento": "RITP.D05",
-  "paginas": [
-   3
-  ],
-  "nodo": "RITP.D05.F0015",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.9 DE LA CONSTRUCCION › artículo 1.9.1 Etapa de Ingeniería › artículo 1.9.1.1 Dela Ingeniería de la Obra › Publicacion diario oficial N°37.240 (2002)"
+  "nodo": "RITP.D05.F0026",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.9 DE LA CONSTRUCCION › artículo 1.9.1 Etapa de Ingeniería › artículo 1.9.1.2 De los Proyectos de Ingeniería de Detalle Ejecutados por el Concesionario › Publicacion diario oficial N°37.240 (2002)"
  },
  {
   "id": "TABLA:RITP.D05.p0004.1",
@@ -3699,8 +5539,8 @@
   "paginas": [
    4
   ],
-  "nodo": "RITP.D05.F0020",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,3 DEL PROYECTO › artículo 1.3.1 Descripción del Proyecto › Publicacion diario oficial N°37.240 (2002)"
+  "nodo": "RITP.D05.F0028",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO › artículo 1.8.11 Seguros de Responsabilidad Civil por Daños a Terceros › Publicacion diario oficial N°37.240 (2002)"
  },
  {
   "id": "TABLA:RITP.D05.p0004.2",
@@ -3768,43 +5608,43 @@
    ],
    [
     "12",
-    "36.699",
-    "31.341"
+    "36.754",
+    "29.016"
    ],
    [
     "13",
-    "39.884",
-    "33.855"
+    "39.699",
+    "31.341"
    ],
    [
     "14",
-    "42.327",
-    "36.574"
+    "42.884",
+    "33.855"
    ],
    [
     "15",
-    "46.052",
-    "39.514"
+    "46.327",
+    "36.574"
    ],
    [
     "16",
-    "49.435",
-    "42.694"
+    "50.052",
+    "39.514"
    ],
    [
     "17",
     "54.079",
-    "46.133"
+    "42.694"
    ],
    [
     "18",
     "58.435",
-    "49.851"
+    "46.133"
    ],
    [
     "19",
     "63.145",
-    "53.872"
+    "49.851"
    ],
    [
     "20",
@@ -3817,46 +5657,507 @@
   "paginas": [
    4
   ],
-  "nodo": "RITP.D05.F0020",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,3 DEL PROYECTO › artículo 1.3.1 Descripción del Proyecto › Publicacion diario oficial N°37.240 (2002)"
+  "nodo": "RITP.D05.F0028",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO › artículo 1.8.11 Seguros de Responsabilidad Civil por Daños a Terceros › Publicacion diario oficial N°37.240 (2002)"
  },
  {
-  "id": "TABLA:RITP.D05.p0004.3",
-  "titulo": "Derechos del Concesionario",
+  "id": "TABLA:RITP.D06.p0001.1",
+  "titulo": null,
+  "encabezados": [
+   "MINISTERIO DE HACIENDA"
+  ],
+  "filas": [
+   [
+    "OFICINA DE PARTES"
+   ],
+   [
+    "RECIBIDO"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D06",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D06.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°1570 (2005-05-27)"
+ },
+ {
+  "id": "TABLA:RITP.D06.p0001.2",
+  "titulo": null,
   "encabezados": [
    "",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "CONTRALORIA GENERAL",
+    "",
+    ""
+   ],
+   [
+    "TOMA DE RAZON",
+    "",
+    ""
+   ],
+   [
+    "RECEPCION",
+    "",
+    ""
+   ],
+   [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   [
+    "DEP. T. R. Y REGISTRO",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. P. Y BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V. O. P., U y T.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "REFRENDACION",
+    "",
+    ""
+   ],
+   [
+    "REF. POR $",
+    "",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "ANOT. POR $",
+    "",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    "",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D06",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D06.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°1570 (2005-05-27)"
+ },
+ {
+  "id": "TABLA:RITP.D06.p0001.3",
+  "titulo": null,
+  "encabezados": [
    "Campo",
    "Valor"
   ],
   "filas": [
    [
-    "a)",
-    "Explotar las obras a contar de la autorización de Puesta en Servicio Provisoria de las obras señaladas en el artículo 1.3.1 de las Bases de Licitación, hasta el término de la concesión, todo ello de conformidad a lo señalado en el artículo 1.10 de las Bases de Licitación.",
+    "PROCESO OF. DE PARTES DGOP",
+    "Nº 259218."
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D06",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D06.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°1570 (2005-05-27)"
+ },
+ {
+  "id": "TABLA:RITP.D06.p0001.4",
+  "titulo": null,
+  "encabezados": [
+   "RECIBIDO SECRETARIA"
+  ],
+  "filas": [
+   [
+    "30 MAYO 2005"
+   ],
+   [
+    "COORD. ADM. CONTRATOS"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D06",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D06.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°1570 (2005-05-27)"
+ },
+ {
+  "id": "TABLA:RITP.D06.p0001.5",
+  "titulo": null,
+  "encabezados": [
+   "Coordinación General de Concesiones OFICINA DE PARTES"
+  ],
+  "filas": [
+   [
+    "27 MAY 2005"
+   ],
+   [
+    "Nº 13650"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D06",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D06.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°1570 (2005-05-27)"
+ },
+ {
+  "id": "TABLA:RITP.D07.p0001.1",
+  "titulo": null,
+  "encabezados": [
+   "MINISTERIO DE HACIENDA"
+  ],
+  "filas": [
+   [
+    "OFICINA DE PARTES"
+   ],
+   [
+    "RECIBIDO"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D07",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D07.F0001",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°4067 (2005-12-26)"
+ },
+ {
+  "id": "TABLA:RITP.D07.p0001.2",
+  "titulo": "CONTRALORIA GENERAL TOMA DE RAZON",
+  "encabezados": [
+   "RECEPCION",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEPART. JURIDICO",
+    "",
     ""
    ],
    [
-    "b)",
-    "Cobrar las tarifas a todos los usuarios de la concesión de acuerdo a lo establecido en los artículos 1.15, 1.16 y 1.17 de las Bases de Licitación. El sistema de cobro podrá ser objeto de revisión a solicitud del Concesionario de conformidad con lo previsto en el artículo 1.15.3 de las Bases de Licitación.",
+    "",
+    "",
     ""
    ],
    [
-    "c)",
-    "Explotar los servicios complementarios indicados en el artículo 1.10.10.2 de las Bases de Licitación, de acuerdo al procedimiento y condiciones establecidas en dicho artículo.",
+    "DEP. T. R. Y REGISTRO",
+    "",
     ""
    ],
    [
-    "d)",
-    "Percibir un Ingreso Mínimo Garantizado ofrecido por el Estado, cuando procediere, de acuerdo a lo establecido en el artículo 1.14.6.1.1 de las Bases de Licitación y en la Oferta Económica del Licitante Adjudicatario, cuyo monto para cada año de explotación de la concesión se indica en el siguiente cuadro:",
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. P. Y BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V. O. P., U Y T.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
     ""
    ]
   ],
   "notas": null,
-  "documento": "RITP.D05",
+  "documento": "RITP.D07",
   "paginas": [
-   4
+   1
   ],
-  "nodo": "RITP.D05.F0020",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,3 DEL PROYECTO › artículo 1.3.1 Descripción del Proyecto › Publicacion diario oficial N°37.240 (2002)"
+  "nodo": "RITP.D07.F0001",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°4067 (2005-12-26)"
+ },
+ {
+  "id": "TABLA:RITP.D07.p0001.3",
+  "titulo": "REFRENDACION",
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "REF. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "ANOT. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D07",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D07.F0001",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Puesta en servicio N°4067 (2005-12-26)"
+ },
+ {
+  "id": "TABLA:RITP.D09.p0001.1",
+  "titulo": "CONTRALORIA GENERAL TOMA DE RAZON",
+  "encabezados": [
+   "RECEPCION",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   [
+    "DEP. T. R. Y REGISTRO",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. C. P. Y BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V. O. P., U y T.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D09",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D09.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°1569 (2005-05-26)"
+ },
+ {
+  "id": "TABLA:RITP.D09.p0001.2",
+  "titulo": "REFRENDACION",
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "REF. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "ANOT. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D09",
+  "paginas": [
+   1
+  ],
+  "nodo": "RITP.D09.F0002",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Resolucion N°1569 (2005-05-26)"
  },
  {
   "id": "TABLA:RITP.D10.p0015.1",
@@ -3903,8 +6204,12 @@
     "UF 26.973"
    ],
    [
-    "TOTAL NETO (Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades de Fomento).",
+    "TOTAL NETO",
     "UF 289.798"
+   ],
+   [
+    "(Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades de Fomento).",
+    ""
    ]
   ],
   "notas": null,
@@ -3912,8 +6217,8 @@
   "paginas": [
    15
   ],
-  "nodo": "RITP.D10.F0023",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.142 Consideración de Nuevas Inversiones › artículo 1.14,2.3 Normas para la Ejecución de las Obras › artículo 1.14.2.3.3 Indemnización o Compensación a la Sociedad Concesionaria › Convenio complementario N°1 (2005-05-16)"
+  "nodo": "RITP.D10.F0033",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.2 Consideración de Nuevas Inversiones › artículo 1.14.2.3 Normas para la Ejecución de las Obras › artículo 1.14.2.3.3 Indemnización o Compensación a la Sociedad Concesionaria › Convenio complementario N°1 (2005-05-16)"
  },
  {
   "id": "TABLA:RITP.D10.p0016.1",
@@ -3950,30 +6255,67 @@
   "paginas": [
    16
   ],
-  "nodo": "RITP.D10.F0023",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.142 Consideración de Nuevas Inversiones › artículo 1.14,2.3 Normas para la Ejecución de las Obras › artículo 1.14.2.3.3 Indemnización o Compensación a la Sociedad Concesionaria › Convenio complementario N°1 (2005-05-16)"
+  "nodo": "RITP.D10.F0033",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.2 Consideración de Nuevas Inversiones › artículo 1.14.2.3 Normas para la Ejecución de las Obras › artículo 1.14.2.3.3 Indemnización o Compensación a la Sociedad Concesionaria › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
+  "id": "TABLA:RITP.D10.p0020.1",
+  "titulo": "Tabla 2: Compensación por conceptos del numeral 2.15",
+  "encabezados": [
+   "Fecha de Pago",
+   "Monto Total A Pagar [UF]"
+  ],
+  "filas": [
+   [
+    "Pago 1: 31/03/2005",
+    "128.000"
+   ],
+   [
+    "Pago 2: 31/03/2006",
+    "102.000"
+   ],
+   [
+    "Pago 3: 31/03/2007",
+    "88.000"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   20
+  ],
+  "nodo": "RITP.D10.F0039",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
  },
  {
   "id": "TABLA:RITP.D10.p0029.1",
-  "titulo": "RESUMEN DE PRESUPUESTO - CONVENIO COMPLEMENTARIO N° 1",
+  "titulo": "RESUMEN DE PRESUPUESTO - CONVENIO COMPLEMENTARIO Nº 1",
   "encabezados": [
-   "ITEM",
-   "DESIGNACION",
-   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
+   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 / ITEM",
+   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 / DESIGNACION",
    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
    "CONEXIÓN AV. ALESSANDRI",
    "PASO INTERPREDIAL KM 6,787",
-   "PASO INTERPREDIAL N° 2 KM 8,000",
-   "PASO INTERPREDIAL 2,580 RAMAL AV. ALESSANDRI",
+   "PASO INTERPREDIAL KM 8,000",
+   "PASO INTERPREDIAL Nº 2 KM 2,580 RAMAL AV. ALESSANDRI",
    "TOTALES (UF)"
   ],
   "filas": [
+   [
+    "",
+    "OBRAS",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
    [
     "1",
     "OBRAS EJECUTADAS",
     "0",
     "3.176",
-    "0",
     "0",
     "0",
     "0",
@@ -3987,7 +6329,6 @@
     "14.808",
     "10.446",
     "2.920",
-    "109.824",
     "109.824"
    ],
    [
@@ -3998,7 +6339,6 @@
     "8.858",
     "11.192",
     "1.295",
-    "81.940",
     "81.940"
    ],
    [
@@ -4009,7 +6349,6 @@
     "908",
     "0",
     "0",
-    "908",
     "908"
    ],
    [
@@ -4020,7 +6359,6 @@
     "0",
     "0",
     "0",
-    "8.073",
     "8.073"
    ],
    [
@@ -4031,7 +6369,6 @@
     "0",
     "0",
     "0",
-    "3.500",
     "3.500"
    ],
    [
@@ -4042,7 +6379,6 @@
     "1.000",
     "1.000",
     "0",
-    "4.400",
     "4.400"
    ],
    [
@@ -4053,7 +6389,6 @@
     "0",
     "0",
     "0",
-    "1.717",
     "1.717"
    ],
    [
@@ -4064,8 +6399,17 @@
     "0",
     "0",
     "0",
-    "8.355",
     "8.355"
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10",
@@ -4075,7 +6419,6 @@
     "0",
     "0",
     "0",
-    "18.318",
     "18.318"
    ],
    [
@@ -4086,7 +6429,6 @@
     "25.574",
     "22.638",
     "4.215",
-    "240.211",
     "240.211"
    ],
    [
@@ -4097,7 +6439,6 @@
     "0",
     "0",
     "0",
-    "-26.973",
     "-26.973"
    ],
    [
@@ -4108,13 +6449,11 @@
     "0",
     "0",
     "0",
-    "-26.973",
     "-26.973"
    ],
    [
     "",
     "OTROS GASTOS E INVERSIONES",
-    "",
     "",
     "",
     "",
@@ -4130,7 +6469,6 @@
     "912",
     "645",
     "138",
-    "8.642",
     "8.642"
    ],
    [
@@ -4141,7 +6479,6 @@
     "652",
     "577",
     "160",
-    "6.513",
     "6.513"
    ],
    [
@@ -4152,7 +6489,6 @@
     "2.232",
     "1.973",
     "548",
-    "22.287",
     "22.287"
    ],
    [
@@ -4163,7 +6499,6 @@
     "1.837",
     "1.500",
     "751",
-    "18.980",
     "18.980"
    ],
    [
@@ -4174,7 +6509,6 @@
     "1.456",
     "1.214",
     "0",
-    "12.138",
     "12.138"
    ],
    [
@@ -4185,19 +6519,27 @@
     "7.089",
     "5.909",
     "1.597",
-    "68.560",
     "68.560"
    ],
    [
     "",
-    "SUB TOTAL GASTOS DE FINANCIAMIENTO",
+    "SUB TOTAL",
     "173.413",
     "41.363",
     "32.663",
     "28.547",
     "5.812",
-    "281.798",
     "281.798"
+   ],
+   [
+    "",
+    "GASTOS DE FINANCIAMIENTO",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "8.000"
    ],
    [
     "",
@@ -4207,28 +6549,28 @@
     "",
     "",
     "",
-    "",
     "289.798"
    ]
   ],
-  "notas": "",
+  "notas": null,
   "documento": "RITP.D10",
   "paginas": [
    29
   ],
-  "nodo": "RITP.D10.F0032",
+  "nodo": "RITP.D10.F0044",
   "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
  },
  {
   "id": "TABLA:RITP.D10.p0030.1",
-  "titulo": "ANEXO N° 1",
+  "titulo": null,
   "encabezados": [
-   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
+   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO Nº 1",
+   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO Nº 1",
    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
    "CONEXIÓN AV. ALESSANDRI",
    "PASO INTERPREDIAL KM 6,787",
    "PASO INTERPREDIAL KM 8,000",
-   "PASO INTERPREDIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI",
+   "PASO INTERPREDIAL Nº 2 KM 2,580 RAMAL AV. ALESSANDRI",
    "TOTALES (UF)"
   ],
   "filas": [
@@ -4237,6 +6579,7 @@
     "OBRAS EJECUTADAS",
     "0",
     "3.176",
+    "0",
     "0",
     "0",
     "3.176"
@@ -4248,6 +6591,7 @@
     "23.605",
     "14.808",
     "10.446",
+    "2.920",
     "109.824"
    ],
    [
@@ -4257,6 +6601,7 @@
     "0",
     "8.858",
     "11.192",
+    "1.295",
     "81.940"
    ],
    [
@@ -4266,6 +6611,7 @@
     "0",
     "908",
     "0",
+    "0",
     "908"
    ],
    [
@@ -4273,6 +6619,7 @@
     "ILUMINACION Y SEMAFORIZACION",
     "4.953",
     "3.120",
+    "0",
     "0",
     "0",
     "8.073"
@@ -4284,6 +6631,7 @@
     "500",
     "0",
     "0",
+    "0",
     "3.500"
    ],
    [
@@ -4293,12 +6641,14 @@
     "1.800",
     "1.000",
     "1.000",
+    "0",
     "4.400"
    ],
    [
     "8",
     "MOVILIZACION DE EQUIPOS",
     "1.717",
+    "0",
     "0",
     "0",
     "0",
@@ -4311,6 +6661,7 @@
     "595",
     "0",
     "0",
+    "0",
     "8.355"
    ],
    [
@@ -4320,316 +6671,2304 @@
     "4.826",
     "0",
     "0",
+    "0",
     "18.318"
    ],
    [
-    "",
+    "TOTAL CONSTRUCCION",
     "TOTAL CONSTRUCCION",
     "150.162",
     "37.622",
     "25.574",
     "22.638",
+    "4.215",
     "240.211"
    ]
   ],
-  "notas": "CARLOS DIAZ VARGAS INSPECTOR FISCAL",
+  "notas": null,
   "documento": "RITP.D10",
   "paginas": [
    30
   ],
-  "nodo": "RITP.D10.F0033",
-  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
- },
- {
-  "id": "TABLA:RITP.D10.p0031.1",
-  "titulo": "ANEXO N° 1",
-  "encabezados": [
-   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
-   "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
-   "CONEXIÓN AV. ALESSANDRI",
-   "PASO INTERPREIAL KM 6,787",
-   "PASO INTERPREIAL KM 8,000",
-   "PASO INTERPREIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI",
-   "TOTALES (UF)"
-  ],
-  "filas": [
-   [
-    "1",
-    "13.995",
-    "3.539",
-    "2.232",
-    "1.973",
-    "548",
-    "22.287"
-   ],
-   [
-    "TOTAL",
-    "13.995",
-    "3.539",
-    "2.232",
-    "1.973",
-    "548",
-    "22.287"
-   ]
-  ],
-  "notas": "b) CONSERVACION Y MANTENIMIENTO",
-  "documento": "RITP.D10",
-  "paginas": [
-   31
-  ],
-  "nodo": "RITP.D10.F0034",
-  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
- },
- {
-  "id": "TABLA:RITP.D10.p0034.1",
-  "titulo": "e) MAYORES GASTOS GENERALES",
-  "encabezados": [
-   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
-   "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
-   "CONEXIÓN AV. ALESSANDRI",
-   "PASO INTERPREIAL KM 6,787",
-   "PASO INTERPREIAL KM 8,000",
-   "PASO INTERPREIAL N° 2 KM 2,580 RAÍMAL AV. ALESSANDRI",
-   "TOTALES (UF)"
-  ],
-  "filas": [
-   [
-    "1",
-    "11.092",
-    "3.800",
-    "1.837",
-    "1.500",
-    "751",
-    "18.980"
-   ],
-   [
-    "TOTAL",
-    "11.092",
-    "3.800",
-    "1.837",
-    "1.500",
-    "751",
-    "18.980"
-   ]
-  ],
-  "notas": null,
-  "documento": "RITP.D10",
-  "paginas": [
-   34
-  ],
-  "nodo": "RITP.D10.F0037",
-  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
- },
- {
-  "id": "TABLA:RITP.D10.p0035.1",
-  "titulo": "f) GASTOS ADICIONALES DE ADMINISTRACION Y CONTROL",
-  "encabezados": [
-   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
-   "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
-   "CONEXIÓN AV. ALESSANDRI",
-   "PASO INTERPREIAL KM 6,787",
-   "PASO INTERPREIAL KM 8,000",
-   "PASO INTERPREIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI",
-   "TOTALES (UF)"
-  ],
-  "filas": [
-   [
-    "1",
-    "7.647",
-    "1.821",
-    "1.456",
-    "1.214",
-    "0",
-    "12.138"
-   ],
-   [
-    "TOTAL",
-    "7.647",
-    "1.821",
-    "1.456",
-    "1.214",
-    "0",
-    "12.138"
-   ]
-  ],
-  "notas": null,
-  "documento": "RITP.D10",
-  "paginas": [
-   35
-  ],
-  "nodo": "RITP.D10.F0038",
-  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
- },
- {
-  "id": "TABLA:RITP.D10.p0037.1",
-  "titulo": "ANEXO N° 1",
-  "encabezados": [
-   "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
-   "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
-   "CONEXIÓN AV. ALESSANDRI",
-   "PASO INTERPREIAL KM 6,787",
-   "PASO INTERPREIAL KM 8,000",
-   "PASO INTERPREIAL N° 2 KM 2,580 RAMAL AV. ALESSANDRI",
-   "TOTALES (UF)"
-  ],
-  "filas": [
-   [
-    "1",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "8.000"
-   ],
-   [
-    "TOTAL",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "8.000"
-   ]
-  ],
-  "notas": null,
-  "documento": "RITP.D10",
-  "paginas": [
-   37
-  ],
-  "nodo": "RITP.D10.F0040",
+  "nodo": "RITP.D10.F0045",
   "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
  },
  {
   "id": "TABLA:RITP.D10.p0045.1",
-  "titulo": "ANEXO N° 3",
+  "titulo": null,
   "encabezados": [
    "OBRA",
-   "ENTREGADO",
+   "ENTREGADO / DOCUMENTO",
+   "ENTREGADO / FECHA",
    "ENTREGA",
    "OBSERVACIONES"
   ],
   "filas": [
    [
-    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
-    "",
-    "",
-    ""
-   ],
-   [
-    "",
-    "DOCUMENTO",
-    "FECHA",
-    ""
-   ],
-   [
-    "LOTE 10",
-    "L.O. Nº 14 FOLIO Nº 16",
+    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 10",
+    "L.O. N° 14 FOLIO N° 16",
+    "15-10-2004",
     "15-10-2004",
     "FISCO DE CHILE"
    ],
    [
-    "LOTE 10 - 1",
-    "L.O. Nº 14 FOLIO Nº 16",
+    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 10 - 1",
+    "L.O. N° 14 FOLIO N° 16",
+    "15-10-2004",
     "15-10-2004",
     "FISCO DE CHILE"
    ],
    [
-    "LOTE 10 - 2",
-    "L.O. Nº 14 FOLIO Nº 16",
+    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 10 - 2",
+    "L.O. N° 14 FOLIO N° 16",
+    "15-10-2004",
     "15-10-2004",
     "FISCO DE CHILE"
    ],
    [
-    "LOTE 7 A",
-    "L.O. Nº 15 FOLIO Nº 33",
+    "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 7 A",
+    "L.O. N° 15 FOLIO N° 33",
     "16-11-2004",
+    "15-11-2004",
     "ASMAR"
    ],
    [
-    "CONEXIÓN AV. ALESSANDRI",
-    "",
-    "",
-    ""
-   ],
-   [
-    "LOTE 15 - Nvo",
-    "L.O. Nº 14 FOLIO Nº 28",
+    "CONEXIÓN AV. ALESSANDRI LOTE 15 - Nvo",
+    "L.O.N° 14 FOLIO N° 28",
     "19-10-2004",
+    "15-10-2004",
     "ING. Y CONSTRUCCION SAN ANDRES LTDA"
    ],
    [
-    "LOTE 14B - Nvo",
-    "L.O. Nº 14 FOLIO Nº 28",
+    "CONEXIÓN AV. ALESSANDRI LOTE 14B - Nvo",
+    "L.O.N° 14 FOLIO N° 28",
     "19-10-2004",
+    "15-10-2004",
     "ING. Y CONSTRUCCION SAN ANDRES LTDA"
    ],
    [
-    "LOTE 7 - A",
-    "L.O. Nº 17 FOLIO Nº 22",
+    "CONEXIÓN AV. ALESSANDRI LOTE 7 - A",
+    "L.O.N° 17 FOLIO N° 22",
     "10-12-2004",
+    "15-11-2004",
     "CONCESIONARIA AEROSUR S.A."
    ],
    [
-    "LOTE 8 - A",
-    "L.O. Nº 17 FOLIO Nº 22",
+    "CONEXIÓN AV. ALESSANDRI LOTE 8 - A",
+    "L.O.N° 17 FOLIO N° 22",
     "10-12-2004",
+    "15-11-2004",
     "CONCESIONARIA AEROSUR S.A."
    ],
    [
-    "LOTE 13 - A",
-    "L.O. Nº 17 FOLIO Nº 22",
+    "CONEXIÓN AV. ALESSANDRI LOTE 13 - A",
+    "L.O.N° 17 FOLIO N° 22",
     "10-12-2004",
+    "15-11-2004",
     "CONCESIONARIA AEROSUR S.A."
    ],
    [
-    "PASO INTERPREDIAL KM 6,787",
-    "",
-    "",
-    ""
-   ],
-   [
-    "LOTE 5 A",
-    "L.O. Nº 15 FOLIO Nº 33",
+    "PASO INTERPREDIAL KM 6,787 LOTE 5 A",
+    "L.O.N° 15 FOLIO N° 33",
     "16-11-2004",
+    "15-11-2004",
     "ASMAR"
    ],
    [
-    "PASO INTERPREDIAL KM 8,000",
-    "",
-    "",
-    ""
-   ],
-   [
-    "LOTE 5 B",
-    "L.O. Nº 15 FOLIO Nº 33",
+    "PASO INTERPREDIAL KM 8,000 LOTE 5 B",
+    "L.O.N° 15 FOLIO N° 33",
     "16-11-2004",
+    "15-11-2004",
     "ASMAR"
    ],
    [
-    "PASO INTERPREDIAL Nº 2 KM 2,580 AV. ALESSANDRI",
-    "",
-    "",
-    ""
-   ],
-   [
-    "LOTE 13",
-    "L.O. Nº 14 FOLIO Nº 16",
+    "PASO INTERPREDIAL N° 2 KM 2,580 AV. ALESSANDRI LOTE 13",
+    "L.O. N° 14 FOLIO N° 16",
+    "15-10-2004",
     "15-10-2004",
     "NO REQUIERE DE EXPROPIACION"
    ]
   ],
-  "notas": "",
+  "notas": null,
   "documento": "RITP.D10",
   "paginas": [
    45
   ],
-  "nodo": "RITP.D10.F0044",
+  "nodo": "RITP.D10.F0056",
   "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO › artículo 1.8.4 Terrenos Necesarios para Ejecutar las Obras › Convenio complementario N°1 (2005-05-16)"
  },
  {
+  "id": "TABLA:RITP.D10.p0047.1",
+  "titulo": "PROGRAMA DE OBRAS CONVENIO COMPLEMENTARIO N°1",
+  "encabezados": [
+   "Id",
+   "Nombre de tarea",
+   "Duración",
+   "Comienzo",
+   "Fin"
+  ],
+  "filas": [
+   [
+    "0",
+    "PERIODO DE CONSTRUCCION OBRAS COMPLEMENTARIAS",
+    "308 dias",
+    "lun 05/04/04",
+    "vie 20/05/05"
+   ],
+   [
+    "1",
+    "Término de Trabajos de Construcción",
+    "0 dias",
+    "vie 20/05/05",
+    "vie 20/05/05"
+   ],
+   [
+    "2",
+    "VARIANTE COLLIPULLI",
+    "308 dias",
+    "lun 05/04/04",
+    "vie 20/05/05"
+   ],
+   [
+    "3",
+    "Entrega de Terrenos Variante Collipulli",
+    "0 dias",
+    "lun 05/04/04",
+    "lun 05/04/04"
+   ],
+   [
+    "4",
+    "PROYECTO DE INGENIERIA",
+    "66 dias",
+    "lun 11/10/04",
+    "lun 20/12/04"
+   ],
+   [
+    "5",
+    "Proyecto de Ingenieria",
+    "152 dias",
+    "lun 03/05/04",
+    "mar 30/11/04"
+   ],
+   [
+    "6",
+    "Aprobación Proyecto",
+    "152 dias",
+    "lun 03/05/04",
+    "mar 30/11/04"
+   ],
+   [
+    "7",
+    "RUTA TRONCAL KM. 9.200-11.100",
+    "189 dias",
+    "sáb 16/10/04",
+    "vie 29/04/05"
+   ],
+   [
+    "8",
+    "Preparación del Area de Trabajo",
+    "41 dias",
+    "sáb 16/10/04",
+    "vie 03/12/04"
+   ],
+   [
+    "9",
+    "Remoción de Cercos",
+    "3 dias",
+    "vie 19/11/04",
+    "mar 23/11/04"
+   ],
+   [
+    "10",
+    "Remoción de Obras de Drenaje Superficial",
+    "6 dias",
+    "vie 12/11/04",
+    "vie 19/11/04"
+   ],
+   [
+    "11",
+    "Remoción de Bermas TSD",
+    "3 dias",
+    "vie 19/11/04",
+    "mar 24/11/04"
+   ],
+   [
+    "12",
+    "Remoción de Pavimentos de asfalto",
+    "7 dias",
+    "jue 25/11/04",
+    "vie 03/12/04"
+   ],
+   [
+    "13",
+    "Roce, Despeje y Limpieza de la Faja",
+    "22 dias",
+    "vie 19/11/04",
+    "lun 20/12/04"
+   ],
+   [
+    "14",
+    "Movimiento de Tierras",
+    "169 dias",
+    "vie 03/12/04",
+    "vie 29/04/05"
+   ],
+   [
+    "15",
+    "Excavación de Escarpe",
+    "21 dias",
+    "vie 03/12/04",
+    "vie 31/12/04"
+   ],
+   [
+    "16",
+    "Excavación de Corte en T.C.N.",
+    "9 dias",
+    "jue 23/12/04",
+    "mar 04/01/05"
+   ],
+   [
+    "17",
+    "Excavación Especial",
+    "9 dias",
+    "mié 05/01/05",
+    "mar 18/01/05"
+   ],
+   [
+    "18",
+    "Suministro y Colocación de Fibra Geotextil",
+    "3 dias",
+    "jue 11/11/04",
+    "lun 15/11/04"
+   ],
+   [
+    "19",
+    "Formación y Compactación de Terraplenes",
+    "56 dias",
+    "jue 16/12/04",
+    "mar 22/02/05"
+   ],
+   [
+    "20",
+    "Relleno Estructural",
+    "12 dias",
+    "dom 20/02/05",
+    "vie 11/03/05"
+   ],
+   [
+    "21",
+    "Remoción de Material Inadecuado",
+    "18 dias",
+    "lun 07/02/05",
+    "lun 28/02/05"
+   ],
+   [
+    "22",
+    "Terminación y Limpieza de la Plataforma",
+    "2 dias",
+    "jue 28/04/05",
+    "vie 29/04/05"
+   ],
+   [
+    "23",
+    "Preparación de la subrasante",
+    "21 dias",
+    "jue 25/11/04",
+    "vie 24/12/04"
+   ],
+   [
+    "24",
+    "Capas Granulares",
+    "28 dias",
+    "vie 28/01/05",
+    "lun 21/03/05"
+   ],
+   [
+    "25",
+    "Base Granular Chancada CBR >= 80%",
+    "22 dias",
+    "vie 25/02/05",
+    "lun 21/03/05"
+   ],
+   [
+    "26",
+    "Revestimientos y Pavimentos",
+    "39 dias",
+    "lun 28/02/05",
+    "jue 31/03/05"
+   ],
+   [
+    "27",
+    "Imprimación Bituminosa",
+    "5 dias",
+    "lun 28/02/05",
+    "vie 04/03/05"
+   ],
+   [
+    "28",
+    "Riego de Liga",
+    "5 dias",
+    "lun 07/03/05",
+    "vie 11/03/05"
+   ],
+   [
+    "29",
+    "Tratamiento Superficial Doble",
+    "8 dias",
+    "mar 22/03/05",
+    "jue 31/03/05"
+   ],
+   [
+    "30",
+    "Concreto Asfáltico de Rodado",
+    "7 dias",
+    "vie 04/03/05",
+    "vie 11/03/05"
+   ],
+   [
+    "31",
+    "Concreto Asfáltico de Capa Intermedia Binder",
+    "6 dias",
+    "jue 03/03/05",
+    "mie 09/03/05"
+   ],
+   [
+    "32",
+    "ESTRUCTURAS Y OBRAS CONEXAS",
+    "27 dias",
+    "jue 29/07/04",
+    "mie 08/09/04"
+   ],
+   [
+    "33",
+    "Hormigón estructural H-30",
+    "20 dias",
+    "mar 09/08/05",
+    "mie 02/03/05"
+   ],
+   [
+    "34",
+    "Hormigón estructural H-20",
+    "4 dias",
+    "mie 25/08/04",
+    "sab 28/08/04"
+   ],
+   [
+    "35",
+    "Hormigón H - 5",
+    "5 dias",
+    "jue 29/07/04",
+    "mar 24/08/04"
+   ],
+   [
+    "36",
+    "Acero en Barras A63-42H",
+    "12 dias",
+    "mie 28/07/04",
+    "lun 09/08/04"
+   ],
+   [
+    "37",
+    "Revestimiento con Mampostería de Piedra",
+    "7 dias",
+    "dom 30/01/05",
+    "sab 05/02/05"
+   ],
+   [
+    "38",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "107 dias",
+    "mie 22/12/04",
+    "mie 27/04/05"
+   ],
+   [
+    "39",
+    "Tubo de hormigón de Base Plana D=0.80 m",
+    "7 dias",
+    "mie 22/12/04",
+    "jue 30/12/04"
+   ],
+   [
+    "40",
+    "Tubo de hormigón de Base Plana D=1.00 m",
+    "14 dias",
+    "mar 04/01/05",
+    "vie 21/01/05"
+   ],
+   [
+    "41",
+    "Soleras Tipo A",
+    "13 dias",
+    "mar 08/03/05",
+    "mar 22/03/05"
+   ],
+   [
+    "42",
+    "Bajadas para Descarga de Aguas Lluvias",
+    "13 dias",
+    "mie 09/03/05",
+    "mar 22/03/05"
+   ],
+   [
+    "43",
+    "Bajadas de Aguas Lluvias en Tubo Corrug. D=0.2 m",
+    "13 dias",
+    "mie 13/04/05",
+    "mie 27/04/05"
+   ],
+   [
+    "44",
+    "Suministro y Colocación de Soleras tipo A",
+    "10 dias",
+    "vie 25/03/05",
+    "mar 05/04/05"
+   ],
+   [
+    "45",
+    "Sumideros de Encuentro para Tubos de >=1m de base plana",
+    "10 dias",
+    "mie 23/03/05",
+    "mar 05/04/05"
+   ],
+   [
+    "46",
+    "Construcción de Fosos y Contrafosos Revestidos 3x1.0 m",
+    "45 dias",
+    "mie 23/02/05",
+    "lun 18/04/05"
+   ],
+   [
+    "47",
+    "OBRAS DE SEGURIDAD",
+    "169 dias",
+    "mie 20/10/04",
+    "vie 29/04/05"
+   ],
+   [
+    "48",
+    "Provisión y Colocación de Cercos Nuevos",
+    "9 dias",
+    "mie 20/10/04",
+    "vie 29/10/04"
+   ],
+   [
+    "49",
+    "Cierros perimetrales",
+    "18 dias",
+    "mar 14/09/04",
+    "mar 05/10/04"
+   ],
+   [
+    "50",
+    "Señales Camineras Galvanizadas 1 Poste",
+    "4 dias",
+    "mie 09/03/05",
+    "sab 12/03/05"
+   ],
+   [
+    "51",
+    "Señales Camineras Galvanizadas 2 Postes",
+    "5 dias",
+    "lun 14/03/05",
+    "vie 18/03/05"
+   ],
+   [
+    "52",
+    "Señalización Vertical sobre la Calzada Banderizon",
+    "14 dias",
+    "mar 22/03/05",
+    "vie 08/04/05"
+   ],
+   [
+    "53",
+    "Señalización Vertical sobre la Calzada Marcos PortaSeñales",
+    "16 dias",
+    "jue 07/04/05",
+    "vie 29/04/05"
+   ],
+   [
+    "54",
+    "Demarc. Pavim. Linea Central Continua",
+    "3 dias",
+    "mar 29/03/05",
+    "jue 31/03/05"
+   ],
+   [
+    "55",
+    "Demarc. Pavim. Linea Central Segmentada",
+    "3 dias",
+    "mar 29/03/05",
+    "jue 31/03/05"
+   ],
+   [
+    "56",
+    "Demarc. Pavim. Linea Lateral Continua",
+    "2 dias",
+    "mar 29/03/05",
+    "mie 30/03/05"
+   ],
+   [
+    "57",
+    "Demarc. Pavim. Simbolos",
+    "2 dias",
+    "mar 29/03/05",
+    "mie 30/03/05"
+   ],
+   [
+    "58",
+    "Tachas Reflectantes",
+    "2 dias",
+    "jue 31/03/05",
+    "vie 01/04/05"
+   ],
+   [
+    "59",
+    "Defensas Camineras Galvanizadas Simples",
+    "22 dias",
+    "jue 24/03/05",
+    "vie 15/04/05"
+   ],
+   [
+    "60",
+    "EMPALME COLLIPULLI SUR-9.200-9.600 Y SUR COLLIPULLI",
+    "169 dias",
+    "vie 01/10/04",
+    "vie 29/04/05"
+   ],
+   [
+    "61",
+    "Preparación del Area de Trabajo",
+    "59 dias",
+    "vie 12/11/04",
+    "vie 14/01/05"
+   ],
+   [
+    "62",
+    "Remoción de Pavimentos asfálticos",
+    "7 dias",
+    "vie 03/12/04",
+    "vie 10/12/04"
+   ],
+   [
+    "63",
+    "Remoción de Obras de Drenajes Superficial",
+    "4 dias",
+    "vie 19/11/04",
+    "mar 23/11/04"
+   ],
+   [
+    "64",
+    "Roce, Despeje y Limpieza de la Faja",
+    "4 dias",
+    "vie 12/11/04",
+    "mar 16/11/04"
+   ],
+   [
+    "65",
+    "Movimiento de Tierras",
+    "169 dias",
+    "dom 07/11/04",
+    "vie 29/04/05"
+   ],
+   [
+    "66",
+    "Excavación de Escarpe",
+    "6 dias",
+    "dom 07/11/04",
+    "sab 13/11/04"
+   ],
+   [
+    "67",
+    "Remoción de material inadecuado",
+    "6 dias",
+    "mie 09/03/05",
+    "jue 17/03/05"
+   ],
+   [
+    "68",
+    "Excavación de Corte en T.C.N.",
+    "7 dias",
+    "vie 17/12/04",
+    "lun 27/12/04"
+   ],
+   [
+    "69",
+    "Excavación Especial",
+    "3 dias",
+    "jue 25/11/04",
+    "sab 27/11/04"
+   ],
+   [
+    "70",
+    "Suministro y Colocación de Fibra Geotextil",
+    "3 dias",
+    "jue 25/11/04",
+    "jue 27/01/05"
+   ],
+   [
+    "71",
+    "Formación y Compactación de Terraplenes",
+    "20 dias",
+    "mie 29/12/04",
+    "jue 17/02/05"
+   ],
+   [
+    "72",
+    "Relleno Estructural",
+    "8 dias",
+    "mar 14/12/04",
+    "mie 22/12/04"
+   ],
+   [
+    "73",
+    "Terminación y Limpieza de la Plataforma",
+    "1 dia",
+    "vie 29/04/05",
+    "vie 29/04/05"
+   ],
+   [
+    "74",
+    "Preparación de la subrasante",
+    "6 dias",
+    "lun 29/11/04",
+    "vie 03/12/04"
+   ],
+   [
+    "75",
+    "Capas Granulares",
+    "14 dias",
+    "vie 04/02/05",
+    "jue 17/02/05"
+   ],
+   [
+    "76",
+    "Base Granular Chancada CBR >= 80%",
+    "14 dias",
+    "mie 02/03/05",
+    "jue 17/03/05"
+   ],
+   [
+    "77",
+    "Revestimientos y Pavimentos",
+    "31 dias",
+    "vie 18/02/05",
+    "vie 01/04/05"
+   ],
+   [
+    "78",
+    "Imprimación Bituminosa",
+    "3 dias",
+    "vie 18/02/05",
+    "mar 22/02/05"
+   ],
+   [
+    "79",
+    "Riego de Liga",
+    "5 dias",
+    "lun 28/02/05",
+    "vie 04/03/05"
+   ],
+   [
+    "80",
+    "Tratamiento Superficial Doble",
+    "5 dias",
+    "mar 08/03/05",
+    "lun 21/03/05"
+   ],
+   [
+    "81",
+    "Concreto Asfáltico de Rodado",
+    "5 dias",
+    "lun 28/03/05",
+    "vie 01/04/05"
+   ],
+   [
+    "82",
+    "Concreto Asfáltico de Capa Intermedia (Binder)",
+    "5 dias",
+    "lun 28/03/05",
+    "vie 01/04/05"
+   ],
+   [
+    "83",
+    "ESTRUCTURAS Y OBRAS CONEXAS",
+    "6 dias",
+    "mar 07/12/04",
+    "lun 13/12/04"
+   ],
+   [
+    "84",
+    "Hormigón estructural H-20",
+    "4 dias",
+    "jue 09/12/04",
+    "lun 13/12/04"
+   ],
+   [
+    "85",
+    "Hormigón H - 5",
+    "2 dias",
+    "mar 07/12/04",
+    "mie 08/12/04"
+   ],
+   [
+    "86",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "128 dias",
+    "lun 23/08/04",
+    "jue 28/04/05"
+   ],
+   [
+    "87",
+    "Tubo de hormigón de Base Plana D=0.80 m",
+    "7 dias",
+    "lun 29/11/04",
+    "lun 06/12/04"
+   ],
+   [
+    "88",
+    "Soleras Tipo A",
+    "18 dias",
+    "jue 07/04/05",
+    "mie 27/04/05"
+   ],
+   [
+    "89",
+    "Sumideros de Encuentro para Tubos de >=1m de base plana",
+    "17 dias",
+    "vie 18/03/05",
+    "mar 05/04/05"
+   ],
+   [
+    "90",
+    "Defensa Caminera de Hormigón New Jersey",
+    "9 dias",
+    "vie 22/04/05",
+    "jue 28/04/05"
+   ],
+   [
+    "91",
+    "Aceras de hormigón",
+    "16 dias",
+    "vie 25/02/05",
+    "jue 17/03/05"
+   ],
+   [
+    "92",
+    "OBRAS DE SEGURIDAD",
+    "37 dias",
+    "vie 18/03/05",
+    "jue 28/04/05"
+   ],
+   [
+    "93",
+    "Cercos Perimetrales",
+    "23 dias",
+    "vie 18/03/05",
+    "jue 14/04/05"
+   ],
+   [
+    "94",
+    "Señales Camineras Galvanizadas 1 Poste",
+    "3 dias",
+    "vie 25/03/05",
+    "lun 28/03/05"
+   ],
+   [
+    "95",
+    "Señales Camineras Galvanizadas 2 Postes",
+    "3 dias",
+    "mar 29/03/05",
+    "jue 31/03/05"
+   ],
+   [
+    "96",
+    "Demarc. Pavim. Linea Lateral Continua",
+    "3 dias",
+    "vie 25/03/05",
+    "lun 28/03/05"
+   ],
+   [
+    "97",
+    "Demarc. Pavim. Simbolos",
+    "3 dias",
+    "vie 25/03/05",
+    "lun 28/03/05"
+   ],
+   [
+    "98",
+    "Tachas Reflectantes",
+    "3 dias",
+    "mar 29/03/05",
+    "jue 31/03/05"
+   ],
+   [
+    "99",
+    "ESTRUCTURAS Y PUENTES",
+    "178 dias",
+    "vie 01/10/04",
+    "vie 28/04/05"
+   ],
+   [
+    "100",
+    "PUENTE LOS MORROS",
+    "178 dias",
+    "vie 01/10/04",
+    "vie 28/04/05"
+   ],
+   [
+    "101",
+    "INFRAESTRUCTURA",
+    "169 dias",
+    "vie 01/10/04",
+    "jue 31/03/05"
+   ],
+   [
+    "102",
+    "Pretil en Canal el Morro para Pilotes",
+    "9 dias",
+    "vie 01/10/04",
+    "dom 10/10/04"
+   ],
+   [
+    "103",
+    "Enrocado de Protección",
+    "38 dias",
+    "jue 17/02/05",
+    "jue 31/03/05"
+   ],
+   [
+    "104",
+    "Excavacion directa con agotamiento",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "105",
+    "Pilotes in Situ",
+    "36 dias",
+    "sab 18/10/04",
+    "vie 26/11/04"
+   ],
+   [
+    "106",
+    "Moldajes",
+    "26 dias",
+    "lun 17/01/05",
+    "lun 14/02/05"
+   ],
+   [
+    "107",
+    "Acero A63 - 42H",
+    "21 dias",
+    "sab 15/01/05",
+    "sab 05/02/05"
+   ],
+   [
+    "108",
+    "Hormigon H-5",
+    "13 dias",
+    "vie 28/01/05",
+    "vie 11/02/05"
+   ],
+   [
+    "109",
+    "Hormigon H-30",
+    "10 dias",
+    "mar 15/02/05",
+    "vie 25/02/05"
+   ],
+   [
+    "110",
+    "SUPERESTRUCTURA",
+    "68 dias",
+    "sab 26/02/05",
+    "vie 29/04/05"
+   ],
+   [
+    "111",
+    "Moldajes",
+    "12 dias",
+    "sab 26/02/05",
+    "vie 24/03/05"
+   ],
+   [
+    "112",
+    "Acero A63 - 42H",
+    "10 dias",
+    "vie 25/02/05",
+    "mar 08/03/05"
+   ],
+   [
+    "113",
+    "Hormigon H-30",
+    "12 dias",
+    "mie 09/03/05",
+    "mar 19/04/05"
+   ],
+   [
+    "114",
+    "Vigas Postensadas L= 35.0 m",
+    "3 dias",
+    "mie 09/03/05",
+    "vie 11/03/05"
+   ],
+   [
+    "115",
+    "Suministro y Colocacion de Cantoneras",
+    "7 dias",
+    "mie 20/04/05",
+    "vie 29/04/05"
+   ],
+   [
+    "116",
+    "Pavimento Asfaltico",
+    "2 dias",
+    "vie 25/03/05",
+    "vie 25/03/05"
+   ],
+   [
+    "117",
+    "Suministro y Colocacion de Barandas Met. Mezcla Barreras-I",
+    "9 dias",
+    "mie 20/04/05",
+    "vie 29/04/05"
+   ],
+   [
+    "118",
+    "Sum. y Coloc. Elem. Apoyo, Ancla y Barras Mac",
+    "9 dias",
+    "mie 20/04/05",
+    "vie 29/04/05"
+   ],
+   [
+    "119",
+    "Impermeabilizacion de Tablero",
+    "3 dias",
+    "mie 20/04/05",
+    "vie 22/04/05"
+   ],
+   [
+    "120",
+    "Losas de Aproximacion",
+    "12 dias",
+    "mie 15/03/05",
+    "sab 28/03/05"
+   ],
+   [
+    "121",
+    "PASO SUPERIOR LAS INDUSTRIAS",
+    "111 dias",
+    "lun 18/10/04",
+    "sab 26/02/05"
+   ],
+   [
+    "122",
+    "INFRAESTRUCTURA",
+    "89 dias",
+    "lun 18/10/04",
+    "sab 29/01/05"
+   ],
+   [
+    "123",
+    "Replanteo Estructural",
+    "21 dias",
+    "lun 27/10/04",
+    "sab 20/11/04"
+   ],
+   [
+    "124",
+    "Excavacion directa con agotamiento",
+    "4 dias",
+    "mie 20/10/04",
+    "sab 23/10/04"
+   ],
+   [
+    "125",
+    "Pilotes in Situ",
+    "6 dias",
+    "lun 18/10/04",
+    "sab 23/10/04"
+   ],
+   [
+    "126",
+    "Moldajes",
+    "21 dias",
+    "mar 16/11/04",
+    "vie 10/12/04"
+   ],
+   [
+    "127",
+    "Acero A63 - 42H",
+    "15 dias",
+    "jue 25/11/04",
+    "lun 13/12/04"
+   ],
+   [
+    "128",
+    "Hormigon H-5",
+    "7 dias",
+    "mar 30/11/04",
+    "mar 07/12/04"
+   ],
+   [
+    "129",
+    "Hormigon H-30",
+    "13 dias",
+    "mar 14/12/04",
+    "sab 31/12/04"
+   ],
+   [
+    "130",
+    "SUPERESTRUCTURA",
+    "68 dias",
+    "lun 27/12/04",
+    "sab 26/02/05"
+   ],
+   [
+    "131",
+    "Suministro y Colocacion de Cantoneras",
+    "14 dias",
+    "sab 05/02/05",
+    "lun 21/02/05"
+   ],
+   [
+    "132",
+    "Pavimento Asfaltico",
+    "2 dias",
+    "vie 25/02/05",
+    "sab 26/02/05"
+   ],
+   [
+    "133",
+    "Suministro y Colocacion de Barandas Met. Mezcla-Barreras-I",
+    "21 dias",
+    "lun 27/10/04",
+    "sab 22/01/05"
+   ],
+   [
+    "134",
+    "Impermeabilizacion de Tablero",
+    "3 dias",
+    "mar 25/01/05",
+    "sab 24/02/05"
+   ],
+   [
+    "135",
+    "Losas de Aproximacion",
+    "12 dias",
+    "lun 24/01/05",
+    "vie 04/02/05"
+   ],
+   [
+    "136",
+    "Cierros Perimetrales",
+    "4 dias",
+    "mie 02/02/05",
+    "vie 05/02/05"
+   ],
+   [
+    "137",
+    "ITEMS GLOBALES",
+    "168 dias",
+    "vie 15/10/04",
+    "jue 26/04/05"
+   ],
+   [
+    "138",
+    "ILUMINACION Y SEMAFORIZACION",
+    "42 dias",
+    "sab 18/03/05",
+    "jue 28/04/05"
+   ],
+   [
+    "139",
+    "Semaforizacion 1 Autopista",
+    "14 dias",
+    "vie 01/04/05",
+    "sab 16/04/05"
+   ],
+   [
+    "140",
+    "Semaforizacion 2 Los Presidentes",
+    "10 dias",
+    "vie 01/04/05",
+    "sab 09/04/05"
+   ],
+   [
+    "141",
+    "Iluminacion Paso Superior Las Industrias",
+    "37 dias",
+    "sab 19/03/05",
+    "vie 29/04/05"
+   ],
+   [
+    "142",
+    "PROYECTO DE PAISAJISMO",
+    "37 dias",
+    "sab 19/03/05",
+    "vie 29/04/05"
+   ],
+   [
+    "143",
+    "Paisajismo",
+    "37 dias",
+    "sab 19/03/05",
+    "vie 22/04/05"
+   ],
+   [
+    "144",
+    "VALORES PROFORMA",
+    "181 dias",
+    "vie 15/10/04",
+    "mar 01/05/05"
+   ],
+   [
+    "145",
+    "Garantias y Permisos por Ejecucion",
+    "3 dias",
+    "vie 15/10/04",
+    "mar 20/10/04"
+   ],
+   [
+    "146",
+    "Proteccion Arqueologica Gasoducto del Pacifico",
+    "12 dias",
+    "sab 13/11/04",
+    "vie 26/11/04"
+   ],
+   [
+    "147",
+    "Proteccion Arqueologica Gasoducto Innergy",
+    "16 dias",
+    "sab 27/11/04",
+    "mie 15/12/04"
+   ],
+   [
+    "148",
+    "Modificacion Agua Potable",
+    "15 dias",
+    "vie 04/02/05",
+    "lun 21/02/05"
+   ],
+   [
+    "149",
+    "Modificacion Alcantarillado Aguas Servidas",
+    "13 dias",
+    "mar 22/02/05",
+    "mar 08/03/05"
+   ],
+   [
+    "150",
+    "Traslado de Postacion Electrica y Telefonica",
+    "15 dias",
+    "vie 11/02/05",
+    "lun 28/02/05"
+   ],
+   [
+    "151",
+    "COSTOS GENERALES",
+    "179 dias",
+    "vie 01/10/04",
+    "sab 30/04/05"
+   ],
+   [
+    "152",
+    "DESVIO DE TRANSITO PARA INTERSECCIONES",
+    "91 dias",
+    "sab 23/10/04",
+    "sab 30/04/05"
+   ],
+   [
+    "153",
+    "Habilitacion de Transito para Intersecciones",
+    "31 dias",
+    "sab 26/03/05",
+    "sab 30/04/05"
+   ],
+   [
+    "154",
+    "MOVILIZACION DE EQUIPOS",
+    "21 dias",
+    "vie 01/10/04",
+    "sab 30/10/04"
+   ],
+   [
+    "155",
+    "Movilizacion de Equipos Especiales",
+    "1 dia",
+    "vie 01/10/04",
+    "vie 01/10/04"
+   ],
+   [
+    "156",
+    "RCA RUTA",
+    "1 dia",
+    "vie 15/10/04",
+    "vie 15/10/04"
+   ],
+   [
+    "157",
+    "Rca Ruta",
+    "1 dia",
+    "vie 15/10/04",
+    "vie 15/10/04"
+   ],
+   [
+    "158",
+    "ATRAVIESO INTERPREDIAL KM 6.787",
+    "104 dias",
+    "mar 28/09/04",
+    "lun 31/01/05"
+   ],
+   [
+    "159",
+    "Preparacion del Area de Trabajo",
+    "12 dias",
+    "mar 28/09/04",
+    "mar 12/10/04"
+   ],
+   [
+    "160",
+    "Remocion de Cercos",
+    "3 dias",
+    "mar 28/09/04",
+    "jue 30/09/04"
+   ],
+   [
+    "161",
+    "Remocion de Obras de Drenaje Superficial",
+    "3 dias",
+    "vie 08/10/04",
+    "mar 12/10/04"
+   ],
+   [
+    "162",
+    "Movimiento de Tierras",
+    "97 dias",
+    "vie 01/10/04",
+    "mar 07/12/04"
+   ],
+   [
+    "163",
+    "Excavacion de Escarpe",
+    "14 dias",
+    "vie 01/10/04",
+    "lun 18/10/04"
+   ],
+   [
+    "164",
+    "Excavacion Especial",
+    "5 dias",
+    "vie 01/10/04",
+    "jue 07/10/04"
+   ],
+   [
+    "165",
+    "Suministro y Colocacion de Fibra Geotextil",
+    "22 dias",
+    "vie 02/10/04",
+    "lun 15/11/04"
+   ],
+   [
+    "166",
+    "Formacion y Compactacion de Terraplenes",
+    "47 dias",
+    "jue 14/10/04",
+    "mar 07/12/04"
+   ],
+   [
+    "167",
+    "Relleno Estructural",
+    "10 dias",
+    "mie 06/10/04",
+    "lun 18/10/04"
+   ],
+   [
+    "168",
+    "Remocion de Material Inadecuado",
+    "8 dias",
+    "jue 07/10/04",
+    "jue 07/10/04"
+   ],
+   [
+    "169",
+    "Preparacion de la Subrasante",
+    "8 dias",
+    "mar 16/11/04",
+    "mie 24/11/04"
+   ],
+   [
+    "170",
+    "ESTRUCTURAS Y OBRAS CONEXAS",
+    "8 dias",
+    "mie 27/10/04",
+    "mar 02/11/04"
+   ],
+   [
+    "171",
+    "Hormigon estructural H-20",
+    "4 dias",
+    "vie 29/10/04",
+    "mar 02/11/04"
+   ],
+   [
+    "172",
+    "Hormigon H-5",
+    "2 dias",
+    "mie 27/10/04",
+    "jue 28/10/04"
+   ],
+   [
+    "173",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "73 dias",
+    "vie 08/10/04",
+    "jue 06/01/05"
+   ],
+   [
+    "174",
+    "Tubo de Hormigon de Base Plana D=1.20 m.",
+    "15 dias",
+    "vie 08/10/04",
+    "mar 26/10/04"
+   ],
+   [
+    "175",
+    "Fricciones para Bajada de Aguas Lluvias",
+    "9 dias",
+    "mie 06/10/04",
+    "vie 17/12/04"
+   ],
+   [
+    "176",
+    "Bajada de Aguas Lluvias en Tubo Corr. D=0.60 m",
+    "13 dias",
+    "sab 18/12/04",
+    "jue 06/01/05"
+   ],
+   [
+    "177",
+    "Suministro y Colocacion de Solera Tipo A",
+    "10 dias",
+    "sab 02/10/04",
+    "sab 16/10/04"
+   ],
+   [
+    "178",
+    "OBRAS DE SEGURIDAD",
+    "44 dias",
+    "mie 08/12/04",
+    "jue 01/01/05"
+   ],
+   [
+    "179",
+    "Cercos perimetrales",
+    "38 dias",
+    "mie 08/12/04",
+    "mie 26/01/05"
+   ],
+   [
+    "180",
+    "Señales Camineras Galvanizadas 1 Poste",
+    "3 dias",
+    "lun 03/01/05",
+    "mie 05/01/05"
+   ],
+   [
+    "181",
+    "Señales Camineras Galvanizadas 2 Postes",
+    "3 dias",
+    "jue 06/01/05",
+    "sab 08/01/05"
+   ],
+   [
+    "182",
+    "Defensas Camineras Galvanizadas Simples",
+    "20 dias",
+    "lun 10/01/05",
+    "lun 31/01/05"
+   ],
+   [
+    "183",
+    "ESTRUCTURA CAJON ATRAVIESO KM 6.787",
+    "82 dias",
+    "vie 08/10/04",
+    "lun 17/01/05"
+   ],
+   [
+    "184",
+    "INFRAESTRUCTURA",
+    "65 dias",
+    "vie 08/10/04",
+    "mar 22/12/04"
+   ],
+   [
+    "185",
+    "Replanteo Estructural",
+    "14 dias",
+    "sab 11/10/04",
+    "mar 26/10/04"
+   ],
+   [
+    "186",
+    "Excavacion directa con agotamiento",
+    "8 dias",
+    "vie 08/10/04",
+    "lun 18/10/04"
+   ],
+   [
+    "187",
+    "Moldajes",
+    "12 dias",
+    "mar 16/11/04",
+    "lun 29/11/04"
+   ],
+   [
+    "188",
+    "Acero A63 - 42H",
+    "16 dias",
+    "jue 25/11/04",
+    "lun 13/12/04"
+   ],
+   [
+    "189",
+    "Hormigon H-5",
+    "5 dias",
+    "mar 16/11/04",
+    "mie 17/11/04"
+   ],
+   [
+    "190",
+    "Hormigon H-30",
+    "10 dias",
+    "mar 30/11/04",
+    "vie 13/12/04"
+   ],
+   [
+    "191",
+    "SUPERESTRUCTURA",
+    "70 dias",
+    "vie 08/10/04",
+    "lun 17/01/05"
+   ],
+   [
+    "192",
+    "Suministro y Colocacion de Cantoneras",
+    "5 dias",
+    "vie 08/10/04",
+    "lun 17/01/05"
+   ],
+   [
+    "193",
+    "Impermeabilizacion de Tablero",
+    "3 dias",
+    "vie 14/01/05",
+    "lun 17/01/05"
+   ],
+   [
+    "194",
+    "Losas de Aproximacion",
+    "5 dias",
+    "mie 29/12/04",
+    "vie 07/01/05"
+   ],
+   [
+    "195",
+    "Cierros Perimetrales",
+    "4 dias",
+    "mie 26/01/05",
+    "sab 29/01/05"
+   ],
+   [
+    "196",
+    "ATRAVIESO INTERPREDIAL KM 8.000",
+    "100 dias",
+    "lun 27/09/04",
+    "lun 31/01/05"
+   ],
+   [
+    "197",
+    "Preparacion del Area de Trabajo",
+    "12 dias",
+    "mar 28/09/04",
+    "mar 12/10/04"
+   ],
+   [
+    "198",
+    "Remocion de Cercos",
+    "3 dias",
+    "mar 28/09/04",
+    "jue 30/09/04"
+   ],
+   [
+    "199",
+    "Remocion de Obras de Drenaje Superficial",
+    "3 dias",
+    "vie 08/10/04",
+    "mar 12/10/04"
+   ],
+   [
+    "200",
+    "Movimiento de Tierras",
+    "97 dias",
+    "vie 01/10/04",
+    "mar 07/12/04"
+   ],
+   [
+    "201",
+    "Excavacion de Escarpe",
+    "14 dias",
+    "vie 01/10/04",
+    "lun 18/10/04"
+   ],
+   [
+    "202",
+    "Excavacion Especial",
+    "5 dias",
+    "vie 01/10/04",
+    "jue 07/10/04"
+   ],
+   [
+    "203",
+    "Suministro y Colocacion de Fibra Geotextil",
+    "22 dias",
+    "vie 02/10/04",
+    "lun 15/11/04"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   47,
+   48
+  ],
+  "nodo": "RITP.D10.F0057",
+  "ruta": "Otros contenidos de los actos › plazos y puesta en servicio › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
+  "id": "TABLA:RITP.D10.p0049.1",
+  "titulo": "PROGRAMA DE OBRAS CONVENIO COMPLEMENTARIO N°1",
+  "encabezados": [
+   "id",
+   "Nombre de tarea",
+   "Duración",
+   "Comienzo",
+   "Fin"
+  ],
+  "filas": [
+   [
+    "204",
+    "Relleno Estructural",
+    "10 dias",
+    "",
+    ""
+   ],
+   [
+    "205",
+    "Remocion de Material Inadecuado",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "207",
+    "Preparacion de la Subrasante",
+    "1 dia",
+    "",
+    ""
+   ],
+   [
+    "208",
+    "ESTRUCTURA Y OBRAS CONEXAS",
+    "8 dias",
+    "",
+    ""
+   ],
+   [
+    "209",
+    "Hormigon Estructural H-20",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "210",
+    "Acero A63 - 42H",
+    "2 dias",
+    "",
+    ""
+   ],
+   [
+    "211",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "75 dias",
+    "",
+    ""
+   ],
+   [
+    "212",
+    "Tubo de Hormigon de Base Plana D=1.20 m",
+    "15 dias",
+    "",
+    ""
+   ],
+   [
+    "213",
+    "Embudos para Bajada de Aguas Lluvias",
+    "9 dias",
+    "",
+    ""
+   ],
+   [
+    "214",
+    "Bajada de Aguas Lluvias en Tubo Corr. CH-1 32\"",
+    "13 dias",
+    "",
+    ""
+   ],
+   [
+    "215",
+    "Suministro y Colocacion de Soleras tipo A",
+    "10 dias",
+    "",
+    ""
+   ],
+   [
+    "217",
+    "OBRAS DE SEGURIDAD",
+    "44 dias",
+    "",
+    ""
+   ],
+   [
+    "218",
+    "Cierros perimetrales",
+    "18 dias",
+    "",
+    ""
+   ],
+   [
+    "219",
+    "Señales Camineras Galvanizadas 1 Poste",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "220",
+    "Señales Camineras Galvanizadas 2 Postes",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "221",
+    "Defensas Camineras Galvanizadas Simples",
+    "20 dias",
+    "",
+    ""
+   ],
+   [
+    "222",
+    "ESTRUCTURA PASO ATRAVIESO KM 6.600",
+    "92 dias",
+    "",
+    ""
+   ],
+   [
+    "223",
+    "INFRAESTRUCTURA",
+    "72 dias",
+    "",
+    ""
+   ],
+   [
+    "224",
+    "Pilotaje de madera",
+    "10 dias",
+    "",
+    ""
+   ],
+   [
+    "225",
+    "Relleno Estructural",
+    "14 dias",
+    "",
+    ""
+   ],
+   [
+    "226",
+    "Excavacion directa con agotamiento",
+    "9 dias",
+    "",
+    ""
+   ],
+   [
+    "227",
+    "Moldajes",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "228",
+    "Acero A63 - 42H",
+    "16 dias",
+    "",
+    ""
+   ],
+   [
+    "229",
+    "Hormigon H-5",
+    "9 dias",
+    "",
+    ""
+   ],
+   [
+    "230",
+    "Hormigon H-30",
+    "10 dias",
+    "",
+    ""
+   ],
+   [
+    "231",
+    "SUPERESTRUCTURA",
+    "73 dias",
+    "",
+    ""
+   ],
+   [
+    "232",
+    "Suministro y Colocacion de Cimbra",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "233",
+    "Impermeabilizacion de Tablero",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "234",
+    "Losas de Aproximacion",
+    "8 dias",
+    "",
+    ""
+   ],
+   [
+    "235",
+    "Cierros perimetrales",
+    "8 dias",
+    "",
+    ""
+   ],
+   [
+    "236",
+    "CONEXION ALESSANDRI KM 0.0-0.900",
+    "228 dias",
+    "",
+    ""
+   ],
+   [
+    "237",
+    "Proyecto de Ingenieria",
+    "99 dias",
+    "",
+    ""
+   ],
+   [
+    "238",
+    "Entrega de Terreno Km 0.000 a Km 0.250",
+    "35 dias",
+    "",
+    ""
+   ],
+   [
+    "239",
+    "Entrega de Terreno Km 0.250 a Km 0.900",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "240",
+    "Preparacion del Area de Trabajo",
+    "106 dias",
+    "",
+    ""
+   ],
+   [
+    "241",
+    "Remocion de Cercos Km 0.250 a Km 0.900",
+    "2 dias",
+    "",
+    ""
+   ],
+   [
+    "242",
+    "Remocion de Cercos Km 0.000 a Km 0.250",
+    "2 dias",
+    "",
+    ""
+   ],
+   [
+    "243",
+    "Remocion de Pavimentos",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "244",
+    "Roce, Despeje y Limpieza de la Faja Km 0.250 a Km 0.500",
+    "7 dias",
+    "",
+    ""
+   ],
+   [
+    "245",
+    "Roce, Despeje y Limpieza de la Faja Km 0.500 a Km 1.250",
+    "16 dias",
+    "",
+    ""
+   ],
+   [
+    "246",
+    "Movimiento de Tierras",
+    "160 dias",
+    "",
+    ""
+   ],
+   [
+    "247",
+    "Excavacion de Escarpes Km 0.250 a Km 0.900",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "248",
+    "Excavacion de Escarpes Km 0.000 a Km 0.250",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "249",
+    "Excavacion de Corte en T.C.N. Km 0.000 a Km 0.200",
+    "40 dias",
+    "",
+    ""
+   ],
+   [
+    "250",
+    "Excavacion Especial",
+    "9 dias",
+    "",
+    ""
+   ],
+   [
+    "251",
+    "Suministro y Colocacion de Fibra Geotextil",
+    "14 dias",
+    "",
+    ""
+   ],
+   [
+    "252",
+    "Formacion y Compactacion de Terraplenes",
+    "47 dias",
+    "",
+    ""
+   ],
+   [
+    "253",
+    "Relleno Estructural",
+    "11 dias",
+    "",
+    ""
+   ],
+   [
+    "254",
+    "Provision de Material Inadecuado",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "255",
+    "Terminacion y Limpieza de la Plataforma",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "256",
+    "Preparacion de la subrasante",
+    "8 dias",
+    "",
+    ""
+   ],
+   [
+    "257",
+    "Capas Granulares",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "258",
+    "Base Granular Chancada CBR >= 80%",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "259",
+    "Revestimientos y Pavimentos",
+    "18 dias",
+    "",
+    ""
+   ],
+   [
+    "260",
+    "Imprimacion Bituminosa",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "261",
+    "Riego de Liga",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "262",
+    "Tratamiento Superficial Doble",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "263",
+    "Concreto Asfaltico de Rodado",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "264",
+    "Concreto Asfaltico de Capa Intermedia (Binder)",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "265",
+    "ESTRUCTURA Y OBRAS CONEXAS",
+    "20 dias",
+    "",
+    ""
+   ],
+   [
+    "266",
+    "Hormigon estructural H-30",
+    "8 dias",
+    "",
+    ""
+   ],
+   [
+    "267",
+    "Hormigon estructural H-20",
+    "6 dias",
+    "",
+    ""
+   ],
+   [
+    "268",
+    "Hormigon H-5",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "269",
+    "Acero en Barras A63-42H",
+    "7 dias",
+    "",
+    ""
+   ],
+   [
+    "270",
+    "Revestimiento con Mamposteria de Piedra",
+    "6 dias",
+    "",
+    ""
+   ],
+   [
+    "271",
+    "DRENAJE Y PROTECCION DE LA PLATAFORMA",
+    "87 dias",
+    "",
+    ""
+   ],
+   [
+    "272",
+    "Tubo de Hormigon de Base Plana D=1.0 m",
+    "15 dias",
+    "",
+    ""
+   ],
+   [
+    "273",
+    "Bajada de Aguas Lluvias",
+    "6 dias",
+    "",
+    ""
+   ],
+   [
+    "274",
+    "Bajada de Aguas Lluvias en Tubo Corr. CH-20 m",
+    "13 dias",
+    "",
+    ""
+   ],
+   [
+    "275",
+    "Suministro y Colocacion de Soleras tipo A",
+    "10 dias",
+    "",
+    ""
+   ],
+   [
+    "276",
+    "Suministro de Enrocado para Tubos de Horm. de base plana",
+    "19 dias",
+    "",
+    ""
+   ],
+   [
+    "277",
+    "Construccion de Fosos y Contrafosos Revestidos H=1.0 m",
+    "62 dias",
+    "",
+    ""
+   ],
+   [
+    "278",
+    "OBRAS DE SEGURIDAD",
+    "108 dias",
+    "",
+    ""
+   ],
+   [
+    "279",
+    "Provision y Colocacion de Cercos Nuevos",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "280",
+    "Cierros perimetrales",
+    "18 dias",
+    "",
+    ""
+   ],
+   [
+    "281",
+    "Señales Camineras Galvanizadas 1 Poste",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "282",
+    "Señales Camineras Galvanizadas 2 Postes",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "283",
+    "Señalizacion Vertical sobre la Calzada Banderas",
+    "8 dias",
+    "",
+    ""
+   ],
+   [
+    "284",
+    "Señalizacion Vertical sobre la Calzada Marcos Porta-letreros",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "285",
+    "Demarc. Pavim. Linea Central Continua",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "286",
+    "Demarc. Pavim. Linea Lateral Segmentada",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "287",
+    "Demarc. Pavim. Linea Lateral Continua",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "288",
+    "Demarc. Pavim. Simbolos",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "289",
+    "Tachas Reflectantes",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "290",
+    "Defensas Camineras Galvanizadas Simples",
+    "20 dias",
+    "",
+    ""
+   ],
+   [
+    "291",
+    "ATRAVIESO INTERPERIAL KM 2.850 ALESSANDRI",
+    "24 dias",
+    "",
+    ""
+   ],
+   [
+    "292",
+    "Preparacion del Area de Trabajo",
+    "1 dia",
+    "",
+    ""
+   ],
+   [
+    "293",
+    "Movimiento de Tierras",
+    "32 dias",
+    "",
+    ""
+   ],
+   [
+    "294",
+    "Excavacion de Escarpes",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "295",
+    "Suministro y Colocacion de Fibra Geotextil",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "296",
+    "Formacion y Compactacion de Terraplenes",
+    "12 dias",
+    "",
+    ""
+   ],
+   [
+    "297",
+    "Preparacion de la Subrasante",
+    "1 dia",
+    "",
+    ""
+   ],
+   [
+    "298",
+    "ESTRUCTURA PASO ATRAVIESO KM 2.850",
+    "52 dias",
+    "",
+    ""
+   ],
+   [
+    "299",
+    "INFRAESTRUCTURA",
+    "32 dias",
+    "",
+    ""
+   ],
+   [
+    "300",
+    "Relleno Estructural",
+    "4 dias",
+    "",
+    ""
+   ],
+   [
+    "301",
+    "Excavacion Especial",
+    "3 dias",
+    "",
+    ""
+   ],
+   [
+    "302",
+    "Moldajes",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "303",
+    "Acero A63 - 42H",
+    "5 dias",
+    "",
+    ""
+   ],
+   [
+    "304",
+    "Hormigon H-5",
+    "2 dias",
+    "",
+    ""
+   ],
+   [
+    "305",
+    "Hormigon H-30",
+    "3 dias",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   49
+  ],
+  "nodo": "RITP.D10.F0059",
+  "ruta": "Otros contenidos de los actos › obras › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
   "id": "TABLA:RITP.D10.p0051.1",
-  "titulo": "ANEXO N° 5",
+  "titulo": null,
   "encabezados": [
    "ITEM",
    "PARTIDA DESCRIPCION",
@@ -4668,48 +9007,153 @@
     "90,670"
    ]
   ],
-  "notas": "PRECIOS UNITARIOS DE ITEM NUEVOS COMPLEMENTARIOS A LOS DEL ANEXO N° 3 DE LAS BASES DE LICITACION",
+  "notas": null,
   "documento": "RITP.D10",
   "paginas": [
    51
   ],
-  "nodo": "RITP.D10.F0047",
-  "ruta": "Bases de Licitación › ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA) › Convenio complementario N°1 (2005-05-16)"
+  "nodo": "RITP.D10.F0061",
+  "ruta": "Bases de Licitación › ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA) › Convenio complementario N°1 (2005-05-16)"
  },
  {
-  "id": "TABLA:RITP.D10.p0075.1",
-  "titulo": "ANEXO N° 7 - Item 7.1 Contabilización de las Inversiones",
+  "id": "TABLA:RITP.D10.p0072.1",
+  "titulo": "COORDENADAS DE PN",
   "encabezados": [
-   "",
-   "Avance Construcción Obras Nuevas o Adicionales (**)(2.6)(A)",
-   "Ajuste de Meses Anteriores (4.1. c))(B)",
-   "Mantencción y Conservación de Obras Adicionales (2.7)(C)",
-   "Cambio de Servicios (2.6)(D)",
-   "Gasto de Gestión por Cambio de Servicios (10% de D)(E)",
-   "Avance Aprobación de Ingeniería de Detalle (2.8)(F)",
-   "Seguros Adicionales de Construcción y Explotación (2.9)(G)",
-   "Mayores Gastos Generales (2.10)(H)",
-   "Mayores Gastos de Administración y Control (2.11)(I)",
-   "Gastos de Financiamiento (*) (J)",
-   "Interés del Mes (N = O₁, * 0,56541%)(N)",
-   "Saldo Parcial Acumulado de la Cuenta de Inversión CC N° 1 (O)"
+   "N° PN",
+   "NORTE",
+   "ESTE",
+   "COTA"
   ],
   "filas": [
    [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "PN-05",
+    "6028682.250",
+    "674130.678",
+    "2.635"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   72
+  ],
+  "nodo": "RITP.D10.F0078",
+  "ruta": "Otros contenidos de los actos › obras › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
+  "id": "TABLA:RITP.D10.p0072.2",
+  "titulo": "SIMBOLOGIA",
+  "encabezados": [
+   "DESCRIPCION",
+   "SIMBOLO"
+  ],
+  "filas": [
+   [
+    "O.A. PROYECTADA",
     ""
    ],
+   [
+    "O.A. EXISTENTE",
+    ""
+   ],
+   [
+    "FOSO REVESTIDO",
+    ""
+   ],
+   [
+    "FOSO EN TIERRA",
+    ""
+   ],
+   [
+    "CANALETA EN TERRAZA IMPRIMACION REFORZADA",
+    ""
+   ],
+   [
+    "CUNETA REVESTIDA",
+    ""
+   ],
+   [
+    "SOLERA TIPO A",
+    ""
+   ],
+   [
+    "BAJADA AGUAS LLUVIA",
+    ""
+   ],
+   [
+    "FOSO REVESTIDO EXISTENTE",
+    ""
+   ],
+   [
+    "SUMIDERO",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   72
+  ],
+  "nodo": "RITP.D10.F0078",
+  "ruta": "Otros contenidos de los actos › obras › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
+  "id": "TABLA:RITP.D10.p0072.3",
+  "titulo": "CLOTOIDES SIMETRICAS",
+  "encabezados": [
+   "col1",
+   "col2",
+   "col3",
+   "col4"
+  ],
+  "filas": [
+   [
+    "Ac 165.01",
+    "V1 56.019",
+    "A81 0.269",
+    "Tmax 3.669"
+   ],
+   [
+    "TC=128.472",
+    "TL=37.352",
+    "TC=18.679",
+    ""
+   ],
+   [
+    "BP=56.000",
+    "YP=1.076",
+    "XC=28.006",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   72
+  ],
+  "nodo": "RITP.D10.F0078",
+  "ruta": "Otros contenidos de los actos › obras › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
+  "id": "TABLA:RITP.D10.p0075.1",
+  "titulo": null,
+  "encabezados": [
+   "",
+   "Avance Construcción Obras Nuevas o Adicionales (**) (2.6) (A)",
+   "Ajuste de Meses Anteriores (4.1. c)) (B)",
+   "Mantención y Conservación de Obras Adicionales (2.7) (C)",
+   "Cambio de Servicios (2.6) (D)",
+   "Gasto de Gestión por Cambio de Servicios (10% de D) (E)",
+   "Avance Aprobación de Ingeniería de Detalle (2.8) (F)",
+   "Seguros Adicionales de Construcción y Explotación (2.9) (G)",
+   "Mayores Gastos Generales (2.10) (H)",
+   "Mayores Gastos de Administración y Control (2.11) (I)",
+   "Gastos de Financiamiento (*) (J)",
+   "Avance mensual de inversiones en CC N° 1 (K = Suma (B..J)) (K)",
+   "Interés del Mes (N = O_{t-1} * 0,56541%) (N)",
+   "Saldo Parcial Acumulado de la Cuenta de Inversión CC N° 1 (O)"
+  ],
+  "filas": [
    [
     "Sep-04",
     "0",
@@ -4723,6 +9167,7 @@
     "0",
     "0",
     "0,00",
+    "",
     "0,00"
    ],
    [
@@ -4737,6 +9182,7 @@
     "0",
     "0",
     "0",
+    "5.687,00",
     "0,00",
     "5.687,00"
    ],
@@ -4752,6 +9198,7 @@
     "0",
     "0",
     "0",
+    "26.478,30",
     "30,82",
     "32.196,12"
    ],
@@ -4767,6 +9214,7 @@
     "18.980",
     "12.138",
     "8.000",
+    "136.313,44",
     "174,47",
     "168.684,03"
    ],
@@ -4782,6 +9230,7 @@
     "0",
     "0",
     "0",
+    "57.090,86",
     "914,08",
     "226.688,97"
    ],
@@ -4797,6 +9246,7 @@
     "0",
     "0",
     "0",
+    "33.128,02",
     "1.228,40",
     "261.045,39"
    ],
@@ -4812,6 +9262,7 @@
     "0",
     "0",
     "0",
+    "16.982,68",
     "1.414,58",
     "279.442,65"
    ],
@@ -4827,6 +9278,7 @@
     "0",
     "0",
     "0",
+    "12.327,26",
     "1.514,27",
     "293.284,18"
    ],
@@ -4842,6 +9294,7 @@
     "0",
     "0",
     "0",
+    "1.790,44",
     "1.589,28",
     "296.663,90"
    ],
@@ -4858,35 +9311,38 @@
     "12.138,00",
     "8.000,00",
     "289.798",
+    "",
     ""
    ]
   ],
-  "notas": "Tasa real mensual: 0,54189% (*) : En el presente ejemplo numérico, se asume que la sociedad concesionaria no paga impuesto de timbre y estampillas. Si ello no fuera así, en la columna (J) se deberían registrar los valores efectivamente efectivamente desembolsados por este concepto, sujeto a lo límites que establece el numeral 2.13 del Convenio Complementario N° 1 (**) : En el avance de construcción se ha deducido proporcionalmente el monto de disminución de obras que se consigna en el ítem g) del Anexo N° 1",
+  "notas": "Tasa real mensual: 0,54189% Nota: Para todos los efectos del ejemplo numérico, se asume que la entrada en vigencia del Convenio Complementario N° 1 se efectúan en el mes de enero de 2005 (*): En el presente ejemplo numérico, se asume que la sociedad concesionaria no paga impuesto de timbre y estampillas. Si ello no fuera así, en la columna (J) se deberían registrar los valores efectivamente efectivamente desembolsados por este concepto, sujeto a lo límites que establece el numeral 2.13 del Convenio Complementario N° 1 (**): En el avance de construcción se ha deducido proporcionalmente el monto de disminución de obras que se consigna en el Ítem g) del Anexo N° 1",
   "documento": "RITP.D10",
   "paginas": [
    75
   ],
-  "nodo": "RITP.D10.F0069",
+  "nodo": "RITP.D10.F0081",
   "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
  },
  {
   "id": "TABLA:RITP.D10.p0077.1",
-  "titulo": "CONVENIO COMPLEMENTARIO N° 1",
+  "titulo": "ANEXO Nº 7 - Item 7.2 Cálculo de Cuota de Ajuste",
   "encabezados": [
+   "",
    "Avance Construcción Obras Nuevas o Adicionales (2.6) (A)",
-   "Ajuste de Obras (B)",
-   "Mantención y Conservación de Servicios (C)",
-   "Cambio de Servicios (D)",
-   "Gasto de Gestión por Cambio de Servicios (10% de (D)) (E)",
-   "Avance Aprobación de Detalle (2.8) (F)",
-   "Seguros Adicionales de Explotación (2.9) (G)",
+   "Ajuste de Meses Anteriores (4.1. c)) (B)",
+   "Mantención y Conservación de Obras Adicionales (2.7) (C)",
+   "Cambio de Servicios (2.6) (D)",
+   "Gasto de Gestión por Cambio de Servicios (10% de D) (E)",
+   "Avance Aprobación de Ingeniería de Detalle (2.8) (F)",
+   "Seguros Adicionales de Construcción y Explotación (2.9) (G)",
    "Mayores Gastos Generales (2.10) (H)",
    "Mayores Gastos de Administración y Control (2.11) (I)",
-   "Gastos de Financiamiento (*)",
-   "Interés del Mes (N = O-1, * 0,54189%) (N)",
-   "Saldo Parcial de la Cuenta de Inversión CC N° 1 (O)",
+   "Gastos de Financiamiento (*) (J)",
+   "Avance mensual de inversiones en CC Nº 1 (K = Suma (B..J)) (K)",
+   "Interés del Mes (N = O t-1 * 0,54189%) (N)",
+   "Saldo Parcial de la Cuenta de Inversión CC Nº 1 (O)",
    "Pagos del MOP (P)",
-   "Saldo Acumulado de la Cuenta de Inversión CC N° 1 (O)"
+   "Saldo Acumulado de la Cuenta de Inversión CC Nº 1 (O)"
   ],
   "filas": [
    [
@@ -4895,59 +9351,67 @@
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
     "0,00",
+    "",
     "0,00",
-    "0,00",
-    "0,00"
+    "",
+    ""
    ],
    [
     "Oct-04",
     "0,00",
     "0",
     "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
-    "0",
     "0",
     "0,00",
+    "5.328",
+    "0",
+    "0",
+    "0",
+    "0",
+    "5.328,00",
     "0,00",
+    "5.328,00",
     "0,00",
-    "0,00"
+    "5.328,00"
    ],
    [
     "Nov-04",
     "16.588,24",
     "0",
     "0",
+    "9.358,49",
+    "935,85",
+    "2.563",
+    "0",
+    "0",
+    "0",
+    "0",
+    "29.445,58",
+    "28,87",
+    "34.802,45",
     "0,00",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0,00",
-    "0,00",
-    "0,00",
-    "0,00"
+    "34.802,45"
    ],
    [
     "Dic-04",
     "53.621,00",
     "0",
-    "0",
     "22.287",
+    "4.312,50",
+    "431,25",
     "751",
     "6.513",
     "18.980",
     "12.138",
     "8.000",
+    "127.033,75",
     "188,59",
     "162.024,79",
     "0,00",
@@ -4958,12 +9422,14 @@
     "69.542,49",
     "0",
     "0",
-    "0,00",
+    "2.981,74",
+    "298,17",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "72.822,40",
     "878,00",
     "235.725,19",
     "0,00",
@@ -4975,11 +9441,13 @@
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "35.820,05",
     "1.277,37",
     "272.822,61",
     "0,00",
@@ -4991,11 +9459,13 @@
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "19.348,22",
     "1.478,40",
     "293.649,23",
     "-128.000,00",
@@ -5007,11 +9477,13 @@
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0,00",
     "897,64",
     "166.546,87",
     "0,00",
@@ -5023,11 +9495,13 @@
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0,00",
     "902,50",
     "167.449,37",
     "0,00",
@@ -5035,15 +9509,17 @@
    ],
    [
     "Jun-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "907,39",
     "168.356,76",
     "0,00",
@@ -5051,15 +9527,17 @@
    ],
    [
     "Jul-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "912,31",
     "169.269,07",
     "0,00",
@@ -5067,15 +9545,17 @@
    ],
    [
     "Ago-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "917,25",
     "170.186,32",
     "0,00",
@@ -5083,15 +9563,17 @@
    ],
    [
     "Sep-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "922,22",
     "171.108,54",
     "0,00",
@@ -5099,15 +9581,17 @@
    ],
    [
     "Oct-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "927,22",
     "172.035,76",
     "0,00",
@@ -5115,15 +9599,17 @@
    ],
    [
     "Nov-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "932,24",
     "172.968,00",
     "0,00",
@@ -5131,15 +9617,17 @@
    ],
    [
     "Dic-05",
-    "0,00",
     "0",
     "0",
     "0,00",
+    "0,00",
     "0",
     "0",
     "0",
     "0",
     "0",
+    "0",
+    "0,00",
     "937,30",
     "173.905,30",
     "0,00",
@@ -5147,243 +9635,273 @@
    ],
    [
     "Ene-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "942,38",
+    "174.847,68",
+    "0,00",
+    "174.847,68"
    ],
    [
     "Feb-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "947,48",
+    "175.795,16",
+    "0,00",
+    "175.795,16"
    ],
    [
     "Mar-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "952,62",
+    "176.747,78",
+    "-102.000,00",
+    "74.747,78"
    ],
    [
     "Abr-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "405,05",
+    "75.152,83",
+    "0,00",
+    "75.152,83"
    ],
    [
     "May-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "407,25",
+    "75.560,08",
+    "0,00",
+    "75.560,08"
    ],
    [
     "Jun-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "409,45",
+    "75.969,53",
+    "",
+    "75.969,53"
    ],
    [
     "Jul-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "411,67",
+    "76.381,20",
+    "0,00",
+    "76.381,20"
    ],
    [
     "Ago-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "413,90",
+    "76.795,10",
+    "0,00",
+    "76.795,10"
    ],
    [
     "Sep-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "416,14",
+    "77.211,24",
+    "0,00",
+    "77.211,24"
    ],
    [
     "Oct-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "418,40",
+    "77.629,64",
+    "0,00",
+    "77.629,64"
    ],
    [
     "Nov-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "420,67",
+    "78.050,31",
+    "0,00",
+    "78.050,31"
    ],
    [
     "Dic-06",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "422,95",
+    "78.473,26",
+    "0,00",
+    "78.473,26"
    ],
    [
     "Ene-07",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "425,24",
+    "78.898,50",
+    "0,00",
+    "78.898,50"
    ],
    [
     "Feb-07",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "427,54",
+    "79.326,04",
+    "0,00",
+    "79.326,04"
    ],
    [
     "Mar-07",
-    "0,00",
-    "0",
-    "0",
-    "0,00",
-    "0",
-    "0",
-    "0",
     "0",
     "0",
     "0,00",
     "0,00",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
     "0,00",
-    "0,00"
+    "429,86",
+    "79.755,90",
+    "-88.000,00",
+    "-8.244,10"
    ],
    [
     "",
@@ -5399,22 +9917,24 @@
     "8.000,00",
     "289.798,00",
     "",
+    "",
+    "",
     ""
    ]
   ],
-  "notas": null,
+  "notas": "Tasa real mensual: 0,54189%",
   "documento": "RITP.D10",
   "paginas": [
    77
   ],
-  "nodo": "RITP.D10.F0070",
+  "nodo": "RITP.D10.F0082",
   "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
  },
  {
   "id": "TABLA:RITP.D10.p0079.1",
   "titulo": null,
   "encabezados": [
-   "Res. N°",
+   "Res. Nº",
    "Mes",
    "Avance Mensual",
    "Mes Pago",
@@ -5499,20 +10019,205 @@
     "8.244,10"
    ]
   ],
-  "notas": "En las particulares condiciones del presente ejemplo numérico, queda un remanente a favor del MOP por UF 8.244,10, que debe ser resuelto bajo las condiciones estipuladas en el numeral 4.2 del Convenio Complementario N° 1.",
+  "notas": null,
   "documento": "RITP.D10",
   "paginas": [
    79
   ],
-  "nodo": "RITP.D10.F0071",
+  "nodo": "RITP.D10.F0084",
   "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°1 (2005-05-16)"
  },
  {
+  "id": "TABLA:RITP.D10.p0081.1",
+  "titulo": null,
+  "encabezados": [
+   "Campo",
+   "Valor"
+  ],
+  "filas": [
+   [
+    "a) A pagar según número 2 a) siguiente:",
+    ""
+   ],
+   [
+    "- Obras y servicios :",
+    "U.F. 125.941,49"
+   ],
+   [
+    "- Interés :",
+    "U.F. 2.058,51"
+   ],
+   [
+    "b) A pagar según número 2 b) siguiente:",
+    ""
+   ],
+   [
+    "- Obras y servicios :",
+    "U.F. 36.083,30"
+   ],
+   [
+    "- Interés :",
+    "U.F. 3.046,89"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D10",
+  "paginas": [
+   81
+  ],
+  "nodo": "RITP.D10.F0086",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°1 (2005-05-16)"
+ },
+ {
+  "id": "TABLA:RITP.D11.p0002.1",
+  "titulo": null,
+  "encabezados": [
+   "MINISTERIO DE HACIENDA"
+  ],
+  "filas": [
+   [
+    "OFICINA DE PARTES"
+   ],
+   [
+    "08 MAYO 2007"
+   ],
+   [
+    "RECIBIDO"
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "RITP.D11.F0010",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°2 (2007-04-30)"
+ },
+ {
+  "id": "TABLA:RITP.D11.p0002.2",
+  "titulo": null,
+  "encabezados": [
+   "CONTRALORIA GENERAL TOMA DE RAZON",
+   "",
+   ""
+  ],
+  "filas": [
+   [
+    "RECEPCION",
+    "",
+    ""
+   ],
+   [
+    "DEPART. JURIDICO",
+    "",
+    ""
+   ],
+   [
+    "DEP. T.R. Y REGISTRO",
+    "",
+    ""
+   ],
+   [
+    "DEPART. CONTABIL.",
+    "",
+    ""
+   ],
+   [
+    "SUB DEP. C. CENTRAL",
+    "",
+    ""
+   ],
+   [
+    "SUB DEP. E. CUENTAS",
+    "",
+    ""
+   ],
+   [
+    "SUB DEP. C.P. Y BIENES NAC.",
+    "",
+    ""
+   ],
+   [
+    "DEPART. AUDITORIA",
+    "",
+    ""
+   ],
+   [
+    "DEPART. V.O.P., U y T.",
+    "",
+    ""
+   ],
+   [
+    "SUB. DEP. MUNICIP.",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "RITP.D11.F0010",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°2 (2007-04-30)"
+ },
+ {
+  "id": "TABLA:RITP.D11.p0002.3",
+  "titulo": null,
+  "encabezados": [
+   "REFRENDACION",
+   ""
+  ],
+  "filas": [
+   [
+    "REF. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "ANOT. POR $",
+    ""
+   ],
+   [
+    "IMPUTAC.",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "DEDUC DTO.",
+    ""
+   ]
+  ],
+  "notas": null,
+  "documento": "RITP.D11",
+  "paginas": [
+   2
+  ],
+  "nodo": "RITP.D11.F0010",
+  "ruta": "Formalidades (vistos, considerandos, firmas, publicaciones ajenas) › Convenio complementario N°2 (2007-04-30)"
+ },
+ {
   "id": "TABLA:RITP.D11.p0009.1",
-  "titulo": "Tabla N° 1",
+  "titulo": "Tabla Nº 1",
   "encabezados": [
    "Año",
-   "Mantenación de Taludes Etapa de Explotación (UF)",
+   "Mantención de Taludes Etapa de Explotación (UF)",
    "Plan de Seguimiento ambiental de Taludes (UF)",
    "Seguimiento Reproductivo Avifauna (UF)",
    "Plan de Seguimiento Ambiental Revegetación (UF)",
@@ -5733,12 +10438,12 @@
   "paginas": [
    9
   ],
-  "nodo": "RITP.D11.F0021",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.146 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado › artículo 1.14.6.2 Cobertura por Sobrecostos por Medidas Adicionales Impuestas por COREMA VIII Regió › Convenio complementario N°2 (2007-04-30)"
+  "nodo": "RITP.D11.F0028",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.1 Pagos del Concesionario › Convenio complementario N°2 (2007-04-30)"
  },
  {
   "id": "TABLA:RITP.D11.p0014.1",
-  "titulo": "ANEXO N° 1 PRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO",
+  "titulo": null,
   "encabezados": [
    "ITEM",
    "DESIGNACION",
@@ -5892,7 +10597,7 @@
    ],
    [
     "10.6",
-    "ASPECTOS SOCIECONOMICOS Y PROTECCION A LA COMUNIDAD",
+    "ASPECTOS SOCIOECONOMICOS Y PROTECCION A LA COMUNIDAD",
     ""
    ],
    [
@@ -5956,23 +10661,59 @@
     "38.261,72"
    ],
    [
-    "",
-    "*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión en medidas ambientales adicionales, de manera que de las UF 17.010,88; corresponde pagar al MOP sólo UF 5.010,88; que actualizadas al 31/12/06 equivalen a UF 5.182,79.-",
+    "1",
+    "MEDIDAS AMBIENTALES ADICIONALES*",
+    ""
+   ],
+   [
+    "1.1",
+    "GEOMORFOLOGIA",
     ""
    ],
    [
     "",
-    "**Corresponden a medidas parcialmente ejecutadas.",
+    "D 176 MANTENCION DE TALUDES ETAPA DE EXPLOTACION",
+    "26.927,16"
+   ],
+   [
+    "",
+    "D 196 PLAN DE SEGUIMIENTO AMBIENTAL DE TALUDES",
+    "1.292,46"
+   ],
+   [
+    "1.2",
+    "FLORA Y VEGETACION",
     ""
+   ],
+   [
+    "",
+    "H 196 PLAN DE SEGUIMIENTO AMBIENTAL REVEGETACION",
+    "90,68"
+   ],
+   [
+    "1.3",
+    "FAUNA",
+    ""
+   ],
+   [
+    "",
+    "I 250 SEGUIMIENTO REPRODUCTIVO AVIFAUNA",
+    "1.701,60"
+   ],
+   [
+    "",
+    "TOTAL",
+    "30.011,90"
    ]
   ],
-  "notas": "*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión en medidas ambientales adicionales, de manera que de las UF 17.010,88; corresponde pagar al MOP sólo UF 5.010,88; que actualizadas al 31/12/06 equivalen a UF 5.182,79.-\n**Corresponden a medidas parcialmente ejecutadas.",
+  "notas": "*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión en medidas ambientales adicionales, de manera que de las UF 17.010,88; corresponde pagar al MOP sólo UF 5.010,88; que actualizadas al 31/12/06 equivalen a UF 5.182,79.- ** Corresponden a medidas parcialmente ejecutadas.",
   "documento": "RITP.D11",
   "paginas": [
-   14
+   14,
+   15
   ],
-  "nodo": "RITP.D11.F0025",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.142 Consideración de Nuevas Inversiones › artículo 1.14,2.3 Normas para la Ejecución de las Obras › Convenio complementario N°2 (2007-04-30)"
+  "nodo": "RITP.D11.F0032",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.2 Consideración de Nuevas Inversiones › artículo 1.14.2.3 Normas para la Ejecución de las Obras › artículo 1.14.2.3.2 Valoración y Ejecución de las Obras › Convenio complementario N°2 (2007-04-30)"
  },
  {
   "id": "TABLA:RITP.D11.p0016.1",
@@ -5980,21 +10721,54 @@
   "encabezados": [
    "ITEM",
    "DESIGNACION",
-   "ENE",
-   "FEB",
-   "MAR",
-   "ABR",
-   "MAY",
-   "JUN",
-   "JUL",
-   "AGO",
-   "SEP",
-   "OCT",
-   "NOV",
-   "DIC",
-   "2005"
+   "2004 / ENE",
+   "2004 / FEB",
+   "2004 / MAR",
+   "2004 / ABR",
+   "2004 / MAY",
+   "2004 / JUN",
+   "2004 / JUL",
+   "2004 / AGO",
+   "2004 / SEP",
+   "2004 / OCT",
+   "2004 / NOV",
+   "2004 / DIC",
+   "2005 / ENE",
+   "2005 / FEB",
+   "2005 / MAR",
+   "2005 / ABR",
+   "2005 / MAY",
+   "2005 / JUN",
+   "2005 / JUL",
+   "2005 / AGO",
+   "2005 / SEP"
   ],
   "filas": [
+   [
+    "",
+    "OBRAS EJECUTADAS",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
    [
     "1",
     "IMPERMEABILIZACION LOSAS DE PUENTES",
@@ -6006,6 +10780,14 @@
     "",
     "",
     "",
+    "401,8",
+    "401,8",
+    "",
+    "",
+    "",
+    "",
+    "401,8",
+    "401,8",
     "",
     "",
     "",
@@ -6014,11 +10796,7 @@
    ],
    [
     "2",
-    "CONEXIÓN VIAL ATRAVESO KM 2.360",
-    "",
-    "1421",
-    "401,8",
-    "401,8",
+    "CONEXIÓN VIAL ATRAVIESO KM 2,360",
     "",
     "",
     "",
@@ -6027,7 +10805,19 @@
     "",
     "",
     "",
-    "401,8"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "3",
@@ -6044,11 +10834,19 @@
     "",
     "",
     "",
-    "12189"
+    "",
+    "1421",
+    "",
+    "12189",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "4",
-    "OBRAS ATRAVIESO KM 2.580 RAMAL ALESSANDRI",
+    "OBRAS ATRAVIESO KM 2,580 RAMAL ALESSANDRI",
     "",
     "",
     "",
@@ -6061,7 +10859,15 @@
     "",
     "",
     "",
-    "135,3"
+    "",
+    "",
+    "",
+    "",
+    "135,3",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "5",
@@ -6078,7 +10884,15 @@
     "",
     "",
     "",
-    "153,3"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "6",
@@ -6091,11 +10905,19 @@
     "",
     "",
     "",
+    "1915",
     "",
     "",
     "",
     "",
-    "263,7"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "7",
@@ -6112,7 +10934,15 @@
     "",
     "",
     "",
-    "24,9"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "8",
@@ -6129,7 +10959,15 @@
     "",
     "",
     "",
-    "49,8"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "263,7",
+    "",
+    "",
+    ""
    ],
    [
     "9",
@@ -6146,11 +10984,27 @@
     "",
     "",
     "",
-    "1026"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10",
     "MEDIDAS AMBIENTALES ADICIONALES*",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "",
     "",
     "",
@@ -6180,7 +11034,90 @@
     "",
     "",
     "",
-    "373,8"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "C 125 A MED. DE RUIDO LAS SALINAS ANTES OPERACIÓN",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "24,9",
+    "",
+    "",
+    "",
+    "24,9"
+   ],
+   [
+    "",
+    "C 125 B MED. DE RUIDO LAS SALINAS 1 TRIMESTRAL 1 AÑO",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "49,8"
+   ],
+   [
+    "",
+    "C 125 E MED. DE RUIDO DESIDERIO GUZMAN 2 TRIMESTRAL 1 AÑO",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10.2",
@@ -6197,7 +11134,90 @@
     "",
     "",
     "",
-    "1904"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "D 175 A ESTABILIDAD DE TALUDES Y LADERAS CON HIDROSIEMBRA",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "1950",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "D 176 MANTENCION DE TALUDES ETAPA DE EXPLOTACION",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "1036",
+    ""
+   ],
+   [
+    "",
+    "D 196 PLAN DE SEGUIMIENTO AMBIENTAL DE TALUDES",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "49,7",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10.3",
@@ -6214,11 +11234,19 @@
     "",
     "",
     "",
-    "373,8"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "F 194",
-    "TRAMPA DE ACEITE",
+    "",
+    "F 194 A TRAMPA DE ACEITE",
     "",
     "",
     "",
@@ -6231,7 +11259,15 @@
     "",
     "",
     "",
-    "141,9"
+    "382,4",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10.4",
@@ -6248,11 +11284,19 @@
     "",
     "",
     "",
-    "373,8"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "H 180",
-    "REVEGETACION EN LADERA DE RUTA",
+    "",
+    "H 180 REVEGETACION EN LADERA DE RUTA",
     "",
     "",
     "",
@@ -6265,11 +11309,19 @@
     "",
     "",
     "",
-    "1004"
+    "",
+    "",
+    "",
+    "",
+    "141,9",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "H 196",
-    "PLAN DE SEGUIMIENTO AMBIENTAL REVEGETACION",
+    "",
+    "H 196 PLAN DE SEGUIMIENTO AMBIENTAL REVEGETACION",
     "",
     "",
     "",
@@ -6282,11 +11334,19 @@
     "",
     "",
     "",
-    "67,1"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "H 200",
-    "PLAN INTEGRADO CALIDAD DE AGUA Y FLORA ACUATICA",
+    "",
+    "H 200 PLAN INTEGRADO CALIDAD DE AGUA Y FLORA ACUATICA",
     "",
     "",
     "",
@@ -6296,14 +11356,22 @@
     "",
     "",
     "",
+    "373,8",
     "",
     "",
     "",
-    "592,7"
+    "",
+    "",
+    "373,8",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "H 210",
-    "REFORESTACION ARBOLES NATIVOS 14,4 Ha",
+    "",
+    "H 210 REFORESTACION ARBOLES NATIVOS 14,4 Ha",
     "",
     "",
     "",
@@ -6316,11 +11384,19 @@
     "",
     "",
     "",
-    "342,0"
+    "",
+    "",
+    "",
+    "1804",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10.5",
-    "VEGETACION",
+    "FAUNA",
     "",
     "",
     "",
@@ -6333,11 +11409,19 @@
     "",
     "",
     "",
-    "914,8"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "1250",
-    "SEGUIMIENTO REPRODUCTIVO AVIFAUNA",
+    "",
+    "I 250 SEGUIMIENTO REPRODUCTIVO AVIFAUNA",
     "",
     "",
     "",
@@ -6350,11 +11434,19 @@
     "",
     "",
     "",
-    "567,2"
+    "",
+    "",
+    "",
+    "567,2",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
-    "1260",
-    "REVEGETAR BOCA O.O.A.A.",
+    "",
+    "I 260 REVEGETAR BOCA O.O.A.A.",
     "",
     "",
     "",
@@ -6367,7 +11459,15 @@
     "",
     "",
     "",
-    "42,0"
+    "",
+    "",
+    "",
+    "67,1",
+    "",
+    "",
+    "",
+    "",
+    ""
    ],
    [
     "10.6",
@@ -6384,83 +11484,6 @@
     "",
     "",
     "",
-    ""
-   ],
-   [
-    "J 250",
-    "SEGUIMIENTO REPRODUCTIVO AVIFAUNA",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "592,7"
-   ],
-   [
-    "J 260",
-    "REVEGETAR BOCA O.O.A.A.",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "342,0"
-   ],
-   [
-    "J 140",
-    "INSTALACION REJAS PEATONALES",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "914,8"
-   ],
-   [
-    "J 150",
-    "INSTALACION SEMAFOROS CRUCE PEATONES",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "5560"
-   ],
-   [
-    "J 160",
-    "PAVIMENTACION CALLE ALTO HORNO",
-    "",
-    "",
-    "",
-    "",
     "",
     "",
     "",
@@ -6472,7 +11495,165 @@
     ""
    ],
    [
+    "",
+    "J 110 PAVIMENTACION CALLE HUALPEN",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "592,7",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "J 120 AISLACION ACUSTICA EN COLEGIO",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "342,0",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "J 130 INSTALACION REJAS PEATONALES",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "914,8",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "J 140 INSTALACION SEMAFOROS CRUCE PEATONES",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "J 150 FORESTACION EN AV. ALTO HORNO",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "42,0",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "J 160 PAVIMENTACION CALLE ALTO HORNO",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
     "DISMINUCIONES",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "",
     "",
     "",
@@ -6490,7 +11671,7 @@
    ],
    [
     "1",
-    "BERMAS EN TSD",
+    "BERMAS EN 1SD",
     "",
     "",
     "",
@@ -6499,6 +11680,14 @@
     "",
     "",
     "",
+    "3765",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "5590",
     "",
     "",
     "",
@@ -6520,23 +11709,31 @@
     "",
     "",
     "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     ""
    ]
   ],
-  "notas": "* De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria Financiar las primeras 12 meses de Inversión.\n** Flujo no considera montos de inversión futuros que se ejecutarán en Junio del año 2007, 2008 y 2009.",
+  "notas": "* De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión. ** Flujo no considera montos de inversión futuros que se ejecutarán en junio del año 2007, 2008 y 2009.",
   "documento": "RITP.D11",
   "paginas": [
    16
   ],
-  "nodo": "RITP.D11.F0026",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.142 Consideración de Nuevas Inversiones › artículo 1.14,2.3 Normas para la Ejecución de las Obras › Convenio complementario N°2 (2007-04-30)"
+  "nodo": "RITP.D11.F0037",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.2 Consideración de Nuevas Inversiones › artículo 1.14.2.3 Normas para la Ejecución de las Obras › artículo 1.14.2.3.2 Valoración y Ejecución de las Obras › Convenio complementario N°2 (2007-04-30)"
  },
  {
   "id": "TABLA:RITP.D11.p0018.1",
-  "titulo": "ANEXO N° 1",
+  "titulo": null,
   "encabezados": [
    "Año",
-   "Mantencción de Taludes Etapa de Explotación (UF)",
+   "Mantención de Taludes Etapa de Explotación (UF)",
    "Plan de Seguimiento ambiental de Taludes (UF)",
    "Seguimiento Reproductivo Avifauna (UF)",
    "Plan de Seguimiento Ambiental Revegetación (UF)",
@@ -6757,21 +11954,21 @@
   "paginas": [
    18
   ],
-  "nodo": "RITP.D11.F0029",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.142 Consideración de Nuevas Inversiones › artículo 1.14,2.3 Normas para la Ejecución de las Obras › Convenio complementario N°2 (2007-04-30)"
+  "nodo": "RITP.D11.F0039",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.14.6 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado › artículo 1.14.6.2 Cobertura por Sobrecostos por Medidas Adicionales Impuestas por COREMA VIII Regió › Convenio complementario N°2 (2007-04-30)"
  },
  {
   "id": "TABLA:RITP.D11.p0029.1",
-  "titulo": "Ejemplo de determinación del pago del MOP para el día 31/03/2008",
+  "titulo": null,
   "encabezados": [
-   "(a) Desde",
-   "(b) Hasta",
-   "(c) TIC anual op. Reaj a 1 año o mas, > UF2.000",
-   "(d) TIC anual op. Reaj a 1 año o mas, > UF2.000 (base diaria)",
-   "(e) Días",
-   "(f) Saldo inicio (UF)",
-   "(g) Interes (UF)",
-   "(h) Nuevo saldo (UF)"
+   "(a) / Desde",
+   "(b) / Hasta",
+   "(c) / TIC anual op. Reaj a 1 año o mas, > UF2.000",
+   "(d) / TIC anual op. Reaj a 1 año o mas, > UF2.000 (base diaria)",
+   "(e) / Dias",
+   "(f) / Saldo inicio / (UF)",
+   "(g) / Interes / (UF)",
+   "(h) / Nuevo saldo / (UF)"
   ],
   "filas": [
    [
@@ -6861,8 +12058,8 @@
     "0,012427%",
     "34",
     "28.625,76",
-    "102,90",
-    "28.746,86"
+    "121,20",
+    "28.746,96"
    ],
    [
     "09/09/2007",
@@ -6870,19 +12067,29 @@
     "4,60%",
     "0,012322%",
     "29",
-    "28.746,86",
-    "109,60",
-    "28.859,47"
+    "28.746,96",
+    "102,90",
+    "28.849,86"
    ],
    [
     "08/10/2007",
     "08/11/2007",
+    "4,42%",
+    "0,011850%",
+    "32",
+    "28.849,86",
+    "109,60",
+    "28.959,47"
+   ],
+   [
+    "09/11/2007",
+    "10/12/2007",
     "4,64%",
     "0,012427%",
     "32",
-    "28.859,47",
+    "28.959,47",
     "115,38",
-    "28.974,85"
+    "29.074,85"
    ],
    [
     "11/12/2007",
@@ -6890,9 +12097,9 @@
     "4,74%",
     "0,012689%",
     "28",
-    "28.974,85",
+    "29.074,85",
     "103,48",
-    "29.078,33"
+    "29.178,33"
    ],
    [
     "08/01/2008",
@@ -6900,7 +12107,7 @@
     "4,90%",
     "0,013107%",
     "31",
-    "29.078,33",
+    "29.178,33",
     "118,79",
     "29.297,12"
    ],
@@ -6925,13 +12132,13 @@
     "29.516,18"
    ]
   ],
-  "notas": "Se debe utilizar la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras. - Las tasas reflejadas en la columna (c) son meramente referenciales para fines del ejemplo y no corresponden a las que efectivamente se deben aplicar. - La columna (g) representa el interés diario (en base a la tasa anual indicada en columna (c)) durante todo el período comprendido entre las fechas indicadas en las columnas (a) y (b).",
+  "notas": "Notas: - Se debe utilizar la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras. - Las tasas reflejadas en la columna (c) son meramente referenciales para fines del ejemplo y no corresponden a las que efectivamente se deben aplicar. - La columna (g) representa el interés diario (en base a la tasa anual indicada en columna (c)) durante todo el período comprendido entre las fechas indicadas en las columnas (a) y (b).",
   "documento": "RITP.D11",
   "paginas": [
    29
   ],
-  "nodo": "RITP.D11.F0042",
-  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1,14 CONDICIONES ECONOMICAS DE LA CONCESION › artículo 1.145 Procedimiento para la realización de Pagos por el MOP y la Sociedad Concesionaria › Convenio complementario N°2 (2007-04-30)"
+  "nodo": "RITP.D11.F0056",
+  "ruta": "Otros contenidos de los actos › regimen economico › Convenio complementario N°2 (2007-04-30)"
  },
  {
   "id": "TABLA:RITP.D14.p0011.1",
@@ -6975,8 +12182,8 @@
   "paginas": [
    11
   ],
-  "nodo": "RITP.D14.F0017",
-  "ruta": "Otros contenidos de los actos › operacion y servicios › Reglamento servicio (2005-05-01)"
+  "nodo": "RITP.D14.F0020",
+  "ruta": "Bases de Licitación › 1 BASES ADMINISTRATIVAS › 1.15 SISTEMA TARIFARIO › artículo 1.15.1 Clasificación de los Tipos de Vehículos › Reglamento servicio"
  },
  {
   "id": "TABLA:RITP.D14.p0016.1",
@@ -6997,7 +12204,7 @@
    [
     "ASOCIACIÓN CHILENA DE SEGURIDAD",
     "Mesa Central",
-    "Cardenio Avelló Nro. 36",
+    "Cardenio Avello Nro. 36",
     "(41)- 402222"
    ],
    [
@@ -7010,7 +12217,7 @@
     "CARABINEROS (COMISARIA)",
     "Prefectura Lomas Verdes",
     "Avda. Alessandri s/n",
-    "(41)- 481799 ó 133"
+    "(41) - 481799 ó 133"
    ],
    [
     "JEFE DE PLAZA",
@@ -7025,13 +12232,13 @@
     "(41)- 466996"
    ]
   ],
-  "notas": "El primer paso en la elaboración de un plan de prevención de riesgos y accidentes es identificar el tipo de emergencia al que se está expuesto.",
+  "notas": null,
   "documento": "RITP.D14",
   "paginas": [
    16
   ],
-  "nodo": "RITP.D14.F0020",
-  "ruta": "Bases de Licitación › 2 BASES TECNICAS › 2.2 OBRAS A REALIZAR › artículo 2.2.1 Obras Nuevas › artículo 2.2.1.7 Servicios Especiales Obligatorios › artículo 2.2.1.7.2 Teléfonos de Emergencia › Reglamento servicio (2005-05-01)"
+  "nodo": "RITP.D14.F0023",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Reglamento servicio"
  },
  {
   "id": "TABLA:RITP.D14.p0036.1",
@@ -7047,15 +12254,15 @@
    ],
    [
     "Incendio",
-    "Ver artículo 5.9"
+    "Ver articulo 5.9"
    ],
    [
     "Derrame de sustancias",
-    "Ver artículo 7.14"
+    "Ver articulo 7.14"
    ],
    [
     "Elementos en la vía (piedras; desechos; animales; etc.)",
-    "Asegurar el lugar con los elementos de seguridad. Si es necesario solicitar refuerzos. Retirar el elemento y desecharlo donde corresponda. Si la sustancia corresponde a un derrame o es peligrosa ver capítulo correspondiente. Ver artículo 7.16"
+    "Asegurar el lugar con los elementos de seguridad. Si es necesario solicitar refuerzos, Retirar el elemento y desecharlo donde corresponda. Si la sustancia corresponde a un derrame o es peligrosa ver capítulo correspondiente. Ver articulo 7.16"
    ],
    [
     "Señales deterioradas",
@@ -7075,7 +12282,7 @@
   "paginas": [
    36
   ],
-  "nodo": "RITP.D14.F0028",
-  "ruta": "Otros contenidos de los actos › operacion y servicios › Reglamento servicio (2005-05-01)"
+  "nodo": "RITP.D14.F0032",
+  "ruta": "Otros contenidos de los actos › operacion y servicios › Reglamento servicio"
  }
 ]

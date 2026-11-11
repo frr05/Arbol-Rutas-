@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 20,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 520,
+ "segundos": 10.1,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 323,
+  "conf_media": 0.936,
+  "frac_baja": 0.015,
+  "frac_rara": 0.0,
+  "tinta": 0.0565
+ },
+ "n_palabras_vlm": 332,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.968,
+ "truncado": false,
+ "texto_ocr": "compensaciones e indemnizaciones de que da cuenta el presente instrumento,\ncomo un pago único y total, utilizando para ello los siguientes factores del régimen\neconómico del contrato:\n\n4.1 Compensación por las Obras del Numeral 2.15\n\na. El MOP, pagará a la Sociedad Concesionaria las indemnizaciones e\ninversiones nuevas o adicionales que se resumen en los conceptos\ndesglosados en el numeral 2.15 del presente Convenio\nComplementario, en las fechas y montos que se especifican en la\nsiguiente tabla:\n\nTabla 2: Compensación por conceptos del numeral 2.15\n\nMonto Total\nA Pagar\n\n[UF]\n128.000\n\nPago 3: 31/03/2007 _ 88.000\n\nEstos pagos serán reconocidos por el MOP, mediante la emisión de Resoluciones\nDGOP conforme al avance de obras ejecutadas mensualmente. La emisión de las\nresoluciones se efectuará a partir de la fecha de vigencia de este Convenio, según\ndicho avance de obras. Los pagos 1 al 3 recién consignados, serán contabilizados con\nsigno negativo en la “Cuenta de Inversión Convenio Complementario N* 1”, y en la\nfecha ya indicada para cada uno de ellos.\n\nLas cuotas indicadas anteriormente han sido fijadas considerando el\nmonto máximo estipulado para los conceptos del numeral 2.15 del\npresente Convenio.\n\nb. Mensualmente, a partir de la entrada en vigencia del presente\nConvenio Complementario, la Sociedad Concesionaria, dentro de los\n5 primeros días de cada mes, deberá presentar al Inspector Fiscal un\ninforme con el detalle del avance de obras ejecutadas y su respectivo\nmonto de inversión asociado correspondiente al mes anterior para las\nobras del numeral 2.15 del presente convenio. Para el caso del primer\ninforme, éste deberá incorporar el avance mensual de todos los\nmeses transcurridos desde el inicio de las obras hasta el mes anterior\na la entrada en vigencia del presente Convenio Complementario,\nsegún se indica en el numeral 3.2 anterior.\n\nEl Inspector Fiscal tendrá un plazo de 25 días para observar el informe\npresentado, plazo después del cual, si no hubiere observaciones, se\n\nÓ\nEA D\nCONCESIONES os",
+ "texto_vlm": "compensaciones e indemnizaciones de que da cuenta el presente instrumento,\ncomo un pago único y total, utilizando para ello los siguientes factores del régimen\neconómico del contrato:\n\n4.1 Compensación por las Obras del Numeral 2.15\n\na. El MOP, pagará a la Sociedad Concesionaria las indemnizaciones e\ninversiones nuevas o adicionales que se resumen en los conceptos\ndesglosados en el numeral 2.15 del presente Convenio\nComplementario, en las fechas y montos que se especifican en la\nsiguiente tabla:\n\nTabla 2: Compensación por conceptos del numeral 2.15\n\nFecha de Pago | Monto Total A Pagar [UF]\nPago 1: 31/03/2005 | 128.000\nPago 2: 31/03/2006 | 102.000\nPago 3: 31/03/2007 | 88.000\nEstos pagos serán reconocidos por el MOP, mediante la emisión de Resoluciones\nDGOP conforme al avance de obras ejecutadas mensualmente. La emisión de las\nresoluciones se efectuará a partir de la fecha de vigencia de este Convenio, según\ndicho avance de obras. Los pagos 1 al 3 recién consignados, serán contabilizados con\nsigno negativo en la “Cuenta de Inversión Convenio Complementario N° 1”, y en la\nfecha ya indicada para cada uno de ellos.\n\nLas cuotas indicadas anteriormente han sido fijadas considerando el\nmonto máximo estipulado para los conceptos del numeral 2.15 del\npresente Convenio.\n\nb. Mensualmente, a partir de la entrada en vigencia del presente\nConvenio Complementario, la Sociedad Concesionaria, dentro de los\n5 primeros días de cada mes, deberá presentar al Inspector Fiscal un\ninforme con el detalle del avance de obras ejecutadas y su respectivo\nmonto de inversión asociado correspondiente al mes anterior para las\nobras del numeral 2.15 del presente convenio. Para el caso del primer\ninforme, éste deberá incorporar el avance mensual de todos los\nmeses transcurridos desde el inicio de las obras hasta el mes anterior\na la entrada en vigencia del presente Convenio Complementario,\nsegún se indica en el numeral 3.2 anterior.\n\nEl Inspector Fiscal tendrá un plazo de 25 días para observar el informe\npresentado, plazo después del cual, si no hubiere observaciones, se\n\n17"
+}

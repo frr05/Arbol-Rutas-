@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000713,
+ "usage": {
+  "completion_tokens": 1463,
+  "prompt_tokens": 4199,
+  "total_tokens": 5662,
+  "completion_tokens_details": {
+   "reasoning_tokens": 822
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.3,
+ "truncado": false,
+ "texto": "las obras que corresponda, deberá ocurrir en la misma oportunidad en que\nse otorgue la Puesta en Servicio Provisoria de las obras originalmente\ncontratadas en los términos establecidos en el presente Convenio\nComplementario.\n\n2.2.4 El valor a suma alzada, único, total y definitivo de las obras adicionales a\nque se refiere el numeral 2.2 del presente convenio, es la suma equivalente\na UF 41.363 (Cuarenta y Un Mil Trescientas Sesenta y Tres Unidades de\nFomento). Este valor se contabilizará de acuerdo a lo estipulado en el\nartículo 1.9.4 de las Bases de Licitación\n\nEste valor comprende los costos por los proyectos de ingeniería y estudios\nasociados, los gastos administrativos, los costos por mayores seguros de\nconstrucción y explotación, los cambios de servicios identificados, los\ncostos financieros derivados de garantías especiales y la construcción de\nlas obras, su conservación, mantención, operación y explotación en los\ntérminos señalados en las Bases de Licitación y en el presente convenio.\nLas cantidades señaladas se establecen de común acuerdo a suma alzada,\nentendiendo por tal un valor único, definitivo y total que asume la sociedad\nconcesionaria en su propio riesgo y beneficio.\n\nEl Director General de Obras Públicas certifica que los valores acordados\nhan sido adecuadamente determinados, y corresponden a aquellos que\nnormalmente prevalecerían en el mercado para obras de este tipo.\n\n2.2.5 Los avances en la ejecución de las obras adicionales que se contratan en el\npresente numeral 2.2 y la materialización de la inversión correspondiente se\ncontabilizarán al igual que las demás del contrato de concesión original\nconforme a las reglas del artículo 1.9.4 de las Bases de Licitación.\n\n2.3 Conexiones Interprediales en Kms. 6,787 y 8,000 de la Ruta Troncal y\nPaso Interpredial en Km. 2,580 del Ramal Alessandri.\n\n2.3.1 Para mantener la conectividad de las propiedades de ASMAR, empresa\nque cedió, aproximadamente 230.000 mts.² de terreno para el\nemplazamiento de la Ruta, en los Km. 6,787 y 8,000 de la Ruta Troncal, la\nSociedad Concesionaria deberá ejecutar dos conexiones interprediales, de\nacuerdo a lo que se señala en los numerales 2.3.2 y 2.3.3 siguientes.\nAdicionalmente, es necesario ejecutar un paso interpredial según se\ndescribe en el numeral 2.3.4.\n\n2.3.2 La conexión interpredial ubicada en el Km. 6,787 de la Ruta Troncal, tiene\nun costo total, acordado a suma alzada, de UF 32.663 (Treinta y Dos Mil\nSeiscientas Sesenta y Tres Unidades de Fomento). Esta cifra incluye los\n\n7"
+}

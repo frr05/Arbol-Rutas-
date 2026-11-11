@@ -1,0 +1,66 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 110,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla Nº 7: Calzadas a construir por la Sociedad Concesionaria Ruta Interportuaria.",
+   "encabezados": [
+    "Km inicio",
+    "Km final",
+    "Longitud (m)",
+    "Obra"
+   ],
+   "filas": [
+    [
+     "0,00",
+     "0,53",
+     "530",
+     "Calzada Doble"
+    ],
+    [
+     "0,53",
+     "4,00",
+     "3.470",
+     "Calzada Simple"
+    ],
+    [
+     "4,00",
+     "10,40",
+     "6.400",
+     "Calzada Simple"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Tabla Nº 8: Terceras pistas a construir por la Sociedad Concesionaria Ruta Interportuaria.",
+   "encabezados": [
+    "Km inicio",
+    "Km final",
+    "Longitud (m)",
+    "Lado",
+    "Observación"
+   ],
+   "filas": [
+    [
+     "1,32",
+     "2,75",
+     "1.430",
+     "Izquierdo",
+     "Pista tráfico lento."
+    ],
+    [
+     "0,00(*)",
+     "0,33(*)",
+     "330",
+     "Derecho",
+     "Pista segregada de empalme a Av. Colón."
+    ]
+   ],
+   "notas": "(*) kilometraje local del eje."
+  }
+ ]
+}

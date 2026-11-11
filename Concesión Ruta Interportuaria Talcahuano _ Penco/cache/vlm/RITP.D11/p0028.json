@@ -2,15 +2,15 @@
  "documento": "RITP.D11",
  "pagina": 28,
  "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 90,
- "segundos": 6.8,
- "fecha": "2026-10-27 19:11",
- "motivos": "palabras_baja_conf",
+ "tokens": 127,
+ "segundos": 9.0,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 46,
   "conf_media": 0.799,
@@ -18,10 +18,10 @@
   "frac_rara": 0.0,
   "tinta": 0.0146
  },
- "n_palabras_vlm": 53,
+ "n_palabras_vlm": 51,
  "frac_rara_vlm": 0.0,
- "similitud": 0.577,
+ "similitud": 0.589,
  "truncado": false,
  "texto_ocr": "i\n\nCONVENIO COMPLEMENTARIO N* 2 DE MODIFICACIÓN DEL CONTRATO\n\nDE CONCESIÓN DE LA OBRA PÚBLICA FISCAL DENOMINADA\n\n\"RUTA INTERPORTUARIA TALCAHUANO -— PENCO POR ISLA ROCUANT”\n\nANEXO N* 3\n\nEJEMPLO NUMÉRICO\n\nss\n\nS\nY,\n\nS eS\nARECOJS\nEE Cr\n\nUS?\n\nES\n2\no POR\nNE 30 E",
- "texto_vlm": "CONVENIO COMPLEMENTARIO N° 2 DE MODIFICACIÓN DEL CONTRATO\nDE CONCESIÓN DE LA OBRA PÚBLICA FISCAL DENOMINADA\n\"RUTA INTERPORTUARIA TALCAHUANO – PENCO POR ISLA ROCUANT\"\n\nANEXO N° 3\n\nEJEMPLO NUMÉRICO\n\n(Una Hoja)\n\nCARLOS DIAZ URRIGAL\nIngeniero Civil U. de Chile\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES\n58"
+ "texto_vlm": "CONVENIO COMPLEMENTARIO N° 2 DE MODIFICACIÓN DEL CONTRATO\nDE CONCESIÓN DE LA OBRA PÚBLICA FISCAL DENOMINADA\n\"RUTA INTERPORTUARIA TALCAHUANO – PENCO POR ISLA ROCUANT\"\n\nANEXO N° 3\n\nEJEMPLO NUMÉRICO\n\n(Una Hoja)\nCARLOS DIAZ [ilegible]\nIngeniero Civil U. de Chile\nINSPECTOR FISCAL\nMINISTERIO DE OBRAS PUBLICAS DIRECCION GENERAL DE OO PP [ilegible]"
 }

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:04",
+ "costo": 0.000683,
+ "usage": {
+  "completion_tokens": 1212,
+  "prompt_tokens": 4410,
+  "total_tokens": 5622,
+  "completion_tokens_details": {
+   "reasoning_tokens": 862
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 16.4,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"COORDENADAS DE PN\", \"encabezados\": [\"N\\u00b0 PN\", \"NORTE\", \"ESTE\", \"COTA\"], \"filas\": [[\"PN-05\", \"6028682.250\", \"674130.678\", \"2.635\"]], \"notas\": null}, {\"titulo\": \"SIMBOLOGIA\", \"encabezados\": [\"DESCRIPCION\", \"SIMBOLO\"], \"filas\": [[\"O.A. PROYECTADA\", \"\"], [\"O.A. EXISTENTE\", \"\"], [\"FOSO REVESTIDO\", \"\"], [\"FOSO EN TIERRA\", \"\"], [\"CANALETA EN TERRAZA IMPRIMACION REFORZADA\", \"\"], [\"CUNETA REVESTIDA\", \"\"], [\"SOLERA TIPO A\", \"\"], [\"BAJADA AGUAS LLUVIA\", \"\"], [\"FOSO REVESTIDO EXISTENTE\", \"\"], [\"SUMIDERO\", \"\"]], \"notas\": null}, {\"titulo\": \"CLOTOIDES SIMETRICAS\", \"encabezados\": [\"col1\", \"col2\", \"col3\", \"col4\"], \"filas\": [[\"Ac 165.01\", \"V1 56.019\", \"A81 0.269\", \"Tmax 3.669\"], [\"TC=128.472\", \"TL=37.352\", \"TC=18.679\", \"\"], [\"BP=56.000\", \"YP=1.076\", \"XC=28.006\", \"\"]], \"notas\": null}]}"
+}

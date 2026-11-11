@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:58",
+ "costo": 0.000639,
+ "usage": {
+  "completion_tokens": 1096,
+  "prompt_tokens": 4199,
+  "total_tokens": 5295,
+  "completion_tokens_details": {
+   "reasoning_tokens": 590
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.9,
+ "truncado": false,
+ "texto": "4.3 La Sociedad Concesionaria deberá adecuar el Reglamento de Servicio de la\nObra y el Plan de Conservación de modo de incorporar a ellos las obras y\nservicios incluidos en el contrato de concesión en virtud del presente\nconvenio. La adecuación de dichos documentos deberá contar con la\naprobación del Inspector Fiscal, y deberá efectuarse dentro del plazo que al\nefecto informe el Inspector Fiscal mediante anotación en el Libro de\nExplotación.\n\n4.4 De toda comunicación o hecho relativo al presente Convenio\nComplementario así como del contrato de concesión, se dejará constancia\nen el Libro de Explotación.\n\nQUINTO: En virtud de las estipulaciones y compensaciones acordadas en el\npresente Convenio y sujeto a la condición que ellas se cumplan totalmente y en\nforma oportuna, la Sociedad Concesionaria otorga al Ministerio de Obras Públicas el\nmás amplio, completo y total finiquito, y renuncia a efectuar cualquier reclamación\nque pudiera haberle correspondido hasta la fecha de suscripción del presente\nConvenio, por las materias tratadas en él.\n\nSEXTO: En todo lo no modificado en el presente Convenio Complementario rigen\nplenamente las estipulaciones del Decreto Supremo de Adjudicación, Bases de\nLicitación y demás instrumentos que forman el Contrato de Concesión.\n\nSEPTIMO: El presente Convenio Complementario se aprobará mediante Decreto\nSupremo, de conformidad con lo dispuesto por el artículo 20 del D.S. MOP Nº 900\nde 1996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP Nº\n164 de 1991. El presente Convenio Complementario tendrá plena validez y vigencia\ndesde la publicación en el Diario Oficial del decreto supremo que lo aprueba.\n\nOCTAVO: Las personerías de don Paulo Bezanilla Saavedra y de don Carlos\nFuenzalida Inostroza para actuar en nombre y representación de la \"Sociedad\nConcesionaria Autopista Interportuaria S.A.\", precedentemente individualizada,\nconsta del Acta de Sesión Extraordinaria de su Directorio efectuada con fecha 1 de\nmarzo de 2006, reducida a escritura pública con fecha 20 de marzo de 2006, en la\nNotaría de Santiago de don Iván Torrealba Acevedo.\n\n8"
+}

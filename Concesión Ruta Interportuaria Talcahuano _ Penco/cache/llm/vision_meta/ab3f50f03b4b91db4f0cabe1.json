@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000726,
+ "usage": {
+  "completion_tokens": 1532,
+  "prompt_tokens": 4195,
+  "total_tokens": 5727,
+  "completion_tokens_details": {
+   "reasoning_tokens": 770
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.8,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n2.6.1.1 Contenido del Plan de Conservación\n\nEl Plan de Conservación de las Obras a que se refiere el artículo 1.10.6 de las Bases Administrativas, deberá\nser diseñado por la Sociedad Concesionaria y deberá ser presentado en un documento que incluya al menos\nlo siguiente:\n\n• La política de conservación elegida con su justificación técnica, haciendo uso de los indicadores\nestablecidos por el MOP, los que serán fiscalizados por el Inspector Fiscal durante todo el período de\nconcesión, y los antecedentes indicados en el artículo 2.6.1.11 de las presentes Bases.\n\n• Un cronograma con las operaciones de conservación rutinarias, periódicas y diferidas, utilizando las\ndenominaciones y unidades de medida definidas en el Catálogo de Conservación de Caminos del MOP y\nnormativas vigentes de la Dirección de Vialidad (y para las que no están definidas en este documento, las\npropuestas por el Concesionario), conjuntamente con estimaciones de las cantidades de obra a ejecutar.\n\nEl plan deberá incluir también las obras de conservación de las instalaciones y servicios anexos del camino\n(Puntos de cobro, Pesaje, Casetas Telefónicas, Areas de Servicio, etc.).\n\n2.6.1.2 Conservación de Pavimentos\n\nDurante la Etapa de Explotación, la Sociedad Concesionaria deberá mantener los pavimentos dentro de los\nniveles establecidos en estas Bases de Licitación, para lo cual se utilizará, donde proceda, el Instructivo de\nInspección Visual de Caminos Pavimentados (versión vigente) del Departamento de Gestión Vial de la\nDirección de Vialidad del MOP. Estos niveles, que serán fiscalizados por el MOP en forma aleatoria durante\ntodo el período de concesión, quedan definidos por los siguientes parámetros de medición:\n\nPavimento Asfáltico:\n\n• Indice de Rugosidad Superficial (IRI) Máximo: 3,5 m/km.\n\nSe deberán efectuar las acciones de conservación antes que la media móvil de 5 tramos de 200 m supere\nel IRI de 3,5 m/km. Este se obtendrá de mediciones efectuadas para cada pista y por sectores homogéneos\nde 200 m (se excluyen los puentes, badenes u otras singularidades que afecten la medición) y se\ninformará en m/km con un decimal.\n\n• Ahuellamiento Máximo: 15 mm\n\n• Agrietamiento: Se controlarán las grietas que causan daños estructurales en los pavimentos y se deberán\nefectuar acciones correctivas mayores, consistentes en el reemplazo de los pavimentos en el área afectada.\n\n- Grietas tipo Piel de Cocodrilo y/o bloque (%): se aceptará como máximo un 10% de grietas por\nkilómetro.\n- Agrietamiento lineal máximo: 10 % por kilómetro.\n\n• Baches Abiertos: Ninguno.\n\n• Resistencia al Resbalamiento (μ): Se exigirá un coeficiente de fricción entre 0,40 y 0,55.\n\n• Bermas: No se permitirá baches abiertos en las bermas ni descensos superiores a 1 cm. Entre estos\núltimos se considera la juntura entre la superficie de rodado y la berma.\n\n• No se aceptará exudación de asfalto.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 120"
+}

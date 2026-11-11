@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000534,
+ "usage": {
+  "completion_tokens": 601,
+  "prompt_tokens": 4142,
+  "total_tokens": 4743,
+  "completion_tokens_details": {
+   "reasoning_tokens": 306
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.4,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Mantenga la batería de repuesto cargada y establezca una frecuencia de\ncambio de baterías de acuerdo a las condiciones de uso y agotamiento de\nésta.\n\n7.13 Procedimientos de primeros auxilios\n\nLas siguientes situaciones pueden presentarse en un accidente tipo c (rescate y\nprimeros auxilios) y tener como consecuencia la pérdida de vidas humanas.\n\nAsfixia\n\nSe produce por aspiración de sangre o de contenidos gástricos, por aspiración\nde otros cuerpos extraños; saliva, secreciones, dientes, placas, prótesis\ndesprendidas.\n\nQUE HACER\n\n- Mantener libre las vías respiratorias extrayendo con los dedos, todo\ncuerpo extraño suelto en la boca.\n\n- Acostar al herido boca abajo y la cara hacia el lado.\n\n- Soltar todo lo que le oprima, y no desabrigar.\n\nAnemia Aguda\n\nSe produce por una pérdida excesiva de sangre.\n\nQUE HACER\n\n- Apretar directamente sobre la herida o entre el corazón y el punto de\nsangramiento.\n\n- Acostar y levantar la extremidad afectada.\n\nShock traumático\n\nSe origina por lesiones, fracturas y quemaduras graves, hemorragias,\ndeshidratación o enfriamiento.\n\n51"
+}

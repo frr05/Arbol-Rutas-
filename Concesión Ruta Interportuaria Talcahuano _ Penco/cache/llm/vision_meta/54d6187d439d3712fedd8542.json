@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000758,
+ "usage": {
+  "completion_tokens": 1695,
+  "prompt_tokens": 4195,
+  "total_tokens": 5890,
+  "completion_tokens_details": {
+   "reasoning_tokens": 876
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.9,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nToda esta información deberá ser presentada en papel y medios magnéticos u ópticos (planillas extensión xls-\nExcel versión 5.0 o superior), acompañando un detalle de las premisas sobre las cuales se basaron las\nestimaciones.\n\n1.5.6      Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Económica\n\nEn la Oferta Económica los licitantes o grupos licitantes presentarán el Documento en el que se hará constar\nel valor de cada uno de los Factores de Licitación definidos en 3.1, según el modelo del Formulario entregado\nen el Anexo N°1.\n\nEl original del Formulario firmado por el Director General de Obras Públicas, se podrá retirar en las oficinas\nde la Coordinación General de Concesiones (Merced 753, 8° piso, Santiago), dentro de los 10 días anteriores\na la apertura de la Oferta Técnica. Sólo se considerarán las Ofertas Económicas que se presenten en el\nFormulario firmado por el Director General de Obras Públicas sin enmiendas, tachaduras, ni\ncondicionamientos de ningún tipo y no serán considerados documentos adicionales que adjunte el licitante o\ngrupo licitante.\n\n1.5.7      Garantía de Seriedad de la Oferta\n\nLos licitantes o grupos licitantes deberán hacer entrega de una o más Boletas de Garantía Bancarias que\ncumplan con las siguientes características:\n\n• Por un monto total de UF 17.000 (diecisiete mil Unidades de Fomento) a nombre del Director General de\nObras Públicas;\n\n• La glosa de cada boleta será:\n\n“Para garantizar la seriedad de la Oferta en la Licitación de la obra pública fiscal denominada «Ruta\nInterportuaria Talcahuano – Penco por Isla Rocuant» a ejecutar por el Sistema de Concesiones”.\n\n• Las boletas serán pagaderas a la vista;\n\n• El tomador deberá ser el licitante, o uno o varios de los integrantes del grupo licitante;\n\n• Deberá tener un plazo de vigencia igual al de la validez de la Oferta establecida en el artículo 1.5.8 de las\npresentes Bases de Licitación;\n\n• Deberá ser emitida en la ciudad de Santiago de Chile por un banco de la plaza.\n\nEl adjudicatario deberá mantener siempre vigente la Garantía de Seriedad de la Oferta hasta que ésta sea\nsustituida por la garantía de construcción.\n\nLas boletas de garantía de seriedad de la Oferta serán devueltas a los licitantes o grupos licitantes no\nadjudicatarios, dentro de los 15 días siguientes a la publicación del Decreto Supremo de Adjudicación de la\nConcesión en el Diario Oficial. En caso que la licitación no fuera adjudicada, éstas serán devueltas en el\nplazo de 30 días desde la notificación de no adjudicación.\n\nLas boletas de garantía de seriedad de la oferta de los licitantes o grupos licitantes cuyas ofertas no resulten\ntécnicamente aceptables serán devueltas dentro de los 15 días posteriores a la fecha de apertura de la Oferta\nEconómica. Las boletas de garantía de seriedad de la Oferta del licitante o grupo licitante adjudicatario serán\ndevueltas dentro de los 15 días siguientes desde la recepción por el MOP de la garantía de construcción a\nentera conformidad.\n\n1.5.8      Validez de la Oferta\n\nLa Oferta permanecerá válida por un plazo de 150 días a contar de la fecha de la apertura de la Oferta\nTécnica.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES\n15"
+}

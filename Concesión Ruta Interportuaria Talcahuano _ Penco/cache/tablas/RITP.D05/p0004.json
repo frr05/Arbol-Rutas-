@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D05",
  "pagina": 4,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:10",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
   {
    "titulo": "Banda Superior de Ingresos (en UF)",
@@ -181,79 +181,48 @@
     ],
     [
      "12",
-     "36.699",
-     "31.341"
+     "36.754",
+     "29.016"
     ],
     [
      "13",
-     "39.884",
-     "33.855"
+     "39.699",
+     "31.341"
     ],
     [
      "14",
-     "42.327",
-     "36.574"
+     "42.884",
+     "33.855"
     ],
     [
      "15",
-     "46.052",
-     "39.514"
+     "46.327",
+     "36.574"
     ],
     [
      "16",
-     "49.435",
-     "42.694"
+     "50.052",
+     "39.514"
     ],
     [
      "17",
      "54.079",
-     "46.133"
+     "42.694"
     ],
     [
      "18",
      "58.435",
-     "49.851"
+     "46.133"
     ],
     [
      "19",
      "63.145",
-     "53.872"
+     "49.851"
     ],
     [
      "20",
      "68.239",
      "53.872"
-    ]
-   ],
-   "notas": null
-  },
-  {
-   "titulo": "Derechos del Concesionario",
-   "encabezados": [
-    "",
-    "Campo",
-    "Valor"
-   ],
-   "filas": [
-    [
-     "a)",
-     "Explotar las obras a contar de la autorización de Puesta en Servicio Provisoria de las obras señaladas en el artículo 1.3.1 de las Bases de Licitación, hasta el término de la concesión, todo ello de conformidad a lo señalado en el artículo 1.10 de las Bases de Licitación.",
-     ""
-    ],
-    [
-     "b)",
-     "Cobrar las tarifas a todos los usuarios de la concesión de acuerdo a lo establecido en los artículos 1.15, 1.16 y 1.17 de las Bases de Licitación. El sistema de cobro podrá ser objeto de revisión a solicitud del Concesionario de conformidad con lo previsto en el artículo 1.15.3 de las Bases de Licitación.",
-     ""
-    ],
-    [
-     "c)",
-     "Explotar los servicios complementarios indicados en el artículo 1.10.10.2 de las Bases de Licitación, de acuerdo al procedimiento y condiciones establecidas en dicho artículo.",
-     ""
-    ],
-    [
-     "d)",
-     "Percibir un Ingreso Mínimo Garantizado ofrecido por el Estado, cuando procediere, de acuerdo a lo establecido en el artículo 1.14.6.1.1 de las Bases de Licitación y en la Oferta Económica del Licitante Adjudicatario, cuyo monto para cada año de explotación de la concesión se indica en el siguiente cuadro:",
-     ""
     ]
    ],
    "notas": null

@@ -1,0 +1,45 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 99,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Año Calendario Explotación",
+    "Banda Superior de Ingresos BSYt (UF) / Incluye Av. Alessandri",
+    "Banda Superior de Ingresos BSYt (UF) / No Incluye Av. Alessandri"
+   ],
+   "filas": [
+    [
+     "16",
+     "145.211 x g",
+     "143.309"
+    ],
+    [
+     "17",
+     "156.896 x g",
+     "154.797"
+    ],
+    [
+     "18",
+     "169.532 x g",
+     "167.219"
+    ],
+    [
+     "19",
+     "183.197 x g",
+     "180.653"
+    ],
+    [
+     "20",
+     "197.974 x g",
+     "195.181"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

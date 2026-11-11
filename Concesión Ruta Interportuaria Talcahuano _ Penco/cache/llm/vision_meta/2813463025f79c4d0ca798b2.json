@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000685,
+ "usage": {
+  "completion_tokens": 1327,
+  "prompt_tokens": 4199,
+  "total_tokens": 5526,
+  "completion_tokens_details": {
+   "reasoning_tokens": 687
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.0,
+ "truncado": false,
+ "texto": "Resolución, la obligación de pago en ella contenida tendrá el carácter\nde irrevocable e incondicional, lo cual deberá ser consignado\nexpresamente en el texto de cada una de dichas Resoluciones.\n\nDe conformidad con lo estipulado en el inciso segundo del artículo 21 de\nla Ley de Concesiones, la Sociedad Concesionaria podrá, entre otras\noperaciones lícitas, ceder o prendar libremente o celebrar cualquier otro\nacto o contrato con el objeto de lograr el financiamiento de las\ninversiones comprometidas, respecto de cada uno de los pagos\ncomprometidos por el Ministerio de Obras Públicas en cada una de las\nResoluciones mensuales antes señaladas en este numeral, lo que\ntambién constará, a mayor abundamiento, en el texto de las respectivas\nResoluciones. En virtud de lo anterior, el MOP pagará las Resoluciones\na su vencimiento a quien sea el legítimo tenedor de las mismas. Estas\nResoluciones no podrán ser prepagadas por el MOP, salvo con el\nconsentimiento del legítimo tenedor de la resolución respectiva, esto\nes, la Sociedad Concesionaria o el adquirente de éstas.\n\nEl MOP sólo pagará las cantidades a que se refiere la Tabla Nº 2, a\nquien presente las Resoluciones mensuales, debidamente suscritas,\nsea este la Sociedad Concesionaria o un tercero. En este último caso, el\ntercero deberá cumplir además con las siguientes condiciones:\n\na) Haber cumplido con todos lo requisitos y formalidades que, de\nconformidad con la legislación general aplicable sean necesarios\npara efectuar el cobro y para que se verifique el pago.\nb) Acreditar ante el DGOP, como representante del MOP, con 20\ndías de antelación al día de vencimiento del plazo fijado para el\npago, el cumplimiento de lo señalado en el literal a) anterior.\n\n4.2 Ajuste derivado de la diferencia entre la Inversión Proyectada versus\nla Inversión Real.\n\nUna vez concluida la totalidad de las obras del Convenio Complementario\nen un plazo máximo de 15 días contados desde su conclusión, el Inspector\nFiscal presentará un informe donde se certifique el saldo de la Cuenta de\nInversión Convenio Complementario Nº1, hasta el 31/03/2007, incluido\nlos intereses correspondientes, y con signo negativo las sumas señaladas\nen los Pagos 1 al 3 indicados en el numeral 4.1 anterior. Si el saldo de la\ncuenta actualizado a una tasa real mensual de 0,54189%, al 30 de junio de\n2005, resultare negativo, la Sociedad Concesionaria deberá pagar al MOP\nel equivalente en pesos al valor absoluto de dicho saldo. Si por el contrario,\nel saldo de la cuenta resultare positivo, el MOP pagará a la Sociedad\nConcesionaria el equivalente en pesos del saldo de la Cuenta de Inversión\n\n20"
+}

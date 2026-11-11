@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000669,
+ "usage": {
+  "completion_tokens": 1139,
+  "prompt_tokens": 4409,
+  "total_tokens": 5548,
+  "completion_tokens_details": {
+   "reasoning_tokens": 350
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.5,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"ITEM\", \"DESCRIPCION\", \"VALORES (UF) / Mes 1\", \"VALORES (UF) / Mes 2\", \"VALORES (UF) / Mes ..\", \"VALORES (UF) / Mes n\", \"VALORES (UF) / Total\"], \"filas\": [[\"A.1\", \"Obras Viales Ruta Interportuaria\", \"\", \"\", \"\", \"\", \"\"], [\"A.1.1\", \"Ruta Interportuaria Km 0,0 al 4,0\", \"\", \"\", \"\", \"\", \"\"], [\"A.1.2\", \"Ruta Interportuaria Km 4,0 al 10,9\", \"\", \"\", \"\", \"\", \"\"], [\"A.2\", \"Enlace Penco\", \"\", \"\", \"\", \"\", \"\"], [\"A.2.1\", \"Obra Vial\", \"\", \"\", \"\", \"\", \"\"], [\"A.2.2\", \"Obras de Iluminaci\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"A.2.3\", \"Obras de Paisajismo\", \"\", \"\", \"\", \"\", \"\"], [\"A.3\", \"Intersecciones a Nivel\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.1\", \"Mejoramiento Intersecci\\u00f3n Las Industrias\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.2\", \"Empalme Col\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"A-3-3\", \"Cambio de Servicios\", \"\", \"\", \"\", \"\", \"\"], [\"A-3-4\", \"Obras de Iluminaci\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"A-3-5\", \"Obras de Paisajismo\", \"\", \"\", \"\", \"\", \"\"], [\"A.4\", \"Estructuras\", \"\", \"\", \"\", \"\", \"\"], [\"A.4.1\", \"Puente sobre R\\u00edo Andali\\u00e9n (Puente Las Ballenas)\", \"\", \"\", \"\", \"\", \"\"], [\"A.4.2\", \"Estructuras sobre FF.CC. (Puente Las Gaviotas)\", \"\", \"\", \"\", \"\", \"\"], [\"A.4.3\", \"Estructuras de conexi\\u00f3n interpredial (3)\", \"\", \"\", \"\", \"\", \"\"], [\"A.5\", \"Obras de Seguridad\", \"\", \"\", \"\", \"\", \"\"], [\"A.5.1\", \"Defensas Camineras\", \"\", \"\", \"\", \"\", \"\"], [\"A.5.2\", \"Se\\u00f1alizaci\\u00f3n y Demarcaci\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"A.5.3\", \"Cierros Perimetrales\", \"\", \"\", \"\", \"\", \"\"], [\"A.6\", \"Defensas Fluviales\", \"\", \"\", \"\", \"\", \"\"], [\"A.6.1\", \"Enrocados de Protecci\\u00f3n\", \"\", \"\", \"\", \"\", \"\"], [\"A.7\", \"Miscel\\u00e1neos\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.1\", \"Obras de Arquitectura\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.2\", \"Obras de Mitigaci\\u00f3n Ambiental\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.3\", \"Rehabilitaci\\u00f3n Puente Rocuant (existente)\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.4\", \"Otros\", \"\", \"\", \"\", \"\", \"\"], [\"\", \".....\", \"\", \"\", \"\", \"\", \"\"], [\"SUBTOTAL A (UF)\", \"SUBTOTAL A (UF)\", \"\", \"\", \"\", \"\", \"\"]], \"notas\": null}]}"
+}

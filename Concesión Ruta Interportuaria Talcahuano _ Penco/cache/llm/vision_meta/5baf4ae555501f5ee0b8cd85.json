@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000756,
+ "usage": {
+  "completion_tokens": 1683,
+  "prompt_tokens": 4195,
+  "total_tokens": 5878,
+  "completion_tokens_details": {
+   "reasoning_tokens": 869
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.4,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n• Uso de factores que afectan a los coeficientes estructurales de las bases granulares en reemplazo del\nfactor regional.\n\nb) Diseños de Hormigón\n\nEl método utilizado será el desarrollado por la AASHTO.\n\nLos parámetros que se utilizarán en la aplicación del método son:\n\n• Módulo de reacción de la subrasante (Kc).\n• Conocidos los menores CBR se determinará el módulo de reacción (K) respectivo utilizando la\nrelación CBR-K. Este valor no será susceptible de mejoramientos, en presencia de sub-bases o bases\ngranulares salvo en el caso de mejoramientos de subrasante.\n\nEn todo caso se tendrá presente los criterios básicos para el diseño de pavimento indicados en el Oficio N°7.848\ndel 21/08/98 de la Dirección de Vialidad y las últimas investigaciones realizadas por el Comité Técnico “Diseño\ny Evaluación de Pavimentos”, liderado por la Cámara Chilena de la Construcción y los antecedentes empleados\nen el diseño estructural de pavimentos en los prediseños referenciales entregados por el MOP.\n\n2.3.2.4 Estructuras\n\nLas dimensiones y emplazamiento de sus partes constitutivas, deben ser coherentes con el diseño geométrico\nvial y deberán estar referidas al mismo sistema de coordenadas y kilometrajes.\n\nPara el diseño de puentes y estructuras a desnivel se requerirá, a lo menos, los sondajes necesarios con una\nprofundidad mínima de 12 m ó una alternativa que permita definir suelos y cotas de fundación, estudios\ngeotécnicos, estudios de mecánica de suelos y de napa freática.\n\nPara la estimación de las cargas de diseño para puentes y otras estructuras se debe usar el tren de cargas HS 20-\n44 + 20 % definido en la Norma AASHTO.\n\nTanto los anchos de los tableros como los gálibos verticales y horizontales propuestos por el Concesionario no\npodrán ser inferiores a lo especificado en el Anteproyecto referencial entregado por el MOP.\n\nLos proyectos de puentes, estructuras a desnivel, muros de contención y pasarelas peatonales deberán cumplir\ncon las normas y someterse a la aprobación del Departamento de Puentes de la Dirección de Vialidad.\n\n2.3.2.5 Defensas Fluviales\n\nLa Sociedad Concesionaria deberá desarrollar los proyectos de ingeniería definitiva de las defensas fluviales a\nconstruir. Dicho proyecto deberá contar con la aprobación del Inspector Fiscal quien consultará al\nDepartamento de Obras Fluviales de la Dirección de Obras Hidráulicas del MOP. El Concesionario deberá\ncomplementar o proponer las modificaciones de los diseños establecidos en el Anteproyecto Referencial, de\nacuerdo a los resultados que se obtengan del proyecto de ingeniería definitiva.\n\nPara el diseño, el Concesionario debe considerar que la cota de coronamiento deberá satisfacer un nivel de\ncrecida fluvial del Río Andalién, correspondiente a un período de retorno de 50 años. La cota de coronamiento\nde las defensas de enrocado definitivas deberá contar con una revancha de 0,5 m sobre el nivel de aguas\nmáximas que se adopte. Adicionalmente, el diseño deberá verificarse para un período de retorno de 100 años.\n\n2.3.2.6 Saneamiento y Drenaje\n\nEl proyecto debe definir todos los dispositivos y equipos que sirvan al propósito de eliminar las aguas\nsuperficiales que hayan de llegar a la obra y/o acumularse en algunos puntos (y eventualmente las subterráneas).\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 111"
+}

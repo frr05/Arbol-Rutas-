@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000564,
+ "usage": {
+  "completion_tokens": 749,
+  "prompt_tokens": 4142,
+  "total_tokens": 4891,
+  "completion_tokens_details": {
+   "reasoning_tokens": 390
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.5,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nQUE HACER\n\n- Aisle, suelte ropas, ponga la cabeza más baja que el resto del cuerpo.\nAbríguese; de líquidos sólo si está consciente.\n\n- No Mueva al paciente y contenga la hemorragia si hubiera.\n\nParo Respiratorio\n\nSe produce por shock eléctrico, golpes, objetos extraños en las vías respiratorias\ny se presenta con una pérdida del conocimiento, color azulado en la cara, uñas y\nlengua.\n\nQUE HACER\n\n- Comenzar rápidamente la respiración artificial.\n\nRespiración artificial\n\nExisten diversos métodos de respiración artificial, siendo el más recomendado\nentre ellos, el de \"boca a boca\".\n\nEste método o técnica de resucitación, ha demostrado ser el método más\npráctico y eficaz, porque proporciona cerca de tres veces más aire a los\npulmones que cualquier otro método.\n\nCuándo es necesaria\n\nLa respiración artificial se requiere en todos aquellos casos en que cesa la\nrespiración normal, o cuando ésta es muy irregular y/o débil. Es decir, en los\ncasos de asfixia, que se produce por la falta o insuficiencia de oxigeno, elemento\nindispensable para la vida.\n\nLos casos en que con frecuencia se requiere la respiración artificial son: choque\neléctrico, envenenamiento, ahogados o sofocación por diversas causas.\n\nCómo se reconoce\n\nLa ausencia de los movimientos de respiración o el color azulado de los labios,\nde la lengua y de las uñas de las manos, son señales de peligro que indican la\n\n52"
+}

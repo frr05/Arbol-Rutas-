@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 24,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 588,
+ "segundos": 9.4,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 393,
+  "conf_media": 0.945,
+  "frac_baja": 0.015,
+  "frac_rara": 0.0,
+  "tinta": 0.0614
+ },
+ "n_palabras_vlm": 392,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.976,
+ "truncado": false,
+ "texto_ocr": "4.3\n\n4.4\n\nConvenio Complementario N%4.\n\n- El pago antes indicado independientemente de a quien corresponda\n\nefectuarlo (el MOP o la Sociedad Concesionaria), deberá realizarse el\núltimo día hábil de junio del año 2005. A este pago se le denominará Cuota\nde Ajuste y un ejemplo numérico de cómo opera éste, se presenta en el\nAnexo N97, Ítem 7.2.\n\nNo obstante lo indicado en el párrafo precedente, en caso que el saldo de\nla Cuenta de Inversión Convenio Complementario N%1, actualizado al 30\nde junio de 2005 resultare negativo, la Sociedad Concesionaria tendrá\nderecho a elegir, a su sola discreción, compensar la diferencia con el pago\nal MOP indicado en el párrafo anterior o renunciar al cobro de un monto\nequivalente en valor presente actualizado mensualmente al 0,54189% de\nlas cuotas cuyo valor no haya sido devengado ni emitido en las\nResoluciones a que hace referencia el numeral 4.1 del presente Convenio\nComplementario. Un ejemplo numérico de esta opción se muestra en el\nAnexo N?7.\n\nEn caso que las obras del presente Convenio no estuvieren terminadas al\n30 de junio de 2005, el Inspector Fiscal deberá efectuar los cálculos en la\nforma especificada en este numeral, sin perjuicio que la obligación de pago,\npara quien corresponda, tendrá como plazo el último día hábil del mes\nsiguiente a aquel en que se terminaren las obras, manteniéndose el criterio\nde actualización basado en la tasa real mensual de 0,54189%.\n\nUna vez efectuados los pagos aludidos en el numeral precedente, no\ncorresponderá ningún otro pago del MOP a la Sociedad Concesionaria para\ncompensar las inversiones que se contratan por medio del presente\nConvenio Complementario.\n\nEn caso de retraso, por parte del MOP, en la fecha de pago de los montos\nindicados en las cuotas a que hace referencia el numeral 4.1 anterior, el\nMinisterio de Obras Públicas deberá pagar, a modo de indemnización de\nperjuicios, un interés real diario de 0,02612% desde la fecha de pago que\ncorrespondía, según lo establecido en el numeral 4.1 del presente\nConvenio, hasta el día de pago efectivo de la obligación. Por su parte, el\nretraso por la Sociedad Concesionaria en el pago a que se refiere el\nnumeral 4.2 anterior, devengará a favor del MOP el mismo interés real\ndiario, sin perjuicio de la facultad del MOP de cobrar las garantías del\nContrato de Concesión que se encuentren vigentes.\n\n21",
+ "texto_vlm": "Convenio Complementario Nº1.\n\nEl pago antes indicado independientemente de a quien corresponda\nefectuarlo (el MOP o la Sociedad Concesionaria), deberá realizarse el\núltimo día hábil de junio del año 2005. A este pago se le denominará Cuota\nde Ajuste y un ejemplo numérico de cómo opera éste, se presenta en el\nAnexo Nº7, Ítem 7.2.\n\nNo obstante lo indicado en el párrafo precedente, en caso que el saldo de\nla Cuenta de Inversión Convenio Complementario Nº1, actualizado al 30\nde junio de 2005 resultare negativo, la Sociedad Concesionaria tendrá\nderecho a elegir, a su sola discreción, compensar la diferencia con el pago\nal MOP indicado en el párrafo anterior o renunciar al cobro de un monto\nequivalente en valor presente actualizado mensualmente al 0,54189% de\nlas cuotas cuyo valor no haya sido devengado ni emitido en las\nResoluciones a que hace referencia el numeral 4.1 del presente Convenio\nComplementario. Un ejemplo numérico de esta opción se muestra en el\nAnexo Nº7.\n\nEn caso que las obras del presente Convenio no estuvieren terminadas al\n30 de junio de 2005, el Inspector Fiscal deberá efectuar los cálculos en la\nforma especificada en este numeral, sin perjuicio que la obligación de pago,\npara quien corresponda, tendrá como plazo el último día hábil del mes\nsiguiente a aquel en que se terminaren las obras, manteniéndose el criterio\nde actualización basado en la tasa real mensual de 0,54189%.\n\n4.3 Una vez efectuados los pagos aludidos en el numeral precedente, no\ncorresponderá ningún otro pago del MOP a la Sociedad Concesionaria para\ncompensar las inversiones que se contratan por medio del presente\nConvenio Complementario.\n\n4.4 En caso de retraso, por parte del MOP, en la fecha de pago de los montos\nindicados en las cuotas a que hace referencia el numeral 4.1 anterior, el\nMinisterio de Obras Públicas deberá pagar, a modo de indemnización de\nperjuicios, un interés real diario de 0,02612% desde la fecha de pago que\ncorrespondía, según lo establecido en el numeral 4.1 del presente\nConvenio, hasta el día de pago efectivo de la obligación. Por su parte, el\nretraso por la Sociedad Concesionaria en el pago a que se refiere el\nnumeral 4.2 anterior, devengará a favor del MOP el mismo interés real\ndiario, sin perjuicio de la facultad del MOP de cobrar las garantías del\nContrato de Concesión que se encuentren vigentes.\n\n21"
+}

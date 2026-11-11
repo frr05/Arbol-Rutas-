@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:53",
+ "costo": 0.000589,
+ "usage": {
+  "completion_tokens": 849,
+  "prompt_tokens": 4195,
+  "total_tokens": 5044,
+  "completion_tokens_details": {
+   "reasoning_tokens": 503
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.8,
+ "truncado": false,
+ "texto": "árboles, desmalezamiento, corte y riego del césped, replantación de especies\ndeterioradas, retiro de excedentes y todas las actividades de mantención que tengan\nrelación con las áreas verdes, obras artísticas construidas por el MOP, iluminación,\nornato, etc.\"\n\n6. En ANEXO Nº3 \"Precios Unitarios Oficiales\", se rectifica el Anexo eliminando la partida 706-1\nque dice:\n\n706-1 | Casetas para paraderos de buses de locomoción colectiva | Nº | 50,00\n\nSaluda atentamente a Ud.,\nEDUARDO ARRIAGADA MORENO\nDIRECTOR GENERAL DE OBRAS PUBLICAS\n\nGMV/IJC/LMM/JAV/EAB\nDISTRIBUCIÓN:\n- Brotec S.A.\n- Figueroa Vial y Cía. Ltda.\n- Concesionaria Tribasa-Inela S.A.\n- Besalco S.A.\n- Cofiroute\n- Empresa Constructora Tecsa S.A.\n- Sociedad Constructora B Y A Ingenieros Ltda.\n- Ingeniería y Construcción Icafal Ltda.\n- Sacyr Chile S.A.\n- Astilleros y Maestranza de la Armada (ASMAR)\n- Constructora Mendes Junior y Asociados\n- Claro Vicuña Valenzuela S.A.\n- Forestales Regionales S.A.\n- Oficina de Partes DGOP\n- Coordinación de Desarrollo y Gestión de Proyectos\n- Unidad Jurídica de Proyectos\n- Archivo División Licitación de Proyectos\n\nCircular Aclaratoria Nº3\nPágina 3 de 3"
+}

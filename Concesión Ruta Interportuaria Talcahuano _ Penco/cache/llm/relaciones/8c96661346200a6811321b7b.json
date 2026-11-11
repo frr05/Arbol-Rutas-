@@ -1,0 +1,46 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:41",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P22"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "1.8.17.1 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día |",
+    "debe_decir": "1.8.17 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día |",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.5.1",
+    "operacion": "agrega_parrafo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1035,
+     1040
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1042,
+     1065
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

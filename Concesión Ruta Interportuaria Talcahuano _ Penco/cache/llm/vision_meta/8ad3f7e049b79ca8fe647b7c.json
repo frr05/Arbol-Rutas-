@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:53",
+ "costo": 0.000755,
+ "usage": {
+  "completion_tokens": 1678,
+  "prompt_tokens": 4195,
+  "total_tokens": 5873,
+  "completion_tokens_details": {
+   "reasoning_tokens": 859
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.7,
+ "truncado": false,
+ "texto": "Ministerio de Obras Públicas Coordinación General de Concesiones\n|  |  | aprobados por la Comisión de Evaluación de la Oferta Técnica, en las condiciones establecidas en su Oferta. |  |  |\nDebe decir:\n| 1.10.10.2 . | 20 | No prestación de los servicios complementarios ofrecidos por el Concesionario, en las condiciones convenidas con el MOP. | Cada día . |  |\n12. En 1.8.9 \"Nuevos Accesos a la Vía Concesionada\", se rectifica el artículo reemplazando el primer párrafo por el siguiente:\n\" Conforme a lo establecido en el artículo 41° del DS MOP N°900 de 1996 y el artículo 91° del DS MOP N°956 de 1997, la Sociedad Concesionaria, con la autorización del MOP, podrá autorizar a terceros interesados, nuevos accesos y conexiones a la obra en concesión y podrá cobrar a estos terceros un pago por el acceso, adicional al costo de las obras necesarias para su habilitación, siempre que el acceso sea directo a las calzadas y que no correspondan a calles de servicio, bajo las siguientes condiciones:\na) El Concesionario, al solicitar autorización previa del MOP para establecer nuevos accesos y conexiones a la obra, deberá individualizar al tercero interesado, acompañando los documentos que acrediten la propiedad del predio, el emplazamiento del acceso, el presupuesto total de las obras necesarias para su habilitación y el monto del pago adicional que cobrará al tercero por dicho acceso o conexión, en caso que éste proceda.\nPara ello, en el plazo de 30 días de recibida la solicitud por parte del tercero, deberá ponerla en conocimiento del MOP, incluyendo los antecedentes indicados en el párrafo anterior. El incumplimiento de esta obligación hará incurrir a la Sociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 de las presentes Bases de Licitación.\nb) Los accesos y conexiones a la obra deberán cumplir con la normativa vigente sobre la materia, en particular en los aspectos técnicos y de seguridad vial, debiendo, además, mantener los estándares definidos en las presentes Bases de Licitación. Dichos proyectos deberán someterse a la aprobación del Inspector Fiscal.\nc) Cuando un tercero solicite un acceso a una calle de servicio de la concesión, si la hubiere, la Sociedad Concesionaria podrá realizar las obras necesarias para el nuevo acceso, conforme a la normativa vigente y solamente podrá cobrar a este tercero el costo de las obras necesarias para su habilitación, las cuales se valorizarán a los Precios Unitarios Oficiales de acuerdo al Anexo N°3.\"\nd) La Sociedad Concesionaria podrá permitir accesos directos a las calzadas de la o las vías concesionadas, sólo en los casos en que no sea posible la conexión con un camino secundario o una calle de servicio. En estos casos, la Sociedad Concesionaria realizará las obras necesarias para materializar el nuevo acceso, conforme a la normativa vigente, y podrá cobrar al tercero, además del costo de las mismas una cantidad adicional que no podrá ser superior al 25% del costo de la obra del acceso cuando se trate de accesos a nivel autorizados por el MOP y del 10% cuando se trate de accesos con estructuras a desnivel. Estas obras se valorizarán a los Precios Unitarios Oficiales de acuerdo al Anexo N°3.\ne) La Sociedad Concesionaria podrá exigir los pagos de las obras a que se refieren las letras precedentes, al contado.\nf) Los accesos y conexiones a las calzadas de la o las vías concesionadas requerirán de un Estudio de Ingeniería, y si lo amerita, un Estudio de Impacto Vial, contratados y financiados por el interesado, que permita considerar medidas\nCircular Aclaratoria N°4 Página 6 de 20"
+}

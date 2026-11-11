@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D01",
  "pagina": 50,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 02:59",
+ "fecha": "2026-11-11 12:01",
  "tablas": [
   {
    "titulo": null,
@@ -51,14 +51,14 @@
      "Sin perjuicio de la extinción de la concesión por incumplimiento grave según el artículo 1.13.3 letra g), cuando el hecho ocurra en más de una oportunidad."
     ],
     [
-     "1.8.2 N°1, N°2, N°4 y N°5",
+     "1.8.2 Nº1, Nº2, Nº4 y Nº5",
      "20",
      "Incumplimiento de la obligación de entregar información al Inspector Fiscal después de transcurridos 5 días desde que haya sido requerida.",
      "Cada día",
      "Sin perjuicio del cobro de las garantías establecidas en el artículo 1.8.3."
     ],
     [
-     "1.8.2 N°3, 2.6.6.4",
+     "1.8.2 Nº3, 2.6.6.4",
      "60",
      "No permitir u obstaculizar el libre acceso del Inspector Fiscal a la información.",
      "Cada vez",

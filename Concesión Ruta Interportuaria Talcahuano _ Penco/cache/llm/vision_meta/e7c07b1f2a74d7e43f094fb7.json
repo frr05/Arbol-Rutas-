@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000611,
+ "usage": {
+  "completion_tokens": 957,
+  "prompt_tokens": 4195,
+  "total_tokens": 5152,
+  "completion_tokens_details": {
+   "reasoning_tokens": 89
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 14.6,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.12      SUSPENSION DE LA CONCESION\n\nLa concesión se suspenderá temporalmente en los casos previstos en el artículo 26º del DS MOP Nº900 de\n1996, quedando suspendidos todos los derechos y obligaciones del Concesionario y del Estado derivados del\nContrato de Concesión. Para los efectos de la reanudación del servicio se procederá a la evaluación de los\ndaños, si existieren, y a determinar la forma en que concurrirán las partes a subsanarlos. A falta de acuerdo entre\nlas partes, se recurrirá a la Comisión Conciliadora.\n\nLas indemnizaciones que procedan para compensar al Concesionario, en caso de que éste haya sufrido\nperjuicios, podrán expresarse en un aumento del plazo de la concesión, aportes del Estado, incrementos\ntarifarios o cualquier otro factor del régimen económico del contrato. Cualquier modificación de las cláusulas\ndel contrato, que afecte las condiciones económicas del mismo, se hará mediante Decreto Supremo del\nMinisterio de Obras Públicas, que deberá llevar, además, la firma del Ministro de Hacienda.\n\nSin perjuicio de lo dispuesto en los párrafos precedentes, en caso de destrucción de la obra durante la\nconstrucción, el Concesionario estará obligado a su reparación total, sin derecho a reembolso, sin perjuicio de\nlo previsto en el artículo 36º del DS MOP Nº956 de 1997 y en el artículo 1.8.12 de las presentes Bases,\nrespecto del seguro por catástrofe.\n\nLa calificación de caso fortuito o fuerza mayor invocada, será efectuada por el Director General de Obras\nPúblicas, quien se pronunciará mediante una resolución fundada y el Fisco no concurrirá a la reparación de\nlos daños producidos por caso fortuito o fuerza mayor.\n\n1.13      EXTINCION DE LA CONCESION\n\n1.13.1      Causas de Extinción de la Concesión\n\nEl Contrato de Concesión se extinguirá cuando se cumpla alguna de las causas siguientes:\n\na)   Cumplimiento del plazo de la concesión establecido en el artículo 1.7.6 de las presentes Bases de\nLicitación, con sus modificaciones si procediere.\n\nb)   Incumplimiento grave de las obligaciones del Concesionario, según lo dispuesto en el artículo 1.13.3 de\nlas presentes Bases.\n\nc)   Mutuo acuerdo entre el MOP y la Sociedad Concesionaria de conformidad con lo dispuesto en el\nartículo 27º, número 2, del DS MOP Nº900 de 1996, Ley de Concesiones.\n\n1.13.2      Extinción de la Concesión por Cumplimiento del Plazo\n\nLa Concesión se extinguirá al cumplirse el plazo por el que se otorgó, con sus modificaciones si procediere.\nAl término de la misma la Sociedad Concesionaria entregará al MOP la totalidad de las obras e instalaciones,\nafectas a la Concesión.\n\n1.13.2.1   Recepción de la Concesión en Caso de Extinción por Cumplimiento del Plazo\n\nEl MOP exigirá a la Sociedad Concesionaria adoptar las medidas que permitan una adecuada continuidad del\nservicio de cada una de las obras, para lo cual la Sociedad Concesionaria deberá entregar la infraestructura,\nobras de arte, obras de saneamiento y drenajes, obras varias, señalizaciones, etc., en las condiciones\nestablecidas en las presentes Bases de Licitación. El estado de los pavimentos deberá tener indicadores de\nacuerdo a lo señalado en el artículo 2.6.1.2 de las Bases Técnicas.\n\nAl menos doce (12) meses antes de la extinción de la concesión por cumplimiento de plazo, calculado por el\nInspector Fiscal, éste levantará un acta de los trabajos que debe realizar la Sociedad Concesionaria para que\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n73"
+}

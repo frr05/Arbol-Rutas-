@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D14",
  "pagina": 11,
- "modelo": "google/gemini-2.5-flash-lite",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:52",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
    "titulo": null,

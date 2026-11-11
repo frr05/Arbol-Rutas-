@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.00056,
+ "usage": {
+  "completion_tokens": 701,
+  "prompt_tokens": 4199,
+  "total_tokens": 4900,
+  "completion_tokens_details": {
+   "reasoning_tokens": 68
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.9,
+ "truncado": false,
+ "texto": "QUINTO: OTRAS ESTIPULACIONES SOBRE EL REGIMEN DEL CONTRATO\nDE CONCESION\n\n5.1 Como consecuencia de la modificación de trazado indicado en el numeral\n2.1 del presente Convenio Complementario, no se incorporará a la\nconcesión parte de la infraestructura pública que fue entregada en virtud de\nlo estipulado en el artículo 1.8.17 de las Bases de Licitación, y que se\nespecifica en el siguiente párrafo.\n\nDe este modo, no integrarán a la obra en concesión, ni a su área de\nconcesión, el trazado original de ésta, desde el PK 10,40 del eje principal\nde la Ruta Interportuaria proyectada hasta la intersección con calle Las\nIndustrias definida en el respectivo Anteproyecto Referencial; y la vía\nexistente desde la intersección Las Industrias hasta el empalme con Avda.\nColón incluyendo el Puente existentes sobre el canal El Morro (Puente\nRocuant).\n\nEn virtud de las obras adicionales cuya construcción se contrata en el\nnumeral 2.2 del presente Convenio, y una vez que se hubiere\nperfeccionado la desafección de los terrenos que se describen en el plano\ndel literal c) del Ítem 2 del Anexo Nº 6, correspondientes a la concesión\nTerminal de Pasajeros Aeropuerto Carriel Sur de Concepción, dichas\nterrenos pasarán a formar parte del área de concesión del contrato Ruta\nInterportuaria Talcahuano – Penco por Isla Rocuant, correspondiéndole a\nSociedad Concesionaria Autopista Interportuaria S.A. sólo la conservación y\nel mantenimiento de esta área, en los términos que consigna la Resolución\nDGOP (Exenta) Nº 2965 de fecha 16 de noviembre de 2004, sin estar\nfacultada para explotar comercialmente estos terrenos.\n\nDe conformidad con la modificación de trazado que se pacta en este\nConvenio Complementario y lo dispuesto en el artículo 3 N° 2 del\nReglamento de la Ley de Concesiones y según su definición del N° 3 del\nartículo 1.2.2 de las Bases de Licitación, se modifica expresamente el Área\nde Concesión, fijándola como toda aquella área requerida para ejecutar las\nobras y prestar los servicios definidos en el contrato de concesión, que\ndeberán estar ubicados en bienes nacionales de uso público o fiscales.\nDicha modificación quedará delimitada en su forma definitiva, una vez que\nel Inspector Fiscal apruebe el proyecto de Ingeniería de Detalle, el que\ndeberá incluir un plano denominado Plano del Área de Concesión.\n\n5.2 Tratamiento Tributario de las Obras de este Convenio\n\nEl Servicio de construcción de las obras adicionales del presente convenio\ndeberá ser facturado por la Sociedad Concesionaria al MOP cada cuatro\n\n22"
+}

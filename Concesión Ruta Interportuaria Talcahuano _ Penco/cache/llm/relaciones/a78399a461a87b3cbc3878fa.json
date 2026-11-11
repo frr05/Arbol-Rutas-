@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-11 12:27",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.14.6.1.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "[P22]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "YPt j : Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número 5, letra g) de las presentes Bases.",
+    "debe_decir": "YPt j : Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número 5, letra h) de las presentes Bases.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

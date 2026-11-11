@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D01",
  "pagina": 213,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:48",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
   {
    "titulo": null,
@@ -39,10 +39,10 @@
      ""
     ],
     [
-     "",
      "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
-     "",
-     ""
+     "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
+     "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL",
+     "PAISAJISMO Y MITIGACION IMPACTO AMBIENTAL"
     ],
     [
      "",

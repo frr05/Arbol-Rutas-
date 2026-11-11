@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.000583,
+ "usage": {
+  "completion_tokens": 819,
+  "prompt_tokens": 4195,
+  "total_tokens": 5014,
+  "completion_tokens_details": {
+   "reasoning_tokens": 259
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.7,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO – PENCO\nPOR ISLA ROCUANT\n\nANEXO Nº2: FORMULARIO Nº3\nRef.: artículo 1.5.5, Letra A, Documento Nº6a).\n\nIDENTIFICACION DE APORTES (*)\n(Los montos serán expresados en moneda al 31 de diciembre de 2000)\n\nNOMBRE LICITANTE/GRUPO LICITANTE: ________________________________________________\n\nNombre Integrante del Licitante/ Grupo Licitante | Participación (Porcentaje) (A) | Patrimonio Total Integrante (Millones de pesos) (B) | Patrimonio Ponderado (Millones de pesos) (C)\n1. |  |  | -\n2. |  |  | \n3. |  |  | \n4. |  |  | \n5. |  |  | \n6. |  |  | \n7. |  |  | \n8. |  |  | \n9. |  |  | \n10. |  |  | \nTotales |  |  | \n\nNotas: (A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación.\n(B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación.\n(C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.350.000.000 (patrimonio mínimo).\n(D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo.\n\nFirma del Representante ante el MOP (**)\n\n(*) Formulario a utilizar por los Licitantes/Grupos Licitantes y por aquellas Sociedades constituidas especialmente para proyectos de concesión que no puedan acreditar por sí mismas los requisitos patrimoniales exigidos por las Bases de Licitación.\n(**) De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento Nº3 de las Bases de Licitación.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES"
+}

@@ -2,15 +2,15 @@
  "documento": "RITP.D14",
  "pagina": 22,
  "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 388,
- "segundos": 17.7,
- "fecha": "2026-11-05 00:47",
- "motivos": "conf_media",
+ "tokens": 396,
+ "segundos": 7.3,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 270,
   "conf_media": 0.862,
@@ -20,8 +20,8 @@
  },
  "n_palabras_vlm": 270,
  "frac_rara_vlm": 0.013,
- "similitud": 0.964,
+ "similitud": 0.971,
  "truncado": false,
  "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIÍA S.A.\n\n- Luego de evaluar la situación con su Jefe de Plaza este\nle dará instrucciones respecto de reanudar sus labores\nen la cabina de peajes.\n\n5.9 Incendio\n\nEl potencial de un incendio forestal o de arbustos siempre está presente en la\noperación de la ruta. Además, el humo y los vehiculos de emergencia que se\nencuentren luchando contra las llamas a lo largo del camino pueden obstruir el\ntránsito. Estos incendios se podrían propagar a estructuras vecinas e interrumpir\nla energía y las comunicaciones.\n\nIncendios pueden ocurrir en edificios en cualquier momento del año y por varias\ncausas,\n\nIhcendio de Arbustos o de Vehiculos\n\nLos empleados que trabajan en el cobro de peajes: cualquiera que observe un\nincendio de pastos o arbustos o un incendio que involucre a un vehículo:\n\n- Llame de inmediato al Administrador Jefe de Plaza. En\ncaso de no ubicarle llamar a bomberos.\n\n- —Déla ubicación exacta del incendio.\n- Dé un informe de las condiciones,\n- — No cuelgue a menos que se lo instruyan,\n\n- De ser posible, envíe a alguien a dirigir a los bomberos al\nlugar del incendio.\n\n- — Asegure el dinero en la cabina y luche contra cualquier\nincendio reducido a Un área con el extintor que se\nencuentra en la cabina de peaje / edificio de servicios, si\nes posible.\n\n- Use un extintor de incendio sólo si ha sido entrenado y\ncuando a! hacerlo no le cause lesiones a usted nia otros.\n\nIncendio en la Oficina\n\n- Llame de inmediato al Administradorísupervisor de turno.\nEn caso de no ubicarle, llamar a bomberos\n\n21",
- "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Luego de evaluar la situación con su Jefe de Plaza este le dará instrucciones respecto de reanudar sus labores en la cabina de peajes.\n\n5.9 Incendio\n\nEl potencial de un incendio forestal o de arbustos siempre está presente en la operación de la ruta. Además, el humo y los vehículos de emergencia que se encuentren luchando contra las llamas a lo largo del camino pueden obstruir el tránsito. Estos incendios se podrían propagar a estructuras vecinas e interrumpir la energía y las comunicaciones.\n\nIncendios pueden ocurrir en edificios en cualquier momento del año y por varias causas.\n\nIncendio de Arbustos o de Vehículos\n\nLos empleados que trabajan en el cobro de peajes: cualquiera que observe un incendio de pastos o arbustos o un incendio que involucre a un vehículo:\n\n- Llame de inmediato al Administrador Jefe de Plaza. En caso de no ubicarle llamar a bomberos.\n- Dé la ubicación exacta del incendio.\n- Dé un informe de las condiciones.\n- No cuelgue a menos que se lo instruyan.\n- De ser posible, envíe a alguien a dirigir a los bomberos al lugar del incendio.\n- Asegure el dinero en la cabina y luche contra cualquier incendio reducido a un área con el extintor que se encuentra en la cabina de peaje / edificio de servicios, si es posible.\n- Use un extintor de incendio sólo si ha sido entrenado y cuando al hacerlo no le cause lesiones a usted ni a otros.\n\nIncendio en la Oficina\n\n- Llame de inmediato al Administrador/supervisor de turno. En caso de no ubicarle, llamar a bomberos\n\n21"
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Luego de evaluar la situación con su Jefe de Plaza este\nle dará instrucciones respecto de reanudar sus labores\nen la cabina de peajes.\n\n5.9 Incendio\n\nEl potencial de un incendio forestal o de arbustos siempre está presente en la\noperación de la ruta. Además, el humo y los vehiculos de emergencia que se\nencuentren luchando contra las llamas a lo largo del camino pueden obstruir el\ntránsito. Estos incendios se podrían propagar a estructuras vecinas e interrumpir\nla energía y las comunicaciones.\n\nIncendios pueden ocurrir en edificios en cualquier momento del año y por varias\ncausas.\n\nIncendio de Arbustos o de Vehiculos\n\nLos empleados que trabajan en el cobro de peajes: cualquiera que observe un\nincendio de pastos o arbustos o un incendio que involucre a un vehículo:\n\n- Llame de inmediato al Administrador Jefe de Plaza. En\ncaso de no ubicarle llamar a bomberos.\n\n- Dé la ubicación exacta del incendio.\n\n- Dé un informe de las condiciones.\n\n- No cuelgue a menos que se lo instruyan.\n\n- De ser posible, envíe a alguien a dirigir a los bomberos al\nlugar del incendio.\n\n- Asegure el dinero en la cabina y luche contra cualquier\nincendio reducido a un área con el extintor que se\nencuentra en la cabina de peaje / edificio de servicios, si\nes posible.\n\n- Use un extintor de incendio sólo si ha sido entrenado y\ncuando al hacerlo no le cause lesiones a usted ni a otros.\n\nIncendio en la Oficina\n\n- Llame de inmediato al Administrador/supervisor de turno.\nEn caso de no ubicarle, llamar a bomberos\n\n21"
 }

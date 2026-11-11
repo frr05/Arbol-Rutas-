@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000599,
+ "usage": {
+  "completion_tokens": 896,
+  "prompt_tokens": 4195,
+  "total_tokens": 5091,
+  "completion_tokens_details": {
+   "reasoning_tokens": 83
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.0,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nla misma obligación de ejecución y cumplimiento de estas medidas en el plazo que se determine, el Concesionario no hubiere dado cumplimiento por tercera vez;\n\ni) Ceder la concesión sin autorización del MOP;\n\nj) Incumplimiento, en dos oportunidades, de los porcentajes de avance de las obras exigidos en el artículo 1.9.4 de las presentes Bases;\n\nk) Demora en más de 60 días en la entrega de cualquiera de las Declaraciones de Avance según los plazos indicados en el artículo 1.9.4 de las presentes Bases;\n\nl) Demoras no autorizadas en la(s) Puesta(s) en Servicio Definitiva de las obras.\n\nm) Incumplimiento de la obligación de iniciar la construcción de las obras correspondientes a la Prolongación de Av. Alessandri en el plazo máximo de un (1) año desde el inicio de la Etapa de Construcción de esta obra, de acuerdo a lo señalado en el artículo 1.9.3, en caso que el licitante o grupo licitante Adjudicatario hubiere aceptado la construcción de la misma en su Oferta Técnica.\n\n1.13.3.1 Procedimiento Previo a la Declaración de Extinción por Incumplimiento Grave\n\nCuando el Concesionario incurra en alguna causal de extinción por incumplimiento grave, y siempre que no exista perjuicio para el interés público, el MOP podrá utilizar el siguiente procedimiento previo a la solicitud de declaración de extinción de la concesión:\n\na) El MOP notificará a la Sociedad Concesionaria y a los acreedores que tengan constituida a su favor la prenda especial de obra pública, sobre los incumplimientos graves del contrato y demás antecedentes relevantes.\n\nb) El Concesionario, en el plazo de 30 días contados desde la notificación, deberá entregar al DGOP el informe conteniendo las medidas para subsanar las faltas o evitar su ocurrencia en el futuro. El informe deberá contar con el Visto Bueno de los acreedores a que hace referencia la letra a) anterior.\n\nc) El informe podrá abordar, entre otras, las siguientes materias: medidas de gestión, cambios en la administración de la sociedad y transferencia voluntaria del contrato de concesión. Además se deberá especificar un cronograma de implementación de las acciones propuestas.\n\nd) El DGOP, sobre la base del informe, fijará un plazo para implementar las medidas bajo la supervisión del Inspector Fiscal.\n\n1.13.3.2 De la Intervención de la Concesión\n\nDentro del plazo de tres días, desde la declaración de incumplimiento grave, el DGOP nombrará un interventor, conforme a lo establecido en el artículo 28º del DS MOP Nº900 de 1996, el que sólo tendrá las facultades necesarias para velar por el cumplimiento del contrato de concesión, y que estará obligado en particular, a continuar aplicando el cobro de las tarifas autorizadas, si la obra está en la Etapa de Explotación, a realizar al Fisco los pagos derivados del contrato de concesión y a exigir del mismo aquellos pagos o aportes que tuviere que realizar el Fisco.\n\nDurante el período de intervención seguirán vigentes todos los derechos y obligaciones del Estado derivados del contrato de concesión.\n\nPrevio al primer llamado a licitación a que se refiere el artículo 28º del DS MOP Nº900 de 1996, el MOP consultará con los acreedores el mínimo de las posturas con las que se realizará el llamado a licitación, que en todo caso no podrá ser inferior a los dos tercios de la deuda contraída por el Concesionario primitivo. A falta de postores se realizará un segundo llamado, cuyo mínimo no podrá ser inferior a la mitad de la deuda contraída\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 75"
+}

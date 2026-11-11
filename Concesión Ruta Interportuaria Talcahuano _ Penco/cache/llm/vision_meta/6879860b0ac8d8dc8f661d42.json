@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000829,
+ "usage": {
+  "completion_tokens": 1936,
+  "prompt_tokens": 4413,
+  "total_tokens": 6349,
+  "completion_tokens_details": {
+   "reasoning_tokens": 1053
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 20.0,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"OBRA\", \"ENTREGADO / DOCUMENTO\", \"ENTREGADO / FECHA\", \"ENTREGA\", \"OBSERVACIONES\"], \"filas\": [[\"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 10\", \"L.O. N\\u00b0 14 FOLIO N\\u00b0 16\", \"15-10-2004\", \"15-10-2004\", \"FISCO DE CHILE\"], [\"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 10 - 1\", \"L.O. N\\u00b0 14 FOLIO N\\u00b0 16\", \"15-10-2004\", \"15-10-2004\", \"FISCO DE CHILE\"], [\"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 10 - 2\", \"L.O. N\\u00b0 14 FOLIO N\\u00b0 16\", \"15-10-2004\", \"15-10-2004\", \"FISCO DE CHILE\"], [\"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON LOTE 7 A\", \"L.O. N\\u00b0 15 FOLIO N\\u00b0 33\", \"16-11-2004\", \"15-11-2004\", \"ASMAR\"], [\"CONEXI\\u00d3N AV. ALESSANDRI LOTE 15 - Nvo\", \"L.O.N\\u00b0 14 FOLIO N\\u00b0 28\", \"19-10-2004\", \"15-10-2004\", \"ING. Y CONSTRUCCION SAN ANDRES LTDA\"], [\"CONEXI\\u00d3N AV. ALESSANDRI LOTE 14B - Nvo\", \"L.O.N\\u00b0 14 FOLIO N\\u00b0 28\", \"19-10-2004\", \"15-10-2004\", \"ING. Y CONSTRUCCION SAN ANDRES LTDA\"], [\"CONEXI\\u00d3N AV. ALESSANDRI LOTE 7 - A\", \"L.O.N\\u00b0 17 FOLIO N\\u00b0 22\", \"10-12-2004\", \"15-11-2004\", \"CONCESIONARIA AEROSUR S.A.\"], [\"CONEXI\\u00d3N AV. ALESSANDRI LOTE 8 - A\", \"L.O.N\\u00b0 17 FOLIO N\\u00b0 22\", \"10-12-2004\", \"15-11-2004\", \"CONCESIONARIA AEROSUR S.A.\"], [\"CONEXI\\u00d3N AV. ALESSANDRI LOTE 13 - A\", \"L.O.N\\u00b0 17 FOLIO N\\u00b0 22\", \"10-12-2004\", \"15-11-2004\", \"CONCESIONARIA AEROSUR S.A.\"], [\"PASO INTERPREDIAL KM 6,787 LOTE 5 A\", \"L.O.N\\u00b0 15 FOLIO N\\u00b0 33\", \"16-11-2004\", \"15-11-2004\", \"ASMAR\"], [\"PASO INTERPREDIAL KM 8,000 LOTE 5 B\", \"L.O.N\\u00b0 15 FOLIO N\\u00b0 33\", \"16-11-2004\", \"15-11-2004\", \"ASMAR\"], [\"PASO INTERPREDIAL N\\u00b0 2 KM 2,580 AV. ALESSANDRI LOTE 13\", \"L.O. N\\u00b0 14 FOLIO N\\u00b0 16\", \"15-10-2004\", \"15-10-2004\", \"NO REQUIERE DE EXPROPIACION\"]], \"notas\": null}]}"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D11",
+ "pagina": 15,
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 366,
+ "segundos": 9.7,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 119,
+  "conf_media": 0.921,
+  "frac_baja": 0.017,
+  "frac_rara": 0.013,
+  "tinta": 0.0266
+ },
+ "n_palabras_vlm": 169,
+ "frac_rara_vlm": 0.011,
+ "similitud": 0.816,
+ "truncado": false,
+ "texto_ocr": "ANEXO N” 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO\n\n¡TEM 1: CONSTRUCCIÓN DE OBRAS NUEVAS, ADICIONALES O MODIFICACIONES DE OBRAS,\nY GASTOS ASOCIADOS\n\n¡TEM 1b) INVERSIONES Y GASTOS POR EJECUTAR\n\n¡TEM DESIGNACION\n\nMEDIDAS AMBIENTALES ADICIONALES*\nGEOMORFOLOGIA\n\nD 176 MANTENCION DE TALUDES ETAPA DE EXPLOTACION\n\nD 196 PLAN DE SEGUIMIENTO AMBIENTAL DE TALUDES\nFLORA Y VEGETACION\n\nH 196 PLAN DE SEGUIMIENTO AMBIENTAL REVEGETACION\nFAUNA\n\n1250 SEGUIMIENTO REPRODUCTIVO AVIFAUNA\n\n*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde al MOP financiar\npor sobre las'UF 12.000 hasta un valor máximo de UF 24.000 de inversión en medidas ambientales\nadicionales. Por sobre las UF 24.000 los costos serán asumidos en partes iguales poriambas partes.",
+ "texto_vlm": "ANEXO Nº 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO\nITEM 1: CONSTRUCCIÓN DE OBRAS NUEVAS, ADICIONALES O MODIFICACIONES DE OBRAS,\nY GASTOS ASOCIADOS\nITEM 1b) INVERSIONES Y GASTOS POR EJECUTAR\nITEM | DESIGNACION | VALOR TOTAL (UF)\n1 | MEDIDAS AMBIENTALES ADICIONALES* | \n1.1 | GEOMORFOLOGIA | \n | D 176 MANTENCION DE TALUDES ETAPA DE EXPLOTACION | 26.927,16\n | D 196 PLAN DE SEGUIMIENTO AMBIENTAL DE TALUDES | 1.292,46\n1.2 | FLORA Y VEGETACION | \n | H 196 PLAN DE SEGUIMIENTO AMBIENTAL REVEGETACION | 90,68\n1.3 | FAUNA | \n | I 250 SEGUIMIENTO REPRODUCTIVO AVIFAUNA | 1.701,60\n | TOTAL | 30.011,90\n*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde al MOP financiar\npor sobre las UF 12.000 hasta un valor máximo de UF 24.000 de inversión en medidas ambientales\nadicionales. Por sobre las UF 24.000 los costos serán asumidos en partes iguales por ambas partes.\n[ilegible]\nINSPECTOR FISCAL\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO.PP.\nDEPT. DE CONCESIONES"
+}

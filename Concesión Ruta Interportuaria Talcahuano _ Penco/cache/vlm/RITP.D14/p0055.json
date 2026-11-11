@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 55,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 479,
+ "segundos": 10.3,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 328,
+  "conf_media": 0.916,
+  "frac_baja": 0.024,
+  "frac_rara": 0.004,
+  "tinta": 0.0541
+ },
+ "n_palabras_vlm": 327,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.985,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- — Respire profundamente y sople el aire hasta que el pecho de la victima se\nlevante. Luego tetire su boca y suelte la nariz y deje exhalar el aire.\n\n- Si la víctima no exhala el aire, vuelva a controlar la posición de la\nmandibula y de la cabeza (inclinada hacia atrás.)\n\n- Tome aire nuevamente mientras escucha el sonido de la salida del aire.\nInfe nuevamente los pulmones de la víctima, tan pronto como haya\nterminado de salir el aire exhalado. Repita 12 a 15 veces por minuto (un\nsoplo cada 5 seg.).\n\n- Continúese la respiración artificial en forma rítmica e interrumpida, hasta\nobtener ayuda medica especializada.\n\nTraumatismo encéfalo craneano\n\nLos accidentes en general y con mayor ocurrencia los del tránsito, representan la\nprincipal causa de muerte en nuestro país.\n\nLos decesos se producen por diversas causas: heridas importantes en diferentes\npartes del cuerpo, mutilaciones, contusiones, etc. Pero tanto en los casos\nfatales, como en aquellos de extrema gravedad, el traumatismo encéfalo\ncraneano es uno de los más usuales,\n\nQué es e TEC\n\nSe define el TEC, al trauma que repercute tanto en el cráneo como en el\nencéfalo, quedando excluido de esta definición, las heridas o golpes menores\nque repercuten solamente en el cuero cabelludo,\n\nLa evolución que experimenta el paciente tras haber sufrido el golpe, es la que\npermite determinar su magnitud.\n\nPor lo tanto, es muy importante saber donde ocurrió el impacto, porque a partir\nde eso se pueden determinar las complicaciones que puedan presentarse,\n\nLos TEC pueden ser abiertos o cerrados.\n\nUn TEC Cerrado es aquel en que no está rota la membrana que recubre el\ncerebro. Es cerrado porque no hay comunicación del exterior con el cerebro,\naunque esté rota la piel e, incluso, aunque haya fractura.\n\nPero, si la membrana que recubre el cerebro está abierta y el cerebro se\ncomunica con el exterior, se está ante un caso de un TEC Abierto.\n\nsd",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Respire profundamente y sople el aire hasta que el pecho de la víctima se\nlevante. Luego retire su boca y suelte la nariz y deje exhalar el aire.\n\n- Si la víctima no exhala el aire, vuelva a controlar la posición de la\nmandíbula y de la cabeza (inclinada hacia atrás.)\n\n- Tome aire nuevamente mientras escucha el sonido de la salida del aire.\nInfle nuevamente los pulmones de la víctima, tan pronto como haya\nterminado de salir el aire exhalado. Repita 12 a 15 veces por minuto (un\nsoplo cada 5 seg.).\n\n- Continúese la respiración artificial en forma rítmica e interrumpida, hasta\nobtener ayuda medica especializada.\n\nTraumatismo encéfalo craneano\n\nLos accidentes en general y con mayor ocurrencia los del tránsito, representan la\nprincipal causa de muerte en nuestro país.\n\nLos decesos se producen por diversas causas: heridas importantes en diferentes\npartes del cuerpo, mutilaciones, contusiones, etc. Pero tanto en los casos\nfatales, como en aquellos de extrema gravedad, el traumatismo encéfalo\ncraneano es uno de los más usuales.\n\nQué es e TEC\n\nSe define el TEC, al trauma que repercute tanto en el cráneo como en el\nencéfalo, quedando excluido de esta definición, las heridas o golpes menores\nque repercuten solamente en el cuero cabelludo.\n\nLa evolución que experimenta el paciente tras haber sufrido el golpe, es la que\npermite determinar su magnitud.\n\nPor lo tanto, es muy importante saber donde ocurrió el impacto, porque a partir\nde eso se pueden determinar las complicaciones que puedan presentarse.\n\nLos TEC pueden ser abiertos o cerrados.\n\nUn TEC Cerrado es aquel en que no está rota la membrana que recubre el\ncerebro. Es cerrado porque no hay comunicación del exterior con el cerebro,\naunque esté rota la piel e, incluso, aunque haya fractura.\nPero, si la membrana que recubre el cerebro está abierta y el cerebro se\ncomunica con el exterior, se está ante un caso de un TEC Abierto.\n\n54"
+}

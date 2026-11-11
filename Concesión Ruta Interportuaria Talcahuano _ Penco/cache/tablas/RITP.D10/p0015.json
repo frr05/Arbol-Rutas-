@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D10",
  "pagina": 15,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:12",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
   {
    "titulo": null,
@@ -49,8 +49,12 @@
      "UF 26.973"
     ],
     [
-     "TOTAL NETO (Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades de Fomento).",
+     "TOTAL NETO",
      "UF 289.798"
+    ],
+    [
+     "(Doscientas Ochenta y Nueve Mil Setecientas Noventa y Ocho Unidades de Fomento).",
+     ""
     ]
    ],
    "notas": null

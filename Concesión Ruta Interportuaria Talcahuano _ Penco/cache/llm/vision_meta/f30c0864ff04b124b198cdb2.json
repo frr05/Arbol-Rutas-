@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000553,
+ "usage": {
+  "completion_tokens": 666,
+  "prompt_tokens": 4195,
+  "total_tokens": 4861,
+  "completion_tokens_details": {
+   "reasoning_tokens": 95
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.6,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nTabla Nº 16: Perfiles Transversales Tipo en Calzada Doble.\n\nELEMENTO | DIMENSIÓN\nNúmero de calzadas | 2\nAncho de calzada unidireccional de dos pistas | 7,0\nAncho mediana (no incluye bermas interiores) | 3,0 m\nBombeo mínimo | 2,5 %\nAncho bermas exteriores | 2,5 m.\nAncho bermas interiores | 1,0 m\nSobreanchos de compactación en zonas sin defensa caminera exterior (lateral) | 0,5 m.\nSobreanchos de compactación en zonas con defensa caminera exterior (lateral) | 1,0 m\nPendiente transversal bermas exteriores | 4,0 % hacia el exterior\nPendiente transversal berma interior (inclinación igual a bombeo) | 2,5 %\nTalud corte en tierra (*) Talud corte en roca meteorizada (*) Talud corte en roca (*), n ≤ 4 | 2 : 2,5 (H:V) 1 : 2 (H:V) 1 : n (H:V)\nTalud terraplén | 3 : 2 (H:V)\nCuneta mediana | Trapezoidal cuando sea necesario\nAncho mínimo cuneta lateral de corte | 0,8 m.\n\nTabla Nº 17: Perfiles Transversales Tipo en Calzada Simple.\n\nELEMENTO | DIMENSIÓN\nNúmero de calzadas | 1\nAncho de calzada bidireccional de dos pistas | 7,0\nBombeo mínimo (en un solo sentido) | 2,5 %\nAncho bermas | 2,5 m.\nSobreanchos de compactación en zonas sin defensa caminera exterior (lateral) | 0,5 m.\nSobreanchos de compactación en zonas con defensa caminera exterior (lateral) | 1,0 m\nPendiente transversal bermas | 4,0 %\nTalud corte en tierra (*) Talud corte en roca meteorizada (*) Talud corte en roca (*), n ≤ 4 | 2 : 2,5 (H: V) 1 : 2 (H: V) 1 : n (H: V)\nTalud terraplén | 3 : 2 (H:V)\nAncho mínimo cuneta lateral de corte | 1,0 m.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 109"
+}

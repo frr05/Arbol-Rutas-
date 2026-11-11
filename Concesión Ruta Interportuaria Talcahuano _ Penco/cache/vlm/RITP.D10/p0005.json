@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 5,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 522,
+ "segundos": 11.9,
+ "fecha": "2026-11-11 11:55",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 326,
+  "conf_media": 0.947,
+  "frac_baja": 0.018,
+  "frac_rara": 0.005,
+  "tinta": 0.0544
+ },
+ "n_palabras_vlm": 326,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.952,
+ "truncado": false,
+ "texto_ocr": "XX\n\n1.2\n\n1.3\n\n1.4\n\n1.5\n\ny sistematizado del DFL MOP N* 164 del año 1991, Ley de Concesiones de\nObras Públicas.\n\nDurante el desarrollo del Contrato de Concesión, el MOP y la Sociedad\nConcesionaria han identificado la inconveniencia de mantener el trazado\nactual de la obra en la conexión con calle Colón en Talcahuano y en la\nconexión con Av. Alessandri en el sector Aeropuerto, para la prestación de\nlos servicios en los niveles definidos, por lo que es necesaria su\nmodificación y ampliación. Por esta razón, el MOP ha asumido la iniciativa\nde solicitar a la Sociedad Concesionaria un conjunto de modificaciones\norientadas a resolver la conectividad de la ruta en su llegada a Talcahuano\ny en el empalme con Av. Alessandri.\n\nEstos mejoramientos, ampliaciones y nuevas inversiones involucran para la\nSociedad Concesionaria mayores inversiones, todo lo cual, de conformidad\ncon lo que establece el artículo 20% de la Ley de Concesiones, obliga a\nconvenir las compensaciones e indemnizaciones necesarias para\nrestablecer el equilibrio económico y financiero del contrato, de manera de\nno comprometer su buen desarrollo y término.\n\nConforme a lo anterior, la Sociedad Concesionaria, compartiendo los\nfundamentos y propósitos enunciados, ha concordado con el Ministerio de\nObras Públicas las cláusulas que en este acto se pactan y que modifican\nexpresamente ciertas condiciones de realización de las obras y del régimen\neconómico del Contrato de Concesión, en los términos y materias que\npasan a expresarse.\n\nForman parte del presente Convenio Complementario los siguientes\nanexos, que se adjuntan a éste:\nAnexo N* 1: Presupuesto de las Nuevas Inversiones.\na) Construcción\nb) Conservación y Mantenimiento\nCc) Proyectos de Ingeniería\nd) Seguros Adicionales\ne) Mayores Gastos Generales\n1 Gastos Adicionales de Administración y Control\ng) Disminución de Obras\nh) Gastos de Financiamiento\n\nAnexo N* 2: Descripción de las Nuevas Inversiones.\nDescripción y presupuesto de los ítems de obras nuevas, adicionales o\n\nmodificaciones de obras incluidas en el PRID, listadas en el Ítem 1 del\nAnexo N* 1.",
+ "texto_vlm": "y sistematizado del DFL MOP Nº 164 del año 1991, Ley de Concesiones de\nObras Públicas.\n\n1.2 Durante el desarrollo del Contrato de Concesión, el MOP y la Sociedad\nConcesionaria han identificado la inconveniencia de mantener el trazado\nactual de la obra en la conexión con calle Colón en Talcahuano y en la\nconexión con Av. Alessandri en el sector Aeropuerto, para la prestación de\nlos servicios en los niveles definidos, por lo que es necesaria su\nmodificación y ampliación. Por esta razón, el MOP ha asumido la iniciativa\nde solicitar a la Sociedad Concesionaria un conjunto de modificaciones\norientadas a resolver la conectividad de la ruta en su llegada a Talcahuano\ny en el empalme con Av. Alessandri.\n\n1.3 Estos mejoramientos, ampliaciones y nuevas inversiones involucran para la\nSociedad Concesionaria mayores inversiones, todo lo cual, de conformidad\ncon lo que establece el artículo 20º de la Ley de Concesiones, obliga a\nconvenir las compensaciones e indemnizaciones necesarias para\nrestablecer el equilibrio económico y financiero del contrato, de manera de\nno comprometer su buen desarrollo y término.\n\n1.4 Conforme a lo anterior, la Sociedad Concesionaria, compartiendo los\nfundamentos y propósitos enunciados, ha concordado con el Ministerio de\nObras Públicas las cláusulas que en este acto se pactan y que modifican\nexpresamente ciertas condiciones de realización de las obras y del régimen\neconómico del Contrato de Concesión, en los términos y materias que\npasan a expresarse.\n\n1.5 Forman parte del presente Convenio Complementario los siguientes\nanexos, que se adjuntan a éste:\nAnexo Nº 1: Presupuesto de las Nuevas Inversiones.\na) Construcción\nb) Conservación y Mantenimiento\nc) Proyectos de Ingeniería\nd) Seguros Adicionales\ne) Mayores Gastos Generales\nf) Gastos Adicionales de Administración y Control\ng) Disminución de Obras\nh) Gastos de Financiamiento\n\nAnexo Nº 2: Descripción de las Nuevas Inversiones.\n\nDescripción y presupuesto de los ítems de obras nuevas, adicionales o\nmodificaciones de obras incluidas en el PRID, listadas en el Ítem 1 del\nAnexo Nº 1.\n\n2"
+}

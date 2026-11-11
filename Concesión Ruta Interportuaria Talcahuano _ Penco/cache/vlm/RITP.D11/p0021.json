@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D11",
+ "pagina": 21,
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 561,
+ "segundos": 7.1,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 352,
+  "conf_media": 0.917,
+  "frac_baja": 0.074,
+  "frac_rara": 0.014,
+  "tinta": 0.0636
+ },
+ "n_palabras_vlm": 327,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.944,
+ "truncado": false,
+ "texto_ocr": "RUTA INTERPORTUARIA TALCAHUANO PENCO POR ISLA ROCUANT\n\n3.- EJECUCIÓN DE BERMAS EN ASFALTO:\n\nEl Proyecto Referencial de Ingeniería de Detalle del contrato consultaba\nbermas del tipo doble tratamiento Superficial (T.S.D.).\n\nComo consecuencia del atraso en la entrega por parte del MOP de los\nterrenos necesarios para la ejecución de las obras contempladas en el\nConvenio Complementario NO 1, se acordó la construcción de bermas en\nPavimento Asfáltico, lo cual permitió un menor plazo de ejecución, sin\ncomprometer la calidad técnica de éstas.\n\n4.- OBRAS COMPLEMENTARIAS EN ATRAVIESO KM 2.580\nRAMAL ALESSANDRE:\n\nA fin de permitir el uso compartido de este atravieso de ganado,\nconstruido en el Km. 2,580 del Ramal Alessandri, tanto por el predio Los\nBudes como por el predio Sucesión Rebolledo, se requirió construir un\ncorredor por ambos lados de la Ruta, que atraviesa dos canales de\ndrenaje, por lo cual se hizo necesario construir cuatro puentes menores\nde madera, construcción de cercos y portones, todas estas obras según\nespecificaciones técnicas definidas en el Manual de Carreteras.\n\n5.- CONSTRUCCIÓN DE PORTONES EN PREDIO DE ASMAR:\n\nA fin de dar cumplimiento a lo señalado en el Protocolo de Acuerdo\nsuscrito entre el Ministerio de Obras Públicas y la Dirección de ASMAR,\nes necesario mantener habilitados cuatro accesos provisorios\nconstruidos en los Km. 4,90 y Km. 7,20 de la Ruta Troncal.\n\nDichos accesos requirieron, además, la construcción de cuatro portones\nde madera, según especificaciones técnicas definidas en el Manual de\nCarreteras, que mantengan cerrada la faja vial e impidan, entre otros,\nla circulación de animales hacia la Ruta.\n\n6.- OBRAS ADICIONALES ATRAVIESO KM 1.900 EN LOTE NO 14\nDE ARMADA DE CHILE:\n\nPor resolución DGOP NY 152, se autorizó invertir la cantidad de UF 2.500\n(dos mil quinientas unidades de fomento) para ejecutar un atravieso\ninterpredial en el Km. 1.900 del Ramal Alessandri, Lote N* 14 de la\nArmada de Chile. Posterior a.la mencionada-resolución y antes del inicio\nCONVENIO COMPLEMENTARIO N*2 p y\n\nY C e,\nrd E y [27 Daz\n( ¿Q ¡zu OS\nPR) ES\nNÓ\n\nPAG. 2 DE 8 LS\n\nÑ\n\nLA\n4\n\no\n\nO DE\n\n0\npS GEA;",
+ "texto_vlm": "RUTA INTERPORTUARIA TALCAHUANO PENCO POR ISLA ROCUANT\n\n3.- EJECUCIÓN DE BERMAS EN ASFALTO:\n\nEl Proyecto Referencial de Ingeniería de Detalle del contrato consultaba\nbermas del tipo doble tratamiento Superficial (T.S.D.).\n\nComo consecuencia del atraso en la entrega por parte del MOP de los\nterrenos necesarios para la ejecución de las obras contempladas en el\nConvenio Complementario Nº 1, se acordó la construcción de bermas en\nPavimento Asfáltico, lo cual permitió un menor plazo de ejecución, sin\ncomprometer la calidad técnica de éstas.\n\n4.- OBRAS COMPLEMENTARIAS EN ATRAVIESO KM 2.580\nRAMAL ALESSANDRI:\n\nA fin de permitir el uso compartido de este atravieso de ganado,\nconstruido en el Km. 2.580 del Ramal Alessandri, tanto por el predio Los\nBudes como por el predio Sucesión Rebolledo, se requirió construir un\ncorredor por ambos lados de la Ruta, que atraviesa dos canales de\ndrenaje, por lo cual se hizo necesario construir cuatro puentes menores\nde madera, construcción de cercos y portones, todas estas obras según\nespecificaciones técnicas definidas en el Manual de Carreteras.\n\n5.- CONSTRUCCIÓN DE PORTONES EN PREDIO DE ASMAR:\n\nA fin de dar cumplimiento a lo señalado en el Protocolo de Acuerdo\nsuscrito entre el Ministerio de Obras Públicas y la Dirección de ASMAR,\nes necesario mantener habilitados cuatro accesos provisorios\nconstruidos en los Km. 4,90 y Km. 7,20 de la Ruta Troncal.\n\nDichos accesos requirieron, además, la construcción de cuatro portones\nde madera, según especificaciones técnicas definidas en el Manual de\nCarreteras, que mantengan cerrada la faja vial e impidan, entre otros,\nla circulación de animales hacia la Ruta.\n\n6.- OBRAS ADICIONALES ATRAVIESO KM 1.900 EN LOTE Nº 14\nDE ARMADA DE CHILE:\n\nPor resolución DGOP Nº 152, se autorizó invertir la cantidad de UF 2.500\n(dos mil quinientas unidades de fomento) para ejecutar un atravieso\ninterpredial en el Km. 1.900 del Ramal Alessandri, Lote Nº 14 de la\nArmada de Chile. Posterior a la mencionada resolución y antes del inicio\nCONVENIO COMPLEMENTARIO Nº2 PAG. 2 DE 8"
+}

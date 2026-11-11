@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000737,
+ "usage": {
+  "completion_tokens": 1483,
+  "prompt_tokens": 4409,
+  "total_tokens": 5892,
+  "completion_tokens_details": {
+   "reasoning_tokens": 622
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 15.0,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"GRUPO LICITANTE\", \"\"], [\"MONEDA\", \"Millones de $ del 31 de Diciembre de 2000\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"Nombre Integrante / Participaci\\u00f3n (%) / A\\u00f1o\", \"Integrante 1 / a% / 1998\", \"Integrante 1 / a% / 1999\", \"Integrante 1 / a% / 2000\", \"...... /  / 1998\", \"...... /  / 1999\", \"...... /  / 2000\", \"Integrante n / z% / 1998\", \"Integrante n / z% / 1999\", \"Integrante n / z% / 2000\", \"Consolidado / 100% / 1998\", \"Consolidado / 100% / 1999\", \"Consolidado / 100% / 2000\"], \"filas\": [[\"ACTIVO CIRCULANTE\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"Existencias\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"Cuentas por cobrar\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"ACTIVO FIJO\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"TOTAL ACTIVOS\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"PASIVO CIRCULANTE\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"PASIVO LARGO PLAZO\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"TOTAL PASIVOS CP+LP\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"PATRIMONIO\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"Nombre Integrante / Participaci\\u00f3n (%) / A\\u00f1o\", \"Integrante 1 / a% / 1998\", \"Integrante 1 / a% / 1999\", \"Integrante 1 / a% / 2000\", \"...... /  / 1998\", \"...... /  / 1999\", \"...... /  / 2000\", \"Integrante n / z% / 1998\", \"Integrante n / z% / 1999\", \"Integrante n / z% / 2000\", \"Consolidado / 100% / 1998\", \"Consolidado / 100% / 1999\", \"Consolidado / 100% / 2000\"], \"filas\": [[\"INGRESOS DE EXPLOTACION\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"MARGEN DE EXPLOTACION\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"RESULTADO OPERACIONAL\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"RESULTADO NO OPERACIONAL\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"RESULTADO Antes IMPUESTOS\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"Impuestos\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"Gastos Financieros\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"Correcci\\u00f3n Monetaria\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"], [\"UTILIDAD Despu\\u00e9s IMPUESTOS\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"]], \"notas\": \"(1) La columna Consolidado corresponde a la suma ponderada seg\\u00fan el porcentaje de participaci\\u00f3n de cada integrante del Grupo Licitante. (2) Las cifras deben ser expresadas en pesos del 31/12/2000.\"}]}"
+}

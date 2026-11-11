@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4.1-flash",
+ "fecha": "2026-11-11 12:34",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.14.6.1.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "a) Se establece una Banda Superior de Ingresos, que depende del tramo de licitación dentro del cual el licitante o grupo licitante haya presentado su Oferta Económica, de acuerdo a la Tabla Nº 4.",
+    "debe_decir": "a) La aplicación del presente Mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria dependerá del tramo de licitación dentro del cual el licitante o grupo licitante adjudicatario haya presentado su Oferta Económica, según lo que se indica a continuación: En caso que la concesión se adjudique en el Tramo A de licitación, de acuerdo a lo establecido en los artículos 3.1.1 y 3.2.1 de estas Bases, no regirá el presente mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria. En los demás casos, dicho mecanismo se aplicará de acuerdo a lo establecido en el presente artículo. Para tales efectos, se establece una Banda Superior de Ingresos, de acuerdo a la Tabla Nº 4.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

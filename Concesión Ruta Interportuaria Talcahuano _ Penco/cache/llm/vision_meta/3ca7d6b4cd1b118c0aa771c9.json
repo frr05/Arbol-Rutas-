@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:04",
+ "costo": 0.000575,
+ "usage": {
+  "completion_tokens": 671,
+  "prompt_tokens": 4413,
+  "total_tokens": 5084,
+  "completion_tokens_details": {
+   "reasoning_tokens": 512
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.7,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"a) A pagar seg\\u00fan n\\u00famero 2 a) siguiente:\", \"\"], [\"- Obras y servicios :\", \"U.F. 125.941,49\"], [\"- Inter\\u00e9s :\", \"U.F. 2.058,51\"], [\"b) A pagar seg\\u00fan n\\u00famero 2 b) siguiente:\", \"\"], [\"- Obras y servicios :\", \"U.F. 36.083,30\"], [\"- Inter\\u00e9s :\", \"U.F. 3.046,89\"]], \"notas\": null}]}"
+}

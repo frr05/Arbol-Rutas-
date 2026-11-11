@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000685,
+ "usage": {
+  "completion_tokens": 1327,
+  "prompt_tokens": 4199,
+  "total_tokens": 5526,
+  "completion_tokens_details": {
+   "reasoning_tokens": 665
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.5,
+ "truncado": false,
+ "texto": "“Para garantizar la reposición de obras en el sector de acceso al Aeropuerto\nCarriel Sur por eventuales daños con motivo de la construcción de obras del\nempalme con la Ruta Interportuaria Talcahuano-Penco por Isla Rocuant”. El\nalcance de estas obras estará consignado en la citada Resolución y\ncorresponderá, a la instalación de semáforos y al empalme de la ruta con el\nacceso al Aeropuerto Carriel Sur además de otras obras menores\ncomplementarias a las anteriores.\n\nEl resto de las obras del empalme, corresponde a los primeros 300 metros del\ntrazado del camino en el Ramal Alessandri, que se emplazará en terrenos de\nlos lotes 7, 13 y 8 ubicados dentro del área de la actual concesión Terminal de\nPasajeros Aeropuerto Carriel Sur de Concepción, con un ancho de faja de 40\nmetros, los que, para los efectos del presente Convenio, serán desafectados\nde dicha concesión, conforme se indica en el numeral 5.1 siguiente y el Anexo\nNº 6, ítem 2, c) . Dichos terrenos serán entregados por el MOP de acuerdo a\nlo que consigna la Tabla 1 del numeral 2.18 del presente Convenio\nComplementario.\n\nEstas obras cumplirán los estándares y requisitos exigidos en el presente\nconvenio complementario para cada una de ellas y deberán contar con la\naprobación del Inspector Fiscal. Las obras tienen por objeto cumplir lo\nestipulado en el penúltimo párrafo del artículo 1.3.2 de las Bases de\nLicitación, en el sentido de ejecutar las obras provisorias de empalme a la\nvialidad existente. Todo ello, dado que el proyecto “Ampliación de Av. Jorge\nAlessandri, Sector Trébol-Aeropuerto” no será ejecutado por el MOP en\nforma previa a la Puesta en Servicio Provisoria programada por la Sociedad\nConcesionaria.\n\n2.2.2 La ingeniería y estudios necesarios para ejecutar estas obras serán de\nresponsabilidad de la Sociedad Concesionaria y ejecutadas por ella, según\nel diseño conceptual entregado por el MOP, debiendo desarrollarse en\ncoordinación con éste hasta su aprobación por el Inspector Fiscal.\n\nEl plazo para la ejecución de los proyectos, hasta su conclusión al nivel de\nIngeniería de Detalle, se estipula en el Anexo Nº 4, plazo que considera\nque el MOP entregó en tiempo y forma el anteproyecto de ingeniería\n(diseño conceptual), antes del 30 de septiembre de 2004.\n\n2.2.3 La construcción de estas obras (Empalme de la Ruta con la Av. Alessandri),\nconsignadas en los anexos Nº1 y Nº2 se realizará en conjunto con las\nobras del cambio de trazado consignadas en el numeral 2.1.\n\nSu autorización de Puesta en Servicio Provisoria y la consiguiente entrega\na la administración y tuición efectiva por el ente público competente, para\n\n6"
+}

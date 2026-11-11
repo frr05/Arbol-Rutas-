@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000604,
+ "usage": {
+  "completion_tokens": 921,
+  "prompt_tokens": 4195,
+  "total_tokens": 5116,
+  "completion_tokens_details": {
+   "reasoning_tokens": 83
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.0,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nplazo no superior a 30 días de recibido el Programa Anual, el inspector Fiscal notificará al Concesionario la\naprobación u observaciones a dicho documento. Si el Inspector Fiscal efectuare observaciones al Programa\nAnual, la Sociedad Concesionaria tendrá un plazo de 15 días, contados desde la notificación de las\nobservaciones, para corregirlas y hacer entrega del nuevo Programa Anual al Inspector Fiscal. Presentado el\nnuevo Programa por el Concesionario, el Inspector Fiscal, en el plazo máximo de 15 días, deberá\npronunciarse acerca de éste. Si en definitiva este documento no fuere aprobado por el Inspector Fiscal, la\nSociedad Concesionaria deberá presentarlo nuevamente para su aprobación, en cuyo caso regirá el\nprocedimiento antes señalado.\n\nDurante el mes de enero de cada año calendario la Sociedad Concesionaria deberá hacer entrega de un\ninforme de las actividades de conservación realizadas en los últimos doce (12) meses.\n\nLa Sociedad Concesionaria estará obligada a conservar las obras en las condiciones contempladas en el\nContrato de Concesión y en el Programa Anual de Conservación vigente aprobado, reparando o sustituyendo\nlos elementos que se deterioren por su uso y por el transcurso del tiempo. A su vez el Inspector Fiscal deberá\nexigir al Concesionario la nueva ejecución de aquellas tareas de conservación mal ejecutadas o insuficientes.\n\nEl incumplimiento de esta obligación, hará incurrir a la Sociedad Concesionaria en las multas establecidas en\nel artículo 1.8.5.1 de las presentes Bases de Licitación.\n\n1.10.7 Alteración en la Prestación del Servicio\n\nCuando la Sociedad Concesionaria, como consecuencia de la realización de los trabajos, prevea una\nalteración temporal en el nivel de servicio prestado, deberá comunicarlo por escrito al Inspector Fiscal a lo\nmenos con 15 días de anticipación al hecho, e informar debidamente a los usuarios, sin perjuicio de lo\ndispuesto en el artículo 2.6.3.3 de las presentes Bases.\n\nEl Inspector Fiscal calificará el hecho y podrá exigir la adopción de medidas, por parte del Concesionario,\nconducentes a procurar las mínimas interferencias en el uso normal de la obra. Estas medidas podrán referirse\na fijación de horarios, señalización, iluminación, precauciones de seguridad, plazo máximo de ejecución de\nobras u otras necesarias.\n\nEl incumplimiento de estas obligaciones, hará incurrir a la Sociedad Concesionaria en las multas establecidas\nen el artículo 1.8.5.1 de las presentes Bases.\n\n1.10.8 Estadísticas, Mediciones y Controles\n\nLa Sociedad Concesionaria deberá realizar los controles, mediciones y estadísticas que se exigen en las\npresentes Bases de Licitación y se estipulan en el Reglamento de Servicio de la Obra, respondiendo de la\nveracidad de la información. Permitirá el acceso del Inspector Fiscal a las dependencias donde están\nestablecidos los sistemas de control estadístico a fin de imponerse de ellos, verificar y controlar los\nresultados.\n\nSi los datos proporcionados por la Sociedad Concesionaria a la Inspección Fiscal contienen errores producto\nde actos negligentes del Concesionario, o la información entregada por el Concesionario presenta datos o\nantecedentes maliciosamente falsos o incompletos, se aplicarán las multas establecidas en el artículo 1.8.5.1\nde las presentes Bases de Licitación.\n\nSin perjuicio de lo anterior, el MOP se reserva el derecho de efectuar, en forma independiente, cualquier\nmedición que estime conveniente, pudiendo utilizar las instalaciones del Concesionario que digan relación\ncon los sistemas de control, sin afectar el funcionamiento de la concesión.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n70"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000499,
+ "usage": {
+  "completion_tokens": 292,
+  "prompt_tokens": 4409,
+  "total_tokens": 4701,
+  "completion_tokens_details": {
+   "reasoning_tokens": 132
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 4.6,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N\\u00ba 12: Zonas de Instalaci\\u00f3n de Mallas Perimetrales\", \"encabezados\": [\"De Km Aproximado\", \"A Km Aproximado\", \"Longitud (m)\", \"Lado\", \"Ubicaci\\u00f3n\"], \"filas\": [[\"4,30\", \"6.0\", \"1.700\", \"Derecho\", \"Costado de la v\\u00eda concesionada.\"], [\"6,00\", \"8,0\", \"2.000\", \"Izquierdo\", \"Costado de la v\\u00eda concesionada.\"]], \"notas\": null}]}"
+}

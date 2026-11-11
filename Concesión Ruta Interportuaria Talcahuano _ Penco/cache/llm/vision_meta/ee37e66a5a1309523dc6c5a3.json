@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000749,
+ "usage": {
+  "completion_tokens": 1631,
+  "prompt_tokens": 4223,
+  "total_tokens": 5854,
+  "completion_tokens_details": {
+   "reasoning_tokens": 849
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.6,
+ "truncado": false,
+ "texto": "- Que por Oficio Ord. N° 245 del Inspector Fiscal del contrato de concesión \"Ruta\nInterportuaria Talcahuano-Penco por Isla Rocuant\", de fecha 21 de septiembre de 2004,\ninforma a la Sociedad Concesionaria Autopista Interportuaria S.A., del estado de los\nacuerdos de valorización de obras a considerar y de la necesidad urgente que ella\nasuma con prontitud la ejecución de los proyectos de ingeniería, la construcción y la\nconservación, mantenimiento operación y explotación de un conjunto de obras y sus\ncorrespondientes presupuestos que se detallan en el mismo Oficio.\n\n- Que por carta SCRIT-MOP N° 368/04, de fecha 28 de septiembre de 2004, de\nSociedad Concesionaria Autopista Interportuaria S.A., expresa su disposición a asumir\nla ejecución de los proyectos de ingeniería, la construcción y la conservación,\nmantenimiento, operación y explotación del conjunto de obras que se detallan en el\nOficio citado en el considerando anterior, bajo las condiciones que estipula en la\nmisma carta y de acuerdo a los presupuestos que señala el Ord. N° 245, de fecha 21 de\nseptiembre, del Inspector Fiscal del contrato de concesión \"Ruta Interportuaria\nTalcahuano-Penco por Isla Rocuant\".\n\n- Que mediante Resolución DGOP (Exenta) N° 2591, de fecha 6 de octubre de 2004,\ndebidamente suscrita y protocolizada por la Sociedad Concesionaria Autopista\nInterportuaria S. A., se estableció que esta sociedad, entre otras obras, deberá ejecutar el\nempalme con el trazado de Av. Alessandri, en el sector del Aeropuerto Carriel Sur.\n\n- Que el artículo 69 N° 4 del Reglamento de la Ley de Concesiones de Obras Públicas\nestablece que el Ministerio de Obras Públicas, desde que se perfeccione el contrato, podrá\nmodificar, por razones de urgencia, las características de las obras y servicios contratados\naunque esté pendiente la determinación sobre la indemnización correspondiente.\n\n- Que el principio de economía procedimental consignado en el inciso segundo del artículo\n9° de la Ley 19.880 establece que \"Se decidirán en un solo acto todos los trámites que, por\nsu naturaleza, admitan un impulso simultáneo, siempre que no sea obligatorio su\ncumplimiento sucesivo.\n\nRESUELVO:\n\nDGOP N° 2965 / (Exento)\nTRAMITADA\n29 NOV 2004\nOFICINA DE PARTES\nDIREC. GRAL. DE OBRAS PUBLICAS\n\n1. MODIFÍCASE por razones de urgencia, el área de la concesión denominada\n\"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\", eliminándose de ésta un\nárea de 13.769 m² correspondientes a una franja de 40 metros de ancho desde el límite\nponiente del lote 7, pasando por el lote 13 y terminando en el lote 8, de acuerdo a la\ndescripción y gráfica que se adjunta y que forma parte de la presente resolución, la cual se\ndenomina \"Plano de Terrenos Necesarios para el Empalme del Ramal Alessandri\".\n\n2. ESTABLECESE que las condiciones particulares a las que se sujetará la eliminación\ndel área de 13.769 m² de la concesión denominada \"Terminal de Pasajeros Aeropuerto\nCarriel Sur de Concepción\", serán reguladas en un convenio complementario que\ndeberán suscribir el Ministerio de Obras Públicas y la Sociedad Concesionaria Aerosur\n\n3"
+}

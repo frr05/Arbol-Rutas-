@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 13:03",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D10.F0025",
+    "destino": "BL:A3"
+   },
+   {
+    "fragmento": "RITP.D10.F0026",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "RITP.D10.F0027",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0028",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "RITP.D10.F0031",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "RITP.D10.F0034",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D10.F0035",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0036",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0037",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0038",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0039",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0040",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0041",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0043",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0044",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0045",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0046",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0047",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0048",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0049",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0050",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0051",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0052",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D10.F0053",
+    "destino": "TEMA:obras"
+   },
+   {
+    "fragmento": "RITP.D10.F0054",
+    "destino": "TEMA:obras"
+   }
+  ]
+ }
+}

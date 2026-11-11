@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000531,
+ "usage": {
+  "completion_tokens": 584,
+  "prompt_tokens": 4142,
+  "total_tokens": 4726,
+  "completion_tokens_details": {
+   "reasoning_tokens": 34
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.0,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nfalta de oxigeno en la sangre o paralización de la circulación y, por lo tanto, la\nnecesidad de prestar ayuda a la respiración.\n\nCualquiera que sea el agente que determine la asfixia, la víctima queda en\nestado de muerte aparente o clínica.\n\nEl elemento más importante en la \"resucitación boca a boca\", es la posición de la\ncabeza y cuello, extendidos completamente, para lograr que el aire pase por la\ngarganta y penetre a los pulmones.\n\nEl tiempo es importante\n\nNo pierda tiempo llevando la víctima a un mejor lugar, a menos que se trate de\nun lugar inseguro. El propósito principal es hacer que llegue el aire de inmediato\na los pulmones de la víctima, ya que los tejidos privados de oxigeno, tiene un\nlímite de pocos minutos de resistencia. Si se introduce aire en los pulmones,\npara que la sangre tenga el oxígeno que necesita, se puede prolongar la vida.\n\nEn una persona inconsciente, la cabeza tiende a inclinarse hacia adelante, la\nlengua se afloja y cae hacia atrás, pudiendo a llegar a obstruir el paso del aire en\nla garganta; para evitar la obstrucción, hay que levantar el cuello e inclinar la\ncabeza hacia atrás.\n\nTécnicas de respiración artificial Boca a Boca\n\n- Tienda la víctima de espaldas y limpie su boca, retirando cualquier\nmateria extraña que dificulte la respiración (mucosidad, tierra, etc.)\n\n- Levante la cabeza de la víctima por la barbilla e inclínela hacia atrás, de\nmanera que el mentón apunte hacia arriba. Sostenga la mandíbula\ninferior, de modo que la lengua no impida el paso de aire durante el\nprocedimiento. Introduzca el pulgar entre los dientes de la víctima, para\nasí tener levantada la mandíbula y la cabeza inclinada hacia atrás.\n\n- Si la víctima aun no respira, empiece con la respiración artificial\ninmediatamente; cualquier demora puede ser fatal. Con el pulgar y el\nindice cierre los orificios nasales, para evitar la pérdida de aire por la\nnariz.\n\n- Coloque su boca sobre la víctima, apoyándola firmemente para sellar los\nescapes de aire. Si se coloca un pañuelo sobre la boca de la víctima, se\nevita el contacto directo. Esto no afecta grandemente el paso del aire.\n\n53"
+}

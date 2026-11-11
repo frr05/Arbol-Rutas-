@@ -2,15 +2,15 @@
  "documento": "RITP.D14",
  "pagina": 25,
  "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 338,
- "segundos": 13.8,
- "fecha": "2026-11-05 00:47",
- "motivos": "conf_media",
+ "tokens": 369,
+ "segundos": 6.4,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 200,
   "conf_media": 0.898,
@@ -23,5 +23,5 @@
  "similitud": 0.922,
  "truncado": false,
  "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nReporte\n\nEl empleado será interrogado por la gerencia y por Carabineros y se le pedirá\ndetalles como fos siguientes:\n\nSexo:\nContextura:\nFacciones:\nCabello:\nVestimenta:\nÁrma:\n\nPatente:\nMarca/Modelo:\n\nMasculina, Famenino\n\nMacizo, delgado, etc.\n\nNariz grande, barba, cicatrices, lentes, etc.\nColor, tipo (fino, desordenado, calvo, eta.)\nColor, tipo\n\nPistola, cuchillo, garrote, etc.\n\nPatente de auto/camioneta número\n\nAuto Chevrolet, Camioneta Ford.\n\nColor del Vehículo: Azul, negro, blanco, ste.\n\n5.11 Amenazas de Bomba\n\nExiste la posibilidad de amenazas de bombas.\n\nEr caso de recibir una amenaza de bomba, efectúe lo siguiente inmediatamente:\n\nNotifique al Administrador Jefe de Plaza, quien informará\nde la amenaza de bomba a Carabineros.\n\nEsté atento a señales de humo.\nRápidamente evacue el área de trabajo.\n\nSi se encuentra contando el dinero, asegure el dinero en\nla caja fuerte.\n\nNo entre al edificio hasta que la policlafgarupo de\ndesactivación de explosivos dé el visto bueno.\n\nInmediatamente después de cumplir con los pasos señalados arriba, registre;\n\nLa hora exacta en que recibió la llamada de amenaza.\n\nLas palabras exactas utilizadas por el amenazante o lo\nmás cercano a ellas.\n\nTipo de bombafaparato, si lo describió el amenazante,\n\nUbicación de la bomba, si lo describió el amenazante.\n\n24",
- "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\nReporte\nEl empleado será interrogado por la gerencia y por Carabineros y se le pedirá detalles como los siguientes:\nSexo: Masculino, Femenino\nContextura: Macizo, delgado, etc.\nFacciones: Nariz grande, barba, cicatrices, lentes, etc.\nCabello: Color, tipo (fino, desordenado, calvo, etc.)\nVestimenta: Color, tipo\nArma: Pistola, cuchillo, garrote, etc.\nPatente: Patente de auto/camioneta número\nMarca/Modelo: Auto Chevrolet, Camioneta Ford.\nColor del Vehículo: Azul, negro, blanco, etc.\n5.11 Amenazas de Bomba\nExiste la posibilidad de amenazas de bombas.\nEn caso de recibir una amenaza de bomba, efectúe lo siguiente inmediatamente:\n- Notifique al Administrador Jefe de Plaza, quien informará de la amenaza de bomba a Carabineros.\n- Esté atento a señales de humo.\n- Rápidamente evacue el área de trabajo.\n- Si se encuentra contando el dinero, asegure el dinero en la caja fuerte.\n- No entre al edificio hasta que la policía/grupo de desactivación de explosivos dé el visto bueno.\nInmediatamente después de cumplir con los pasos señalados arriba, registre:\n- La hora exacta en que recibió la llamada de amenaza.\n- Las palabras exactas utilizadas por el amenazante o lo más cercano a ellas.\n- Tipo de bomba/aparato, si lo describió el amenazante.\n- Ubicación de la bomba, si lo describió el amenazante.\n24"
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nReporte\n\nEl empleado será interrogado por la gerencia y por Carabineros y se le pedirá\ndetalles como los siguientes:\n\nSexo: Masculino, Femenino\nContextura: Macizo, delgado, etc.\nFacciones: Nariz grande, barba, cicatrices, lentes, etc.\nCabello: Color, tipo (fino, desordenado, calvo, etc.)\nVestimenta: Color, tipo\nArma: Pistola, cuchillo, garrote, etc.\nPatente: Patente de auto/camioneta número\nMarca/Modelo: Auto Chevrolet, Camioneta Ford.\nColor del Vehículo: Azul, negro, blanco, etc.\n\n5.11 Amenazas de Bomba\n\nExiste la posibilidad de amenazas de bombas.\n\nEn caso de recibir una amenaza de bomba, efectúe lo siguiente inmediatamente:\n\n- Notifique al Administrador Jefe de Plaza, quien informará\nde la amenaza de bomba a Carabineros.\n\n- Esté atento a señales de humo.\n\n- Rápidamente evacue el área de trabajo.\n\n- Si se encuentra contando el dinero, asegure el dinero en\nla caja fuerte.\n\n- No entre al edificio hasta que la policía/grupo de\ndesactivación de explosivos dé el visto bueno.\n\nInmediatamente después de cumplir con los pasos señalados arriba, registre:\n\n- La hora exacta en que recibió la llamada de amenaza.\n\n- Las palabras exactas utilizadas por el amenazante o lo\nmás cercano a ellas.\n\n- Tipo de bomba/aparato, si lo describió el amenazante.\n\n- Ubicación de la bomba, si lo describió el amenazante.\n\n24"
 }

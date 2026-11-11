@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000641,
+ "usage": {
+  "completion_tokens": 1109,
+  "prompt_tokens": 4195,
+  "total_tokens": 5304,
+  "completion_tokens_details": {
+   "reasoning_tokens": 163
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.8,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n2. Desde el km 0,55 hasta el km 4,00 aproximadamente, calzada simple bidireccional de dos pistas de 3,5\nm de ancho, bermas de 2,5 m y s.a.c. de 0,5 m. Adicionalmente, entre el km 1,32 y el km 2,75\naproximadamente, se considera una tercera pista para vehículos lentos que se desplazan en sentido\nTalcahuano – Penco.\n\n3. Desde el km 4,00 hasta el km 10,40 aproximadamente, construcción de una vía nueva, en calzada\nsimple bidireccional de dos pistas de 3,5 m de ancho, bermas de 2,5 m y s.a.c. de 0,5 m.\n\n4. Acceso a Talcahuano: se extiende desde el km 10,40 aproximadamente hasta el empalme a Av. Colón y\nrequiere el rediseño de la intersección Las Industrias (intersección de la actual calle La Isla con calle\nLas Industrias), una pista segregada de empalme a Avenida Colón, la rehabilitación del Puente existente\nsobre el Canal El Morro y otras obras complementarias de mejoramiento de la vialidad existente.\n\n5. Construcción de un puente sobre el Río Andalién de aproximadamente 110 m de longitud (“Puente las\nBallenas”) entre el km 3,21 y el km 3,32.\n\n6. Construcción de defensas fluviales en Río Andalién, sector Puente Las Ballenas.\n\n7. Construcción de un paso sobre la línea Férrea Concepción – Penco – Lirquén (Ramal Rucapequén), de\naproximadamente 39 m de longitud (“Paso las Gaviotas”), ubicado en el km 2,86.\n\n8. Construcción de al menos 3 atraviesos tipo cajón de 5 x 5 m, distribuidos en el sector entre Cosmito e\nIsla Rocuant, sin conexión a la vía concesionada.\n\n9. Readecuación del Enlace Penco, que involucra:\n\n• La construcción de los lazos Penco–Autopista Itata, Talcahuano–Penco y Concepción– Talcahuano;\n\n• La construcción de los ramales directos Talcahuano–Concepción y Penco–Talcahuano; y\n\n• La modificación del lazo Autopista Itata–Concepción y del ramal Penco–Autopista Itata.\n\nEn cuanto a la estructura existente, ésta es adecuada y no requerirá modificaciones.\n\nAdicionalmente a las obras antes descritas, se incluyen obras complementarias tales como señalización,\ndemarcación, drenaje y saneamiento, elementos de control y seguridad, paisajismo e iluminación.\n\nLa Concesión incluye además el mantenimiento de todas las obras ejecutadas por la Sociedad Concesionaria\ny el mantenimiento de las obras preexistentes que forman parte del área de concesión, en las condiciones y\nestándares establecidos en las presentes Bases de Licitación para las Etapas de Construcción y Explotación.\n\n1.3.2 Obra Opcional “Prolongación Camino Carriel Sur (Av. Alessandri)”\n\nOpcionalmente la Sociedad Concesionaria, conforme a lo ofrecido por el licitante o grupo licitante adjudicatario\nen su Oferta Económica, podrá ejecutar la Obra Opcional “Prolongación Camino Carriel Sur” (o Av.\nAlessandri), que se desarrollaría entre la conexión al acceso del aeropuerto Carriel Sur y la Ruta\nInterportuaria, conforme a lo señalado en el artículo 2.2.4 de las Bases Técnicas.\n\nEn caso de aceptar en su Oferta la construcción de dicha obra opcional, la Sociedad Concesionaria se obliga a\ncumplir con las presentes Bases de Licitación y demás documentos que conforman el Contrato de Concesión.\n\nEn dicho caso, la Sociedad Concesionaria deberá presentar al Inspector Fiscal para su aprobación, los\nproyectos de ingeniería de detalle y los antecedentes expropiatorios respectivos, conforme a lo señalado en el\nartículo 1.9.1 de las presentes Bases.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 6"
+}

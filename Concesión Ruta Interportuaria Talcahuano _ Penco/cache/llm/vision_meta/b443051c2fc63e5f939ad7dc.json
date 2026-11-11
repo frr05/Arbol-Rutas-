@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000511,
+ "usage": {
+  "completion_tokens": 352,
+  "prompt_tokens": 4409,
+  "total_tokens": 4761,
+  "completion_tokens_details": {
+   "reasoning_tokens": 92
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.3,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N\\u00ba 22: Actividades NO ejecutables en Zonas de Restricci\\u00f3n(*).\", \"encabezados\": [\"N\\u00ba\", \"Actividad\"], \"filas\": [[\"1\", \"Instalaci\\u00f3n, operaci\\u00f3n y abandono de faenas (campamentos, estacionamientos, bodegas o almacenajes).\"], [\"2\", \"Operaci\\u00f3n de plantas de producci\\u00f3n de materiales (chancado, asfalto, hormig\\u00f3n).\"], [\"3\", \"Apertura, uso y manejo de empr\\u00e9stitos y \\u00e1ridos (canteras, pozos, encauzamientos, nivelaciones, etc.).\"], [\"4\", \"Apertura, uso y manejo de botaderos.\"], [\"5\", \"Movimiento de maquinaria.\"], [\"6\", \"Transporte de material de construcci\\u00f3n.\"]], \"notas\": \"(*) Las Zonas de Restricci\\u00f3n se localizan fuera de la faja fiscal.\"}]}"
+}

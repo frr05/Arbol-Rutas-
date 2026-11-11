@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000609,
+ "usage": {
+  "completion_tokens": 949,
+  "prompt_tokens": 4195,
+  "total_tokens": 5144,
+  "completion_tokens_details": {
+   "reasoning_tokens": 88
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.8.3 Garantías del Contrato\n\nLa Sociedad Concesionaria deberá constituir las Garantías de Construcción y de Explotación en los plazos indicados en los artículos 1.8.3.1 y 1.8.3.2 respectivamente, pudiendo ser tomadores de las garantías el adjudicatario o la Sociedad Concesionaria. El MOP podrá hacer efectivas, total o parcialmente, dichas garantías en los casos de incumplimiento del Contrato y, en particular, en los siguientes casos:\n\na) Incumplimiento de lo previsto en el artículo 30º, número 5 del DS MOP Nº956 de 1997;\nb) Modificación de los estatutos de la Sociedad Concesionaria sin autorización expresa del MOP;\nc) Celebración, por parte de la Sociedad Concesionaria, de algún tipo de acto o contrato sin la autorización del MOP cuando ésta sea exigida por la Ley de Concesiones, su Reglamento o las presentes Bases de Licitación;\nd) Incumplimiento de las sanciones o multas impuestas durante la concesión, en los plazos previstos;\ne) Incumplimiento por la Sociedad Concesionaria de las condiciones en que debe entregar la obra al término de la concesión, previstas en el artículo 1.13.2.1 de las presentes Bases de Licitación;\nf) No constitución o no reconstitución de las pólizas de seguros de responsabilidad civil por daños a terceros y/o por catástrofe señaladas en los artículos 1.8.11 y 1.8.12 de estas Bases respectivamente, en los plazos previstos;\ng) No constitución o no reconstitución de las garantías señaladas en los artículos 1.8.3.1 y 1.8.3.2 de las presentes Bases de Licitación;\nh) No entrega de cualesquiera de las boletas de garantía establecidas en las presentes Bases de Licitación dentro de los plazos estipulados en éstas;\ni) Incumplimiento por más de tres veces de la obligación de mantención del tránsito prevista en el artículo 1.9.8 de las presentes Bases de Licitación;\nj) Reincidencia en la entrega de antecedentes, sean falsos o incompletos, que alteren o modifiquen cualquiera de las condiciones económicas del Contrato de Concesión como los ingresos percibidos por la Sociedad Concesionaria, entre otros;\nk) Incumplimiento de los pagos que la Sociedad Concesionaria tenga que realizar al Estado en virtud del Contrato de Concesión, en los plazos señalados en las presentes Bases, tales como los de Expropiaciones, Pagos de la Sociedad Concesionaria al Estado, etc.;\nl) Incumplimiento por la Sociedad Concesionaria de cualquiera de las obligaciones de prestación de servicio en las condiciones establecidas en el Contrato, durante la Etapa de Explotación;\nm) Cualquier alteración, dolosa o negligente, por sí o a través de terceros, en los ingresos o la gestión tarifaria del Concesionario;\nn) Cualquier incumplimiento de las obligaciones del Concesionario con terceros, cuando el MOP sea declarado subsidiariamente responsable;\no) Cada vez que se compruebe el incumplimiento de las obligaciones señaladas en el artículo 1.7.3 de las presentes Bases de Licitación;\np) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.\n\nSi la Sociedad Concesionaria incumple cualquiera de las obligaciones establecidas en las presentes Bases de Licitación, el MOP podrá hacer efectiva total o parcialmente la garantía correspondiente.\n\nEn caso que el MOP hiciera efectiva la garantía, el Concesionario deberá reconstituirla o completarla, según proceda, dentro del plazo de 15 días contados desde la fecha en que se hizo efectiva.\n\nLas disposiciones anteriores serán sin perjuicio de cualquier otra sanción que corresponda en caso de incumplimiento o falta a las presentes Bases de Licitación.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 28"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:58",
+ "costo": 0.000621,
+ "usage": {
+  "completion_tokens": 1008,
+  "prompt_tokens": 4199,
+  "total_tokens": 5207,
+  "completion_tokens_details": {
+   "reasoning_tokens": 517
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.8,
+ "truncado": false,
+ "texto": "mayores inversiones, todo lo cual, de conformidad con lo que establece el\nartículo 20º de la Ley de Concesiones, obliga a convenir las\ncompensaciones e indemnizaciones necesarias para restablecer el\nequilibrio económico y financiero del contrato, de manera de no\ncomprometer su buen desarrollo y término.\n\n1.6 Conforme a lo anterior, la Sociedad Concesionaria, compartiendo los\nfundamentos y propósitos enunciados, ha concordado con el Ministerio de\nObras Públicas las cláusulas que en este acto se pactan y que modifican\nexpresamente ciertas condiciones de realización de las obras y del régimen\neconómico del Contrato de Concesión, en los términos y materias que\npasan a expresarse.\n\n1.7 Forman parte del presente Convenio Complementario los siguientes\nanexos, que se adjuntan a éste:\n\nAnexo Nº 1: Presupuesto de las Nuevas Inversiones y gastos\nasociados al presente convenio.\n\nÍtem 1: Construcción de obras nuevas, adicionales o\nmodificaciones de obras, y gastos asociados.\nÍtem 2: Cronograma de ejecución de las obras, inversiones y\ngastos señalados en el ítem 1.\nÍtem 3: Inversiones y gastos asociados a Medidas Ambientales\nAdicionales. RCA Nº046. COREMA VIII Región, a\ncontar del año 2007.\n\nAnexo Nº 2: Descripción de las Nuevas Inversiones y gastos\nasociados al presente convenio.\n\nAnexo Nº 3: Ejemplo Numérico.\n\nSEGUNDO: OBLIGACIONES DE LA SOCIEDAD CONCESIONARIA\n\nLa Sociedad Concesionaria, en virtud de lo dispuesto en el artículo 20 de la Ley de\nConcesiones, de los fundamentos precedentemente indicados y de las\ncompensaciones e indemnizaciones que se establecen en este instrumento, acepta\nefectuar las inversiones adicionales y extraordinarias que se contratan e\nindividualizan en el presente convenio y dar cumplimiento a las siguientes\nobligaciones:\n\n2.1 La Sociedad Concesionaria asume la obligación de desarrollar un conjunto de\nnuevas inversiones y gastos para la ejecución de las obras que se indican en\nel Anexo Nº 1 que se adjunta y que forma parte del presente convenio, cuya\n\n3"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 59,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 377,
+ "segundos": 9.0,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 238,
+  "conf_media": 0.929,
+  "frac_baja": 0.021,
+  "frac_rara": 0.0,
+  "tinta": 0.0434
+ },
+ "n_palabras_vlm": 243,
+ "frac_rara_vlm": 0.006,
+ "similitud": 0.957,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA 5.A.\n\nSi no existe peligro, no cerrar la pista e instruir al tránsito que siga\npasando.\n\nSi el material no puede ser identificado con certeza, si la rotulación en el\ncontenedor requiere un equipo especializado de protección, u si existe fuego:\n\na.\n\nb,\n\nLlamar a Carabineros y Bomberos.\n\nLlamar al Administrador Jefe de Plaza y solicitar ayuda para desviar el\ntránsito.\n\nSi se puede lograr sin peligro, el patrullero del turno cerrará todas las\npistas colocando conos en un extremo del área contaminada para impedir\nel paso del tránsito por el area.\n\nSi fuera necesario, establecer lugares de espera (áreas abiertas\napartadas de aquellos empleados que no han sido contaminados) de los\nempleados o las víctimas que fueron accidentalmente contaminados,\nLlamar a una ambulancia si requieren de atención inmediata debido a\nquímicos tóxicos,\n\nAl Solicitar Auxilio a Bomberos o ambulancia\n\n(1)\n(2)\n(3)\n(4)\n(3)\n\nIndique la ubicación exacta.\n\nDé un informe de las condiciones.\n\nDescriba los materiales implicados.\nDescriba cuánto material está implicado.\nInforme si hay alguien en peligro inminente.\n\n7.16 Obstrucciones\n\nMateriales\n\nEn cualquier momento en que la carretera se encuentre obstruida por objetos o\nanimales, o si las condiciones del tiempo o algún acto de la naturaleza haya\ndejado la carretera intransitable:\n\nIntente determinar la causa y la ubicación de la obstrucción.\n\nSi es posible, remueva desperdicios y restos qué se encuentran en el\n\ncamino sin hacer peligrar la seguridad,\n\n58",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\ni. Si no existe peligro, no cerrar la pista e instruir al tránsito que siga\npasando.\n\nSi el material no puede ser identificado con certeza, si la rotulación en el\ncontenedor requiere un equipo especializado de protección, o si existe fuego:\n\na. Llamar a Carabineros y Bomberos.\n\nb. Llamar al Administrador Jefe de Plaza y solicitar ayuda para desviar el\ntránsito.\n\nc. Si se puede lograr sin peligro, el patrullero del turno cerrará todas las\npistas colocando conos en un extremo del área contaminada para impedir\nel paso del tránsito por el área.\n\nd. Si fuera necesario, establecer lugares de espera (áreas abiertas\napartadas de aquellos empleados que no han sido contaminados) de los\nempleados o las víctimas que fueron accidentalmente contaminados.\nLlamar a una ambulancia si requieren de atención inmediata debido a\nquímicos tóxicos.\n\nAl Solicitar Auxilio a Bomberos o ambulancia\n\n(1) Indique la ubicación exacta.\n(2) Dé un informe de las condiciones.\n(3) Describa los materiales implicados.\n(4) Describa cuánto material está implicado.\n(5) Informe si hay alguien en peligro inminente.\n\n7.16 Obstrucciones\n\nMateriales\n\nEn cualquier momento en que la carretera se encuentre obstruida por objetos o\nanimales, o si las condiciones del tiempo o algún acto de la naturaleza haya\ndejado la carretera intransitable:\n\n- Intente determinar la causa y la ubicación de la obstrucción.\n\n- Si es posible, remueva desperdicios y restos que se encuentran en el\ncamino sin hacer peligrar la seguridad.\n\n58"
+}

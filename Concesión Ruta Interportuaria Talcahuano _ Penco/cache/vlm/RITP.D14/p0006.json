@@ -2,15 +2,15 @@
  "documento": "RITP.D14",
  "pagina": 6,
  "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 332,
- "segundos": 12.4,
- "fecha": "2026-11-05 00:47",
- "motivos": "conf_media",
+ "tokens": 356,
+ "segundos": 7.1,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 198,
   "conf_media": 0.878,
@@ -18,10 +18,10 @@
   "frac_rara": 0.014,
   "tinta": 0.0387
  },
- "n_palabras_vlm": 209,
- "frac_rara_vlm": 0.015,
- "similitud": 0.967,
+ "n_palabras_vlm": 211,
+ "frac_rara_vlm": 0.014,
+ "similitud": 0.947,
  "truncado": false,
  "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARITA S.A,\n\nDecreto Supremo MOP N* 956 de 1997 que estableció el\nReglamento de la Ley de Concesiones de Obras Públicas.\n\nBases de Licitación de la obra pública \"Ruta Interportuaria\nTalcahuano — Penco, por ista Rocuant” y sus normas\ncomplementarias.\n\nOfertas Técnicas y Económicas del licitante adjudicatario\n\nDecreto de adjudicación N* 112 del 31 de enero de 2002,\nque adjudica el contrato de concesión de la Obra pública\nfiscal \"Ruta Interportuaria Talcahuano — Penco por Isla\nRocuant\"\n\nConvenios Complementarios de Obras y Servicios y sus\nrespectivos decretos supremos aprobatorios.\n\nLey de Transito N* 18,290,\nManual de Señalización de Transito, del MTT.\nManual de Carreteras de la Dirección de Vialidad del MOP.\n\nReglamento Interno e Higiene de Central Parking System\nChile Ltda.\n\nDecreto Supremo N* 298 del Ministerlo de Transportes que\nreglamenta el Transporte de Sustancias Peligrosas y\nnormas asociadas.\n\nGuía de Respuesta en caso de Emergencias, Preparado\npor la ACHS.\n\nACCEQUÍM, Plan preparado por Onemi, para enfrentar\nemergencias y desastres por materiales peligrosos.\n\n2.1 Glosario de términos empleados,\n\nUsuario\n\nLa o las personas físicas o jurídicas que hagan uso del área de concesión.\nConductor de vehículos que transiten por la ruta, por extensión sus\n\nacompañantes.",
- "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Decreto Supremo MOP N° 956 de 1997 que estableció el Reglamento de la Ley de Concesiones de Obras Públicas.\n- Bases de Licitación de la obra pública \"Ruta Interportuaria Talcahuano - Penco, por Isla Rocuant\" y sus normas complementarias.\n- Ofertas Técnicas y Económicas del licitante adjudicatario\n- Decreto de adjudicación N° 112 del 31 de enero de 2002, que adjudica el contrato de concesión de la Obra pública fiscal \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\"\n- Convenios Complementarios de Obras y Servicios y sus respectivos decretos aprobatorios.\n- Ley de Tránsito N° 18.290.\n- Manual de Señalización de Tránsito, del MTT.\n- Manual de Carreteras de la Dirección de Vialidad del MOP.\n- Reglamento Interno e Higiene de Central Parking System Chile Ltda.\n- Decreto Supremo N° 298 del Ministerio de Transportes que reglamenta el Transporte de Sustancias Peligrosas y normas asociadas.\n- Guía de Respuesta en caso de Emergencias; Preparado por la ACHS.\n- ACCEQUIM, Plan preparado por Onemi, para enfrentar emergencias y desastres por materiales peligrosos.\n\n2.1 Glosario de términos empleados.\n\nUsuario\nLa o las personas físicas o jurídicas que hagan uso del área de concesión.\nConductor de vehículos que transiten por la ruta, por extensión sus acompañantes."
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Decreto Supremo MOP Nº 956 de 1997 que estableció el\nReglamento de la Ley de Concesiones de Obras Públicas.\n\n- Bases de Licitación de la obra pública \"Ruta Interportuaria\nTalcahuano – Penco, por Isla Rocuant\" y sus normas\ncomplementarias.\n\n- Ofertas Técnicas y Económicas del licitante adjudicatario\n\n- Decreto de adjudicación Nº 112 del 31 de enero de 2002,\nque adjudica el contrato de concesión de la Obra pública\nfiscal \"Ruta Interportuaria Talcahuano – Penco por Isla\nRocuant\"\n\n- Convenios Complementarios de Obras y Servicios y sus\nrespectivos decretos supremos aprobatorios.\n\n- Ley de Tránsito Nº 18.290.\n\n- Manual de Señalización de Tránsito, del MTT.\n\n- Manual de Carreteras de la Dirección de Vialidad del MOP.\n\n- Reglamento Interno e Higiene de Central Parking System\nChile Ltda.\n\n- Decreto Supremo Nº 298 del Ministerio de Transportes que\nreglamenta el Transporte de Sustancias Peligrosas y\nnormas asociadas.\n\n- Guía de Respuesta en caso de Emergencias; Preparado\npor la ACHS.\n- ACCEQUIM, Plan preparado por Onemi, para enfrentar\nemergencias y desastres por materiales peligrosos.\n\n2.1 Glosario de términos empleados.\n\nUsuario\n\nLa o las personas físicas o jurídicas que hagan uso del área de concesión.\nConductor de vehículos que transiten por la ruta, por extensión sus\nacompañantes.\n\n5"
 }

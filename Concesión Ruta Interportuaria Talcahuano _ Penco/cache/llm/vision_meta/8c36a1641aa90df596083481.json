@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000533,
+ "usage": {
+  "completion_tokens": 459,
+  "prompt_tokens": 4409,
+  "total_tokens": 4868,
+  "completion_tokens_details": {
+   "reasoning_tokens": 243
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.4,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Año Calendario Explotación\", \"Con Av. Alessandri\", \"Sin Av. Alessandri\"], \"filas\": [[\"9\", \"123.381\", \"81.813\"], [\"10\", \"132.312\", \"89.356\"], [\"11\", \"141.908\", \"97.616\"], [\"12\", \"153.262\", \"105.383\"], [\"13\", \"165.542\", \"113.782\"], [\"14\", \"178.822\", \"122.865\"], [\"15\", \"193.182\", \"132.687\"], [\"16\", \"208.712\", \"143.309\"], [\"17\", \"225.507\", \"154.797\"], [\"18\", \"243.668\", \"167.219\"], [\"19\", \"263.309\", \"180.653\"], [\"20\", \"284.548\", \"195.181\"]], \"notas\": null}]}"
+}

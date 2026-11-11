@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 13:02",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D05.F0020",
+    "destino": "BL:2.2.2.3"
+   },
+   {
+    "fragmento": "RITP.D05.F0021",
+    "destino": "BL:2.2.2.4"
+   },
+   {
+    "fragmento": "RITP.D05.F0022",
+    "destino": "BL:2.2.2.5"
+   },
+   {
+    "fragmento": "RITP.D05.F0023",
+    "destino": "BL:2.2.3.1"
+   },
+   {
+    "fragmento": "RITP.D05.F0024",
+    "destino": "BL:2.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D05.F0025",
+    "destino": "BL:2.2.3.3"
+   },
+   {
+    "fragmento": "RITP.D04.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D04.F0003",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D04.F0004",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D04.F0005",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "RITP.D04.F0006",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D04.F0007",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D04.F0008",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D04.F0021",
+    "destino": "BL:1.8.5"
+   },
+   {
+    "fragmento": "RITP.D04.F0022",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D03.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D03.F0002",
+    "destino": "BL:A1"
+   },
+   {
+    "fragmento": "RITP.D08.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D08.F0004",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D08.F0005",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "RITP.D08.F0006",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "RITP.D08.F0007",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "RITP.D08.F0008",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "RITP.D08.F0009",
+    "destino": "TEMA:expropiaciones"
+   },
+   {
+    "fragmento": "RITP.D08.F0010",
+    "destino": "TEMA:expropiaciones"
+   }
+  ]
+ }
+}

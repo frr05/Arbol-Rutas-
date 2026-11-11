@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D01",
  "pagina": 211,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:04",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
   {
-   "titulo": "Tabla N° 3: Bases de licitación concesión Ruta Interportuaria Talcahuano - Penco",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "DESCRIPCION",
@@ -55,6 +55,12 @@
      "Cunetas Triangular de hormigón,",
      "m",
      "0,68"
+    ],
+    [
+     "609-1.B",
+     "Canaletas de Hormigón en Terrazas de Corte",
+     "m",
+     "0,41"
     ],
     [
      "610-1",
@@ -129,10 +135,16 @@
      "2,99"
     ],
     [
+     "613-3",
+     "Construcción de canales, fosos y contrafosos con cotas de fondo preestablecida",
+     "M",
+     "0,22"
+    ],
+    [
      "614-1",
      "Revestimiento de canales, fosos y contrafosos",
      "m²",
-     "0,22"
+     "1,26"
     ],
     [
      "",
@@ -172,7 +184,7 @@
     ],
     [
      "703-2.A",
-     "Señalización vertical sobre la calzada, marcos portaletros",
+     "Señalización vertical sobre la calzada, marcos portaletreros",
      "Nº",
      "189,21"
     ],
@@ -190,13 +202,13 @@
     ],
     [
      "704-2",
-     "Demarcación del pavimento, línea lateral continua",
+     "Demarcación del pavimento, línea central segmentada",
      "Km",
      "9,51"
     ],
     [
      "704-3",
-     "Demarcación del pavimento, líneas, símbolos y leyendas",
+     "Demarcación del pavimento, línea lateral continua",
      "Km",
      "12,91"
     ],
@@ -255,12 +267,6 @@
      "4,50"
     ],
     [
-     "",
-     "",
-     "",
-     ""
-    ],
-    [
      "5.900",
      "CONSERVACION",
      "",
@@ -270,43 +276,43 @@
      "902-1",
      "Limpieza de alcantarillas igual o menor que 1.00 m",
      "m",
-     "0,07"
+     "0.07"
     ],
     [
      "902-2",
-     "Limpieza de alcantarillas de altura mayor que 1,00 m",
+     "Limpieza de alcantarillas de altura mayor que 1.00 m",
      "m",
-     "0,14"
+     "0.14"
     ],
     [
      "903-1",
      "Rehabilitación de cauces",
      "m",
-     "0,15"
+     "0.15"
     ],
     [
      "903-2",
      "Rehabilitación de fosos y contrafosos",
      "m",
-     "0,05"
+     "0.05"
     ],
     [
      "905-1",
      "Bacheo superficial pavimento existente",
      "m²",
-     "0,29"
+     "0.29"
     ],
     [
      "905-2",
      "Bacheo profundo pavimento existente",
      "m²",
-     "0,50"
+     "0.50"
     ],
     [
      "906-1",
      "Reposición de losas en pavimentos de hormigón",
      "m²",
-     "1,15"
+     "1.15"
     ]
    ],
    "notas": null

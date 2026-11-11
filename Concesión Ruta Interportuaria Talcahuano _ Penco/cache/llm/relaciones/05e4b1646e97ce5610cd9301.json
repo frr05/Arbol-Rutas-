@@ -1,0 +1,60 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-11 12:16",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.7.6.1",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": "[194, 228]",
+    "numero_nuevo": "1.7.6.1"
+   },
+   {
+    "articulo": "1.7.6.2",
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": "[230, 237]",
+    "numero_nuevo": "1.7.6.2"
+   },
+   {
+    "articulo": "1.8.1",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P6"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "[240, 244]",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "g) Proporcionar información mensual de reclamos presentados por los usuarios, identificando al usuario, el reclamo que haya formulado, la fecha del reclamo, la respuesta dada por el Concesionario y las medidas adoptadas si fuera caso. Este informe deberá ser entregado dentro de los primeros 15 días del mes siguiente al periodo informado.",
+    "debe_decir": "[248, 257]",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "agrega_texto",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "",
+    "debe_decir": "[258, 266]",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

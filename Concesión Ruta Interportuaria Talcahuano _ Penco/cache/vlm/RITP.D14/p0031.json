@@ -2,15 +2,15 @@
  "documento": "RITP.D14",
  "pagina": 31,
  "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 363,
- "segundos": 11.4,
- "fecha": "2026-11-05 00:47",
- "motivos": "conf_media",
+ "tokens": 345,
+ "segundos": 6.9,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 215,
   "conf_media": 0.897,
@@ -18,10 +18,10 @@
   "frac_rara": 0.0,
   "tinta": 0.0406
  },
- "n_palabras_vlm": 227,
+ "n_palabras_vlm": 228,
  "frac_rara_vlm": 0.007,
- "similitud": 0.963,
+ "similitud": 0.965,
  "truncado": false,
  "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA 5.4.\n\nHaga comprender al cliente que entiende su situación y\nfrustración y que hará todo lo posible por corregir la situación\nen la medida que le es posible.\n\nPregunte en detalle sobre lo acontecido. Haciéndolo, el\ncliente sabrá que usted está preocupado por su problema y\nconfiará en que hará algo por resolver el problema.\n\nResuelva el problema o llame al Administrador Jefe de Plaza\nsi lo amerita, Si la solución está en el ambito de su\nresponsabilidad, hágalo inmediatamente en concordancia\ncon la política de la empresa.\n\nCuando sea confrontado a situaciones conflictivas de quejas o reclamaciones,\nsiempre mantenga contacto visual con el cliente. Siga estos procedimientos.\n\nEscuche el cliente y no lo interrumpa.\nPida las disculpas en caso que corresponda.\n\nDetermine el problema limitando la responsabilidad que\ncorresponda,\n\nSuglera alternativas de solución.\nConcuerde con una solución.\n\nHaga seguimiento telefónico para asegurarse que cumplió\ncon la satisfacción del cliente.\n\nSino le es posible resolver la situación comuniqueselo a su\nsuperior,\n\nSea sincero; no prometa lo que no puede cumplir,\n\nNunca culpe a otros de los errores, asuma la\nresponsabilidad.\n\nSea cortés en todo momento.\n\n6.4, Procedimiento en situaciones especiales o de excepción.\n\nEn ciertas ocasiones deberemos enfrentar situaciones en las cuales\ndebemos reaccionar ante imprevistos o situaciones inusuales. -\n\n340",
- "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Haga comprender al cliente que entiende su situación y frustración y que hará todo lo posible por corregir la situación en la medida que le es posible.\n- Pregunte en detalle sobre lo acontecido. Haciéndolo, el cliente sabrá que usted está preocupado por su problema y confiará en que hará algo por resolver el problema.\n- Resuelva el problema o llame al Administrador Jefe de Plaza si lo amerita. Si la solución está en el ámbito de su responsabilidad, hágalo inmediatamente en concordancia con la política de la empresa.\n\nCuando sea confrontado a situaciones conflictivas de quejas o reclamaciones, siempre mantenga contacto visual con el cliente. Siga estos procedimientos.\n\n- Escuche el cliente y no lo interrumpa.\n- Pida las disculpas en caso que corresponda.\n- Determine el problema limitando la responsabilidad que corresponda.\n- Sugiera alternativas de solución.\n- Concuérde con una solución.\n- Haga seguimiento telefónico para asegurarse que cumplió con la satisfacción del cliente.\n- Si no le es posible resolver la situación comuníqueselo a su superior.\n- Sea sincero; no prometa lo que no puede cumplir.\n- Nunca culpe a otros de los errores, asuma la responsabilidad.\n- Sea cortés en todo momento.\n\n6.4. Procedimiento en situaciones especiales o de excepción.\n\nEn ciertas ocasiones deberemos enfrentar situaciones en las cuales debemos reaccionar ante imprevistos o situaciones inusuales."
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Haga comprender al cliente que entiende su situación y\nfrustración y que hará todo lo posible por corregir la situación\nen la medida que le es posible.\n\n- Pregunte en detalle sobre lo acontecido. Haciéndolo, el\ncliente sabrá que usted está preocupado por su problema y\nconfiará en que hará algo por resolver el problema.\n\n- Resuelva el problema o llame al Administrador Jefe de Plaza\nsi lo amerita. Si la solución está en el ámbito de su\nresponsabilidad, hágalo inmediatamente en concordancia\ncon la política de la empresa.\n\nCuando sea confrontado a situaciones conflictivas de quejas o reclamaciones,\nsiempre mantenga contacto visual con el cliente. Siga estos procedimientos.\n\n- Escuche el cliente y no lo interrumpa.\n\n- Pida las disculpas en caso que corresponda.\n\n- Determine el problema limitando la responsabilidad que\ncorresponda.\n\n- Sugiera alternativas de solución.\n\n- Concuerde con una solución.\n\n- Haga seguimiento telefónico para asegurarse que cumplió\ncon la satisfacción del cliente.\n\n- Si no le es posible resolver la situación comuníqueselo a su\nsuperior.\n\n- Sea sincero: no prometa lo que no puede cumplir.\n\n- Nunca culpe a otros de los errores, asuma la\nresponsabilidad.\n\n- Sea cortés en todo momento.\n\n6.4. Procedimiento en situaciones especiales o de excepción.\n\nEn ciertas ocasiones deberemos enfrentar situaciones en las cuales\ndebemos reaccionar ante imprevistos o situaciones inusuales.\n\n30"
 }

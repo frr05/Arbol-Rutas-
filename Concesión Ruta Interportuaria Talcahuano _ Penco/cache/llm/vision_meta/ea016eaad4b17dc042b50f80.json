@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:53",
+ "costo": 0.000571,
+ "usage": {
+  "completion_tokens": 755,
+  "prompt_tokens": 4195,
+  "total_tokens": 4950,
+  "completion_tokens_details": {
+   "reasoning_tokens": 74
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.0,
+ "truncado": false,
+ "texto": "Ministerio de Obras Públicas Coordinación General de Concesiones\n\nConcesionaria de conformidad con el artículo 1.13.3 letra n) de estas Bases de\nLicitación.\"\n\n• Se elimina el séptimo punto que dice:\n\n\"• Se deberá individualizar, con su correspondiente porcentaje, a todas las personas\nnaturales o jurídicas que suscribirán y pagarán el 100% de dicho capital.\"\n\n3. En 1.7.6 \"Duración de la Concesión\", se rectifica el artículo reemplazándolo por el siguiente:\n\n\"1.7.6 Duración de la Concesión\n\nEn caso que el licitante o grupo licitante adjudicatario haya presentado su Oferta\nEconómica en el Tramo A de licitación descrito en 3.2.1, la concesión se extinguirá\nel mes \"m\", contado desde el inicio de la concesión señalado en 1.7.5, en que se\ncumpla la siguiente relación, sin perjuicio de lo establecido en 1.7.6.2, todos\nartículos de las presentes Bases de licitación:\n\nVPI_m ≥ ITC (1)\n\nDonde ITC corresponde al monto solicitado por el licitante o grupo licitante\nAdjudicatario en su Oferta Económica según los artículos 3.1.1 y 3.2.1 de las\npresentes Bases.\"\n\n4. Se adiciona el siguiente artículo 1.7.6.1 \"Cálculo de VPI_m\":\n\n\"1.7.6.1 Cálculo de VPI_m\n\nEl valor de VPI_m se calculará mensualmente de acuerdo a la siguiente expresión:\n\nVPI_m = Σ_{i=1}^{m} IM_i / ∏_{j=1}^{i} (1 + r_j)^{(1/12)} + Σ_{i=1}^{m} IMG_i / ∏_{j=1}^{i} (1 + r_F)^{(1/12)} en UF (2)\n\ncon\n\nr_j = { r_F + 0_1 Para el caso en que el licitante o grupo licitante hubiere optado, en su Oferta Económica de conformidad con el Anexo Nº1, por la opción de una \"Tasa Fija\".\nTMISF_j + 0_1 Para el caso en que el licitante o grupo licitante hubiere optado, en su Oferta Económica de conformidad con el Anexo Nº1, por la opción de una \"Tasa Variable\". (3)\n\ndonde,\n\nVPI_m : Valor Presente de los Ingresos de la Sociedad Concesionaria (en UF),\ncalculado en el mes \"m\" de concesión y actualizado al mes anterior al\nde inicio de la concesión.\n\nIM_i : Ingresos mensuales por recaudación de peajes o tarifas en Unidades de\nFomento (UF) en el mes \"i\" de concesión, sobre la base de la\ninformación señalada en 1.8.2, punto 5, letra g) y por eventuales\ningresos obtenidos por autorizaciones y por cobros por sobre los costos\nde construcción de accesos y conexiones a la obra en concesión\n\nCircular Aclaratoria Nº2 Página 2 de 15"
+}

@@ -172,7 +172,7 @@ def transcribir_json(p: Proyecto, limite: int | None = None) -> int:
     import io
     from concurrent.futures import ThreadPoolExecutor
 
-    from . import llm
+    from . import llm, meta
     from .ocr import renderizar, ruta_pagina
 
     paginas = [f for f in detectar(p) if f["incluir"] == "si" and f["json"] == "no"][:limite]
@@ -195,7 +195,10 @@ def transcribir_json(p: Proyecto, limite: int | None = None) -> int:
     def una(trabajo):
         f, png = trabajo
         inicio = time.time()
-        texto, modelo = llm.pedir_vision(dir_llm, PROMPT_JSON, png, modelos, max_tokens=8000, validar=_validar)
+        if meta.activo():                               # VISION_PROVEEDOR=meta: Muse Spark (API de Meta)
+            texto, modelo = meta.pedir_vision(dir_llm, PROMPT_JSON, png, max_tokens=8000, validar=_validar)
+        else:
+            texto, modelo = llm.pedir_vision(dir_llm, PROMPT_JSON, png, modelos, max_tokens=8000, validar=_validar)
         return f, _leer_respuesta(texto), modelo, round(time.time() - inicio, 1)
 
     hechas = 0

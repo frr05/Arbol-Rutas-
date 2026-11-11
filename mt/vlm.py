@@ -93,6 +93,38 @@ class ModeloOpenRouter:
         return texto, tokens
 
 
+class ModeloMeta:
+    """Visión con la API de Meta (Muse Spark, `mt/meta.py`). Misma interfaz que ModeloOpenRouter; además informa
+    si la salida quedó truncada según `finish_reason` (no por el largo del texto)."""
+
+    def __init__(self, dir_cache: Path):
+        from . import meta
+
+        self.dir_cache = dir_cache
+        self.nombre = meta.nombre()
+
+    def transcribir_meta(self, imagen) -> tuple[str, int, str, bool]:
+        import io
+
+        from . import meta
+
+        buf = io.BytesIO()
+        imagen.convert("L").save(buf, format="PNG", optimize=True)
+        r = meta.pedir(self.dir_cache, PROMPT, buf.getvalue())
+        uso = r.get("usage") or {}
+        visibles = (uso.get("completion_tokens") or 0) - ((uso.get("completion_tokens_details") or {})
+                                                          .get("reasoning_tokens") or 0)
+        return r["texto"], visibles or len(r["texto"]) // 4, r["modelo"], bool(r.get("truncado"))
+
+    def transcribir_con_modelo(self, imagen) -> tuple[str, int, str]:
+        texto, tokens, modelo, _ = self.transcribir_meta(imagen)
+        return texto, tokens, modelo
+
+    def transcribir(self, imagen) -> tuple[str, int]:
+        texto, tokens, _, _ = self.transcribir_meta(imagen)
+        return texto, tokens
+
+
 def _palabras(texto: str) -> list[str]:
     return re.findall(r"[\wáéíóúüñÁÉÍÓÚÜÑ]+", texto.lower())
 
@@ -135,23 +167,30 @@ def rescatar(p: Proyecto, doc_ids: set[str] | None = None, modelo: str | None = 
             imagen = imagen.rotate(-ocr["rotacion"], expand=True)
         trabajos.append((f, doc, n, ocr, imagen))
 
+    remoto = isinstance(vlm, (ModeloOpenRouter, ModeloMeta))
+
     def transcribir(trabajo):
         inicio = time.time()
-        imagen = trabajo[4] if isinstance(vlm, ModeloOpenRouter) else trabajo[4].convert("RGB")
-        if isinstance(vlm, ModeloOpenRouter):
+        imagen = trabajo[4] if remoto else trabajo[4].convert("RGB")
+        truncado = None
+        if isinstance(vlm, ModeloMeta):
+            texto, tokens, usado, truncado = vlm.transcribir_meta(imagen)
+        elif isinstance(vlm, ModeloOpenRouter):
             texto, tokens, usado = vlm.transcribir_con_modelo(imagen)
         else:
             (texto, tokens), usado = vlm.transcribir(imagen), nombre
-        return texto, tokens, usado, round(time.time() - inicio, 1)
+        if truncado is None:
+            truncado = tokens >= config.VLM_MAX_TOKENS
+        return texto, tokens, usado, round(time.time() - inicio, 1), truncado
 
-    hilos = config.env_int("VLM_HILOS", 6) if isinstance(vlm, ModeloOpenRouter) else 1
+    hilos = config.env_int("VLM_HILOS", 6) if remoto else 1
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(hilos) as pool:
         futuros = [pool.submit(transcribir, t) for t in trabajos]
         for i, (trabajo, fut) in enumerate(zip(trabajos, futuros), 1):
             f, doc, n, ocr, _ = trabajo
             try:
-                texto, tokens, usado, segundos = fut.result()
+                texto, tokens, usado, segundos, truncado = fut.result()
             except Exception as e:                      # sin modelos disponibles, tope de gasto, etc.
                 print(f"  [{i}/{len(pendientes)}] {doc.id} p{n:04d} · sin transcripción: {str(e)[:120]}")
                 continue
@@ -165,7 +204,7 @@ def rescatar(p: Proyecto, doc_ids: set[str] | None = None, modelo: str | None = 
                 "motivos": f["motivos"], "calidad_ocr": ocr["calidad"],
                 "n_palabras_vlm": cal_vlm["n_palabras"], "frac_rara_vlm": cal_vlm["frac_rara"],
                 "similitud": similitud(ocr["texto"], texto),
-                "truncado": tokens >= config.VLM_MAX_TOKENS,
+                "truncado": truncado,
                 "texto_ocr": ocr["texto"],
                 "texto_vlm": texto,
             }

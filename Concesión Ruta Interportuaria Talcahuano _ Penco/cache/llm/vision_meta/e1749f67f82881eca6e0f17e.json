@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000514,
+ "usage": {
+  "completion_tokens": 364,
+  "prompt_tokens": 4409,
+  "total_tokens": 4773,
+  "completion_tokens_details": {
+   "reasoning_tokens": 191
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.4,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"A\\u00f1o Calendario Explotaci\\u00f3n\", \"Banda Superior de Ingresos BSYt (UF) / Incluye Av. Alessandri\", \"Banda Superior de Ingresos BSYt (UF) / No Incluye Av. Alessandri\"], \"filas\": [[\"16\", \"145.211 x g\", \"143.309\"], [\"17\", \"156.896 x g\", \"154.797\"], [\"18\", \"169.532 x g\", \"167.219\"], [\"19\", \"183.197 x g\", \"180.653\"], [\"20\", \"197.974 x g\", \"195.181\"]], \"notas\": null}]}"
+}

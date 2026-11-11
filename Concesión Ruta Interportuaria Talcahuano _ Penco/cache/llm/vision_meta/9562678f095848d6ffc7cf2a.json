@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000707,
+ "usage": {
+  "completion_tokens": 1439,
+  "prompt_tokens": 4195,
+  "total_tokens": 5634,
+  "completion_tokens_details": {
+   "reasoning_tokens": 759
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.8,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n• Disposición de personal, equipos, herramientas y materiales necesarios para la mantención de las condiciones de seguridad.\n\n• Horario de Funcionamiento (normal o extraordinario).\n\n• Medidas de Seguridad y Vigilancia.\n\n• Medidas de prevención de incendios y otros.\n\n• Dotación mínima de personal (normal, en turnos, dotación de reemplazo, vacaciones, etc.).\n\n• Transporte para el personal de trabajo.\n\n• Medidas de mantención de las distintas instalaciones.\n\n• Medidas de aseo de las distintas instalaciones.\n\n• Medidas orientadas a detectar y solucionar los problemas de accidentes, congestión o de cualquier otra naturaleza que se produzcan en el camino.\n\n• Mantención de elementos de seguridad, señalización y demarcación en el área de la concesión, según el artículo 2.6.1.9 de las presentes Bases.\n\nEl presente plan deberá ser entregado como parte del Plan de Gestión Ambiental de la Obra durante la Etapa de Explotación de acuerdo a lo establecido en el artículo 1.10.11 de las Bases Administrativas.\n\nLos estándares de seguridad mínimos que deben orientar la elaboración de este Plan son:\n\n- Proteger en primer lugar a las personas y en segundo lugar el medio ambiente, y poseer la capacidad de mantener a la gente segura de riesgos actuales o potenciales.\n\n- Proteger cada uno de los elementos ambientales identificados en el desarrollo del Plan.\n\n- Disposición de personal, equipos, herramientas y materiales requeridos en el sitio afectado por una emergencia.\n\n- Establecer y mantener una estrecha comunicación y coordinación con bomberos, carabineros y otros servicios públicos, de manera de obtener recursos y un conocimiento actualizado de las responsabilidades de cada organización en caso de que tuvieran que responder ante una emergencia y coordinar asistencia mutua en la respuesta a dicha emergencia.\n\n- Contar con señalización de emergencia para informar cambios temporales de ruta.\n\n2.8 PLAN DE MEDIDAS DE CONTROL DE ACCIDENTES O CONTINGENCIAS\n\nLa Sociedad Concesionaria deberá presentar al Inspector Fiscal, un Plan de Medidas de Control de Accidentes o Contingencias para la Etapa de Construcción y otra la Etapa de Explotación, respectivamente, el que deberá señalar la forma en que se intervendrá eficazmente ante los sucesos causales que alteren el desarrollo normal de proyecto o actividad. Dicho plan contendrá acciones a tomar en caso de ocurrencia de eventos accidentales de relevancia para el medio ambiente. El Plan correspondiente a cada etapa, deberá ser entregado para aprobación del Inspector Fiscal, de acuerdo a lo establecido en los artículos 1.9.2.5 y 0, según corresponda.\n\nLos contenidos mínimos que deberá tener este Plan tanto para la etapa de construcción como para la etapa de explotación son los que se indican a continuación.\n\n2.8.1 Plan de Control de Accidentes o Plan de Contingencias durante la Etapa de Construcción\n\nAntes de iniciar la construcción la Sociedad Concesionaria deberá realizar una serie de actividades tendientes a capacitar a sus trabajador[ilegible] n temas relacionados, entre otros con:\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 135"
+}

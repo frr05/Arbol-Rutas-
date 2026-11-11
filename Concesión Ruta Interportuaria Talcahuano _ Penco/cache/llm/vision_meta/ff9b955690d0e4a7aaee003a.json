@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000661,
+ "usage": {
+  "completion_tokens": 1207,
+  "prompt_tokens": 4195,
+  "total_tokens": 5402,
+  "completion_tokens_details": {
+   "reasoning_tokens": 348
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.2,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nTabla N° 23: Alternativas de Reutilización y Disposición Final de Residuos Sólidos.\n\nTipo de residuo | Reutilización en las obras y/o actividades de la concesión | Recuperación para Reutilización, reciclaje y/o disposición final previo tratamiento | Disposición final en vertederos para materiales inertes | Disposición final en vertederos municipales\nAsfalto | Si | Si | Si | No\nConcreto | Si | Si | Si | No\nTierra y material de descarte | Si | Si | Si | Si\nFierros y chatarras | No | Si | Si | No\nOrgánicos vegetales | Si | Si | Si | Si\nLodos de piscinas de decantación | No | Si | Si | No\nGrasas, aceites y lubricantes | No | Si | No | No\nRestos de pinturas y solventes | No | Si | No | No\nOrgánicos domésticos | No | No | No | Si\n\nSegún lo indicado en la Tabla N° 23 y en los párrafos siguientes, la Sociedad Concesionaria dispone de varias alternativas para el destino final de los residuos, debiendo aplicarlas según el siguiente orden de preferencia y disponibilidad de la alternativa: reciclaje, reutilización y/o disposición final, según corresponda.\n\n• Para la adecuada reutilización de los residuos de asfalto y concretos, se deberán tener presente las especificaciones técnicas de la Dirección de Vialidad. En el caso que la reutilización no sea posible, se deberán depositar en un vertedero para materiales inertes.\n\n• Para los residuos de tierra con o sin piedras, se dispone de las siguientes alternativas: reutilización como material de relleno en los terraplenes, siempre y cuando cumplan con las características geomecánicas necesarias; material de relleno para los pozos de empréstito abandonados; material de relleno para los vertederos, para lo cual será necesario manejar independientemente los materiales cuyas características se asimilen a arcillas, limos y/o arenas.\n\n• La Sociedad Concesionaria podrá contar con las siguientes alternativas para la reutilización de los residuos orgánicos vegetales, según el tipo de residuo: los troncos y ramas deberán ser cortados en trozos que permitan su fácil transporte, almacenados en lugares secos y puestos a disposición de las respectivas municipalidades; las ramas pequeñas y hojas se triturarán y se almacenarán segregadas de otros residuos, a fin de obtener \"compost\" que podrá ser utilizado en las obras de paisajismo.\n\n• Se deberá dar el siguiente tratamiento a las grasas, aceites y lubricantes, considerados residuos peligrosos: separación en el origen en recipientes estancos debidamente etiquetados, almacenados en edificios con vigilancia y con equipamiento contra incendios, y posterior traslado a una planta de reutilización y/o reciclaje o disposición final que cuente con la debida autorización del Servicio de Salud Regional.\n\n• Los residuos y recipientes con restos de pinturas y solventes deberán ser tratados de la siguiente manera: almacenamiento en edificios con vigilancia y con equipamiento contra incendios y devolución a las empresas distribuidoras del rubro para su reutilización y/o reciclaje. La segunda alternativa es el traslado de estos residuos a una planta de reutilización y/o reciclaje o disposición final que cuente con la debida autorización del Servicio de Salud Regional.\n\n• Los residuos de fierros y chatarras en general deberán ser almacenados para su reutilización y/o reciclaje, y en el caso que ello no sea posible, depositados en vertederos para materiales inertes, previa aprobación del Servicio de Salud Regional.\n\n• Los lodos resultantes de las piscinas de decantación de los sistemas de depuración de aguas habilitados para las plantas de hormigón. deberán ser depositados en los vertederos para materiales inertes; los lodos\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 153"
+}

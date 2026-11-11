@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000771,
+ "usage": {
+  "completion_tokens": 1755,
+  "prompt_tokens": 4195,
+  "total_tokens": 5950,
+  "completion_tokens_details": {
+   "reasoning_tokens": 945
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 15.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nEl Inspector Fiscal comunicará a la Sociedad Concesionaria la decisión del DGOP de realizar o compensar las\nobras y solicitará a la misma que presente un proyecto de ingeniería de detalle de las obras valorizado a los\nPrecios Unitarios Oficiales, según el Anexo N°3, otorgándole un plazo suficiente para ello. En todo caso el\nDGOP no podrá utilizar ninguna de estas facultades después de transcurridos 30 meses desde el inicio de la\netapa de construcción señalada en el artículo 1.9.3 de las presentes Bases.\n\n1.9.15 Ensayes y Calidad de Materiales\n\nDurante la etapa de construcción, con el fin de verificar la correcta ejecución de las obras estipuladas en las\npresentes Bases de Licitación y sin perjuicio de lo dispuesto en las Especificaciones Técnicas de\nConstrucción, el Manual de Carreteras e Instructivos vigentes de la Dirección de Vialidad, el Inspector Fiscal\nsolicitará al Concesionario en los plazos que éste determine, los ensayes, controles de laboratorio y/o\ncertificados de calidad de los materiales, que estime conveniente.\n\nEl Inspector Fiscal fijará los plazos para efectuar los ensayes y para la entrega de los certificados\ncorrespondientes. El incumplimiento de esta obligación hará aplicable la multa establecida en el artículo\n1.8.5.1 de las presentes Bases.\n\nEstos controles y ensayes serán de entero costo del Concesionario.\n\n1.10 DE LA EXPLOTACION DE LA OBRA\n\nLa Etapa de Explotación comenzará junto con la Puesta en Servicio Provisoria de las obras definidas en el\nartículo 1.3.1 de acuerdo a lo establecido en el artículo 1.9.5 de las presentes Bases. Esta etapa comprende lo\nsiguiente:\n\na) La prestación del servicio básico, servicios complementarios y otros servicios para los que fue\nconstruida la obra, en el área de concesión;\n\nb) La conservación de la obra en óptimas condiciones de uso, según lo exigido por las presentes Bases de\nLicitación;\n\nc) El cobro de tarifas que pagarán los usuarios de los servicios básicos y los precios por los otros servicios\nque esté autorizado a prestar el Concesionario en virtud del contrato de concesión;\n\nd) La ejecución de las obras que deban construirse una vez que la obra haya sido puesta en servicio;\n\ne) El uso y goce sobre bienes nacionales de uso público o fiscales en los que se desarrolle la obra\nentregada en concesión;\n\nf) El uso y goce sobre bienes nacionales de uso público o fiscales destinados a áreas de servicios conforme\na lo estipulado en el artículo 32° del DS MOP N°900 de 1996.\n\n1.10.1 Autorización de Puesta en Servicio Provisoria de las Obras\n\nPara la autorización de Puesta en Servicio Provisoria de las obras se procederá conforme al siguiente\nprocedimiento:\n\na) El Concesionario solicitará al DGOP que compruebe la correcta ejecución de las obras conforme a las\nespecificaciones técnicas aprobadas por el Inspector Fiscal en la presentación del Proyecto de Ingeniería\nDefinitiva como se solicita en el artículo 1.9.1.2 y a los estándares de las presentes Bases de Licitación.\n\nPara estos efectos, las obras incluidas en el o los Anteproyectos Referenciales aceptados por la Sociedad\nConcesionaria y los proyectos desarrollados por ésta y aprobados por el Inspector Fiscal, serán\nconsideradas como las ob. mínimas a realizar, sin perjuicio de lo señalado en el artículo 1.9.1.4 y, en\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 66"
+}

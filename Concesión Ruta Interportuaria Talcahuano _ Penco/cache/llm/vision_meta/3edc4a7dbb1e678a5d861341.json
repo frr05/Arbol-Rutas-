@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.000608,
+ "usage": {
+  "completion_tokens": 942,
+  "prompt_tokens": 4195,
+  "total_tokens": 5137,
+  "completion_tokens_details": {
+   "reasoning_tokens": 190
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n2.5 Empréstitos | Breve descripción de los lugares de extracción de empréstitos, sus características y localización. Avances y estado del Plan de Manejo Estado y Avance del Plan de Manejo con especial énfasis en: Medidas de Mitigación Implementadas (propuestas de solución, calendario de aplicación de las medidas, permisos involucrados) Plan de Seguimiento y Control\n3. PERMISOS AMBIENTALES INVOLUCRADOS (LISTADO, SOLICITUD Y APROBACIÓN)\nANEXO\nFotos, planos, mapas, etc.\nMatrices de seguimiento ambiental\nCertificados, permisos, etc.\n2.11 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA EXPLOTACION\nEl Plan de Manejo Ambiental Mínimo que deberá implementar la Sociedad Concesionaria considera medidas de mitigación, reparación, compensación, prevención de riesgos y control de accidentes - según resulte pertinente - para aquellas actividades y obras del proyecto que, en la fase de explotación, produzcan impactos negativos en algún componente ambiental que no pueda revertirse sin la aplicación de tales medidas, o cuando sea necesario aplicarlas, para cumplir con la legislación vigente. Las medidas establecidas se basan en las conclusiones y recomendaciones del Plan de Manejo Ambiental Preliminar referencial señalado en el artículo 1.4.4 de las Bases Administrativas, y en la aplicación de criterios definidos por la Coordinación General de Concesiones. La Sociedad Concesionaria podrá incorporar obras o acciones adicionales a las exigidas, que a su juicio contribuyan al cumplimiento de las condiciones de explotación indicadas en las presentes Bases Técnicas en lo referente a la protección del medio ambiente.\nLa Sociedad Concesionaria deberá cumplir con todas las exigencias contenidas en la correspondiente Resolución de Calificación Ambiental, e incorporar dichas exigencias al Plan de Manejo Ambiental Mínimo para la etapa de Explotación.\nEste Plan mínimo es sin perjuicio de lo establecido en el artículo 1.8.1 de las Bases Administrativas, en relación con las facultades del Inspector Fiscal de instruir medidas adicionales, en caso a: i) de demostrarse el incumplimiento de las medidas establecidas en la Bases de Licitación, ii) de detectarse la ocurrencia de impactos ambientales no considerados en éstas.\nEl incumplimiento de las medidas establecidas en el presente Plan y de las instrucciones impartidas por el Inspector Fiscal a través del Libro de Explotación de la Obra, hará incurrir a la Sociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 de las presentes Bases de Licitación.\n2.11.1 Aire\nEn virtud del DS Nº144 de 1961 del Ministerio de Salud (D.O. 19.05.61), durante la etapa de mantención y reparación de las vías, las emanaciones de gases, polvo o contaminantes de cualquier naturaleza provenientes de faenas, frentes de trabajo y actividades en general, deberán captarse o eliminarse en forma tal que no causen daño al medio ambiente o molestias a las personas. Para estos efectos, la Sociedad Concesionaria deberá implementar todas las medidas necesarias tales como: utilización de maquinarias con tecnologías limpias, protecciones laterales que retengan el material particulado, riego de áreas de faenas, humedecimiento de áridos y materiales inertes, entre otras.\n2.11.2 Ruido\nDurante la etapa de explotación se deberá realizar 1 campaña de medición cada año que considere lo siguiente:"
+}

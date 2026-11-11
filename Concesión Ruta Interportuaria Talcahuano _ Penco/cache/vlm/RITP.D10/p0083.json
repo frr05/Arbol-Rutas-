@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 83,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 196,
+ "segundos": 5.0,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 124,
+  "conf_media": 0.944,
+  "frac_baja": 0.016,
+  "frac_rara": 0.0,
+  "tinta": 0.0165
+ },
+ "n_palabras_vlm": 124,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.975,
+ "truncado": false,
+ "texto_ocr": "requerir el MOP al momento de efectuar el pago de la presente Resolución,\núnicamente podrá ser requerido a quien presente esta Resolución a cobro.\n\nb) Acreditar al DGOP, como representante del Ministerio de Obras Públicas, con 20 días\n\nde antelación al día de vencimiento del plazo fijado para el pago, el cumplimiento de\nlo señalado en la letra a) anterior.\n\n7. ESTABLECESE que esta Resolución no podrá ser pagada anticipadamente por el\n\nMinisterio de Obras Públicas, salvo con el consentimiento del legítimo tenedor, esto es,\nla Sociedad Concesionaria o el adquiriente de ésta.\n\nANOTESE Y COMUNIQUESE\n\nConvenio Complementario N* 1 — Ruta Interportuaria Talcahuano — Penco por Isla Rocuant\nAnexo N? 8 — Modelo de Resolución DGOP\n\nDatos simulados, sólo a título de ejemplg",
+ "texto_vlm": "requerir el MOP al momento de efectuar el pago de la presente Resolución,\núnicamente podrá ser requerido a quien presente esta Resolución a cobro.\nb) Acreditar al DGOP, como representante del Ministerio de Obras Públicas, con 20 días\nde antelación al día de vencimiento del plazo fijado para el pago, el cumplimiento de\nlo señalado en la letra a) anterior.\n\n7. ESTABLECESE que esta Resolución no podrá ser pagada anticipadamente por el\nMinisterio de Obras Públicas, salvo con el consentimiento del legítimo tenedor, esto es,\nla Sociedad Concesionaria o el adquiriente de ésta.\n\n\nANOTESE Y COMUNIQUESE\n\n\nConvenio Complementario Nº 1 – Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\nAnexo Nº 8 – Modelo de Resolución DGOP Datos simulados, sólo a título de ejemplo"
+}

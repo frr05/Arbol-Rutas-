@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 44,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 554,
+ "segundos": 15.4,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 372,
+  "conf_media": 0.911,
+  "frac_baja": 0.051,
+  "frac_rara": 0.008,
+  "tinta": 0.0614
+ },
+ "n_palabras_vlm": 372,
+ "frac_rara_vlm": 0.008,
+ "similitud": 0.984,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- No confiarse en que ya conoce el camino. Aunque haya transitado por él\nmuchas veces, siempre puede encontrar algo nuevo que requerirá de su\nreacción atinada (una piedra, una mala maniobra de un vehículo menor,\nun vehículo detenido en una curva, un rodado de piedras en el camino,\nbarro, hielo, nieve, etc.)\n\n- Tome con precaución especial las curvas cerradas, disminuyendo la\nvelocidad y concentrando su atención en la huella.\n\n- Durante la conducción limitese exclusivamente a ello. No realice ofra\nactividad (comer, beber, buscar algo en la cabina, poner o retirar un\ncasete, poner o retirarse la ropa, limpiar, etc.). Para esto ocupe el tiempo\nen que está detenido. Si debe realizar otra actividad durante el tránsito,\nbusque un lugar seguro y detenga el vehículo.\n\n- Cuando deba hablar por radio, hágalo en zonas seguras, donde pueda\nconducir con una mano o cuando esté detenido (rectas, vaciado, etc.) y\nsin perder de vista el camino y/o la operación de otros equipos.\n\n- Si se siente cansado, fatigado o enfermo, informe de inmediato a su\nsupervisor, no espere.\n\n- Ál detenerse hágalo en sectores de amplia visibilidad. Si requiere\ndetenerse en zonas de curvas cerradas, informe de inmediato, asegure el\nvehículo (frenos, cuñas, luces de destello, etc.) y descienda para advertir\na los equipos que vienen tras suyo.\n\n- Mantenga la distancia entre su vehículo y el que le antecede (50 metros).\nObserve constantemente lo que este hace o señaliza,\n\n- Aquellas medidas que pueden ser tomadas antes de empezar el viaje, por\nejemplo; graduar la posición de los espejos retrovisores, colocarse y\najustarse al cinturón de seguridad, ajustar la posición de los asientos,\ndeben ser tomadas ANTES de empezar el viaje.\n\nLos riesgos de la velocidad\n\nUna de las causas más frecuentes de accidentes vehiculares, es el conducir a\nuna velocidad no adecuada ni prudente. El mayor problema que se presenta a\nesa velocidad es la dificultad para efectuar maniobras de emergencia, cuando\nes necesaria,\n\nA bajas velocidades el conductor goza de un amplio margen de capacidad\n\nvisual, Sin embargo, a medida que el ritmo de marcha aumenta, la necesidad de\nver más rápido, también aumenta, ya que el conductor tene menos tiempo para\n\nE",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- No confiarse en que ya conoce el camino. Aunque haya transitado por él\nmuchas veces, siempre puede encontrar algo nuevo que requerirá de su\nreacción atinada (una piedra, una mala maniobra de un vehículo menor,\nun vehículo detenido en una curva, un rodado de piedras en el camino,\nbarro, hielo, nieve, etc.)\n\n- Tome con precaución especial las curvas cerradas, disminuyendo la\nvelocidad y concentrando su atención en la huella.\n\n- Durante la conducción limítese exclusivamente a ello. No realice otra\nactividad (comer, beber, buscar algo en la cabina, poner o retirar un\ncasete, poner o retirarse la ropa, limpiar, etc.). Para esto ocupe el tiempo\nen que está detenido. Si debe realizar otra actividad durante el tránsito,\nbusque un lugar seguro y detenga el vehículo.\n\n- Cuando deba hablar por radio, hágalo en zonas seguras, donde pueda\nconducir con una mano o cuando esté detenido (rectas, vaciado, etc.) y\nsin perder de vista el camino y/o la operación de otros equipos.\n\n- Si se siente cansado, fatigado o enfermo, informe de inmediato a su\nsupervisor, no espere.\n\n- Al detenerse hágalo en sectores de amplia visibilidad. Si requiere\ndetenerse en zonas de curvas cerradas, informe de inmediato, asegure el\nvehículo (frenos, cuñas, luces de destello, etc.) y descienda para advertir\na los equipos que vienen tras suyo.\n\n- Mantenga la distancia entre su vehículo y el que le antecede (50 metros).\nObserve constantemente lo que este hace o señaliza.\n\n- Aquellas medidas que pueden ser tomadas antes de empezar el viaje, por\nejemplo: graduar la posición de los espejos retrovisores, colocarse y\najustarse al cinturón de seguridad, ajustar la posición de los asientos,\ndeben ser tomadas ANTES de empezar el viaje.\n\nLos riesgos de la velocidad\n\nUna de las causas más frecuentes de accidentes vehiculares, es el conducir a\nuna velocidad no adecuada ni prudente. El mayor problema que se presenta a\nesa velocidad es la dificultad para efectuar maniobras de emergencia, cuando\nes necesario.\n\nA bajas velocidades el conductor goza de un amplio margen de capacidad\nvisual. Sin embargo, a medida que el ritmo de marcha aumenta, la necesidad de\nver más rápido, también aumenta, ya que el conductor tiene menos tiempo para\n\n43"
+}

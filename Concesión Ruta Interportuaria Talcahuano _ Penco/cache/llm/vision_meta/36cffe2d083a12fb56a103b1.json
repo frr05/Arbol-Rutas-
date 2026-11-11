@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:53",
+ "costo": 0.000572,
+ "usage": {
+  "completion_tokens": 764,
+  "prompt_tokens": 4195,
+  "total_tokens": 4959,
+  "completion_tokens_details": {
+   "reasoning_tokens": 157
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.4,
+ "truncado": false,
+ "texto": "Ministerio de Obras Públicas Coordinación General de Concesiones\n8. En 1.8.1 \"De la Inspección Fiscal\", enmendado anteriormente por la Circular Aclaratoria N°2, se rectifica el segundo párrafo del artículo de la siguiente manera:\n• Donde dice:\n\"..., y otro para la etapa de explotación dentro del plazo de treinta días contados desde la solicitud de Puesta en Servicio Provisoria ...\"\n• Debe decir:\n\"..., y otro para la etapa de explotación dentro del plazo de treinta días contados desde la primera solicitud de Puesta en Servicio Provisoria ...\"\n9. En 1.8.4.2 \"Expropiaciones\", se rectifica el artículo reemplazando el cuarto párrafo por el siguiente:\n\"En el evento que no se haya hecho entrega de los terrenos necesarios para la ejecución de la obra comprometida en el tramo o sector correspondiente a los antecedentes aprobados, transcurridos catorce (14) meses desde que los antecedentes legales y planimétricos requeridos para la expropiación hayan sido aprobados por el Inspector Fiscal, tal como se indica en los artículos 1.9.1.2 y 2.4 de las presentes Bases, el MOP compensará al Concesionario, otorgándole un aumento en el plazo de Puesta en Servicio Provisoria de las obras, igual al tiempo del atraso sufrido.\"\n10. En 1.8.5 \"Infracciones y Multas\", se rectifica el artículo eliminando el último párrafo que dice:\n\"El Inspector Fiscal notificará la infracción detectada al Concesionario y propondrá la aplicación, si es el caso, de las multas que se estipulan a continuación.\"\n11. En 1.8.5.1 \"Tipos de Infracciones y Multas\", enmendado anteriormente por la Circular Aclaratoria N°2, se rectifica la Tabla N°2 de la siguiente manera:\n• En la letra a) \"Relacionadas con las Obligaciones de Información y Otras\":\nDonde dice:\n1.8.17.1 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día | \nDebe decir:\n1.8.17 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día | \n• En la letra c) \"Durante la Etapa de Explotación\":\nDonde dice:\n1.10.10.2 | 20 | No prestación de servicios complementarios propuestos por el licitante o grupo licitante y | Cada día | \nCircular Aclaratoria N°4 Página 5 de 20"
+}

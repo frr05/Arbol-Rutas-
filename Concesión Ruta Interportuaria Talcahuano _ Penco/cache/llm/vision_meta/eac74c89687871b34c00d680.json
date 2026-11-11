@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000592,
+ "usage": {
+  "completion_tokens": 864,
+  "prompt_tokens": 4195,
+  "total_tokens": 5059,
+  "completion_tokens_details": {
+   "reasoning_tokens": 10
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.8,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nde 30 días contados desde la entrega de los antecedentes correspondientes para su aprobación, proponer modificaciones a éste o bien para su rechazo. En estos últimos casos, dentro del plazo que el Inspector Fiscal determine, el cual no podrá exceder de 10 días, la Sociedad Concesionaria deberá entregar un nuevo plan de desvíos con las correcciones solicitadas según corresponda. El Inspector Fiscal tendrá un plazo de 15 días para pronunciarse sobre las mismas.\n\nEl Concesionario sólo podrá iniciar la construcción de aquella parte de la obra que cuente con la aprobación del Plan de Desvíos correspondiente, por parte del Inspector Fiscal.\n\nEl Inspector Fiscal deberá verificar durante todo el período de construcción, que el Plan de Desvíos de Tránsito cumpla a cabalidad las exigencias con que fue aprobado.\n\nEl Inspector Fiscal, por razones fundadas, podrá exigir las adecuaciones o modificaciones que sean necesarias para mejorar y asegurar el nivel de servicio en los desvíos provisorios.\n\nEl incumplimiento de estas obligaciones, hará incurrir a la Sociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 de las presentes Bases.\n\nPor motivos de interés público, el MOP podrá habilitar anticipadamente y en forma temporal, aquellas obras construidas por la Sociedad Concesionaria que estime necesarias para mejorar la circulación y seguridad de las rutas, sin que ello signifique la aprobación de las mismas, y sin que esto implique una autorización para iniciar el cobro de peaje, si se tratara de un tramo o sector en que se contempla la instalación de una plaza de peaje, y sin que la Sociedad Concesionaria tenga derecho a compensación o indemnización alguna.\n\n1.9.10 Señalización y Seguridad para el Tránsito\n\nLa Sociedad Concesionaria está obligada a procurar la seguridad del tránsito para los usuarios de las vías intervenidas, debiendo proveer, colocar y mantener letreros y señales de peligro, diurno y nocturno, durante todo el período de las faenas. Igualmente deberá proveer personal de señaleros día y noche, como también los equipos y ayuda para emergencias. Todo lo anterior deberá ajustarse a lo establecido en el Decreto N°63 de fecha 15/05/86 del Ministerio de Transportes y Telecomunicaciones sobre Señalización y Medidas de Seguridad, modificado por el Decreto N°11 del 19/01/96 y la Resolución de la Dirección de Vialidad N°1826 de fecha 02/06/83 en los aspectos no considerados en el Decreto antes señalado, cuando se efectúan trabajos en la vía pública. Esta señalización de faenas deberá retirarse tan pronto como se haga innecesaria. Para ello la Sociedad Concesionaria deberá presentar al Inspector Fiscal para su aprobación, conjuntamente con el Plan de Desvíos de Tránsito señalado en el artículo 1.9.9 de las presentes Bases, un Programa de Señalización de Faenas.\n\nEl incumplimiento de estas obligaciones, hará incurrir a la Sociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 de las presentes Bases.\n\n1.9.11 Instalación de Faenas y Equipamiento del Inspector Fiscal\n\nLa Sociedad Concesionaria será el único responsable por el suministro, transporte, instalación, mantención y suficiencia de las instalaciones de faenas requeridas para el normal desarrollo de las obras.\n\nLa Sociedad Concesionaria deberá proporcionar al Inspector Fiscal, durante el tiempo que dure la ejecución de las obras, una oficina junto a la instalación de faena principal de la Sociedad Concesionaria y una oficina junto a cada instalación secundaria o frente de trabajo que ésta instale, de acuerdo a las siguientes condiciones mínimas:\n\n• Oficina en instalación de faena principal de 80 m² con dos baños y dos equipos de aire acondicionado y laboratorio de 60 m².\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n63"
+}

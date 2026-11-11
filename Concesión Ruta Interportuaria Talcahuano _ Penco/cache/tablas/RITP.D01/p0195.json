@@ -1,20 +1,20 @@
 {
  "documento": "RITP.D01",
  "pagina": 195,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:48",
+ "fecha": "2026-11-11 12:02",
  "tablas": [
   {
-   "titulo": "CRONOGRAMA REFERENCIAL DE INVERSION TIPO CARTA GANTT",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "DESCRIPCION",
-    "Mes 1",
-    "Mes 2",
-    "Mes ..",
-    "Mes n",
-    "Total"
+    "VALORES (UF) / Mes 1",
+    "VALORES (UF) / Mes 2",
+    "VALORES (UF) / Mes ..",
+    "VALORES (UF) / Mes n",
+    "VALORES (UF) / Total"
    ],
    "filas": [
     [
@@ -145,7 +145,7 @@
     ],
     [
      "A.4.1",
-     "Puente sobre Río Andalíen (Puente Las Ballenas)",
+     "Puente sobre Río Andalién (Puente Las Ballenas)",
      "",
      "",
      "",
@@ -279,7 +279,7 @@
      ""
     ],
     [
-     "",
+     "SUBTOTAL A (UF)",
      "SUBTOTAL A (UF)",
      "",
      "",

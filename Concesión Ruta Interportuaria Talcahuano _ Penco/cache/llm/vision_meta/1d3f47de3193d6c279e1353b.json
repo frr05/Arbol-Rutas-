@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000496,
+ "usage": {
+  "completion_tokens": 409,
+  "prompt_tokens": 4142,
+  "total_tokens": 4551,
+  "completion_tokens_details": {
+   "reasoning_tokens": 21
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 4.8,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Tratar de hacer arrancar el vehículo de la batería descargada. Si no\narranca enseguida dejar en marcha el motor del vehículo que tiene la\nbatería en buen estado, durante algunos minutos, antes de tratar\nnuevamente de hacer arrancar el otro.\n\n- Quitar las pinzas en orden inverso, o sea, primero la del cable negro del\nmotor, para evitar una chispa en la batería.\n\n- Las pinzas del cable rojo y las del cable negro nunca deben estar en\ncontacto entre si.\n\n- Mantener los cables y las manos alejadas de ventiladores y correas\n\n7.11 Uso de extintores\n\nEl polvo químico seco como agente extintor es sumamente efectivo y presenta\nvarias ventajas sobre otros elementos extintores del fuego, tales como:\n\n- Rápida acción\n- Amplio campo de aplicación\n- Efectividad\n\nLos extintores de polvo químico usados en las faenas poseen las siguientes\ncaracterísticas:\n\n- Alcance normal de proyección: 6 metros\n\n- Flujo de descarga (0.4 a 0.5 Kg./seg.)\n\n- Tiempo descarga según capacidad de los extintores (de 15 a 20 seg.)\n\nTécnicas de aplicación:\n\n- Retire el extintor de su ubicación.\n\n- Use la manilla para transportarlo hacia el sitio de amago.\n\n- Ubíquese a unos 2 o 3 metros del fuego y a favor del viento.\n\n- Retire el seguro y tire el pasador.\n\n- Baje el percutor al máximo y apriete el gatillo de la manguera de\ndescarga.\n\n- Dirija el chorro a la base del fuego con movimientos de abanico.\n\n49"
+}

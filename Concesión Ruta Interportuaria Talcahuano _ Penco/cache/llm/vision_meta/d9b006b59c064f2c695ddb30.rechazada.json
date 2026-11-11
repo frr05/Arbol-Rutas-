@@ -1,0 +1,24 @@
+[
+ {
+  "modelo": "meta:muse-spark-1.3-contributor",
+  "reasoning_effort": "minimal",
+  "fecha": "2026-11-11 12:03",
+  "costo": 0.000733,
+  "usage": {
+   "completion_tokens": 1460,
+   "prompt_tokens": 4413,
+   "total_tokens": 5873,
+   "completion_tokens_details": {
+    "reasoning_tokens": 1150
+   },
+   "prompt_tokens_details": {
+    "cached_tokens": 369
+   }
+  },
+  "finish_reason": "stop",
+  "segundos": 19.6,
+  "truncado": false,
+  "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"RECEPCION\", \"\", \"\"], \"filas\": [[\"DEPART. JURIDICO\", \"\", \"\"], [[\"\", \"\", \"\"], [\"DEP. T. R. Y REGISTRO\", \"\", \"\"], [\"\", \"\", \"\"], [\"DEPART. CONTABIL.\", \"\", \"\"], [\"\", \"\", \"\"], [\"SUB. DEP. C. CENTRAL\", \"\", \"\"], [\"SUB. DEP. E. CUENTAS\", \"\", \"\"], [\"\", \"\", \"\"], [\"SUB. DEP. C. P. Y BIENES NAC.\", \"\", \"\"], [\"\", \"\", \"\"], [\"DEPART. AUDITORIA\", \"\", \"\"], [\"\", \"\", \"\"], [\"DEPART. V. O. P., U y T.\", \"\", \"\"], [\"\", \"\", \"\"], [\"SUB. DEP. MUNICIP.\", \"\", \"\"], [\"\", \"\", \"\"], [\"\", \"\", \"\"], [\"\", \"\", \"\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"R E F R E N D A C I O N\", \"\", \"\"], \"filas\": [[\"REF. POR $\", \"\", \"\"], [\"IMPUTAC.\", \"\", \"\"], [\"ANOT. POR $\", \"\", \"\"], [\"IMPUTAC.\", \"\", \"\"], [\"\", \"\", \"\"], [\"DEDUC DTO.\", \"\", \"\"], [\"184723\", \"\", \"C.G.C\"]], \"notas\": null}]}",
+  "error": "JSON inválido: Expecting ',' delimiter: line 1 column 535 (char 534)"
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000562,
+ "usage": {
+  "completion_tokens": 737,
+  "prompt_tokens": 4142,
+  "total_tokens": 4879,
+  "completion_tokens_details": {
+   "reasoning_tokens": 363
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.2,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Administrar los primeros auxilios acorde con su nivel de\npreparación.\n- Trasladar al usuario o empleado si es que puede ser\nmovido sin peligro. El afectado debe ser trasladado por el\nJefe de Plaza o supervisor, de estar disponible.\n- En el caso de un usuario lesionado, no lo traslade, llame\na la ambulancia.\n- Si la persona herida no puede ser trasladada sin peligro,\no en caso de duda, llamar a la ambulancia.\n- Mover a una persona herida, sin importar su condición, si\nla persona se encuentra expuesta a una situación de\npeligro en su alrededor, como un incendio.\n- Para las emergencias sin peligro de muerte, los\nafectados deben ser trasladados al primer centro médico\ndesignado en el Cuadro de Teléfonos de Emergencia.\n\n5.8 Terremoto\n\nLos terremotos pueden causar cortes de energía, agua potable, comunicaciones\ny transporte. Además podrían causar daños corporales y psicológicos y\nperturbaciones emocionales.\n\nDurante el Terremoto\n\n- Manténgase adentro y alejado de las ventanas\n- Busque protección debajo de una mesa o escritorio\n- Manténgase alejado de muebles, archivadores y estantes\ngrandes.\n\nApenas Termina el Movimiento Sismico\n\nPrepárese para las situaciones de peligro, es decir, vidrio quebrado, muebles o\nequipos dados vuelta, paredes colapsadas o debilitadas, escapes de gas,\nderrame de materiales peligrosos, tuberías de agua rotas.\n\nEmpleados que trabajan en la recaudación de peajes:\n\n19"
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 19,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 356,
+ "segundos": 5.6,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 225,
+  "conf_media": 0.915,
+  "frac_baja": 0.027,
+  "frac_rara": 0.007,
+  "tinta": 0.04
+ },
+ "n_palabras_vlm": 237,
+ "frac_rara_vlm": 0.007,
+ "similitud": 0.963,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nAsegure el lugar con los elementos de señalización\ndisponibles,\n\nNo abandonar a la víctima.\n\nEnviar a alguien a llamar a la ambulancia y al Jefe de\nPlaza desde el primer teléfono o radio disponible para\nsolicitar una ambulancia y personal de primeros auxilios,\nde ser posible.\n\nPidiendo Auxillo al servicio de ambulancia\n\nDescriba la naturaleza de la emergencia.\nIdentifique la ubicación exacta de la victima.\n\nSl hay más de una persona en la esceña de la\nemergencia, una persona debe permanecer con la\nvíctima mientras la otra dirige a los servicios de\nemergencia al lugar.\n\nNO MOVER A LA PERSONA.\n\nNOTA: En casos de un peligro inminente, podrá decidir mover a la victima.\nJAMAS ponga en peligro su seguridad personal en el intento por\nrescatar a otros.\n\n5.7 Emergencias sin peligro de muerte\n\nUtilice este procedimiento cuando no existe peligro de muerte, pero sí se\nrequiere de primeros auxilios o atención médica de emergencia.\n\nEn caso de ser necesario, llame a la ambulancia.\n\nPida ayuda o, si es posible, notifique al Jefe de Plaza\npara que pida ayuda.\n\nAsegure el lugar con los elementos de señalización\ndisponibles para evitar potenciales riesgos de accidentes\nadicionales. NO abandone a la víctima.\n\nEnvíe a alguien a conseguir a una persona entrenada en\nprimeros auxilios o a lamar a una ambulancia, si fuera\nnecesario,",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Asegure el lugar con los elementos de señalización\ndisponibles.\n\n- No abandonar a la victima.\n\n- Enviar a alguien a llamar a la ambulancia y al Jefe de\nPlaza desde el primer teléfono o radio disponible para\nsolicitar una ambulancia y personal de primeros auxilios,\nde ser posible.\n\nPidiendo Auxilio al servicio de ambulancia\n\n- Describa la naturaleza de la emergencia.\n\n- Identifique la ubicación exacta de la víctima.\n\n- Si hay más de una persona en la escena de la\nemergencia, una persona debe permanecer con la\nvíctima mientras la otra dirige a los servicios de\nemergencia al lugar.\n- NO MOVER A LA PERSONA.\n\nNOTA: En casos de un peligro inminente, podrá decidir mover a la víctima.\nJAMÁS ponga en peligro su seguridad personal en el intento por\nrescatar a otros.\n\n5.7 Emergencias sin peligro de muerte\n\nUtilice este procedimiento cuando no existe peligro de muerte, pero sí se\nrequiere de primeros auxilios o atención médica de emergencia.\n\n- En caso de ser necesario, llame a la ambulancia.\n\n- Pida ayuda o, si es posible, notifique al Jefe de Plaza\npara que pida ayuda.\n\n- Asegure el lugar con los elementos de señalización\ndisponibles para evitar potenciales riesgos de accidentes\nadicionales. NO abandone a la víctima.\n\n- Envíe a alguien a conseguir a una persona entrenada en\nprimeros auxilios o a llamar a una ambulancia, si fuera\nnecesario.\n\n18"
+}

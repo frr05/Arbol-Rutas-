@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000543,
+ "usage": {
+  "completion_tokens": 613,
+  "prompt_tokens": 4199,
+  "total_tokens": 4812,
+  "completion_tokens_details": {
+   "reasoning_tokens": 381
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.5,
+ "truncado": false,
+ "texto": "PASO INTERPREDIAL KM 8,000\n2.4\nEsta obra corresponde a los acuerdos entre el Ministerio de Obras Publicas y\nASMAR, por la cesión de terrenos al Fisco por parte de esta ultima entidad, para\nla construcción de la Ruta Interportuaria.\nLa estructura de paso, corresponde a un cajón de 9.0 x 5.0 mts, cuya finalidad\nes la mantención de la continuidad predial, producto de la división del predio\noriginal por la materialización de la Ruta Interportuaria.\nLas obras en el sector, involucran además la modificación de alzado de la Ruta\nTroncal entre el km 7,720 y el km 8,380.\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 28.547 U.F.\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO.PP.\nDEPTO DE\nCONCESIONES"
+}

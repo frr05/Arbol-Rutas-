@@ -1,319 +1,328 @@
 numero;titulo;pagina;linea;parrafos;origen
-0;[Portada e índice de las Bases];;;168;sintetica
-1;1 BASES ADMINISTRATIVAS;15;411;0;regla
-1.1;1.1 INTRODUCCION;15;412;1;indice
-1.2;1.2 ANTECEDENTES GENERALES;15;421;0;indice
-1.2.1;1.2.1 Normas Complementarias;15;422;1;indice
-1.2.2;1.2.2 Definiciones;15;431;75;indice
-1.2.3;1.2.3 Identificación del Postulante;19;639;1;indice
-1.2.4;1.2.4 Premio al Postulante;19;642;3;indice
-1.3;1,3 DEL PROYECTO;19;652;0;indice
-1.3.1;1.3.1 Descripción del Proyecto;19;653;18;indice
-1.3.2;1.3.2 Obra Opcional “Prolongación Camino Carriel Sur (Av. Alessandri)”;20;705;7;indice
-1.4;1.4 DE LA LICITACION;21;735;0;indice
-1.4.1;1.4.1 Participantes;21;736;1;indice
-1.4.2;1.4.2 Documentos que Conforman las Bases de Licitación;21;744;8;indice
-1.4.3;1.4.3 Presupuesto Oficial Estimado de la Obra;21;757;1;indice
-1.4.4;1.4.4 Anteproyectos y Estudios Referenciales;21;763;7;indice
-1.4.5;1.4.5 Anteproyectos Alternativos;22;790;5;indice
-1.4.6;1.4.6 Consultas y Aclaraciones a las Bases de Licitación;23;800;3;indice
-1.5;1.5 DE LAS OFERTAS;23;813;0;indice
-1.5.1;1.5.1 Costo de la Oferta;23;814;1;indice
-1.5.2;1.5.2 Idioma de la Oferta;23;818;1;indice
-1.5.3;1.5.3 Moneda de la Oferta;23;822;2;indice
-1.5.4;1.5.4 Entrega de Ofertas;23;827;10;indice
-1.5.5;1.5,5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica;24;848;73;indice
-1.5.6;1.5.6 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Económica;29;1060;2;indice
-1.5.7;1.5.7 Garantía de Seriedad de la Oferta;29;1070;10;indice
-1.5.8;1.5.8 Validez de la Oferta;29;1094;2;indice
-1.6;1,6 RECEPCION DE LAS OFERTAS Y EVALUACION;30;1101;0;indice
-1.6.1;1.6.1 Recepción de Ofertas y Apertura de las Ofertas Técnicas;30;1102;8;indice
-1.6.2;1.6.2 Evaluación de las Ofertas Técnicas;30;1128;26;indice
-1.6.3;1.6.3 Apertura de Ofertas Económicas;32;1208;5;indice
-1.6.4;1.6.4 Evaluación de las Ofertas Económicas;32;1227;3;indice
-1.6.5;1.6.5 Derecho a Desestimar Todas las Ofertas;32;1237;2;indice
-1.7;1,7 ADJUDICACIÓN E INICIO DEL CONTRATO ¡S 7;32;1243;0;indice
-1.7.1;1.7.1 Adjudicación del Contrato AN;32;1246;4;indice
-1.7.2;1.7.2 Costos del Contrato de Concesión y Otros;33;1268;3;indice
-1.7.3;1.7.3 Constitución de la Sociedad Concesionaria;33;1278;16;indice
-1.7.4;1.7.4 Suscripción y Protocolización;34;1326;2;indice
-1.7.5;1.7.5 Inicio del Plazo de la Concesión;34;1340;3;indice
-1.7.6;1.7.6 Duración de la Concesión;35;1347;4;indice
-1.7.7;1.7.7.2. Transformación, Fusión y Cambiosen la Administración de la Sociedad Concesionaria;35;1361;21;titulo
-1.8;1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO;37;1432;0;indice
-1.8.1;1.8.1 De la Inspección Fiscal;37;1434;53;indice
-1.8.1.1;1.8.1.1. Inspección Técnica de la Obra (ITO);39;1548;1;indice
-1.8.1.2;1.8.1.2 Inspección Técnica de la Explotación (ITE);39;1554;1;indice
-1.8.1.3;18.13 Relación entre el Concesionario y el Ministerio de Obras Públicas;39;1560;2;titulo
-1.8.2;1.8.2 Obligación de la Sociedad Concesionaria de Entregar Información al Inspector Fiscal;39;1568;44;indice
-1.8.3;1.8.3 Garantías del Contrato;42;1690;21;indice
-1.8.3.1;1.8.3.1 Garantía de Construeción;43;1734;9;indice
-1.8.3.2;1.8.3.2 Garantías de Explotación;43;1763;8;indice
-1.8.4;1.8.4 Terrenos Necesarios para Ejecutar las Obras;44;1793;4;indice
-1.8.4.1;1.8.4.1 Adquisiciones;44;1814;7;indice
-1.8.4.2;1.8.4.2 Expropiaciones;45;1851;11;indice
-1.8.4.2.1;1.8.4.2.1 Entrega de la Faja Fiscal;46;1889;12;indice
-1.8.4.2.2;1.8.4.2.2 Terrenos Fiscales No Requeridos para Ejecutar Obras del Proyecto de Concesión;47;1928;4;indice
-1.8.4.3;1.8.4.3 Pago de la Sociedad Concesionaria por Concepto de Adquisiciones y Expropiaciones;47;1946;16;indice
-1.8.5;1.8.5 infracciones y Multas;49;2038;3;indice
-1.8.5.1;1.8.5.1 Tipos de Infracciones y Multas;49;2045;241;indice
-1.8.5.2;1.8.5.2 - Procedimiento en la Aplicación de las Multas;57;2642;6;indice
-1.8.5.3;1.8.5.3 — Plazo para el Pago de Multas;58;2660;1;indice
-1.8.6;1.8.6 Atribuciones del Director General de Obras Públicas;58;2665;9;indice
-1.8.7;1.8.7 Pesos Máximos y Dimensiones de los Vehículos;58;2686;4;indice
-1.8.8;1.8.8 Ocupación, Cierre, Obstrucción o Desvío de la Vía Concesionada;59;2698;3;indice
-1.8.9;1.8.9 Nuevos Accesos a la Vía Concesionada;59;2716;13;indice
-1.8.10;1.8.10 Daños a Terceros durante la Concesión;60;2783;2;indice
-1.8.11;1.8.11 Seguros de Responsabilidad Civil por Daños a Terceros;60;2791;15;indice
-1.8.12;1.8.12. Seguro por Catástrofe;62;2849;15;indice
-1.8.13;18.13 Derechos y Obligaciones Económicas de la Sociedad Concesionaria con Terceros;63;2915;1;titulo
-1.8.14;1.8.14. De las Regulaciones Ambientales;63;2919;10;indice
-1.8.15;1.8,15 Recursos;64;2967;4;indice
-1.8.16;1.8.16 Patentes;65;3000;1;indice
-1.8.17;1.8.17 Infraestructura que se entrega a la Sociedad Concesionaria;65;3004;0;indice
-1.8.17.1;1.8.17.1 Infraestructura Preexistente que se entrega al Concesionario;65;3005;5;indice
-1.8.17.2;1.8.17.2 Infraestructura Común con Otras Vías Concesionadas;65;3027;5;indice
-1.9;1.9 DE LA CONSTRUCCION;66;3052;5;indice
-1.9.1;1.9.1 Etapa de Ingeniería;66;3065;0;indice
-1.9.1.1;1.9.1.1 Dela Ingeniería de la Obra;66;3066;12;indice
-1.9.1.2;1.9.1.2 Delos Proyectos de Ingeniería de Detalle Ejecutados por el Concesionario;67;3127;9;indice
-1.9.1.3;Zi 19.13 Delos Proyectos de Ingeniería de Detalle de las Plazas de Peaje;68;3172;3;titulo
-1.9.1.4;1.9,1.4 Delos Proyectos de Ingeniería de Detalle de Modificaciones;69;3183;7;indice
-1.9.2;1.9.2 De la Etapa de Construcción;70;3225;0;indice
-1.9.2.1;1.9.2.1 Libro de Construcción de la Obra;70;3226;3;indice
-1.9.2.2;1.9.2.2 Sistema de Reclamos y Sugerencias de los Usuarios;70;3242;5;indice
-1.9.2.3;9.2.3 Programa de Ejecución de las Obras;70;3262;4;titulo
-1.9.2.4;1.9.2.4 Plan y Programa de Conservación de Obras Nuevas y Preexistentes;71;3278;3;indice
-1.9.2.5;1.9.2.5 Plan de Gestión Ambiental de la Obra durante la Etapa de Construcción;71;3301;6;indice
-1.9.3;1.9.3 Inicio de la Construcción de las Obras e inicio de la Etapa de Construcción o;72;3323;11;indice
-1.9.4;1.9,4 Declaraciones de Avance;73;3384;28;indice
-1.9.5;1.9.5 Plazo para la Puesta en Servicio Provisoria de las Obras;75;3465;20;indice
-1.9.9;1.9.9 Plan de Desvíos de Tránsito;76;3534;8;indice
-1.9.10;1.9,10 Señalización y Seguridad para el Tránsito;77;3565;2;indice
-1.9.11;1.9,11 Instalación de Faenas y Equipamiento del Inspector Fiscal;77;3579;29;indice
-1.9.12;1.912 Responsabilidad de la Sociedad Concesionaria frente a la Subcontratación;79;3629;4;titulo
-1.9.13;1.9.13 Despeje y Limpieza Final de la Faja;79;3644;3;indice
-1.9.14;19,14 — Sustitución de Obras y Obras Menores;79;3652;12;titulo
-1.9.15;1.9,15 Ensayes y Calidad de Materiales;80;3681;3;indice
-1.10;1.10 DE LA EXPLOTACION DE LA OBRA;80;3691;7;indice
-1.10.1;1.10.1 Autorización de Puesta en Servicio Provisoria de las Obras;80;3706;13;indice
-1.10.2;1.10.2 Inicio del Cobro de Tarifas;81;3757;1;indice
-1.10.3;1.10,3 Autorización de Puesta en Servicio Definitiva;82;3763;9;indice
-1.10.4;1.10.4 Libro de Explotación de la Obra;82;3791;8;indice
-1.10.5;1.10.5 Plazo de Entrega del Reglamento de Servicio de la Obra;83;3807;5;indice
-1.10.6;1.10.6 Conservación de las Obras;83;3829;7;indice
-1.10.7;110.7 Alteración en la Prestación del Servicio;84;3871;3;titulo
-1.10.8;1.10.8. Estadísticas, Mediciones y Controles;84;3882;4;indice
-1.10.9;110.9 — Subcontratos en la Explotación y/o Conservación;85;3897;3;titulo
-1.10.10.1;1.10.10.1 Servicios Especiales Obligatorios;85;3910;1;indice
-1.10.10.2;1.10,10.2 Servicios Complementarios Propuestos por el Licitante o Grupo Licitante;85;3914;14;indice
-1.10.11;1.10.11 Plan de Gestión Ambiental de la Obra durante la Etapa de Explotación;86;3952;6;indice
-1.11;1.11 DE LA COMISION CONCILIADORA;86;3972;2;indice
-1.12;1.12 SUSPENSION DE LA CONCESION;87;3981;4;indice
-1.13;1.13 EXTINCION DE LA CONCESION;87;3999;0;indice
-1.13.1;1.13,1 Causas de Extinción de la Concesión;87;4000;4;indice
-1.13.2;1.132 Extinción de la Concesión por Cumplimiento del Plazo;87;4008;1;titulo
-1.13.2.1;1.13.2.1 Recepción de la Concesión en Caso de Extinción por Cumplimiento del Plazo;87;4012;22;indice
-1.13.3.1;1.13.3.1 Procedimiento Previo a la Declaración de Extinción por Incumplimiento Grave;89;4073;5;indice
-1.13.3.2;1.13.3.2 Dela Intervención de la Concesión;89;4088;6;indice
-1.13.4;1.13.4 Extinción de la Concesión por Mutuo Acuerdo;90;4108;2;indice
-1.14;1,14 CONDICIONES ECONOMICAS DE LA CONCESION;90;4116;0;indice
-1.14.1;1.14,1. . Pagos del Concesionario;90;4117;13;indice
-1.14.2;1.142 Consideración de Nuevas Inversiones;91;4170;0;titulo
-1.14.2.1;1.14,2.1 Nuevas Inversiones Convenidas entre el Estado y la Sociedad Concesionaria;91;4171;6;indice
-1.14.2.2;1.14.2.2 Nuevas Inversiones Exigidas por el Estado;92;4194;5;indice
-1.14.2.3;1.14,2.3 Normas para la Ejecución de las Obras;92;4221;1;indice
-1.14.2.3.1;1.14,2.3.1 Determinación de las Obras;92;4223;1;indice
-1.14.2.3.2;1.14,2.3.2 Valoración y Ejecución de las Obras;92;4228;4;indice
-1.14.2.3.3;1.14.2.3.3 Indemnización o Compensación a la Sociedad Concesionaria;93;4253;11;indice
-1.14.3;1.143 — Aspectos Tributarios;94;4292;9;titulo
-1.14.4;1.144 Intereses que Devengarán los Pagos que tenga que realizar la Sociedad Concesionaria;95;4334;2;titulo
-1.14.5;1.145 Procedimiento para la realización de Pagos por el MOP y la Sociedad Concesionaria;95;4341;6;titulo
-1.14.6;1.146 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado;95;4363;1;titulo
-1.14.6.1;1.14.6.1 Distribución de Riesgos de Demanda entre el Concesionario y el Estado;95;4366;2;indice
-1.14.6.1.1;1.14.6.1.1 Ingresos Mínimos Garantizados por el Estado;96;4374;33;indice
-1.14.6.1.2;1.14.6.1.2 Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria;98;4451;34;indice
-1.14.6.2;1.14.6.2 Cobertura por Sobrecostos por Medidas Adicionales Impuestas por COREMA VIII Región e;100;4528;15;indice
-1.15;1.15 SISTEMA TARIFARIO;101;4585;1;indice
-1.15.1;1.15,1 Clasificación de los Tipos de Vehículos;101;4589;4;indice
-1.15.2;1.152 Fórmula de Ajuste Tarifario;101;4596;25;titulo
-1.15.3;1.153 Revisión del Sistema Tarifario;102;4645;1;titulo
-1.15.4;1.154 Factores por Tipo de Vehículo;103;4653;9;titulo
-1.16;1,16 SISTEMA Y TECNOLOGÍAS DE COBRO Y LOCALIZACIÓN DE LAS PLAZAS DE PEAJE;103;4674;7;indice
-1.16.1;1.16,1 Sistema de Cobro por Derecho de Paso;103;4697;5;indice
-1.16.1.1;1.16.1.1 Tarifas Máximas Sistema de Cobro por Derecho de Paso o Uso Efectivo;104;4708;9;indice
-1.16.1.2;1.16.1.2 Localización de las Plazas de Peaje Troncales;104;4728;2;indice
-1.16.1.3;1,16.1.3 Localización de las Plazas de Peaje en Accesos;105;4743;7;indice
-1.16.2;116.2. Sistemas de Cobro por Uso Efectivo;105;4758;4;titulo
-1.16.3;1.16.3 Fraccionamiento de Tarifas;105;4769;1;indice
-1.16.3.1;1.16.3.1 Cobro en Peajes Troncales;105;4772;3;indice
-1.16.3.2;1.16.3.2 Cobro por Uso Efectivo;106;4785;5;indice
-1.17;1.17 GESTIÓN TARIFARIA;106;4796;0;indice
-1.17.1;1.17.1 Gestión Tarifaria;106;4797;3;indice
-1.17.2;1.172 Tarificación por Congestión;106;4808;8;titulo
-1.18;1,18 DERECHOS Y DEBERES DE LA SOCIEDAD CONCESIONARIA;107;4829;7;indice
-1.19;1.19 TIEMPO MÁXIMO DE ESPERA EN PLAZAS DE PEAJE;107;4856;10;indice
-2;2 BASES TECNICAS;109;4902;0;regla
-2.1;2.1 INTRODUCCION;109;4903;20;indice
-2.2;2.2 OBRAS A REALIZAR;110;4955;0;indice
-2.2.1;2.2.1 Obras Nuevas;110;4956;0;indice
-2.2.1.1;2.2.1.1 Calzadas Nuevas;110;4957;6;indice
-2.2.1.2;2.2.1.2 Puentes y Estructuras a Desnivel;110;4969;7;indice
-2.2.1.3;2.2.1.3 Defensas Fluviales;111;4988;1;indice
-2.2.1.4;2.2.1.4 Intersecciones a Desnivel Mínimas;111;4992;4;indice
-2.2.1.5;2.2.1.5... Pasos Interprediales;111;5002;6;titulo
-2.2.1.6;2.2.1.6 Cierros Perimetrales;111;5013;13;indice
-2.2.1.7;2.2.1.7 Servicios Especiales Obligatorios;113;5044;2;indice
-2.2.1.7.1;2.2.1.7,1... Servicio de Patrullaje y de Emergencia;113;5051;23;titulo
-2.2.1.7.2;2.2.1.7.2 Teléfonos de Emergencia;114;5092;10;indice
-2.2.2;2.2.2 Mejoramiento de Infraestructura y Superestructura Preexistente;114;5129;1;indice
-2.2.2.1;2.2.2.1 Obras de Mejoramiento de Intersecciones y Calzadas existentes;115;5136;18;indice
-2.2.2.2;"""22.22 Mantenimiento de Puentes y Estructuras";115;5165;6;titulo
-2.2.2.3;2.2.2.3 Mantenimiento General del Sistema de Drenaje y Saneamiento;116;5182;1;indice
-2.2.2.4;2.2.2.4 Mantenimiento de Obras Preexistentes;116;5190;3;indice
-2.2.2.5;2.2.2.5 Accesos Privados;116;5205;6;indice
-2.2.3;2.2.3 Obras de Seguridad, Señalización y Demarcación;116;5217;0;indice
-2.2.3.1;2.2.3.1 Señalización y Demarcación;116;5218;6;indice
-2.2.3.2;2.2.3.2 Defensas Camineras;117;5243;2;indice
-2.2.3.3;2.2.3.3 Huminación;117;5254;2;indice
-2.2.4;- 2.2.4 Obra Opcional Prolongación Camino Carriel Sur;117;5262;2;titulo
-2.3;2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE;118;5277;21;regla
-2.3.2.1;2.3.2.1 Ingeniería Básica;118;5317;5;indice
-2.3.2.1.1;2.3.2.1.1 Topografía;119;5328;10;indice
-2.3.2.1.2;2.3.2.1.2 Mecánica de Suelos;119;5355;36;indice
-2.3.2.1.3;2.3.2.1.3 Hidrología e Hidráulica;121;5430;4;indice
-2.3.2.2;2.3.2.2 Diseño Geométrico;121;5443;55;indice
-2.3.2.3;Diseño de Pavimentos;124;5569;22;titulo
-2.3.2.4;2.3.2.4 Estructuras;125;5611;5;indice
-2.3.2.5;2.3.2.5 Defensas Fluviales;125;5623;2;indice
-2.3.2.6;2.3.2.6 Saneamiento y Drenaje;125;5633;8;indice
-2.3.2.7;2.3.2.7 — Proyectos de Seguridad Vial;126;5657;14;indice
-2.3.2.8;2.3.2.8 Desvios de Tránsito;127;5690;5;indice
-2.3.2.9;2.3.2.9 Modificación de Servicios;127;5705;4;indice
-2.3.2.10;£i La Sociedad Concesionaria deberá desarrollar un proyecto de paisajismo de carácter funcional, desde el punto;127;5720;2;titulo
-2.3.2.11;2.3.2,11 Iluminación;128;5732;24;indice
-2.3.2.12;2.3.2.12 Diseño de Intersecciones a Desnivel;129;5783;1;indice
-2.3.2.13;2.3.2.13 Presentación de los Proyectos de Ingeniería de Detalle;129;5788;18;indice
-2.3.2.14;2.3.2.14 Estacado de la Faja;130;5833;3;indice
-2.3.2.15;2.3.2.15 Despeje y Limpieza de la Faja Fiscal Entregada;130;5844;1;indice
-2.3.2.16;2.3.2,16 Depósito de Bienes Fiscales;131;5852;2;indice
-2.4;2.4 ANTECEDENTES EXPROPIATORIOS;131;5860;12;indice
-2.5;2.5 PLAN DE AUTOCONTROL DE CALIDAD DE LAS OBRAS;132;5910;15;indice
-2.6;2.6 DE LA EXPLOTACION DE LA CONCESION;133;5952;0;indice
-2.6.1;2.6.1 Plan de Conservación de las Obras;133;5953;5;indice
-2.6.1.1;2.6.1.1 Contenido del Plan de Conservación;134;5983;4;indice
-2.6.1.2;2.6.1.2 Conservación de Pavimentos;134;5996;29;indice
-2.6.1.3;2.6.1.3 Conservación Rutinaria;136;6060;9;indice
-2.6.1.4;2.6.1.4 Conservación de Obras Anexas;136;6076;1;indice
-2.6.1.5;2.6.1.5 Reparaciones Mayores y Mantenciones Imprevistas;136;6082;7;indice
-2.6.1.6;2.6.1.6 Conservación de Puentes, Estructuras de Intersecciones a Desnivel y Otras Estructuras;136;6095;10;indice
-2.6.1.7;2.6.1.7. Conservación de la Iluminación;137;6126;3;indice
-2.6.1.8;2.6.1.8 Conservación del Sistema de Drenaje y Saneamiento;137;6138;2;indice
-2.6.1.9;2.6.1.9 Conservación de Elementos de Seguridad, Señalización y Demarcación :;138;6147;2;indice
-2.6.1.10;2.6.1.10 Conservación de Obras de Paisajismo;138;6156;1;indice
-2.6.1.11;2.6.1.11- Otros;138;6162;5;indice
-2.6.2;2.6.2 Administración ';138;6178;0;indice
-2.6.2.1;2.6.2.1 Personal (;138;6179;2;indice
-2.6.2.2;2.6.2.2 Oficinas;139;6187;9;indice
-2.6.3;2.6.3 Del Servicio a los Usuarios;139;6208;0;indice
-2.6.3.1;2.6.3.1 Congestión Vehicular;139;6209;2;indice
-2.6.3.2;2.6.3.2. Medidas de Seguridad y Control;139;6218;4;indice
-2.6.3.3;2.6.3.3 Mantenimiento del Tránsito durante la Explotación de la Concesión;140;6232;3;indice
-2.6.3.4;2.6.3.4 Señalización de Mantenimiento;140;6244;4;indice
-2.6.3.5;2.6.3.5 Daños;140;6258;0;indice
-2.6.3.5.1;2.6.3.5.1 Daños a Usuarios;140;6259;4;indice
-2.6.3.5.2;2.6.3,5,2 Daños a Instalaciones;141;6268;3;indice
-2.6.3.6;2.6.3.6 Sistema de Reclamos y Sugerencias de los Usuarios;141;6276;2;indice
-2.6.3.7;2.6.3.7 Reglamento de Servicio de la Obra;141;6284;50;indice
-2.6.6.1;2.6.6.1 Informes Mensuales;144;6400;7;indice
-2.6.6.2;2.6.6.2 Informes Trimestrales;144;6414;4;indice
-2.6.6.3;2.6.6.3 Informes Anuales;144;6423;3;indice
-2.6.6.4;2.6.6.4 Accesibilidad a la Información Disponible;144;6433;3;indice
-2.6.7;2.6.7 Ensayes y Calidad de Materiales;145;6446;1;indice
-2.6.8;2.6.8 Programa Anual de Conservación;145;6451;2;indice
-2.7;2.7 PLAN DE PREVENCION DE RIESGOS;145;6457;10;indice
-2.7.1;2.7.1 Plan de Prevención de Riesgos durante la Construcción de la Obra;146;6495;64;indice
-2.7.2;2.7.2 Plan de Prevención de Riesgos durante la Explotación de la Obra;148;6620;21;indice
-2.8;2.8 PLAN DE MEDIDAS DE CONTROL DE ACCIDENTES O CONTINGENCIAS;149;6657;4;indice
-2.8.1;2.8.1 Plan de Control de Accidentes o Plan de Contingencias durante la Etapa de Construcción;149;6667;62;indice
-2.8.2;2.8.2 Plan de Control de Accidentes o Plan de Contingencias durante la Etapa de Explotación;152;6790;16;indice
-2.9;2.9 CONSIDERACIONES AMBIENTALES DE LA OBRA;152;6829;7;indice
-2.9.1;2.9.1 Estudio de Impacto Ambiental;153;6850;0;indice
-2.9.1.1;2.9.1.1 Plan de Manejo Ambiental Preliminar Referencial.;153;6851;3;indice
-2.9.1.2;2.9.1.2 Criterios para la elaboración del Estudio o Declaración de Impacto Ambiental;153;6865;1;indice
-2.9.1.3;2.9.1.3 Actividades del Proyecto que ingresan al sistema de Evaluación de impacto Ambiental;153;6870;2;indice
-2.9.2;2.9.2 Zonas de Restricción;154;6880;8;indice
-2.10;2.10 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA CONSTRUCCION;154;6899;6;indice
-2.10.1;2.10.1 Aire;155;6927;0;indice
-2.10.1.1;2.10.1.1 Medidas de Mitigación;155;6928;3;indice
-2.10.1.2;2.10,1.2 Medidas de Prevención de Riesgos;155;6941;2;indice
-2.10.1.3;2.10.1.3 Plan de Seguimiento Ambiental;155;6948;1;indice
-2.10.2;2.10.2 Ruido;155;6951;0;indice
-2.10.2.1;2.10.2.1.. Medidas de Prevención de Riesgos;155;6952;7;titulo
-2.10.2.2;2.10.2.2 Plan de Seguimiento Ambiental;155;6967;5;indice
-2.10.3;2.10.3 Geomorfología;156;6980;0;indice
-2.10.3.1;2.10,3.1 Medidas de Mitigación;156;6981;16;indice
-2.10.3.2;2.10.3,2 Plan de Seguimiento Ambiental;157;7049;2;indice
-2.10.4;2.10,4 Recurso Suelo;158;7060;0;indice
-2.10.4.1;2,10,4.1 Medidas de Mitigación y Reparación;158;7061;6;indice
-2.10.4.2;2.10.4,2 Medidas de Prevención de Riesgos;158;7082;5;indice
-2.10.5;2.10.5 Aguas Superficiales;159;7105;0;indice
-2.10.5.1;2.10.5,1 Medidas de Mitigación;159;7106;16;indice
-2.10.5.2;2.10.5.2. Medidas de Prevención de Riesgos;160;7164;8;indice
-2.10.5.3;2.10.5.3 Plan de Seguimiento Ambiental;161;7215;3;indice
-2.10.6;2.10.6.. Aguas Subterráneas;161;7228;0;titulo
-2.10.6.1;2.10.6.1. . Medidas de Prevención de Riesgos;161;7229;8;indice
-2.10.7;2.10.7. Flora y Vegetación;162;7262;0;indice
-2.10.7.1;2.10.7.1 Medidas de Mitigación y Reparación;162;7263;15;indice
-2.10.7.2;2.10.7.2 Medidas de Prevención de Riesgos;163;7327;4;indice
-2.10.7.3;2.10.7.3 Plan de Seguimiento;163;7338;3;indice
-2.10.8;2.10.8 Fauna;164;7348;0;indice
-2.10.8.1;2.10.8.1 Medidas de Mitigación;164;7349;2;indice
-2.10.8.2;2.10.8.2 Medidas de Prevención de Riesgos;164;7359;7;indice
-2.10.8.3;2,10.8.3 Plan de Seguimiento;164;7379;2;indice
-2.10.9;2.10.9 Aspectos Socioeconómicos y Protección a la Comunidad;165;7389;0;indice
-2.10.9.1;2.10.9.1 Medidas de Prevención de Riesgos;165;7390;4;indice
-2.10.10;2.10,19 Recurso Paisaje;165;7404;1;titulo
-2.10.10.1;2.10.10.1 Medidas de Mitigación;165;7409;3;indice
-2.10.11;2.10.11 Arqueología;165;7422;2;indice
-2.10.12;2.10.12 Obligaciones Ambientales para la Ejecución de Faenas;166;7433;4;indice
-2.10.12.1;2.10.12.1 Reutilización y Disposición Final de Residuos Industriales Sólidos;166;7457;40;indice
-2.10.12.2;2.10,12.2 Transporte y Almacenamiento de Materiales;168;7546;5;indice
-2.10.13;2.10.13 Informes Ambientales OS;168;7558;9;indice
-2.10.13.1;2.10.13,1 Contenidos mínimos de los Informes Ambientales;169;7577;39;indice
-2.11;2.11 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA EXPLOTACION =;170;7643;4;indice
-2.11.1;2.11.1 Aire É;170;7664;5;indice
-2.11.2;2.11.2 Ruido;170;7672;5;indice
-2.11.3;2.11.3 Geomorfología;171;7688;3;indice
-2.11.4;2.11,4 Suelos;171;7700;2;indice
-2.11.5;2.11.5 Recurso Aguas Superficiales;171;7706;1;indice
-2.11.6;2.11.6 Medio Biótico;171;7712;0;indice
-2.11.6.1;2.11.6.1 Medidas de Mitigación Vegetación;171;7713;1;indice
-2.11.6.2;2.11.6.2 Plan de Seguimiento Ambiental Vegetación;172;7718;9;indice
-2.11.7;2.11.7 — Fauna;172;7744;0;indice
-2.11.7.1;2.11.7.1 Plan de Seguimiento Fauna;172;7745;12;indice
-2.11.8;2.11.8 Recurso Paisaje;173;7773;3;indice
-2.11.8.1;2.11.8,1 Plan de Seguimiento Ambiental;173;7785;1;indice
-2.11.9;2.11.9 Informes Ambientales;173;7791;9;indice
-3;3 BASES ECONÓMICAS;175;7814;1;regla
-3.1;3.1 FACTORES DE LICITACION;175;7818;1;indice
-3.1.1;3.1.1 Plazo de la Concesión;175;7821;2;indice
-3.1.2;3.1.2 Subsidio del Estado al Oferente;175;7825;2;indice
-3.1.3;3.1.3 Plazo Postergación PSP obras de “Prolongación Av. Alessandri”;175;7829;1;indice
-3.2;3.2 OFERTA ECONÓMICA DEL LICITANTE O GRUPO LICITANTE;175;7834;1;indice
-3.2.1;3.2.1 Tramo A;175;7838;3;indice
-3.2.2;32.2 Tramo B;175;7846;3;titulo
-3.2.3;3.2.3 Tramo C;176;7856;2;indice
-3.3;3.3 EVALUACIÓN DE LAS OFERTAS ECONÓMICAS;176;7863;2;indice
-3.3.1;3.3.1 TramoÁ;176;7869;6;indice
-3.3.2;3.3.2 Tramo B;176;7879;6;indice
-3.3.3;3.3.3 Tramo C;176;7888;4;indice
-3.3.4;3.3.4 Premio al Postulante;177;7900;7;indice
-3.3.5;3.3.5 Adjudicación;177;7913;8;indice
-A1;ANEXO N*1: FORMULARIO PROPUESTA ECONOMICA;181;7941;76;regla
-A2;ANEXO Nº2: FORMULARIO Nº6;195;8140;13;regla
-A3;ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA);205;8254;14;regla
-A4;ANEXO N°4 CARTOGRAFIA REFERENCIAL DE ZONAS DE RESTRICCION;217;8475;4;regla
-1.7.8;Cumplimiento del Ordenamiento Jurídico;;;;FALTA (agregar en estructura_correcciones.csv)
-1.13.3;Extinción de la Concesión por Incumplimiento Grave de las Obligaciones Impuestas a la Sociedad Concesionaria;;;;FALTA (agregar en estructura_correcciones.csv)
-2.10.11.1;Medidas de Contingencias;;;;FALTA (agregar en estructura_correcciones.csv)
+0;[Portada e índice de las Bases];;;54;sintetica
+1;1 BASES ADMINISTRATIVAS;15;416;0;regla
+1.1;1.1 INTRODUCCION;15;417;1;indice
+1.2;1.2 ANTECEDENTES GENERALES;15;426;0;indice
+1.2.1;1.2.1 Normas Complementarias;15;427;1;indice
+1.2.2;1.2.2 Definiciones;15;436;44;indice
+1.2.3;1.2.3 Identificación del Postulante;19;600;1;indice
+1.2.4;1.2.4 Premio al Postulante;19;603;3;indice
+1.3;1.3 DEL PROYECTO;19;613;0;indice
+1.3.1;1.3.1 Descripción del Proyecto;19;614;19;indice
+1.3.2;1.3.2 Obra Opcional “Prolongación Camino Carriel Sur (Av. Alessandri)”;20;660;5;indice
+1.4;1.4      DE LA LICITACION;21;681;0;indice
+1.4.1;1.4.1    Participantes;21;682;1;indice
+1.4.2;1.4.2    Documentos que Conforman las Bases de Licitación;21;690;3;indice
+1.4.3;1.4.3      Presupuesto Oficial Estimado de la Obra;21;703;1;indice
+1.4.4;1.4.4      Anteproyectos y Estudios Referenciales;21;709;7;indice
+1.4.5;1.4.5 Anteproyectos Alternativos;22;727;5;indice
+1.4.6;1.4.6 Consultas y Aclaraciones a las Bases de Licitación;23;735;3;indice
+1.5;1.5 DE LAS OFERTAS;23;739;0;indice
+1.5.1;1.5.1 Costo de la Oferta;23;740;1;indice
+1.5.2;1.5.2 Idioma de la Oferta;23;742;1;indice
+1.5.3;1.5.3 Moneda de la Oferta;23;744;2;indice
+1.5.4;1.5.4 Entrega de Ofertas;23;747;11;indice
+1.5.5;1.5.5 Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Técnica;24;765;55;indice
+1.5.6;1.5.6      Documentos que se deben incluir en el Sobre o Paquete denominado Oferta Económica;29;914;2;indice
+1.5.7;1.5.7      Garantía de Seriedad de la Oferta;29;924;11;indice
+1.5.8;1.5.8      Validez de la Oferta;29;948;2;indice
+1.6;1.6 RECEPCION DE LAS OFERTAS Y EVALUACION;30;958;0;indice
+1.6.1;1.6.1 Recepción de Ofertas y Apertura de las Ofertas Técnicas;30;959;8;indice
+1.6.2;1.6.2 Evaluación de las Ofertas Técnicas;30;985;18;indice
+1.6.3;1.6.3      Apertura de Ofertas Económicas;32;1020;5;indice
+1.6.4;1.6.4      Evaluación de las Ofertas Económicas;32;1039;3;indice
+1.6.5;1.6.5      Derecho a Desestimar Todas las Ofertas;32;1049;1;indice
+1.7;1.7      ADJUDICACIÓN E INICIO DEL CONTRATO;32;1053;0;indice
+1.7.1;1.7.1      Adjudicación del Contrato;32;1054;3;indice
+1.7.2;1.7.2      Costos del Contrato de Concesión y Otros;33;1074;3;indice
+1.7.3;1.7.3      Constitución de la Sociedad Concesionaria;33;1084;14;indice
+1.7.4;1.7.4 Suscripción y Protocolización;34;1131;2;indice
+1.7.5;1.7.5 Inicio del Plazo de la Concesión;34;1145;1;indice
+1.7.6;1.7.6 Duración de la Concesión;35;1151;1;indice
+1.7.7;1.7.7 De la Sociedad Concesionaria;35;1153;0;indice
+1.7.7.1;1.7.7.1 Cumplimiento del Ordenamiento Jurídico;35;1154;17;indice
+1.7.8;1.7.8 Prenda Especial de Concesión de Obra Pública;36;1200;3;indice
+1.8;1.8 DE LAS RELACIONES ENTRE LA SOCIEDAD CONCESIONARIA Y EL MINISTERIO;37;1216;0;indice
+1.8.1;1.8.1 De la Inspección Fiscal;37;1218;35;indice
+1.8.1.1;1.8.1.1 Inspección Técnica de la Obra (ITO);39;1318;1;indice
+1.8.1.2;1.8.1.2 Inspección Técnica de la Explotación (ITE);39;1324;1;indice
+1.8.1.3;1.8.1.3 Relación entre el Concesionario y el Ministerio de Obras Públicas;39;1330;2;indice
+1.8.2;1.8.2 Obligación de la Sociedad Concesionaria de Entregar Información al Inspector Fiscal;39;1338;28;indice
+1.8.3;1.8.3 Garantías del Contrato;42;1449;4;indice
+1.8.3.1;1.8.3.1 Garantía de Construcción;43;1472;7;indice
+1.8.3.2;1.8.3.2 Garantías de Explotación;43;1501;7;indice
+1.8.4;1.8.4      Terrenos Necesarios para Ejecutar las Obras;44;1532;4;indice
+1.8.4.1;1.8.4.1   Adquisiciones;44;1553;7;indice
+1.8.4.2;1.8.4.2 Expropiaciones;45;1593;8;indice
+1.8.4.2.1;1.8.4.2.1 Entrega de la Faja Fiscal;46;1630;8;indice
+1.8.4.2.2;1.8.4.2.2 Terrenos Fiscales No Requeridos para Ejecutar Obras del Proyecto de Concesión;47;1657;4;indice
+1.8.4.3;1.8.4.3 Pago de la Sociedad Concesionaria por Concepto de Adquisiciones y Expropiaciones;47;1662;14;indice
+1.8.5;1.8.5 Infracciones y Multas;49;1701;3;indice
+1.8.5.1;1.8.5.1 Tipos de Infracciones y Multas;49;1708;101;indice
+1.8.5.2;1.8.5.2 Procedimiento en la Aplicación de las Multas;57;1835;7;indice
+1.8.5.3;1.8.5.3 Plazo para el Pago de Multas;58;1845;1;indice
+1.8.6;1.8.6 Atribuciones del Director General de Obras Públicas;58;1847;10;indice
+1.8.7;1.8.7 Pesos Máximos y Dimensiones de los Vehículos;58;1858;2;indice
+1.8.8;1.8.8 Ocupación, Cierre, Obstrucción o Desvío de la Vía Concesionada;59;1863;3;indice
+1.8.9;1.8.9 Nuevos Accesos a la Vía Concesionada;59;1867;12;indice
+1.8.10;1.8.10 Daños a Terceros durante la Concesión;60;1905;2;indice
+1.8.11;1.8.11 Seguros de Responsabilidad Civil por Daños a Terceros;60;1913;8;indice
+1.8.12;1.8.12 Seguro por Catástrofe;62;1971;14;indice
+1.8.13;1.8.13 Derechos y Obligaciones Económicas de la Sociedad Concesionaria con Terceros;63;2038;1;indice
+1.8.14;1.8.14 De las Regulaciones Ambientales;63;2042;10;indice
+1.8.15;1.8.15 Recursos;64;2091;3;indice
+1.8.16;1.8.16 Patentes;65;2110;1;indice
+1.8.17;1.8.17 Infraestructura que se entrega a la Sociedad Concesionaria;65;2112;0;indice
+1.8.17.1;1.8.17.1 Infraestructura Preexistente que se entrega al Concesionario;65;2113;5;indice
+1.8.17.2;1.8.17.2 Infraestructura Común con Otras Vías Concesionadas;65;2119;5;indice
+1.9;1.9 DE LA CONSTRUCCION;66;2135;6;indice
+1.9.1;1.9.1 Etapa de Ingeniería;66;2148;0;indice
+1.9.1.1;1.9.1.1 De la Ingeniería de la Obra;66;2149;12;indice
+1.9.1.2;1.9.1.2 De los Proyectos de Ingeniería de Detalle Ejecutados por el Concesionario;67;2209;9;indice
+1.9.1.3;1.9.1.3 De los Proyectos de Ingeniería de Detalle de las Plazas de Peaje;68;2253;2;indice
+1.9.1.4;1.9.1.4 De los Proyectos de Ingeniería de Detalle de Modificaciones;69;2263;7;indice
+1.9.2;1.9.2 De la Etapa de Construcción;70;2302;0;indice
+1.9.2.1;1.9.2.1 Libro de Construcción de la Obra;70;2303;3;indice
+1.9.2.2;1.9.2.2 Sistema de Reclamos y Sugerencias de los Usuarios;70;2319;5;indice
+1.9.2.3;1.9.2.3 Programa de Ejecución de las Obras;70;2339;3;indice
+1.9.2.4;1.9.2.4 Plan y Programa de Conservación de Obras Nuevas y Preexistentes;71;2349;3;indice
+1.9.2.5;1.9.2.5 Plan de Gestión Ambiental de la Obra durante la Etapa de Construcción;71;2353;6;indice
+1.9.3;1.9.3 Inicio de la Construcción de las Obras e inicio de la Etapa de Construcción;72;2368;10;indice
+1.9.4;1.9.4 Declaraciones de Avance;73;2424;17;indice
+1.9.5;1.9.5      Plazo para la Puesta en Servicio Provisoria de las Obras;75;2502;3;indice
+1.9.6;1.9.6      Modificación del Plazo de Puesta en Servicio de las Obras;75;2512;4;indice
+1.9.7;1.9.7      Planos de Construcción;75;2535;3;indice
+1.9.8;1.9.8      Mantenimiento de Desvíos de Tránsito;76;2543;5;indice
+1.9.9;1.9.9      Plan de Desvíos de Tránsito;76;2549;6;indice
+1.9.10;1.9.10 Señalización y Seguridad para el Tránsito;77;2561;2;indice
+1.9.11;1.9.11 Instalación de Faenas y Equipamiento del Inspector Fiscal;77;2564;13;indice
+1.9.12;1.9.12 Responsabilidad de la Sociedad Concesionaria frente a la Subcontratación;79;2612;4;indice
+1.9.13;1.9.13 Despeje y Limpieza Final de la Faja;79;2627;3;indice
+1.9.14;1.9.14 Sustitución de Obras y Obras Menores;79;2635;5;indice
+1.9.15;1.9.15 Ensayes y Calidad de Materiales;80;2660;3;indice
+1.10;1.10 DE LA EXPLOTACION DE LA OBRA;80;2670;7;indice
+1.10.1;1.10.1 Autorización de Puesta en Servicio Provisoria de las Obras;80;2685;11;indice
+1.10.2;1.10.2 Inicio del Cobro de Tarifas;81;2705;1;indice
+1.10.3;1.10.3 Autorización de Puesta en Servicio Definitiva;82;2709;6;indice
+1.10.4;1.10.4 Libro de Explotación de la Obra;82;2717;3;indice
+1.10.5;1.10.5 Plazo de Entrega del Reglamento de Servicio de la Obra;83;2723;4;indice
+1.10.6;1.10.6 Conservación de las Obras;83;2729;7;indice
+1.10.7;1.10.7 Alteración en la Prestación del Servicio;84;2752;3;indice
+1.10.8;1.10.8 Estadísticas, Mediciones y Controles;84;2763;3;indice
+1.10.9;1.10.9 Subcontratos en la Explotación y/o Conservación;85;2779;2;indice
+1.10.10;1.10.10 Servicios Obligatorios y Complementarios de la Concesión;85;2791;0;indice
+1.10.10.1;1.10.10.1 Servicios Especiales Obligatorios;85;2792;1;indice
+1.10.10.2;1.10.10.2 Servicios Complementarios Propuestos por el Licitante o Grupo Licitante;85;2796;15;indice
+1.10.11;1.10.11 Plan de Gestión Ambiental de la Obra durante la Etapa de Explotación;86;2834;6;indice
+1.11;1.11 DE LA COMISION CONCILIADORA;86;2854;2;indice
+1.12;1.12      SUSPENSION DE LA CONCESION;87;2863;4;indice
+1.13;1.13      EXTINCION DE LA CONCESION;87;2881;0;indice
+1.13.1;1.13.1      Causas de Extinción de la Concesión;87;2882;4;indice
+1.13.2;1.13.2      Extinción de la Concesión por Cumplimiento del Plazo;87;2890;1;indice
+1.13.2.1;1.13.2.1   Recepción de la Concesión en Caso de Extinción por Cumplimiento del Plazo;87;2894;8;indice
+1.13.3;1.13.3 Extinción de la Concesión por Incumplimiento Grave de las Obligaciones Impuestas a la;88;2924;15;indice
+1.13.3.1;1.13.3.1 Procedimiento Previo a la Declaración de Extinción por Incumplimiento Grave;89;2951;5;indice
+1.13.3.2;1.13.3.2 De la Intervención de la Concesión;89;2957;4;indice
+1.13.4;1.13.4 Extinción de la Concesión por Mutuo Acuerdo;90;2967;2;indice
+1.14;1.14 CONDICIONES ECONOMICAS DE LA CONCESION;90;2975;0;indice
+1.14.1;1.14.1 Pagos del Concesionario;90;2976;14;indice
+1.14.2;1.14.2 Consideración de Nuevas Inversiones;91;3011;0;indice
+1.14.2.1;1.14.2.1 Nuevas Inversiones Convenidas entre el Estado y la Sociedad Concesionaria;91;3012;5;indice
+1.14.2.2;1.14.2.2 Nuevas Inversiones Exigidas por el Estado;92;3022;5;indice
+1.14.2.3;1.14.2.3 Normas para la Ejecución de las Obras;92;3049;1;indice
+1.14.2.3.1;1.14.2.3.1 Determinación de las Obras;92;3051;1;indice
+1.14.2.3.2;1.14.2.3.2 Valoración y Ejecución de las Obras;92;3056;3;indice
+1.14.2.3.3;1.14.2.3.3 Indemnización o Compensación a la Sociedad Concesionaria;93;3064;10;indice
+1.14.3;1.14.3 Aspectos Tributarios;94;3082;9;indice
+1.14.4;1.14.4 Intereses que Devengarán los Pagos que tenga que realizar la Sociedad Concesionaria;95;3121;2;indice
+1.14.5;1.14.5 Procedimiento para la realización de Pagos por el MOP y la Sociedad Concesionaria;95;3124;6;indice
+1.14.6;1.14.6 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado;95;3131;1;indice
+1.14.6.1;1.14.6.1 Distribución de Riesgos de Demanda entre el Concesionario y el Estado;95;3133;2;indice
+1.14.6.1.1;1.14.6.1.1 Ingresos Mínimos Garantizados por el Estado;96;3143;26;indice
+1.14.6.1.2;1.14.6.1.2 Coparticipación del Estado en los Ingresos de la Sociedad Concesionaria;98;3215;16;indice
+1.14.6.2;1.14.6.2 Cobertura por Sobrecostos por Medidas Adicionales Impuestas por COREMA VIII Región;100;3261;9;indice
+1.14.7;1.14.7 Subsidio del Estado al Oferente;100;3271;7;indice
+1.15;1.15 SISTEMA TARIFARIO;101;3286;1;indice
+1.15.1;1.15.1 Clasificación de los Tipos de Vehículos;101;3290;4;indice
+1.15.2;1.15.2 Fórmula de Ajuste Tarifario;101;3305;17;indice
+1.15.3;1.15.3 Revisión del Sistema Tarifario;102;3329;1;indice
+1.15.4;1.15.4 Factores por Tipo de Vehículo;103;3333;3;indice
+1.16;1.16 SISTEMA Y TECNOLOGÍAS DE COBRO Y LOCALIZACIÓN DE LAS PLAZAS DE PEAJE;103;3344;6;indice
+1.16.1;1.16.1 Sistema de Cobro por Derecho de Paso;103;3351;3;indice
+1.16.1.1;1.16.1.1 Tarifas Máximas Sistema de Cobro por Derecho de Paso o Uso Efectivo;104;3362;8;indice
+1.16.1.2;1.16.1.2 Localización de las Plazas de Peaje Troncales;104;3382;2;indice
+1.16.1.3;1.16.1.3 Localización de las Plazas de Peaje en Accesos;105;3398;6;indice
+1.16.2;1.16.2 Sistemas de Cobro por Uso Efectivo;105;3405;4;indice
+1.16.3;1.16.3 Fraccionamiento de Tarifas;105;3410;1;indice
+1.16.3.1;1.16.3.1 Cobro en Peajes Troncales;105;3412;3;indice
+1.16.3.2;1.16.3.2 Cobro por Uso Efectivo;106;3419;5;indice
+1.17;1.17 GESTIÓN TARIFARIA;106;3430;0;indice
+1.17.1;1.17.1 Gestión Tarifaria;106;3431;3;indice
+1.17.2;1.17.2 Tarificación por Congestión;106;3442;4;indice
+1.18;1.18 DERECHOS Y DEBERES DE LA SOCIEDAD CONCESIONARIA;107;3462;7;indice
+1.19;1.19 TIEMPO MÁXIMO DE ESPERA EN PLAZAS DE PEAJE;107;3470;6;indice
+2;2 BASES TECNICAS;109;3498;0;regla
+2.1;2.1 INTRODUCCION;109;3499;17;indice
+2.2;2.2 OBRAS A REALIZAR;110;3527;0;indice
+2.2.1;2.2.1 Obras Nuevas;110;3528;0;indice
+2.2.1.1;2.2.1.1 Calzadas Nuevas;110;3529;5;indice
+2.2.1.2;2.2.1.2 Puentes y Estructuras a Desnivel;110;3544;4;indice
+2.2.1.3;2.2.1.3 Defensas Fluviales;111;3560;1;indice
+2.2.1.4;2.2.1.4 Intersecciones a Desnivel Mínimas;111;3564;4;indice
+2.2.1.5;2.2.1.5 Pasos Interprediales;111;3573;4;indice
+2.2.1.6;2.2.1.6 Cierros Perimetrales;111;3586;15;indice
+2.2.1.7;2.2.1.7 Servicios Especiales Obligatorios;113;3639;1;indice
+2.2.1.7.1;2.2.1.7.1 Servicio de Patrullaje y de Emergencia;113;3642;11;indice
+2.2.1.7.2;2.2.1.7.2 Teléfonos de Emergencia;114;3666;8;indice
+2.2.2;2.2.2 Mejoramiento de Infraestructura y Superestructura Preexistente;114;3675;1;indice
+2.2.2.1;2.2.2.1 Obras de Mejoramiento de Intersecciones y Calzadas existentes;115;3681;3;indice
+2.2.2.2;2.2.2.2 Mantenimiento de Puentes y Estructuras;115;3689;3;indice
+2.2.2.3;2.2.2.3   Mantenimiento General del Sistema de Drenaje y Saneamiento;116;3704;1;indice
+2.2.2.4;2.2.2.4   Mantenimiento de Obras Preexistentes;116;3712;3;indice
+2.2.2.5;2.2.2.5   Accesos Privados;116;3727;4;indice
+2.2.3;2.2.3      Obras de Seguridad, Señalización y Demarcación;116;3738;0;indice
+2.2.3.1;2.2.3.1   Señalización y Demarcación;116;3739;4;indice
+2.2.3.2;2.2.3.2 Defensas Camineras;117;3761;2;indice
+2.2.3.3;2.2.3.3 Iluminación;117;3772;2;indice
+2.2.4;2.2.4 Obra Opcional Prolongación Camino Carriel Sur;117;3780;2;indice
+2.3;2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE;118;3795;6;regla
+2.3.2.1;2.3.2.1 Ingeniería Básica;118;3832;3;indice
+2.3.2.1.1;2.3.2.1.1 Topografía;119;3842;11;indice
+2.3.2.1.2;2.3.2.1.2 Mecánica de Suelos;119;3869;12;indice
+2.3.2.1.3;2.3.2.1.3 Hidrología e Hidráulica;121;3942;4;indice
+2.3.2.2;2.3.2.2 Diseño Geométrico;121;3955;21;indice
+2.3.2.3;2.3.2.3 Diseño de Pavimentos;124;4061;15;indice
+2.3.2.4;2.3.2.4 Estructuras;125;4096;5;indice
+2.3.2.5;2.3.2.5 Defensas Fluviales;125;4108;2;indice
+2.3.2.6;2.3.2.6 Saneamiento y Drenaje;125;4118;6;indice
+2.3.2.7;2.3.2.7 Proyectos de Seguridad Vial;126;4142;9;indice
+2.3.2.8;2.3.2.8 Desvíos de Tránsito;127;4169;5;indice
+2.3.2.9;2.3.2.9 Modificación de Servicios;127;4175;4;indice
+2.3.2.10;2.3.2.10 Paisajismo;127;4180;2;indice
+2.3.2.11;2.3.2.11 Iluminación;128;4188;17;indice
+2.3.2.12;2.3.2.12 Diseño de Intersecciones a Desnivel;129;4239;1;indice
+2.3.2.13;2.3.2.13 Presentación de los Proyectos de Ingeniería de Detalle;129;4244;15;indice
+2.3.2.14;2.3.2.14 Estacado de la Faja;130;4290;3;indice
+2.3.2.15;2.3.2.15 Despeje y Limpieza de la Faja Fiscal Entregada;130;4301;1;indice
+2.3.2.16;2.3.2.16 Depósito de Bienes Fiscales;131;4308;2;indice
+2.4;2.4 ANTECEDENTES EXPROPIATORIOS;131;4316;12;indice
+2.5;2.5 PLAN DE AUTOCONTROL DE CALIDAD DE LAS OBRAS;132;4363;10;indice
+2.6;2.6 DE LA EXPLOTACION DE LA CONCESION;133;4405;0;indice
+2.6.1;2.6.1 Plan de Conservación de las Obras;133;4406;5;indice
+2.6.1.1;2.6.1.1 Contenido del Plan de Conservación;134;4434;4;indice
+2.6.1.2;2.6.1.2 Conservación de Pavimentos;134;4447;33;indice
+2.6.1.3;2.6.1.3 Conservación Rutinaria;136;4500;4;indice
+2.6.1.4;2.6.1.4 Conservación de Obras Anexas;136;4516;1;indice
+2.6.1.5;2.6.1.5 Reparaciones Mayores y Mantenciones Imprevistas;136;4522;3;indice
+2.6.1.6;2.6.1.6 Conservación de Puentes, Estructuras de Intersecciones a Desnivel y Otras Estructuras;136;4535;9;indice
+2.6.1.7;2.6.1.7 Conservación de la Iluminación;137;4549;3;indice
+2.6.1.8;2.6.1.8 Conservación del Sistema de Drenaje y Saneamiento;137;4553;2;indice
+2.6.1.9;2.6.1.9 Conservación de Elementos de Seguridad, Señalización y Demarcación;138;4560;1;indice
+2.6.1.10;2.6.1.10 Conservación de Obras de Paisajismo;138;4569;1;indice
+2.6.1.11;2.6.1.11 Otros;138;4575;4;indice
+2.6.2;2.6.2 Administración;138;4590;0;indice
+2.6.2.1;2.6.2.1 Personal;138;4591;3;indice
+2.6.2.2;2.6.2.2 Oficinas;139;4602;9;indice
+2.6.3;2.6.3 Del Servicio a los Usuarios;139;4612;0;indice
+2.6.3.1;2.6.3.1 Congestión Vehicular;139;4613;2;indice
+2.6.3.2;2.6.3.2 Medidas de Seguridad y Control;139;4616;4;indice
+2.6.3.3;2.6.3.3 Mantenimiento del Tránsito durante la Explotación de la Concesión;140;4629;3;indice
+2.6.3.4;2.6.3.4 Señalización de Mantenimiento;140;4641;4;indice
+2.6.3.5;2.6.3.5 Daños;140;4655;0;indice
+2.6.3.5.1;2.6.3.5.1 Daños a Usuarios;140;4656;1;indice
+2.6.3.5.2;2.6.3.5.2 Daños a Instalaciones;141;4663;3;indice
+2.6.3.6;2.6.3.6 Sistema de Reclamos y Sugerencias de los Usuarios;141;4671;2;indice
+2.6.3.7;2.6.3.7 Reglamento de Servicio de la Obra;141;4679;8;indice
+2.6.4;2.6.4 Operación del Sistema de Gestión de Tráfico;141;4697;20;indice
+2.6.5;2.6.5 Medición Continua de Flujo Vehicular;143;4763;6;indice
+2.6.6;2.6.6 Información Estadística durante la Explotación;143;4783;1;indice
+2.6.6.1;2.6.6.1 Informes Mensuales;144;4789;7;indice
+2.6.6.2;2.6.6.2 Informes Trimestrales;144;4803;4;indice
+2.6.6.3;2.6.6.3 Informes Anuales;144;4812;3;indice
+2.6.6.4;2.6.6.4 Accesibilidad a la Información Disponible;144;4822;3;indice
+2.6.7;2.6.7 Ensayes y Calidad de Materiales;145;4835;1;indice
+2.6.8;2.6.8 Programa Anual de Conservación;145;4840;1;indice
+2.7;2.7 PLAN DE PREVENCION DE RIESGOS;145;4846;7;indice
+2.7.1;2.7.1      Plan de Prevención de Riesgos durante la Construcción de la Obra;146;4878;55;indice
+2.7.2;2.7.2 Plan de Prevención de Riesgos durante la Explotación de la Obra;148;4965;20;indice
+2.8;2.8 PLAN DE MEDIDAS DE CONTROL DE ACCIDENTES O CONTINGENCIAS;149;4993;2;indice
+2.8.1;2.8.1 Plan de Control de Accidentes o Plan de Contingencias durante la Etapa de Construcción;149;4996;8;indice
+2.8.2;2.8.2 Plan de Control de Accidentes o Plan de Contingencias durante la Etapa de Explotación;152;5047;5;indice
+2.9;2.9 CONSIDERACIONES AMBIENTALES DE LA OBRA;152;5071;6;indice
+2.9.1;2.9.1 Estudio de Impacto Ambiental;153;5080;0;indice
+2.9.1.1;2.9.1.1 Plan de Manejo Ambiental Preliminar Referencial.;153;5081;3;indice
+2.9.1.2;2.9.1.2 Criterios para la elaboración del Estudio o Declaración de Impacto Ambiental;153;5085;1;indice
+2.9.1.3;2.9.1.3 Actividades del Proyecto que ingresan al sistema de Evaluación de Impacto Ambiental;153;5087;2;indice
+2.9.2;2.9.2 Zonas de Restricción;154;5093;3;indice
+2.10;2.10 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA CONSTRUCCION;154;5104;5;indice
+2.10.1;2.10.1 Aire;155;5112;0;indice
+2.10.1.1;2.10.1.1 Medidas de Mitigación;155;5113;2;indice
+2.10.1.2;2.10.1.2 Medidas de Prevención de Riesgos;155;5116;2;indice
+2.10.1.3;2.10.1.3 Plan de Seguimiento Ambiental;155;5119;1;indice
+2.10.2;2.10.2 Ruido;155;5121;0;indice
+2.10.2.1;2.10.2.1 Medidas de Prevención de Riesgos;155;5122;3;indice
+2.10.2.2;2.10.2.2 Plan de Seguimiento Ambiental;155;5126;4;indice
+2.10.3;2.10.3 Geomorfología;156;5138;0;indice
+2.10.3.1;2.10.3.1 Medidas de Mitigación;156;5139;15;indice
+2.10.3.2;2.10.3.2 Plan de Seguimiento Ambiental;157;5182;2;indice
+2.10.4;2.10.4 Recurso Suelo;158;5188;0;indice
+2.10.4.1;2.10.4.1 Medidas de Mitigación y Reparación;158;5189;5;indice
+2.10.4.2;2.10.4.2 Medidas de Prevención de Riesgos;158;5209;4;indice
+2.10.5;2.10.5 Aguas Superficiales;159;5232;0;indice
+2.10.5.1;2.10.5.1 Medidas de Mitigación;159;5233;13;indice
+2.10.5.2;2.10.5.2 Medidas de Prevención de Riesgos;160;5250;6;indice
+2.10.5.3;2.10.5.3 Plan de Seguimiento Ambiental;161;5262;3;indice
+2.10.6;2.10.6 Aguas Subterráneas;161;5275;0;indice
+2.10.6.1;2.10.6.1 Medidas de Prevención de Riesgos;161;5276;8;indice
+2.10.7;2.10.7 Flora y Vegetación;162;5310;0;indice
+2.10.7.1;2.10.7.1 Medidas de Mitigación y Reparación;162;5311;12;indice
+2.10.7.2;2.10.7.2 Medidas de Prevención de Riesgos;163;5373;4;indice
+2.10.7.3;2.10.7.3 Plan de Seguimiento;163;5384;1;indice
+2.10.8;2.10.8 Fauna;164;5391;0;indice
+2.10.8.1;2.10.8.1 Medidas de Mitigación;164;5392;2;indice
+2.10.8.2;2.10.8.2 Medidas de Prevención de Riesgos;164;5402;5;indice
+2.10.8.3;2.10.8.3 Plan de Seguimiento;164;5422;2;indice
+2.10.9;2.10.9 Aspectos Socioeconómicos y Protección a la Comunidad;165;5431;0;indice
+2.10.9.1;2.10.9.1 Medidas de Prevención de Riesgos;165;5432;4;indice
+2.10.10;2.10.10 Recurso Paisaje;165;5446;1;indice
+2.10.10.1;2.10.10.1 Medidas de Mitigación;165;5451;3;indice
+2.10.11;2.10.11 Arqueología;165;5464;0;indice
+2.10.11.1;2.10.11.1 Medidas de Contingencias;165;5465;2;indice
+2.10.12;2.10.12 Obligaciones Ambientales para la Ejecución de Faenas;166;5478;4;indice
+2.10.12.1;2.10.12.1 Reutilización y Disposición Final de Residuos Industriales Sólidos;166;5502;16;indice
+2.10.12.2;2.10.12.2 Transporte y Almacenamiento de Materiales;168;5556;5;indice
+2.10.13;2.10.13 Informes Ambientales;168;5568;3;indice
+2.10.13.1;2.10.13.1 Contenidos mínimos de los Informes Ambientales;169;5584;6;indice
+2.11;2.11 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA EXPLOTACION;170;5606;4;indice
+2.11.1;2.11.1 Aire;170;5611;1;indice
+2.11.2;2.11.2 Ruido;170;5613;4;indice
+2.11.3;2.11.3 Geomorfología;171;5626;2;indice
+2.11.4;2.11.4 Suelos;171;5637;2;indice
+2.11.5;2.11.5 Recurso Aguas Superficiales;171;5643;1;indice
+2.11.6;2.11.6 Medio Biótico;171;5649;0;indice
+2.11.6.1;2.11.6.1 Medidas de Mitigación Vegetación;171;5650;1;indice
+2.11.6.2;2.11.6.2 Plan de Seguimiento Ambiental Vegetación;172;5657;9;indice
+2.11.7;2.11.7 Fauna;172;5683;0;indice
+2.11.7.1;2.11.7.1 Plan de Seguimiento Fauna;172;5684;10;indice
+2.11.8;2.11.8 Recurso Paisaje;173;5710;3;indice
+2.11.8.1;2.11.8.1 Plan de Seguimiento Ambiental;173;5722;1;indice
+2.11.9;2.11.9 Informes Ambientales;173;5728;7;indice
+3;3       BASES ECONÓMICAS;175;5752;1;regla
+3.1;3.1       FACTORES DE LICITACION;175;5756;1;indice
+3.1.1;3.1.1     Plazo de la Concesión;175;5759;2;indice
+3.1.2;3.1.2     Subsidio del Estado al Oferente;175;5763;2;indice
+3.1.3;"3.1.3     Plazo Postergación PSP obras de ""Prolongación Av. Alessandri""";175;5767;1;indice
+3.2;3.2       OFERTA ECONÓMICA DEL LICITANTE O GRUPO LICITANTE;175;5772;1;indice
+3.2.1;3.2.1     Tramo A;175;5776;3;indice
+3.2.2;3.2.2     Tramo B;175;5784;3;indice
+3.2.3;3.2.3      Tramo C;176;5794;2;indice
+3.3;3.3      EVALUACIÓN DE LAS OFERTAS ECONÓMICAS;176;5801;2;indice
+3.3.1;3.3.1      Tramo A;176;5807;5;indice
+3.3.2;3.3.2      Tramo B;176;5814;5;indice
+3.3.3;3.3.3      Tramo C;176;5821;5;indice
+3.3.4;3.3.4 Premio al Postulante;177;5832;6;indice
+3.3.5;3.3.5 Adjudicación;177;5845;6;indice
+A1;ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA;181;5862;71;regla
+A2;ANEXO Nº2: FORMULARIO Nº6;195;6071;17;regla
+A3;ANEXO Nº3: PRECIOS UNITARIOS OFICIALES (SIN IVA);205;6181;9;regla
+A4;ANEXO Nº4;217;6398;4;regla

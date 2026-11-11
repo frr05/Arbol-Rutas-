@@ -1,154 +1,162 @@
 fragmento;acto;acto_nombre;pags;articulo;operacion;parrafos;texto_nuevo;donde_dice;debe_decir;numero_nuevo;estado;origen
 RITP.D02.F0001;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;;anexo;;;;;;anexo;llm
-RITP.D02.F0003;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.6.1;reemplaza_parrafo;P1;18-20;;;;aplicada;llm
-RITP.D02.F0004;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.6.3;reemplaza_parrafo;P1;23-26;;;;aplicada;llm
-RITP.D02.F0005;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.8.3.1;reemplaza_parrafo;P5;29-32;;;;aplicada;llm
-RITP.D02.F0006;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1,2;1.8.3.2;reemplaza_parrafo;P1;35-42;;;;aplicada;llm
-RITP.D02.F0006;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1,2;1.9.4;reemplaza_parrafo;P28;48-53;;;;aplicada;llm
-RITP.D02.F0006;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1,2;1.14.7;reemplaza_parrafo;P2;57-59;;;;pendiente: el artículo 1.14.7 no está entre los candidatos ['1.8.3.2', '1.9.4'];llm
-RITP.D02.F0006;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1,2;1.14.7;reemplaza_parrafo;P3;61-64;;;;pendiente: el artículo 1.14.7 no está entre los candidatos ['1.8.3.2', '1.9.4'];llm
-RITP.D02.F0007;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2,3,4;2.8;reemplaza_parrafo;P1;80-88;;;;aplicada;llm
-RITP.D02.F0009;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5,6;1.5.5;reemplaza_parrafo;P29;184-188;;;;aplicada;llm
-RITP.D02.F0009;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5,6;1.7.3;reemplaza_texto;P10;;El capital suscrito y pagado al momento de la constitución de la sociedad no podrá ser inferior a $2.350.000.000 (dos mil trescientos cincuenta millones de pesos), que corresponden aproximadamente al 25% del Presupuesto Oficial Estimado de la Obra establecido en el artículo 1.4.3 de las presentes Bases. El capital pagado deberá acreditarse mediante certificado bancario.;El capital de la sociedad no podrá ser inferior a $2.600.000.000 (dos mil seiscientos millones de pesos), que corresponden aproximadamente al 25% del Presupuesto Oficial Estimado de la Obra establecido en el artículo 1.4.3 de las presentes Bases. Al otorgarse la escritura de constitución de la Sociedad Concesionaria se deberá suscribir integramente el capital de la sociedad y pagarse, a lo menos, la suma de $1.300,000.000 (mil trescientos millones de pesos) debiendo individualizar con su correspondiente porcentaje, a todas las personas naturales o jurídicas que suscribirán el 100% de dicho capital. El saldo del capital deberá pagarse en el plazo máximo de 12 meses contados desde la fecha de la escritura pública de constitución de la sociedad. El capital pagado deberá acreditarse mediante certificado bancario.;;aplicada;llm
-RITP.D02.F0009;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5,6;1.7.3;elimina_texto;P12;;Se deberá individualizar, con su correspondiente porcentaje, a todas las personas naturales o jurídicas que suscribirán y pagarán el 100% de dicho capital.;;;aplicada;llm
-RITP.D02.F0010;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);6;1.7.6;reemplaza_articulo;;216-225;;;;aplicada;manual
-RITP.D02.F0011;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);6,7;;agrega_articulo;;227-275;;;1.7.6.1;aplicada;manual
-RITP.D02.F0012;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7;;agrega_articulo;;277-284;;;1.7.6.2;aplicada;manual
-RITP.D02.F0013;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7;1.8.1;agrega_texto;P6;;"c) Fiscalizar el cumplimiento del plan de trabajo propuesto por la Sociedad Concesionaria;";"w) Calcular e informar mensualmente a la Sociedad Concesionaria por medio de anotación en el Libro de Obra correspondiente, el monto de ""VPI,,"" actualizado según se describe en 1.7.6.1, en caso que la concesión se haya adjudicado en el Tramo A de licitación según lo previsto en 3.2.1, ambos artículos de las presentes Bases.";;aplicada;llm
-RITP.D02.F0014;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7;1.8.2;reemplaza_parrafo;P40;295-303;;;;aplicada;manual
-RITP.D02.F0015;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.5.1;reemplaza_parrafo;P5;309-316;;;;aplicada;llm
-RITP.D02.F0015;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.5.1;reemplaza_texto;P5;;a) Relacionadas con las Obligaciones de Información y Otras;a) Relacionadas con las Obligaciones de Información y Otras;;pendiente: debe_decir «a) Relacionadas con las Obligaciones de Informació» no está en el fragmento;llm
-RITP.D02.F0015;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.5.1;reemplaza_parrafo;P27;318-320;;;;aplicada;llm
-RITP.D02.F0015;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.3.2;reemplaza_parrafo;P6;323-339;;;;aplicada;llm
-RITP.D02.F0015;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.5.1;reemplaza_texto;P28;;No pago del capital minimo al;No pago del capital mínimo al;;pendiente: donde_dice «No pago del capital minimo al» no está en el texto vigente de 1.8.5.1;llm
-RITP.D02.F0015;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.5.1;reemplaza_texto;P39;;Cada día;Cada día;;pendiente: donde_dice «Cada día» no está en el texto vigente de 1.8.5.1;llm
-RITP.D02.F0016;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.10.1;reemplaza_texto;P9;;la construcción de la obras;la construcción de las obras;;aplicada;llm
-RITP.D02.F0016;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.10.1;reemplaza_texto;P11;;la Puesta en Servicio Provisoria de la totalidad de las obras;la Puesta en Servicio Provisoria de las obras correspondientes;;aplicada;llm
-RITP.D02.F0017;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.10.1;reemplaza_parrafo;P9;361-363;;;;aplicada;llm
-RITP.D02.F0017;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.10.1;reemplaza_texto;P11;;la Puesta en Servicio Provisoria de la totalidad de las obras;la Puesta en Servicio Provisoria de las obras correspondientes;;pendiente: donde_dice «la Puesta en Servicio Provisoria de la totalidad d» no está en el texto vigente de 1.10.1;llm
-RITP.D02.F0018;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.13.1;reemplaza_articulo;;375-385;;;;aplicada;llm
-RITP.D02.F0019;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.13.2;reemplaza_articulo;;388-407;;;;aplicada;llm
-RITP.D02.F0019;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.13.2.1;reemplaza_texto;P2;;Al menos doce (12) meses antes de la extinción de la concesión por cumplimiento de plazo, calculado por el Inspector Fiscal,;Al menos doce (12) meses antes del plazo estimado de la extinción de la concesión, calculado por el Inspector Fiscal,;;pendiente: donde_dice «Al menos doce (12) meses antes de la extinción de » no está en el texto vigente de 1.13.2.1;llm
-RITP.D02.F0019;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.13.3;agrega_texto;P1;;;n) Incumplimiento de la Sociedad Concesionaria de la obligación de enterar el capital inicial de la misma, en el plazo indicado en el artículo 1.7,3 de las presentes Bases.;;pendiente: el artículo 1.13.3 no está entre los candidatos ['1.13.2', '1.13.2.1'];llm
-RITP.D02.F0021;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.13.2.1;reemplaza_texto;P3;;Al menos doce (12) meses antes de la extinción de la concesión por cumplimiento de plazo, calculado por el Inspector Fiscal,;Al menos doce (12) meses antes del plazo estimado de la extinción de la concesión, calculado por el Inspector Fiscal,;;aplicada;llm
-RITP.D02.F0021;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.13.2.1;reemplaza_articulo;;411-413;;;;aplicada;llm
-RITP.D02.F0022;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.13.3;agrega_parrafo;;423-425;;;;pendiente: el artículo 1.13.3 no está entre los candidatos ['1.7.3'];llm
-RITP.D02.F0022;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.7.3;aclara;P10;424-425;;;;nota;llm
-RITP.D02.F0023;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.14.2.2;reemplaza_parrafo;P3;428-434;;;;aplicada;llm
-RITP.D02.F0023;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.14.2.3.3;reemplaza_parrafo;P1;437-446;;;;aplicada;llm
-RITP.D02.F0024;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10,11;1.14.2.3.3;reemplaza_parrafo;P1;448-448;;;;aplicada;llm
-RITP.D02.F0025;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11;1.14.6.1.1;reemplaza_texto;P29;;YPj : Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número 5, letra g) de las presentes Bases.;YP?: Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número $, letra h) de las presentes Bases.;;aplicada;llm
-RITP.D02.F0026;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11;1.14.6.1.2;reemplaza_texto;P2;;a) Se establece una Banda Superior de Ingresos, que depende del tramo de licitación dentro del cual el licitante o grupo licitante haya presentado su Oferta Económica, de acuerdo a la Tabla N* 4,;a) La aplicación del presente Mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria dependerá del tramo de licitación dentro del cual el licitante o grupo licitante adjudicatario haya presentado su Oferta Económica, según lo que se indica a continuación: En caso que la concesión se adjudique en el Tramo A de licitación, de acuerdo a lo establecido en los articulos 3.1.1 y 3.2.1 de estas Bases, no regirá el presente mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria. En los demás casos, dicho mecanismo se aplicará de acuerdo a lo establecido en el presente artículo. Para tales efectos, se establece una Banda Superior de Ingresos, de acuerdo a la Tabla N* 4.;;aplicada;llm
-RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11,12;1.15.2;reemplaza_parrafo;P1;482-487;;;;aplicada;llm
-RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11,12;1.15.2;reemplaza_parrafo;P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17;499-527;;;;aplicada;llm
-RITP.D02.F0028;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);12;1.18;reemplaza_parrafo;P6;530-539;;;;aplicada;llm
-RITP.D02.F0029;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.2.1.6;reemplaza_parrafo;P2,P3,P4;546-555;;;;aplicada;llm
-RITP.D02.F0030;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.3.2.2;reemplaza_parrafo;P12;558-561;;;;aplicada;llm
-RITP.D02.F0031;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.4;reemplaza_texto;P1;;... señalado en el artículo 2.3.1 de éstas Bases, los que deberán ser aprobados por el Inspector Fiscal.;... señalado en el artículo 2.3.1 de estas Bases, los que deberán ser aprobados por el Inspector Fiscal.;;aplicada;llm
-RITP.D02.F0032;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.11.9;reemplaza_parrafo;P2;572-574;;;;aplicada;llm
-RITP.D02.F0033;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13,14;3.1.1;reemplaza_articulo;;576-581;;;;aplicada;llm
-RITP.D02.F0034;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.2.1;reemplaza_articulo;;589-606;;;;aplicada;llm
-RITP.D02.F0035;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.2.2;reemplaza_articulo;;608-616;;;;aplicada;llm
-RITP.D02.F0036;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.2.3;reemplaza_articulo;;623-630;;;;aplicada;llm
-RITP.D02.F0037;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.3;reemplaza_parrafo;P1;633-636;;;;aplicada;llm
-RITP.D02.F0038;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15;3.3.1;reemplaza_articulo;;641-649;;;;aplicada;llm
-RITP.D02.F0038;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15;;anexo;;659-682;;;;anexo;llm
-RITP.D02.F0039;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15,16;3.3.5;reemplaza_parrafo;P1;651-654;;;;aplicada;llm
-RITP.D02.F0039;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15,16;;anexo;;659-688;;;;anexo;llm
-RITP.D02.F0040;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16;A1;reemplaza_articulo;;665-696;;;;aplicada;llm
-RITP.D02.F0041;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16;;anexo;;;;;;anexo;llm
-RITP.D02.F0043;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);17,18;;anexo;;;;;;anexo;llm
-RITP.D02.F0044;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18,19;1.3.2;elimina;[P1],[P2],[P3],[P4],[P5],[P6],[P7];;;;;pendiente: párrafo inexistente en 1.3.2: ['[P1]', '[P2]', '[P3]', '[P4]', '[P5]', '[P6]', '[P7]'];llm
-RITP.D02.F0044;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18,19;3.1.3;elimina;;;;;;aplicada;llm
-RITP.D02.F0045;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21,22;1.8.3;elimina;[P16];;;;;pendiente: párrafo inexistente en 1.8.3: ['[P16]'];llm
-RITP.D02.F0045;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21,22;1.8.3;reemplaza_texto;[P17];;p) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.;o) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.;;pendiente: párrafo inexistente en 1.8.3: ['[P17]'];llm
-RITP.D02.F0045;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21,22;1.14.3;reemplaza_articulo;;850-907;;;;aplicada;llm
-RITP.D02.F0046;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);22,23;2.2.3.2;reemplaza_parrafo;[P2];911-915;;;;pendiente: párrafo inexistente en 2.2.3.2: ['[P2]'];llm
-RITP.D02.F0046;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);22,23;2.6.1.10;reemplaza_articulo;;918-923;;;;aplicada;llm
-RITP.D02.F0047;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;;anexo;;;;;;anexo;llm
-RITP.D02.F0049;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;1.3;reemplaza_articulo;;964-964;;;;aplicada;llm
-RITP.D02.F0050;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25,26;1.3.1;reemplaza_articulo;;967-992;;;;aplicada;llm
-RITP.D02.F0050;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25,26;1.3.1;reemplaza_parrafo;P2;969-977;;;;pendiente: las líneas del texto nuevo ya fueron usadas por otra operación;llm
-RITP.D02.F0050;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25,26;1.3.1;reemplaza_texto;P4;;9;"9. Mejoramiento y complementación del Enlace Penco para dar conexión a la Ruta Interportuaria con la vialidad existente, lo que involucra, en general, las siguientes obras: • Construcción de los lazos Penco-Autopista Itata, Talcahuano-Penco y Concepción-Talcahuano; • Construcción del ramal Talcahuano-Concepción, conforme a lo dispuesto en el artículo 1.9.5 de las presentes Bases; • Mejoramiento lazo Autopista Itata-Concepción existente; y • Adecuación del ramal Penco-Autopista Itata existente a ramal Penco—Talcahuano proyectado, Sin perjuicio de lo anterior, las obras existentes del actual Enlace Penco, no forman parte de esta concesión.";;pendiente: párrafo inexistente en 1.3.1: ['P4'];llm
-RITP.D02.F0050;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25,26;1.3.2;reemplaza_parrafo;P1;997-1001;;;;aplicada;llm
-RITP.D02.F0050;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25,26;1.3.2;agrega_parrafo;P7;1004-1019;;;;aplicada;llm
-RITP.D02.F0050;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25,26;;agrega_articulo;;1021-1060;;;1.3.3;aplicada;llm
-RITP.D02.F0051;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);26,27;;anexo;;;;;;anexo;llm
-RITP.D02.F0052;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);27;1.4.4;reemplaza_texto;P3;;"2. Anteproyecto de Ingeniería ""Prolongación Avenida Alessandri"". | CITRA Consultores | 1 |";"2. Anteproyecto de Ingeniería ""Ampliación Jorge Alessandri, Sector Aeropuerto — Ruta Interportuaria, VIH Región"", Noviembre de ingeniería Ltda, 2001,";;aplicada;llm
-RITP.D02.F0052;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);27;1.4.4;reemplaza_parrafo;P6;1078-1081;;;;aplicada;llm
-RITP.D02.F0053;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);27;1.4.5;reemplaza_parrafo;P3;1084-1088;;;;aplicada;llm
-RITP.D02.F0054;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28,29;1.5.5;reemplaza_texto;P44;;El licitante o grupo licitante deberá presentar en su Oferta Técnica un Plan de Mantención para la etapa de Construcción y el régimen de Explotación, donde conste lo siguientes;El licitante o grupo licitante deberá presentar en su Oferta Técnica, sólo para las obras correspondientes al eje Ruta Interportuaria Talcahuano-Penco, un Plan de Mantención para la etapa de Construcción y el régimen de Explotación, donde conste lo siguiente:;;pendiente: donde_dice «El licitante o grupo licitante deberá presentar en» no está en el texto vigente de 1.5.5;llm
-RITP.D02.F0054;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28,29;1.5.5;reemplaza_texto;P45;;El licitante o grupo licitante deberá entregar en su Oferta Técnica una Monografía sobre los Sistemas de Cobro propuestos, donde se haga constar la localización de todos los puntos de cobro, ...;Sólo para los efectos del presente documento, el licitante o grupo licitante deberá entregar en su Oferta una Monografía sobre los Sistemas de Cobro propuestos, tanto para el caso “Sólo Ruta Interportuaria” como para el caso “Ruta Interportuaria más Av. Alessandri”, independiente del tramo donde se ubique su Oferta Económica según lo establecido en el artículo 3.2 de las presentes Bases, donde se haga constar la localización de todos los puntos de cobro, ...;;pendiente: donde_dice «El licitante o grupo licitante deberá entregar en » no está en el texto vigente de 1.5.5;llm
-RITP.D02.F0054;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28,29;1.5.5;elimina_texto;P45;;Se elimina el último párrafo.;;;pendiente: donde_dice «Se elimina el último párrafo.» no está en el texto vigente de 1.5.5;llm
-RITP.D02.F0054;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28,29;1.5.5;reemplaza_texto;P45;;El licitante o grupo licitante deberá entregar un Cronograma de Inversión tipo Carta Gantt, conforme al Formulario N%7 incluido en el Anexo N, que explicite la oportunidad de ejecución de la totalidad de las obras definidas en estas Bases, según corresponda. Para dar...;El licitante o grupo licitante deberá entregar un Cronograma de Inversión tipo Carta Gantt, conforme al Formulario N%6 incluido en el Anexo N%, que explicite la oportunidad de ejecución de la totalidad de las obras definidas en el artículo 1.3.1 de las presentes Bases. Para dar ...;;pendiente: donde_dice «El licitante o grupo licitante deberá entregar un » no está en el texto vigente de 1.5.5;llm
-RITP.D02.F0054;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28,29;1.8.1;reemplaza_texto;P2;;y Otro para la etapa de explotación dentro del plazo de treinta días contados desde la solicitud de Puesta en Servicio Provisoria ...;y Otro para la etapa de explotación dentro del plazo de treinta días contados desde la primera solicitud de Puesta en Servicio Provisoria ...;;aplicada;llm
-RITP.D02.F0055;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.4.2;reemplaza_parrafo;P7;1148-1154;;;;aplicada;llm
-RITP.D02.F0056;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.5;elimina;P3;;;;;aplicada;llm
-RITP.D02.F0057;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.5.1;reemplaza_texto;P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28,P29,P30,P31,P32,P33,P34,P35,P36,P37,P38,P39,P40,P41,P42,P43,P44,P45;;"Incumplimiento de las instrucciones | Cada día
-impartidas por el Inspector Fiscal
-acerca de la mantención y
-conservación de la infraestructura
-existente en las fechas señaladas y
-de acuerdo a los estándares para la
-Concesión. :";"Incumplimiento de las instrucciones
-impartidas por el Inspector Fiscal
-acerca de la mantención y
-conservación de la infraestructura
-existente en las fechas señaladas y
-de acuerdo a los estándares para la
-Concesión.";;aplicada;llm
-RITP.D02.F0057;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.5.1;reemplaza_texto;P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28,P29,P30,P31,P32,P33,P34,P35,P36,P37,P38,P39,P40,P41,P42,P43,P44,P45;;"No prestación de servicios |Cada día
-complementarios propuestos por el
-licitante o grupo licitante y
-aprobados por la Comisión de
-Evaluación de la Oferta Técnica, en
-las condiciones establecidas en su
-Oferta.";"No prestación de los servicios
-complementarios ofrecidos por el
-Concesionario, en las condiciones
-convenidas con el MOP,
-Cada día";;aplicada;llm
-RITP.D02.F0057;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.9;reemplaza_parrafo;P1;1206-1218;;;;aplicada;llm
-RITP.D02.F0058;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29,30;;anexo;;;;;;anexo;llm
-RITP.D02.F0059;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);30,31;1.8.9;reemplaza_articulo;;1204-1261;;;;aplicada;llm
-RITP.D02.F0060;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);31;1.8.11;reemplaza_texto;P2;;que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión.;que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión y en los lugares donde la Sociedad Concesionaria se encuentre ejecutando obras.;;aplicada;llm
-RITP.D02.F0061;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);31,32;1.8.17;reemplaza_articulo;;1278-1310;;;;aplicada;llm
-RITP.D02.F0061;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);31,32;1.8.17.1;reemplaza_articulo;;1278-1310;;;;pendiente: las líneas del texto nuevo ya fueron usadas por otra operación;llm
-RITP.D02.F0062;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32;1.8.17.2;reemplaza_articulo;;1314-1330;;;;aplicada;llm
-RITP.D02.F0063;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32;1.9.1.1;agrega_parrafo;P2;1333-1340;;;;aplicada;llm
-RITP.D02.F0064;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32;1.9.5;reemplaza_parrafo;P1;1343-1350;;;;aplicada;llm
-RITP.D02.F0065;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32,33;1.10.5;reemplaza_parrafo;P1;1353-1362;;;;aplicada;llm
-RITP.D02.F0066;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);33,34;1.10.10.2;reemplaza_articulo;;1365-1428;;;;aplicada;llm
-RITP.D02.F0068;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);34;1.15.2;agrega_parrafo;P1;1432-1437;;;;aplicada;llm
-RITP.D02.F0069;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);34;1.16;reemplaza_parrafo;P4;1440-1443;;;;aplicada;llm
-RITP.D02.F0070;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);34;1.16.1.1;reemplaza_texto;P5;;D : Corresponde a la longitud de la vía concesionada (en km) para el caso del sistema de cobro por Derecho de Paso, o bien a la longitud recorrida (en km) dentro de la vía concesionada para el caso del sistema de cobro por Uso efectivo.;D : Para el caso del sistema de cobro por Uso Efectivo, corresponderá a la distancia recorrida, en km, entre los puntos de control de acceso (entrada y salida) a la(s) vía(s) concesionada(s). Para el caso del sistema de cobro por Derecho «de Paso, corresponderá a las siguientes longitudes según par Origen-Destino: OS Sistema de Cobro por Derecho de Paso Par Origen-—Destino Longitud e Taleahuano-Penco o viceversa, 10.9 e Talcahuano-Concepción o viceversa. : o Penco-Concepción o viceversa,;;aplicada;llm
-RITP.D02.F0071;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;1.17.1;reemplaza_parrafo;P1;1470-1475;;;;aplicada;llm
-RITP.D02.F0072;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;2.1;reemplaza_articulo;;1478-1490;;;;aplicada;llm
-RITP.D02.F0073;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;2.2.1.1;agrega_parrafo;;1492-1498;;;;aplicada;llm
-RITP.D02.F0074;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;2.2.1.2;reemplaza_parrafo;P2;1501-1508;;;;aplicada;llm
-RITP.D02.F0075;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35,36;2.2.1.4;reemplaza_articulo;;1511-1530;;;;aplicada;llm
-RITP.D02.F0076;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36;2.2.1.5;reemplaza_parrafo;P2;1534-1536;;;;aplicada;llm
-RITP.D02.F0077;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36;2.2.2.2;reemplaza_articulo;;1540-1552;;;;aplicada;llm
-RITP.D02.F0078;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36;2.2.2.5;reemplaza_articulo;;1554-1582;;;;aplicada;llm
-RITP.D02.F0078;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36;;agrega_articulo;;1584-1584;;;2.2.3.4;aplicada;llm
-RITP.D02.F0079;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36,37;2.2.2.5;reemplaza_articulo;;1553-1553;;;;aplicada;llm
-RITP.D02.F0081;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);37;2.2.4;reemplaza_parrafo;P1;1592-1603;;;;aplicada;llm
-RITP.D02.F0082;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);37;2.3.2.2;reemplaza_parrafo;P3;1616-1624;;;;aplicada;llm
-RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38;2.3.2.4;reemplaza_parrafo;P5;1627-1630;;;;aplicada;llm
-RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38;;agrega_articulo;;1632-1660;;;2.3.2.17;aplicada;llm
-RITP.D02.F0085;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38;2.6.1.6;reemplaza_parrafo;P1;1664-1671;;;;aplicada;llm
-RITP.D02.F0086;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38,39;2.10.7.1;reemplaza_parrafo;P6,P7,P8,P9,P10;1674-1678;;;;aplicada;llm
-RITP.D02.F0087;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);39,40;;anexo;;;;;;anexo;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.5.5;aclara;P45;;;;;nota;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.3.2;aclara;;;;;;nota;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.16;aclara;P4;;;;;nota;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.15.1;aclara;;;;;;nota;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.15.4;aclara;;;;;;nota;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.16.1.1;aclara;;;;;;nota;llm
-RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.5.5;aclara;P45;;;;;nota;llm
-RITP.D02.F0089;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41,42,43;1.3.1;aclara;;;;;;nota;llm
-RITP.D02.F0089;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41,42,43;;anexo;;;;;;anexo;llm
-RITP.D02.F0090;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43,44;1.3.1;aclara;P1;;;;;nota;llm
-RITP.D02.F0090;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43,44;2.2.1.5;aclara;P1,P2,P3,P4,P5,P6;;;;;nota;llm
-RITP.D02.F0090;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43,44;1.9.1.1;aclara;;;;;;nota;llm
-RITP.D02.F0090;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43,44;1.14.2.2;aclara;;;;;;nota;llm
+RITP.D02.F0003;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.6.1;reemplaza_parrafo;P1;16-18;;;;aplicada;llm
+RITP.D02.F0004;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.6.3;reemplaza_parrafo;P1;21-24;;;;aplicada;llm
+RITP.D02.F0005;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.8.3.1;reemplaza_parrafo;P4;27-30;;;;aplicada;llm
+RITP.D02.F0006;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);1;1.8.3.2;reemplaza_parrafo;P1;33-38;;;;aplicada;llm
+RITP.D02.F0007;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2;1.9.4;reemplaza_parrafo;P17;41-41;;;;aplicada;llm
+RITP.D02.F0008;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2;1.14.7;reemplaza_parrafo;P2;44-44;;;;aplicada;llm
+RITP.D02.F0008;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2;1.14.7;reemplaza_parrafo;P3;46-48;;;;aplicada;llm
+RITP.D02.F0008;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2;3.2.2;aclara;;;;;;nota;llm
+RITP.D02.F0009;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2;2.7;reemplaza_parrafo;P1;50-50;;;;aplicada;llm
+RITP.D02.F0010;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);2;1.7.6;reemplaza_articulo;;216-225;;;;pendiente: las líneas del texto nuevo ya fueron usadas por otra operación;manual
+RITP.D02.F0012;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);3;;agrega_articulo;;277-284;;;1.7.6.2;pendiente: las líneas del texto nuevo ya fueron usadas;manual
+RITP.D02.F0013;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);3;1.2.3;aclara;;;;;;nota;llm
+RITP.D02.F0014;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);3;1.8.2;reemplaza_parrafo;P40;295-303;;;;pendiente: las líneas del texto nuevo ya fueron usadas por otra operación;manual
+RITP.D02.F0015;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);3;;anexo;;;;;;anexo;llm
+RITP.D02.F0016;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);3;;anexo;;;;;;anexo;llm
+RITP.D02.F0017;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);3;;anexo;;;;;;anexo;llm
+RITP.D02.F0018;RITP.D02.A1;Circular aclaratoria N°1 (2001-10-23);4;1.6.1;aclara;;;;;;nota;llm
+RITP.D02.F0019;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5;;anexo;;;;;;anexo;llm
+RITP.D02.F0021;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5;1.5.5;reemplaza_parrafo;P21;152-156;;;;aplicada;llm
+RITP.D02.F0022;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5,6;1.7.3;reemplaza_parrafo;P8;160-178;;;;aplicada;llm
+RITP.D02.F0022;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);5,6;1.7.3;elimina;P10;;;;;aplicada;llm
+RITP.D02.F0023;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);6;1.7.6;reemplaza_articulo;;183-192;;;;aplicada;llm
+RITP.D02.F0023;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);6;;agrega_articulo;;194-223;;;1.7.6.1;aplicada;llm
+RITP.D02.F0024;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);6,7;1.8.2;reemplaza_parrafo;P25;248-259;;;;aplicada;llm
+RITP.D02.F0025;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7;;agrega_articulo;;230-237;;;1.7.6.2;aplicada;llm
+RITP.D02.F0026;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7;1.8.1;agrega_texto;P6;;;"w) Calcular e informar mensualmente a la Sociedad Concesionaria por medio
+de anotación en el Libro de Obra correspondiente, el monto de ""VPI_m""
+actualizado según se describe en 1.7.6.1, en caso que la concesión se haya
+adjudicado en el Tramo A de licitación según lo previsto en 3.2.1, ambos
+artículos de las presentes Bases.";;aplicada;llm
+RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7,8;1.8.2;reemplaza_parrafo;P25;260-266;;;;aplicada;llm
+RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7,8;1.8.2;agrega_parrafo;P25;267-270;;;;aplicada;llm
+RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7,8;1.8.2;reemplaza_texto;P26;;h) Además deberá entregar información de los ingresos potenciales por;h) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.;;pendiente: donde_dice «h) Además deberá entregar información de los ingre» no está en el texto vigente de 1.8.2;llm
+RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7,8;1.8.2;reemplaza_texto;P27;;h) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.;i) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.;;aplicada;llm
+RITP.D02.F0027;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);7,8;1.8.2;reemplaza_texto;P28;;i) Cualquier otra información, relacionada con el Contrato de Concesión, que requiera el Inspector Fiscal, en el plazo indicado por éste.;j) Cualquier otra información, relacionada con el Contrato de Concesión, que requiera el Inspector Fiscal, en el plazo indicado por éste.;;aplicada;llm
+RITP.D02.F0028;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.3.2;reemplaza_parrafo;P5;273-289;;;;aplicada;llm
+RITP.D02.F0029;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;1.8.5.1;elimina;P4;;;;;aplicada;llm
+RITP.D02.F0030;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8;;anexo;;;;;;anexo;llm
+RITP.D02.F0031;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);8,9;1.9.7;reemplaza_parrafo;P1;295-300;;;;aplicada;llm
+RITP.D02.F0032;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.10.1;reemplaza_parrafo;P7;308-310;;;;aplicada;llm
+RITP.D02.F0032;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.10.1;reemplaza_texto;P9;;la totalidad de las obras;las obras correspondientes;;aplicada;llm
+RITP.D02.F0033;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9;1.13.1;reemplaza_articulo;;322-333;;;;aplicada;llm
+RITP.D02.F0034;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);9,10;1.13.2;reemplaza_articulo;;336-356;;;;aplicada;llm
+RITP.D02.F0035;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.13.2.1;reemplaza_texto;;;1.13.2.1 Recepción de la Concesión en Caso de Extinción por Cumplimiento del Plazo;1.13.2.1 Recepción de la Concesión en Caso de Extinción por Obtención de los Ingresos Totales de la Concesión (ITC) o por Cumplimiento del Plazo Máximo;;pendiente: donde_dice «1.13.2.1 Recepción de la Concesión en Caso de Exti» no está en el texto vigente de 1.13.2.1;llm
+RITP.D02.F0035;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.13.2.1;reemplaza_texto;P2;;Al menos doce (12) meses antes de la extinción de la concesión por cumplimiento de plazo, calculado por el Inspector Fiscal,;Al menos doce (12) meses antes del plazo estimado de la extinción de la concesión, calculado por el Inspector Fiscal,;;aplicada;llm
+RITP.D02.F0036;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.13.3;agrega_parrafo;P15;372-374;;;;aplicada;llm
+RITP.D02.F0037;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.14.2.2;reemplaza_parrafo;P3;377-383;;;;aplicada;llm
+RITP.D02.F0038;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);10;1.14.2.3.3;reemplaza_parrafo;P1;386-395;;;;aplicada;llm
+RITP.D02.F0039;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11;1.14.6.1.1;reemplaza_texto;P22;;YPt j : Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número 5, letra g) de las presentes Bases.;YPt j : Corresponde al ingreso potencial por concepto de peaje, en UF, de la Sociedad Concesionaria en el mes j del año calendario t de la explotación de la concesión, calculado de acuerdo a lo solicitado en el artículo 1.8.2, número 5, letra h) de las presentes Bases.;;aplicada;llm
+RITP.D02.F0040;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11;1.14.6.1.2;reemplaza_texto;P2;;a) Se establece una Banda Superior de Ingresos, que depende del tramo de licitación dentro del cual el licitante o grupo licitante haya presentado su Oferta Económica, de acuerdo a la Tabla Nº 4.;a) La aplicación del presente Mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria dependerá del tramo de licitación dentro del cual el licitante o grupo licitante adjudicatario haya presentado su Oferta Económica, según lo que se indica a continuación: En caso que la concesión se adjudique en el Tramo A de licitación, de acuerdo a lo establecido en los artículos 3.1.1 y 3.2.1 de estas Bases, no regirá el presente mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria. En los demás casos, dicho mecanismo se aplicará de acuerdo a lo establecido en el presente artículo. Para tales efectos, se establece una Banda Superior de Ingresos, de acuerdo a la Tabla Nº 4.;;aplicada;llm
+RITP.D02.F0041;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11,12;1.15.2;reemplaza_parrafo;P1;430-442;;;;aplicada;llm
+RITP.D02.F0041;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);11,12;1.15.2;reemplaza_parrafo;P2,P3,P4,P5,P6,P7,P8,P9;448-476;;;;aplicada;llm
+RITP.D02.F0042;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);12;1.18;reemplaza_parrafo;P6;479-488;;;;aplicada;llm
+RITP.D02.F0043;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.2.1.6;reemplaza_parrafo;P3,P4,P5,P6,P7,P8;494-503;;;;aplicada;llm
+RITP.D02.F0044;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.3.2.2;reemplaza_parrafo;P12;506-509;;;;aplicada;llm
+RITP.D02.F0045;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.4;reemplaza_texto;P1;;señalado en el artículo 2.3.1 de éstas Bases, los que deberán ser aprobados por el Inspector Fiscal.;señalado en el artículo 2.3.1 de estas Bases, los que deberán ser aprobados por el Inspector Fiscal.;;aplicada;llm
+RITP.D02.F0046;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;2.11.9;reemplaza_parrafo;P2;520-522;;;;aplicada;llm
+RITP.D02.F0047;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);13;3.1.1;reemplaza_articulo;;524-529;;;;aplicada;llm
+RITP.D02.F0048;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.2.1;reemplaza_articulo;;533-543;;;;aplicada;llm
+RITP.D02.F0049;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.2.2;reemplaza_articulo;;545-556;;;;aplicada;llm
+RITP.D02.F0050;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14;3.2.3;reemplaza_articulo;;558-566;;;;aplicada;llm
+RITP.D02.F0051;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);14,15;3.3;reemplaza_parrafo;P1;569-572;;;;aplicada;llm
+RITP.D02.F0052;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15;3.3.1;reemplaza_articulo;;577-585;;;;aplicada;llm
+RITP.D02.F0053;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15;3.3.5;reemplaza_parrafo;P1;587-590;;;;aplicada;llm
+RITP.D02.F0053;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);15;3.3.5;reemplaza_articulo;;593-600;;;;aplicada;llm
+RITP.D02.F0055;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16;1.5.6;anexo;;601-632;;;;anexo;llm
+RITP.D02.F0056;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16;1.14.6.1;anexo;;;;;;anexo;llm
+RITP.D02.F0057;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16,17;1.14.7;reemplaza_parrafo;P3,P4,P5,P6,P7;616-619;;;;aplicada;llm
+RITP.D02.F0057;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16,17;3.2;reemplaza_parrafo;P1;620-621;;;;aplicada;llm
+RITP.D02.F0057;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16,17;3.2.1;reemplaza_parrafo;P2;622-624;;;;aplicada;llm
+RITP.D02.F0057;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16,17;3.2.1;agrega_parrafo;P3;625-629;;;;aplicada;llm
+RITP.D02.F0057;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16,17;3.1.1;reemplaza_parrafo;P1;616-617;;;;pendiente: las líneas del texto nuevo ya fueron usadas por otra operación;llm
+RITP.D02.F0057;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);16,17;;anexo;;;;;;anexo;llm
+RITP.D02.F0058;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);17;;anexo;;;;;;anexo;llm
+RITP.D02.F0066;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);17;1.5.5;aclara;;;De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento N°3 de las Bases de Licitación.;De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento N°3 de las Bases de Licitación.;;nota;llm
+RITP.D02.F0068;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18;1.14.6.1.1;aclara;;;;;;nota;llm
+RITP.D02.F0068;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18;1.14.6.1.2;aclara;;;;;;nota;llm
+RITP.D02.F0069;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18;1.15.2;aclara;;;;;;nota;llm
+RITP.D02.F0070;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18;1.8.4.2;aclara;;;;;;nota;llm
+RITP.D02.F0071;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18,19;1.3.2;elimina;[P1],[P2],[P3],[P4],[P5];;;;;pendiente: párrafo inexistente en 1.3.2: ['[P1]', '[P2]', '[P3]', '[P4]', '[P5]'];llm
+RITP.D02.F0071;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);18,19;3.1.3;elimina;;;;;;aplicada;llm
+RITP.D02.F0072;RITP.D02.A2;Circular aclaratoria N°2 (2001-11-09);19;;anexo;;;;;;anexo;llm
+RITP.D02.F0073;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21;1.4.6;anexo;;;;;;anexo;llm
+RITP.D02.F0075;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21;1.8.3;elimina_texto;P1;;"o) Cada vez que se compruebe el incumplimiento de las obligaciones señaladas en el artículo 1.7.3 de las presentes Bases de Licitación;";;;aplicada;llm
+RITP.D02.F0075;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21;1.8.3;reemplaza_texto;P1;;;o) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.;;pendiente: reemplaza_texto necesita donde_dice y debe_decir;llm
+RITP.D02.F0076;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21;1.13.3;reemplaza_parrafo;P10;775-784;;;;aplicada;llm
+RITP.D02.F0077;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);21,22;1.14.3;reemplaza_articulo;;786-835;;;;aplicada;llm
+RITP.D02.F0078;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);22;2.2.3.2;reemplaza_parrafo;P2;838-842;;;;aplicada;llm
+RITP.D02.F0079;RITP.D02.A3;Circular aclaratoria N°3 (2001-11-16);22,23;2.6.1.10;reemplaza_articulo;;845-852;;;;aplicada;llm
+RITP.D02.F0081;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;1.4.6;anexo;;;;;;anexo;llm
+RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;1.3;reemplaza_articulo;;893-894;;;;aplicada;llm
+RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;1.3.1;reemplaza_articulo;;895-910;;;;aplicada;llm
+RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;1.3.2;reemplaza_parrafo;P1;912-913;;;;aplicada;llm
+RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;1.3.2;agrega_parrafo;P2;914-917;;;;aplicada;llm
+RITP.D02.F0083;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);25;;agrega_articulo;;918-930;;;1.3.3;aplicada;llm
+RITP.D02.F0085;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);26;1.3.2;reemplaza_articulo;;931-960;;;;aplicada;llm
+RITP.D02.F0087;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);27;1.4.4;reemplaza_texto;P3;;2. Anteproyecto de Ingeniería “Prolongación Avenida Alessandri”. | CITRA Consultores | I;"2. Anteproyecto de Ingeniería ""Ampliación Jorge Alessandri, Sector Aeropuerto - Ruta Interportuaria, VIII Región"", Noviembre de 2001. | Cipres Ingeniería Ltda. | 1";;aplicada;llm
+RITP.D02.F0087;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);27;1.4.4;reemplaza_parrafo;P4;965-968;;;;aplicada;llm
+RITP.D02.F0088;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);27;1.4.5;reemplaza_parrafo;P3;971-975;;;;aplicada;llm
+RITP.D02.F0089;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28;1.5.5;reemplaza_texto;P40;;El licitante o grupo licitante deberá presentar en su Oferta Técnica un Plan de Mantención para la etapa de Construcción y el régimen de Explotación, donde conste lo siguiente:;El licitante o grupo licitante deberá presentar en su Oferta Técnica, sólo para las obras correspondientes al eje Ruta Interportuaria Talcahuano-Penco, un Plan de Mantención para la etapa de Construcción y el régimen de Explotación, donde conste lo siguiente:;;aplicada;llm
+RITP.D02.F0089;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28;1.5.5;reemplaza_texto;P45;;El licitante o grupo licitante deberá entregar en su Oferta Técnica una Monografía sobre los Sistemas de Cobro propuestos, donde se haga constar la localización de todos los puntos de cobro, ...;"Sólo para los efectos del presente documento, el licitante o grupo licitante deberá entregar en su Oferta una Monografía sobre los Sistemas de Cobro propuestos, tanto para el caso ""Sólo Ruta Interportuaria"" como para el caso ""Ruta Interportuaria más Av. Alessandri"", independiente del tramo donde se ubique su Oferta Económica según lo establecido en el artículo 3.2 de las presentes Bases, donde se haga constar la localización de todos los puntos de cobro, ...";;pendiente: donde_dice «El licitante o grupo licitante deberá entregar en » no está en el texto vigente de 1.5.5;llm
+RITP.D02.F0089;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28;1.5.5;elimina;P45;;;;;aplicada;llm
+RITP.D02.F0089;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);28;1.5.5;reemplaza_texto;P45;;El licitante o grupo licitante deberá entregar un Cronograma de Inversión tipo Carta Gantt, conforme al Formulario N°7 incluido en el Anexo N°2, que explicite la oportunidad de ejecución de la totalidad de las obras definidas en estas Bases, según corresponda. Para dar...;El licitante o grupo licitante deberá entregar un Cronograma de Inversión tipo Carta Gantt, conforme al Formulario N°6 incluido en el Anexo N°2, que explicite la oportunidad de ejecución de la totalidad de las obras definidas en el artículo 1.3.1 de las presentes Bases. Para dar ...;;pendiente: donde_dice «El licitante o grupo licitante deberá entregar un » no está en el texto vigente de 1.5.5;llm
+RITP.D02.F0090;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.1;reemplaza_texto;P2;;dentro del plazo de treinta días contados desde la solicitud de Puesta en Servicio Provisoria;dentro del plazo de treinta días contados desde la primera solicitud de Puesta en Servicio Provisoria;;aplicada;llm
+RITP.D02.F0091;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.4.2;reemplaza_parrafo;P4;1024-1024;;;;aplicada;llm
+RITP.D02.F0092;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.5;elimina;P3;;;;;aplicada;llm
+RITP.D02.F0093;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.5.1;reemplaza_texto;P22;;1.8.17.1 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día |;1.8.17 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día |;;aplicada;llm
+RITP.D02.F0093;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.5.1;agrega_parrafo;;1035-1040;;;;aplicada;llm
+RITP.D02.F0093;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.9;reemplaza_parrafo;P1;1042-1065;;;;aplicada;llm
+RITP.D02.F0094;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.17.1;reemplaza_articulo;;1080-1092;;;;aplicada;llm
+RITP.D02.F0095;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);29;1.8.17;reemplaza_articulo;;1093-1110;;;;aplicada;llm
+RITP.D02.F0097;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);30,31;1.8.9;reemplaza_parrafo;P1;1041-1041;;;;aplicada;llm
+RITP.D02.F0097;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);30,31;1.8.11;reemplaza_texto;P1;;que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión.;que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión y en los lugares donde la Sociedad Concesionaria se encuentre ejecutando obras.;;aplicada;llm
+RITP.D02.F0097;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);30,31;1.8.17;reemplaza_articulo;;1077-1113;;;;aplicada;llm
+RITP.D02.F0097;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);30,31;1.8.17.2;reemplaza_articulo;;1114-1126;;;;aplicada;llm
+RITP.D02.F0098;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);31;1.8.11;reemplaza_texto;P1;;que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión.;que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión y en los lugares donde la Sociedad Concesionaria se encuentre ejecutando obras.;;aplicada;llm
+RITP.D02.F0100;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32;1.8.17.2;reemplaza_articulo;;1127-1132;;;;aplicada;llm
+RITP.D02.F0101;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32;1.9.1.1;agrega_parrafo;P2;1135-1142;;;;aplicada;llm
+RITP.D02.F0102;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32;1.9.5;reemplaza_parrafo;P1;1145-1152;;;;aplicada;llm
+RITP.D02.F0103;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);32,33;1.10.5;reemplaza_parrafo;P1;1155-1162;;;;aplicada;llm
+RITP.D02.F0104;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);33,34;1.10.10.2;reemplaza_articulo;;1165-1228;;;;aplicada;llm
+RITP.D02.F0106;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);34;1.15.2;agrega_parrafo;P1;1231-1236;;;;aplicada;llm
+RITP.D02.F0107;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);34;1.16;reemplaza_parrafo;P4;1239-1242;;;;aplicada;llm
+RITP.D02.F0108;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);34;1.16.1.1;reemplaza_texto;P5;;D : Corresponde a la longitud de la vía concesionada (en km) para el caso del sistema de cobro por Derecho de Paso, o bien a la longitud recorrida (en km) dentro de la vía concesionada para el caso del sistema de cobro por Uso efectivo.;"D : Para el caso del sistema de cobro por Uso Efectivo, corresponderá a la distancia recorrida, en km, entre los puntos de control de acceso (entrada y salida) a la(s) vía(s) concesionada(s). Para el caso del sistema de cobro por Derecho de Paso, corresponderá a las siguientes longitudes según par Origen-Destino:
+Sistema de Cobro por Derecho de Paso
+Par Origen-Destino | Longitud (km)
+• Talcahuano-Penco o viceversa. • Talcahuano-Concepción o viceversa. | 10,9
+• Penco-Concepción o viceversa. | 7,5";;aplicada;llm
+RITP.D02.F0109;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;1.17.1;reemplaza_parrafo;P1;1263-1268;;;;aplicada;llm
+RITP.D02.F0110;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;2.1;reemplaza_parrafo;P12,P13;1269-1282;;;;aplicada;llm
+RITP.D02.F0111;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;2.2.1.1;agrega_parrafo;;1284-1290;;;;aplicada;llm
+RITP.D02.F0112;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35;2.2.1.2;reemplaza_parrafo;P2;1293-1300;;;;aplicada;llm
+RITP.D02.F0113;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);35,36;2.2.1.4;reemplaza_articulo;;1303-1320;;;;aplicada;llm
+RITP.D02.F0114;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36;2.2.1.5;reemplaza_parrafo;P2;1323-1325;;;;aplicada;llm
+RITP.D02.F0115;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36;2.2.2.2;reemplaza_articulo;;1328-1340;;;;aplicada;llm
+RITP.D02.F0116;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);36,37;2.2.2.5;reemplaza_articulo;;1342-1368;;;;aplicada;llm
+RITP.D02.F0118;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);37;2.2.4;reemplaza_parrafo;P1;1378-1389;;;;aplicada;llm
+RITP.D02.F0120;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);37;2.3.2.2;reemplaza_parrafo;P3;1402-1410;;;;aplicada;llm
+RITP.D02.F0121;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38;2.3.2.4;reemplaza_parrafo;P5;1414-1417;;;;aplicada;llm
+RITP.D02.F0121;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38;;agrega_articulo;;1419-1447;;;2.3.2.17;aplicada;llm
+RITP.D02.F0123;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38;2.6.1.6;reemplaza_parrafo;P1;1451-1458;;;;aplicada;llm
+RITP.D02.F0124;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);38,39;2.10.7.1;reemplaza_parrafo;P6,P7;1461-1478;;;;aplicada;llm
+RITP.D02.F0125;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);39;A2;reemplaza_parrafo;P3,P4;1481-1512;;;;aplicada;llm
+RITP.D02.F0127;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40;1.3.1;aclara;;;;;;nota;llm
+RITP.D02.F0129;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40;2.10.7.1;aclara;;;;;;nota;llm
+RITP.D02.F0130;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40;2.3.2.3;aclara;;;;;;nota;llm
+RITP.D02.F0133;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);40,41;1.5.5;aclara;;;;;;nota;llm
+RITP.D02.F0134;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41;1.16;aclara;P4;;;;;nota;llm
+RITP.D02.F0135;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41;1.15.1;aclara;;;;;;nota;llm
+RITP.D02.F0135;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41;1.15.4;aclara;;;;;;nota;llm
+RITP.D02.F0136;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41;1.16.1.1;aclara;;;;;;nota;llm
+RITP.D02.F0137;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41;1.3.1;aclara;;;;;;nota;llm
+RITP.D02.F0138;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);41,42;;anexo;;;;;;anexo;llm
+RITP.D02.F0145;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);42;1.3;reemplaza_parrafo;P1;1637-1640;;;;aplicada;llm
+RITP.D02.F0146;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);42,43;1.8.4.2;aclara;P4;;;;;nota;llm
+RITP.D02.F0148;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43;1.3.1;aclara;;;;;;nota;llm
+RITP.D02.F0148;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43;2.2.1.5;aclara;;;;;;nota;llm
+RITP.D02.F0148;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43;1.9.1.1;aclara;;;;;;nota;llm
+RITP.D02.F0148;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43;1.14.2.2;aclara;;;;;;nota;llm
+RITP.D02.F0149;RITP.D02.A4;Circular aclaratoria N°4 (2001-11-22);43;2.9.1.1;aclara;;;;;;nota;llm

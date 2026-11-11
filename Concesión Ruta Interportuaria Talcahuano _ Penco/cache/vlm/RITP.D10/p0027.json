@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 27,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 366,
+ "segundos": 7.1,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 225,
+  "conf_media": 0.93,
+  "frac_baja": 0.053,
+  "frac_rara": 0.04,
+  "tinta": 0.0409
+ },
+ "n_palabras_vlm": 217,
+ "frac_rara_vlm": 0.04,
+ "similitud": 0.962,
+ "truncado": false,
+ "texto_ocr": "demás instrumentos que conforman el Contrato de Concesión.\n\nOCTAVO: El presente Convenio Complementario se aprobará mediante Decreto\nSupremo, de conformidad con lo dispuesto por el artículo 20 del D.S. MOP N* 900\nde 1.996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP NY\n164 de 1.991. El presente Convenio Complementario tendrá plena validez y vigencia\ndesde la publicación en el Diario Oficial del decreto supremo que lo aprueba.\n\nNOVENO : Las personerías de don Paulo Bezanilla Saavedra y de don Ignacio\nSwett Lazcano para actuar en nombre y representación de la \"Sociedad\nConcesionaria Autopista Interportuaria S.A.”, precedentemente individualizada,\nconsta del Acta de Sesión de Directorio N*8, reducida a escritura pública con fecha\n28 de enero de 2003, en la Notaría de Santiago de doña Antonieta Mendoza\nEscalas.\n\nDECIMO : El presente convenio se firma en cinco ejemplares, quedando dos de\nellos en poder de la Sociedad Concesionaria, dos en el Ministerio de Obras Públicas\ny el quinto deberá ser protocolizado ante Notario por la Sociedad Concesionaria\nconjuntamente con la transcripción del decreto supremo que apruebe el presente\nconvenio, conforme al artículo 9 del D.S. MOP N* 900 de 1996.\n\n— GERMÁN MILLÁN PEREZ. PAU JCO BEZÁNILLA SAAVEDRA\nDirector General de Obras Públicas Sociedad Concesionaria Autopista Interportuaria\n\nS.A.\n\n07\nA\n\nA\n\nIGNACIO SWETT LAZCANO ñ\nSociedad Concesionaria Autopista Interportuaria =\n/\n\nS.A.\n\n24",
+ "texto_vlm": "demás instrumentos que conforman el Contrato de Concesión.\n\nOCTAVO: El presente Convenio Complementario se aprobará mediante Decreto Supremo, de conformidad con lo dispuesto por el artículo 20 del D.S. MOP Nº 900 de 1.996, que fija el Texto Refundido, Coordinado y Sistematizado del DFL MOP Nº 164 de 1.991. El presente Convenio Complementario tendrá plena validez y vigencia desde la publicación en el Diario Oficial del decreto supremo que lo aprueba.\n\nNOVENO : Las personerías de don Paulo Bezanilla Saavedra y de don Ignacio Swett Lazcano para actuar en nombre y representación de la \"Sociedad Concesionaria Autopista Interportuaria S.A.\", precedentemente individualizada, consta del Acta de Sesión de Directorio N°8, reducida a escritura pública con fecha 28 de enero de 2003, en la Notaría de Santiago de doña Antonieta Mendoza Escalas.\n\nDECIMO : El presente convenio se firma en cinco ejemplares, quedando dos de ellos en poder de la Sociedad Concesionaria, dos en el Ministerio de Obras Públicas y el quinto deberá ser protocolizado ante Notario por la Sociedad Concesionaria conjuntamente con la transcripción del decreto supremo que apruebe el presente convenio, conforme al artículo 9 del D.S. MOP Nº 900 de 1996.\n\nGERMÁN MILLÁN PEREZ\nDirector General de Obras Públicas\n\nPAULO BEZANILLA SAAVEDRA\nSociedad Concesionaria Autopista Interportuaria\nS.A.\n\nIGNACIO SWETT LAZCANO\nSociedad Concesionaria Autopista Interportuaria\nS.A.\n\n24"
+}

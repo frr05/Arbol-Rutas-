@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.00066,
+ "usage": {
+  "completion_tokens": 1199,
+  "prompt_tokens": 4199,
+  "total_tokens": 5398,
+  "completion_tokens_details": {
+   "reasoning_tokens": 615
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.1,
+ "truncado": false,
+ "texto": "prevalecería en el mercado para obras de este tipo.\n\n2.12 Los Gastos de Financiamiento en que deberá incurrir la Sociedad Concesionaria, tales como comisiones bancarias, costos legales y otros asociados, se ha acordado, a suma alzada, en la cifra de UF 8.000 (Ocho Mil Unidades de Fomento), las que serán consideradas como parte de las inversiones que debe realizar la Sociedad Concesionaria.\n\nEl Director General de Obras Públicas certifica que el valor acordado ha sido adecuadamente determinado, y corresponde a aquél que normalmente prevalecería en el mercado para obras de este tipo.\n\n2.13 En el caso eventual que la Sociedad Concesionaria obtenga financiamiento en virtud de las Resoluciones del numeral 4.1 de este Convenio y pague impuesto de timbres y estampillas por dicha operación, se considerará un costo equivalente a un 1,608% del importe nominal del financiamiento obtenido. El valor nominal del total de pagos por impuesto de timbres y estampillas que se contabilicen no podrá superar al 1,608% de U.F. 289.798, cifra que corresponde al total de las inversiones consignado en el numeral 2.15. En caso que la tasa correspondiente al impuesto de Timbres y Estampillas sufra variaciones, el anterior porcentaje y el tope establecido se modificará de manera que se reembolse a la Sociedad Concesionaria los montos reales incurridos por dicho concepto, pero siempre sobre un monto máximo de U.F. 289.798.\n\nNo se contabilizará ni compensará ningún otro gasto, costo o comisión por concepto de financiamiento, adicionales a las indicadas en el presente numeral y en el numeral 2.12 anterior. En caso de producirse otros costos, ésos deberán ser asumidos por la Sociedad Concesionaria.\n\n2.14 Producto de las obras adicionales que se contratan mediante el presente Convenio Complementario, hay un conjunto de obras establecidas en la Oferta Técnica, que no se ejecutarán y que se identifican en el Anexo Nº1, Ítem g), Disminución de Obras. El valor total, acordado a suma alzada, por las disminuciones de obra corresponde a la suma de UF 26.973 (Veintiséis Mil Novecientas Setenta y Tres Unidades de Fomento).\n\nEl Director General de Obras Públicas certifica que el valor acordado ha sido adecuadamente determinado, y corresponde a aquél que normalmente prevalecería en el mercado para obras de este tipo.\n\n2.15 De este modo, el valor estimado de estas modificaciones de obras, nuevas inversiones y demás costos asociados a las obligaciones que establece la presente cláusula, equivale a la suma única, total y definitiva de UF 289.798\n\n11"
+}

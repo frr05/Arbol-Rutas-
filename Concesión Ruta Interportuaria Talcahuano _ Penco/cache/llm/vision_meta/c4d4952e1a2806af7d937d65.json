@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000613,
+ "usage": {
+  "completion_tokens": 968,
+  "prompt_tokens": 4195,
+  "total_tokens": 5163,
+  "completion_tokens_details": {
+   "reasoning_tokens": 85
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.9.12 Responsabilidad de la Sociedad Concesionaria frente a la Subcontratación\n\nLa Sociedad Concesionaria podrá subcontratar el proyecto de ingeniería y/o el total o parte de la construcción de\nlas obras, la conservación y otros servicios necesarios, siempre que cumpla con lo estipulado en las presentes\nBases.\n\nSin embargo, la Sociedad Concesionaria será la única responsable ante el MOP por el cumplimiento del\nContrato de Concesión.\n\nLas eventuales empresas contratistas o subcontratistas del proyecto o construcción, deberán estar inscritas en el\nRegistro de Consultores o de Contratistas del MOP, según sea el caso, en la categoría y especialidad que\ncorresponda al tipo de obras a ejecutar. El MOP podrá calificar a estas empresas aplicando lo dispuesto en el\nTítulo X del Decreto MOP N°48 de 1994 a las empresas proyectistas y el Título X del Decreto MOP N°15 de\n1992 a las empresas constructoras. El incumplimiento de estos requisitos por parte de las empresas\nsubcontratistas de la Sociedad Concesionaria, hará incurrir a esta última en las multas establecidas en el artículo\n1.8.5.1 de la presentes Bases.\n\nEn casos fundados y previo informe del DGOP, el Inspector Fiscal podrá autorizar la subcontratación de\nempresas inscritas en una categoría inferior.\n\n1.9.13 Despeje y Limpieza Final de la Faja\n\nAntes de la autorización de Puesta en Servicio Provisoria de la obra, la Sociedad Concesionaria deberá despejar\ny retirar del sitio de la obra, materiales excedentes, escombros y basura de cualquier especie, cuyo tratamiento y\ndestino final deberá cumplir con lo establecido en el artículo 2.10.12.1 de las Bases Técnicas.\n\nEl incumplimiento de estas obligaciones, hará incurrir a la Sociedad Concesionaria en las multas establecidas en\nel artículo 1.8.5.1 de las presentes Bases.\n\nEl MOP podrá no autorizar la Puesta en Servicio Provisoria de las obras que corresponda mientras no se dé\ncumplimiento a esta obligación.\n\n1.9.14 Sustitución de Obras y Obras Menores\n\nDurante la etapa de construcción, el MOP, a propuesta del Director General de Obras Públicas o de la Sociedad\nConcesionaria, podrá sustituir obras, o realizar obras adicionales, siempre que no impliquen modificación en las\ncondiciones económicas del contrato. Para ello utilizará uno de los siguientes procedimientos:\n\na) Sustituir obras incluidas dentro del contrato por otras distintas que tengan valores equivalentes, las\ncuales deberán estar valoradas a los Precios Unitarios Oficiales, según el Anexo N°3. El porcentaje del\nPresupuesto Oficial Estimado de la Obra que podrá ser compensado por este procedimiento, no podrá\nser superior al 5% de dicho presupuesto.\n\nb) Realización de otras obras adicionales del tipo pasarelas peatonales, atraviesos de ganados, obras de\nregadío y/o drenajes, paraderos de buses, obras de seguridad o cualquier otro tipo de obras en beneficio\nde los usuarios o de la comunidad por un valor determinado con los Precios Unitarios Oficiales, según\nel Anexo N°3. En todo caso, dichas obras no podrán afectar al cobro de peajes por parte de la Sociedad\nConcesionaria. El monto de dichas obras, las cuales deberán estar valoradas a los Precios Unitarios\nOficiales, no podrá superar las UF 7.000 (siete mil Unidades de Fomento), y será pagado directamente\npor el MOP a la Sociedad Concesionaria una vez comprobada la correcta ejecución de las mismas.\n\nPara los efectos del presente artículo, no se considerarán obras nuevas o adicionales las correcciones,\nreparaciones u observaciones que formule el Inspector Fiscal para solucionar deficiencias del proyecto en\nejecución, según las presentes Bases de Licitación.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 65"
+}

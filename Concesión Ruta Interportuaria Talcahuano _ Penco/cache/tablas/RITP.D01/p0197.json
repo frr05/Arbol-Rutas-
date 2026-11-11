@@ -1,20 +1,20 @@
 {
  "documento": "RITP.D01",
  "pagina": 197,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:04",
+ "fecha": "2026-11-11 12:02",
  "tablas": [
   {
-   "titulo": "Tabla N° 3: SERVICIOS ESPECIALES OBLIGATORIOS",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "DESCRIPCION",
-    "Mes 1",
-    "Mes 2",
-    "Mes ..",
-    "Mes ..",
-    "Total"
+    "VALORES (UF) / Mes 1",
+    "VALORES (UF) / Mes 2",
+    "VALORES (UF) / Mes ..",
+    "VALORES (UF) / Mes ..",
+    "VALORES (UF) / Total"
    ],
    "filas": [
     [
@@ -45,7 +45,7 @@
      ""
     ],
     [
-     "",
+     "SUBTOTAL B (UF)",
      "SUBTOTAL B (UF)",
      "",
      "",
@@ -57,15 +57,15 @@
    "notas": null
   },
   {
-   "titulo": "Tabla N° 4: COSTOS GENERALES",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "DESCRIPCION",
-    "Mes 1",
-    "Mes 2",
-    "Mes ..",
-    "Mes..",
-    "Total"
+    "VALORES (UF) / Mes 1",
+    "VALORES (UF) / Mes 2",
+    "VALORES (UF) / Mes ..",
+    "VALORES (UF) / Mes..",
+    "VALORES (UF) / Total"
    ],
    "filas": [
     [
@@ -204,7 +204,7 @@
      ""
     ],
     [
-     "",
+     "SUBTOTAL C (UF)",
      "SUBTOTAL C (UF)",
      "",
      "",
@@ -222,12 +222,14 @@
     "",
     "",
     "",
+    "",
     ""
    ],
    "filas": [
     [
-     "",
      "TOTAL A + B + C (UF)",
+     "TOTAL A + B + C (UF)",
+     "",
      "",
      "",
      ""

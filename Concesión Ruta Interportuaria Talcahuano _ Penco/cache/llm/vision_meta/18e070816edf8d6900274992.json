@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000607,
+ "usage": {
+  "completion_tokens": 963,
+  "prompt_tokens": 4142,
+  "total_tokens": 5105,
+  "completion_tokens_details": {
+   "reasoning_tokens": 483
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.9,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n(6) Si es el último en salir, cerrar las puertas, pero dejarlas sin llave con el fin\nde permitirle acceso al personal de los servicios de emergencia.\n\nJuntarse en un Lugar de Reunión\n\nJuntarse en un lugar determinado previamente en los Mapas de Evacuación de\nEmergencia exhibidos en lugares claramente visibles y presentarse al\nAdministrador o al supervisor/designado.\n\nSupervisores Efectuar Recuento de Personas\n\n(1) Notificar al Administrador de algún empleado faltante.\n(2) Esperar nuevas instrucciones del Jefe de Plaza.\n(3) JAMÁS entrar a la zona evacuada hasta que el personal de emergencia\ndebidamente entrenado dé el visto bueno.\n\nEvacuación de cabinas de peajes\n\n(1) De ser posible, sin arriesgar la seguridad, los empleados que se\nencuentren en la cabina de peaje deben colocar y asegurar el dinero en el\ncajón.\n(2) Cerrar las puertas, pero dejarlas sin llave con el fin de permitirle acceso al\npersonal de los servicios de emergencia.\n(3) Si se encuentra ubicado en una caja equipada con un teléfono celular,\nllevarse consigo el teléfono celular.\n(4) Al salir de la cabina, asegurarse de advertir el tráfico moviéndose por las\npistas.\n(5) Muévase a un lugar seguro como la berma del camino u otra zona fuera\nde peligro.\n(6) Notificar de inmediato al supervisor y/o al operador del sistema.\n(7) Supervisor u operador de sistema: contactar al Administrador.\n(8) Además, siga este procedimiento en el evento que un vehículo se\nincendie en la pista.\n(9) Use los extintores de incendio en las cabinas cuando sea necesario, sólo\nsi ha sido entrenado y cuando el hacerlo no le cause lesiones a usted ni a\notros.\n\n5.6 Emergencias con peligro de muerte\n\nUtilice este procedimiento cuando se requiera una acción inmediata para salvarle\nla vida a una víctima. Ejemplos: Un aparente infarto al corazón, sin respiración,\ninconsciente, trauma severo.\n\n17"
+}

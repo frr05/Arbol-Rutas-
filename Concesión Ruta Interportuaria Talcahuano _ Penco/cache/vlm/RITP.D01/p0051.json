@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 51,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 595,
+ "segundos": 9.1,
+ "fecha": "2026-11-11 11:48",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 309,
+  "conf_media": 0.931,
+  "frac_baja": 0.016,
+  "frac_rara": 0.005,
+  "tinta": 0.0456
+ },
+ "n_palabras_vlm": 372,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.7,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nArtículo\nBases de\n\nLicitación\n\n1.8.9 a)\n\n1.8.11\n\n11,8,.12\n\n1.8.14\n\n1.8.14\n1.8.14\n\n1.8.17.1\n\n1.9.1.2\n\nÑ -\n100\n\n100\n\nTipo de Infracción\n\nAtraso en la entrega al MOP de la\nsolicitud y propuesta de pagos del\ntercero interesado.\n\nAtraso en el pago por concepto de\ndiferencias en la cuantía de la póliza\nde responsabilidad civil.\n\nNo denuncia y tramitación oportuna\nante la compañía de seguros ante\neventuales siniestros.\n\nIncumplimiento de cualquiera de las\nobligaciones señaladas en el artículo\n1.8.12,\n\nIncumplimiento de la Ley N*19.300\n\nsobre Bases Generales del Medio\nAmbiente, en cuanto al ingreso al\nSEIA de obras y/o actividades\ncomplementarias\nproyecto.\n\nasociadas al\n\nIncumplimiento de las medidas\nestablecidas por la COREMA VII\nexigidas en la\n\nRegión,\ncorrespondiente Resolución de la\n\nCalificación Ambiental.\n\nNegligencias, omisiones, deficiencias\nu otras circunstancias atribuibles a la\nSociedad Concesionaria, que\nobstaculicen o retarden la aprobación\ndel Estudio de Impacto Ambiental.\n\nIncumplimiento de las instrucciones\nimpartidas por el Inspector Fiscal\nacerca de la mantención y\n\nconservación de la infraestructura\n\nexistente en las fechas señaladas y de\nacuerdo a los estándares para la\nConcesión.\n\nNo entrega de la maqueta de la\ntotalidad de la obra en concesión\ndentro del plazo estipulado.\n\nNo entrega de los respaldos en\n\nmedios ópticos, en los plazos\n\nestablecidos.\n\nIncumplimiento por subcontratación\nde contratistas no inscritos o cuya\ninscripción no se encuentre vigente\nen los registros del MOP.\n\nCriterio de\nAplicación\n\nCada día\n\nCada día\n\nCada vez\n\nCada día\n\nCada día\n\nCada vez\n\nCada vez\n\nCada día\n\nPor cada día\nde atraso\n\nPor cada día\nde atraso\n\nCada vez\n\nOtros\n\nSin perjuicio de la\n\nextinción de la Concesión\n\npor incumplimiento grave\nsegún el artículo 1.13.3\nletra h) de las presentes\nBases.\n\nSin perjuicio de la\nresponsabilidad del Conce-\nsionario por la correcta\n\nejecución de las obras.\n\n'STERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nArtículo Bases de Licitación | Monto Multa (UTM) | Tipo de Infracción | Criterio de Aplicación | Otros\n1.8.9 a) | 20 | Atraso en la entrega al MOP de la solicitud y propuesta de pagos del tercero interesado. | Cada día | \n1.8.11 | 450 | Atraso en el pago por concepto de diferencias en la cuantía de la póliza de responsabilidad civil. | Cada día | \n1.8.11 | 450 | No denuncia y tramitación oportuna ante la compañía de seguros ante eventuales siniestros. | Cada vez | \n1.8.12 | 100 | Incumplimiento de cualquiera de las obligaciones señaladas en el artículo 1.8.12. | Cada día | \n1.8.14 | 400 | Incumplimiento de la Ley Nº19.300 sobre Bases Generales del Medio Ambiente, en cuanto al ingreso al SEIA de obras y/o actividades complementarias asociadas al proyecto. | Cada día | \n1.8.14 | 200 | Incumplimiento de las medidas establecidas por la COREMA VIII Región, exigidas en la correspondiente Resolución de la Calificación Ambiental. | Cada vez | Sin perjuicio de la extinción de la Concesión por incumplimiento grave según el artículo 1.13.3 letra h) de las presentes Bases.\n1.8.14 | 150 | Negligencias, omisiones, deficiencias u otras circunstancias atribuibles a la Sociedad Concesionaria, que obstaculicen o retarden la aprobación del Estudio de Impacto Ambiental. | Cada vez | \n1.8.17.1 | 100 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal acerca de la mantención y conservación de la infraestructura existente en las fechas señaladas y de acuerdo a los estándares para la Concesión. | Cada día | \n1.9.1.2 | 15 | No entrega de la maqueta de la totalidad de la obra en concesión dentro del plazo estipulado. | Por cada día de atraso | \n1.9.7, 2.3.2.13 | 20 | No entrega de los respaldos en medios ópticos, en los plazos establecidos. | Por cada día de atraso | \n1.9.12, 1.10.9 | 2.000 | Incumplimiento por subcontratación de contratistas no inscritos o cuya inscripción no se encuentre vigente en los registros del MOP. | Cada vez | Sin perjuicio de la responsabilidad del Concesionario por la correcta ejecución de las obras.\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 37"
+}

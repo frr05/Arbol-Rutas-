@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000683,
+ "usage": {
+  "completion_tokens": 1318,
+  "prompt_tokens": 4196,
+  "total_tokens": 5514,
+  "completion_tokens_details": {
+   "reasoning_tokens": 674
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.9,
+ "truncado": false,
+ "texto": "Que mediante Acta de fecha 21 de diciembre de 2005, la Comisión de Autorización de Puesta\nen Servicio Definitiva de la obra pública fiscal denominada \"Ruta Interportuaria Talcahuano --\nPenco por Isla Rocuant\", en virtud de lo observado en terreno, y de acuerdo a lo informado por\nel Inspector Fiscal mediante Memorando IF-EXPL N° 59/05 de fecha 14 de diciembre de\n2005, consideró que de acuerdo a lo observado en terreno, el camino se encuentra construido\nde acuerdo a las especificaciones, en condiciones de serviciabilidad adecuadas y no se detectan\nobservaciones que afecten la buena operación de la vía. Por tanto estimó procedente\nrecomendar al Sr. Director General de Obras Públicas, la Puesta en Servicio Definitiva de la\nobra pública fiscal denominada \"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\".\n\nQue mediante Memorando IF INT EXPL N° 59/05 de fecha 14 de diciembre de 2005, el\nInspector Fiscal comunica que la Sociedad Concesionaria ha cumplido con los requisitos tanto\ntécnicos como administrativos, necesarios para la inspección de la obra.\n\nLo dispuesto en el numeral 1.10.3 de las Bases de Licitación de la obra pública fiscal\ndenominada \"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\", que dice relación\ncon la Puesta en Servicio Definitiva.\n\nRESUELVO:\n\nTRAMITADA\n26. DIC. 2005\nOFICINA DE PARTES\nDIREC. GRAL. DE OBRAS PUBLICAS\n\nD. G.O.P. N° 4067 / (Exento)\n\n1. AUTORÍZASE la Puesta en Servicio Definitiva de la obra pública fiscal\ndenominada \"Ruta Interportuaria Talcahuano -- Penco por Isla Rocuant\", a contar\nde las 00:00 hrs. del día siguiente a la fecha de la presente resolución.\n\n2. DÉJASE CONSTANCIA que el monto total de la inversión realizada por la\nConcesionaria en el contrato de concesión \"Ruta Interportuaria Talcahuano --\nPenco por Isla Rocuant\" corresponde a UF. 637.202,05 del contrato original y a UF\n279.652,97 del convenio complementario N° 1, lo cual corresponde a un total de\nU.F. 916.588,05, realizada durante el periodo comprendido entre Agosto de 2002 a\nAgosto de 2005.\n\n3. COMUNÍQUESE la presente Resolución a la Sociedad Concesionaria, a la\nCoordinación General de Concesiones, a la Coordinación de Administración de\nContratos de Concesión, a la Dirección de Vialidad, a la Fiscalía MOP, al Inspector\nFiscal de la obra y los demás servicios que correspondan.\n\nANÓTESE Y COMUNÍQUESE\n\nCARLOS RUBILAR OTTONE\nDirector General de Obras Públicas"
+}

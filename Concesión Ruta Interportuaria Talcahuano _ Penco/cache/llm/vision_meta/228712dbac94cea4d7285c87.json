@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:57",
+ "costo": 0.000689,
+ "usage": {
+  "completion_tokens": 1344,
+  "prompt_tokens": 4199,
+  "total_tokens": 5543,
+  "completion_tokens_details": {
+   "reasoning_tokens": 660
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.1,
+ "truncado": false,
+ "texto": "16195\n-2 DIC 2004\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nNOTARIO PUBLICO\nMorande 261\nSantiago\nJUAN RICARDO SAN MARTIN URBEJOLA\nMINISTERIO DE HACIENDA\nOFICINA DE PARTES\n24 NOV 2004\nRECIBIDO\nRef.: Modifica, por razones de urgencia,\nlas obras y servicios que indica,\ncorrespondientes a la concesiones\ndenominadas \"Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción\" y \"Ruta\nInterportuaria Talcahuano-Penco\npor Isla Rocuant.\nCONTRALORIA GENERAL\nTOMA DE RAZON\n2965.-\nRECEPCION\nSANTIAGO, 16 NOV 2004\nVISTOS: - El DFL MOP N° 850 de 1997, que\nfijó el texto refundido, coordinado\ny sistematizado de la Ley N°\n15.840, de 1964, Orgánica del\nMinisterio de Obras Públicas y del\nDFL N° 206, de 1960, Ley de\nCaminos.\nDEPART. JURIDICO |  | \nDEP. T. R. Y REGISTRO |  | \nDEPART. CONTABIL. |  | \nSUB. DEP. C. CENTRAL |  | \nSUB. DEP. E. CUENTAS |  | \nSUB. DEP. C. P. Y BIENES NAC. |  | \nDEPART. AUDITORIA |  | \nDEPART. V. O. P., U y T. |  | \nSUB. DEP. MUNICIP. |  | \n|  | \n|  | \n- El D.S. MOP N° 900 de 1996, que\nfijó el texto refundido, coordinado\ny sistematizado del DFL MOP N°\n164 de 1991, Ley de Concesiones\nde Obras Públicas.\n- El DS MOP N° 956, de 1997,\nReglamento de la Ley de\nConcesiones de Obras Públicas, en\nespecial el artículo 69°.\nREFRENDACION\n- Las bases de licitación del contrato\nde concesión \"Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción\".\nREF. POR IMPUTAC. $ |\nANOT. POR IMPUTAC. $ |\nDEDUC. DTO |\n- Las bases de licitación del contrato\nde concesión \"Ruta Interportuaria\nTalcahuano-Penco por Isla\nRocuant\".\n|  | \n- El D.S. MOP N° 12, de fecha 20 de\nenero de 1999, que adjudicó el\ncontrato de concesión para la\nejecución, conservación y\nexplotación de la obra pública\nfiscal denominada \"Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción\".\nPROCESO OF. DE PARTES DGOP N° 14544.\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL\nDEPTO. DE CONCESIONES"
+}

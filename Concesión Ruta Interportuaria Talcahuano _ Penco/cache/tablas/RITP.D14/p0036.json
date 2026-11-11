@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D14",
  "pagina": 36,
- "modelo": "google/gemini-2.5-flash-lite",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:52",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
    "titulo": null,
@@ -18,15 +18,15 @@
     ],
     [
      "Incendio",
-     "Ver artículo 5.9"
+     "Ver articulo 5.9"
     ],
     [
      "Derrame de sustancias",
-     "Ver artículo 7.14"
+     "Ver articulo 7.14"
     ],
     [
      "Elementos en la vía (piedras; desechos; animales; etc.)",
-     "Asegurar el lugar con los elementos de seguridad. Si es necesario solicitar refuerzos. Retirar el elemento y desecharlo donde corresponda. Si la sustancia corresponde a un derrame o es peligrosa ver capítulo correspondiente. Ver artículo 7.16"
+     "Asegurar el lugar con los elementos de seguridad. Si es necesario solicitar refuerzos, Retirar el elemento y desecharlo donde corresponda. Si la sustancia corresponde a un derrame o es peligrosa ver capítulo correspondiente. Ver articulo 7.16"
     ],
     [
      "Señales deterioradas",

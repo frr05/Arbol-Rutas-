@@ -1,0 +1,70 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:31",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [
+     260,
+     266
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "agrega_parrafo",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [
+     267,
+     270
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P26"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "h) Además deberá entregar información de los ingresos potenciales por",
+    "debe_decir": "h) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P27"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "h) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.",
+    "debe_decir": "i) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P28"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "i) Cualquier otra información, relacionada con el Contrato de Concesión, que requiera el Inspector Fiscal, en el plazo indicado por éste.",
+    "debe_decir": "j) Cualquier otra información, relacionada con el Contrato de Concesión, que requiera el Inspector Fiscal, en el plazo indicado por éste.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

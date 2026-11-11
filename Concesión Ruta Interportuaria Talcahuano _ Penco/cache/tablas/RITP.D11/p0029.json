@@ -1,21 +1,21 @@
 {
  "documento": "RITP.D11",
  "pagina": 29,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:07",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
-   "titulo": "Ejemplo de determinación del pago del MOP para el día 31/03/2008",
+   "titulo": null,
    "encabezados": [
-    "(a) Desde",
-    "(b) Hasta",
-    "(c) TIC anual op. Reaj a 1 año o mas, > UF2.000",
-    "(d) TIC anual op. Reaj a 1 año o mas, > UF2.000 (base diaria)",
-    "(e) Días",
-    "(f) Saldo inicio (UF)",
-    "(g) Interes (UF)",
-    "(h) Nuevo saldo (UF)"
+    "(a) / Desde",
+    "(b) / Hasta",
+    "(c) / TIC anual op. Reaj a 1 año o mas, > UF2.000",
+    "(d) / TIC anual op. Reaj a 1 año o mas, > UF2.000 (base diaria)",
+    "(e) / Dias",
+    "(f) / Saldo inicio / (UF)",
+    "(g) / Interes / (UF)",
+    "(h) / Nuevo saldo / (UF)"
    ],
    "filas": [
     [
@@ -105,8 +105,8 @@
      "0,012427%",
      "34",
      "28.625,76",
-     "102,90",
-     "28.746,86"
+     "121,20",
+     "28.746,96"
     ],
     [
      "09/09/2007",
@@ -114,19 +114,29 @@
      "4,60%",
      "0,012322%",
      "29",
-     "28.746,86",
-     "109,60",
-     "28.859,47"
+     "28.746,96",
+     "102,90",
+     "28.849,86"
     ],
     [
      "08/10/2007",
      "08/11/2007",
+     "4,42%",
+     "0,011850%",
+     "32",
+     "28.849,86",
+     "109,60",
+     "28.959,47"
+    ],
+    [
+     "09/11/2007",
+     "10/12/2007",
      "4,64%",
      "0,012427%",
      "32",
-     "28.859,47",
+     "28.959,47",
      "115,38",
-     "28.974,85"
+     "29.074,85"
     ],
     [
      "11/12/2007",
@@ -134,9 +144,9 @@
      "4,74%",
      "0,012689%",
      "28",
-     "28.974,85",
+     "29.074,85",
      "103,48",
-     "29.078,33"
+     "29.178,33"
     ],
     [
      "08/01/2008",
@@ -144,7 +154,7 @@
      "4,90%",
      "0,013107%",
      "31",
-     "29.078,33",
+     "29.178,33",
      "118,79",
      "29.297,12"
     ],
@@ -169,7 +179,7 @@
      "29.516,18"
     ]
    ],
-   "notas": "Se debe utilizar la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras. - Las tasas reflejadas en la columna (c) son meramente referenciales para fines del ejemplo y no corresponden a las que efectivamente se deben aplicar. - La columna (g) representa el interés diario (en base a la tasa anual indicada en columna (c)) durante todo el período comprendido entre las fechas indicadas en las columnas (a) y (b)."
+   "notas": "Notas: - Se debe utilizar la tasa de interés corriente para operaciones reajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la Superintendencia de Bancos e Instituciones Financieras. - Las tasas reflejadas en la columna (c) son meramente referenciales para fines del ejemplo y no corresponden a las que efectivamente se deben aplicar. - La columna (g) representa el interés diario (en base a la tasa anual indicada en columna (c)) durante todo el período comprendido entre las fechas indicadas en las columnas (a) y (b)."
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 61,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 33,
+ "segundos": 2.9,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 9,
+  "conf_media": 0.877,
+  "frac_baja": 0.0,
+  "frac_rara": 0.167,
+  "tinta": 0.0037
+ },
+ "n_palabras_vlm": 9,
+ "frac_rara_vlm": 0.167,
+ "similitud": 0.9,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nANEXO N? 1\n\n60",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n\nANEXO Nº 1\n\n\n60"
+}

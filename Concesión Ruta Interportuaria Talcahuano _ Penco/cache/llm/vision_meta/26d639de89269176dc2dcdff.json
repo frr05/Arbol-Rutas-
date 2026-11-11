@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000524,
+ "usage": {
+  "completion_tokens": 520,
+  "prompt_tokens": 4199,
+  "total_tokens": 4719,
+  "completion_tokens_details": {
+   "reasoning_tokens": 293
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.4,
+ "truncado": false,
+ "texto": "ANEXO Nº 5\n\nPRECIOS UNITARIOS DE ITEM NUEVOS COMPLEMENTARIOS\nA LOS DEL ANEXO Nº 3 DE LAS BASES DE LICITACION\n\nITEM | PARTIDA DESCRIPCION | UNIDAD | PRECIO UNITARIO (U.F.)\n205 | MAYOR COSTO DIRECTO EN FORMACION Y COMPACTACION DE TERRAPLENES | M3 | 0,070\n241 | PILOTES IN SITU | M | 22,110\n261 | ACERO EN BARRAS A63 - 42H | KG | 0,056\n361 | ELEMENTOS DE APOYO, ANCLAJE Y BARBACANAS | TR | 120,000\n351 | SUMINISTRO Y COLOCACION DE CANTONERAS | M | 90,670\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO. PP.\nDEPTO. DE\nCONCESIONES"
+}

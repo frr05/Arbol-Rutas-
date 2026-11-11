@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:55",
+ "costo": 0.000598,
+ "usage": {
+  "completion_tokens": 878,
+  "prompt_tokens": 4223,
+  "total_tokens": 5101,
+  "completion_tokens_details": {
+   "reasoning_tokens": 24
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.2,
+ "truncado": false,
+ "texto": "S. A. en un plazo máximo de 90 días. En todo caso, a contar de la total tramitación de\nla presente Resolución, la Sociedad Concesionaria Aerosur S.A. dejará de ser\nresponsable de acuerdo a lo establecido en el contrato de concesión, respecto del área\neliminada mediante el número 1 anterior.\n\n3. MODIFÍCASE por razones de urgencia, el área de la concesión denominada “Ruta\nInterportuaria Talcahuano–Penco por Isla Rocuant”, incorporándose a ésta la superficie de\n13.769 m² que se señala en los números 1 y 2 anteriores, correspondiente a la franja de 40\nmetros de ancho desde el límite poniente del lote 7, pasando por el lote 13 y terminando en\nel lote 8, todos estos lotes referidos a la concesión actual denominada “Terminal de\nPasajeros Aeropuerto Carriel Sur de Concepción”, de acuerdo a la descripción y gráfica\nque se adjunta y que forma parte de la presente resolución , la cual se denomina “Plano de\nTerrenos Necesarios para el Empalme del Ramal Alessandri”. Sin perjuicio de lo anterior,\nla explotación del área de concesión agregada no corresponderá a la Sociedad\nConcesionaria Autopista Interportuaria S.A. lo que será regulado en el convenio\ncomplementario que se suscriba al efecto.\n\n4. ESTABLECESE que las condiciones particulares a las que se sujetará la incorporación\ndel area de 13.769 m² a la concesión denominada “Ruta Interportuaria Talcahuano--\nPenco por Isla Rocuant”, serán reguladas en un convenio complementario que deberán\nsuscribir el Ministerio de Obras Públicas y la Sociedad Concesionaria Autopista\nInterportuaria S. A. en un plazo máximo de 90 días. En todo caso, a contar de la total\ntramitación de la presente Resolución, la Sociedad Concesionaria Autopista\nInterportuaria S.A. pasará a ser responsable, de acuerdo a los términos establecidos en\nel contrato de concesión, del área incorporada mediante el número 3 anterior, debiendo\nresponder por la ejecución de las obras y servicios que allí se ejecuten.\n\n5. ESTABLECESE que dentro del plazo de 5 días contados desde la fecha de tramitación\nde la presente Resolución, tres transcripciones de ésta deberán ser suscritas ante\nNotario por la Sociedad Concesionaria Aerosur S. A., en señal de aceptación de su\ncontenido, debiendo protocolizar ante el mismo uno de los ejemplares. Dos de las\ntranscripciones debidamente suscrita deberán entregarse, una en la Oficina de Partes de\nla Dirección General de Obras Públicas y otra en la Coordinación de Administración de\nContratos de Concesión de la Coordinación General de Concesiones, ambas con una\ncopia autorizada de la protocolización efectuada.\n\n6. ESTABLECESE que dentro del plazo de 5 días contados desde la fecha de tramitación\nde la presente Resolución, tres transcripciones de ésta deberán ser suscritas ante\nNotario por la Sociedad Concesionaria Autopista Interportuaria S. A., en señal de\naceptación de su contenido, debiendo protocolizar ante el mismo uno de los ejemplares.\nDos de las transcripciones debidamente suscrita deberán entregarse, una en la Oficina\nde Partes de la Dirección General de Obras Públicas y otra en la Coordinación de\nAdministración de Contratos de Concesión de la Coordinación General de\nConcesiones, ambas con una copia autorizada de la protocolización efectuada.\n\n7. ESTABLECESE que la Dirección General de Obras Públicas podrá dejar sin efecto la\npresente resolución, entre otros, si alguna de las sociedades concesionarias antes\nindividualizadas no aceptare su contenido en los términos previstos en los números 5 y\n6 anteriores, sin que ello de lugar a reclamos o indemnizaciones."
+}

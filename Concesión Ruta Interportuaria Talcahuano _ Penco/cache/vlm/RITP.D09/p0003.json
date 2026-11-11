@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D09",
+ "pagina": 3,
+ "archivo": "4_modificacion_obras_convenios/Res-1569.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 332,
+ "segundos": 6.8,
+ "fecha": "2026-11-11 11:55",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 180,
+  "conf_media": 0.919,
+  "frac_baja": 0.067,
+  "frac_rara": 0.027,
+  "tinta": 0.0276
+ },
+ "n_palabras_vlm": 188,
+ "frac_rara_vlm": 0.032,
+ "similitud": 0.895,
+ "truncado": false,
+ "texto_ocr": "3, ESTABLECESE que dentro del plazo de 10 días contados desde la fecha de la total\ntramitación de la presente Resolución, tres transcripciones de ésta deberán ser suscritas\nante Notario por la Sociedad Concesionaria Autopista Interportuaria S.A., en señal de\naceptación de su contenido, debiendo protocolizar ante el mismo uno de los ejemplares.\nDos de las transcripciones debidamente suscrita deberán entregarse, una en la Oficina\nde Partes de la Dirección General de Obras Públicas y otra en la Coordinación de\nAdministración de Contratos de Concesión de la Coordinación General de\nConcesiones, ambas con una copia autorizada de la protocolización efectuada.\n\n4. COMUNIQUESE la presente Resolución a la Sociedad Concesionaria Autopista\nInterportuaria S.A., a la Coordinación General de Concesiones, a la Coordinación de\nAdministración de Contratos de Concesión. a la Fiscalía del MOP, al Inspector Fiscal\nde la concesión denominada “Ruta Interportuaria Talcahuano - Penco por Isla Rocuant” y\ndemás servicios que corresponda.\n\nSY so Ss A\nSA S j Z e\n\nLURIO DEM AE\nV*B* Sr. Ministro de Obras Públicas 'BSTMímistro de Hacienda\nJAIME ESTÉVEZ VALENCIA\n\nMinistro de Obras Públicas",
+ "texto_vlm": "3. ESTABLECESE que dentro del plazo de 10 días contados desde la fecha de la total\ntramitación de la presente Resolución, tres transcripciones de ésta deberán ser suscritas\nante Notario por la Sociedad Concesionaria Autopista Interportuaria S.A., en señal de\naceptación de su contenido, debiendo protocolizar ante el mismo uno de los ejemplares.\nDos de las transcripciones debidamente suscrita deberán entregarse, una en la Oficina\nde Partes de la Dirección General de Obras Públicas y otra en la Coordinación de\nAdministración de Contratos de Concesión de la Coordinación General de\nConcesiones, ambas con una copia autorizada de la protocolización efectuada.\n\n4. COMUNIQUESE la presente Resolución a la Sociedad Concesionaria Autopista\nInterportuaria S.A., a la Coordinación General de Concesiones, a la Coordinación de\nAdministración de Contratos de Concesión, a la Fiscalía del MOP, al Inspector Fiscal\nde la concesión denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\" y\ndemás servicios que corresponda.\n\nANOTESE Y COMUNIQUESE\n\nCARLOS RUBILAR OTTONE\nDirector General de Obras Públicas\n\nV°B° Sr. Ministro de Obras Públicas\nJAIME ESTÉVEZ VALENCIA\nMinistro de Obras Públicas\n\nREPUBLICA DE CHILE\nMINISTRO\nMINISTERIO DE HACIENDA\nV°B° Sr. Ministro de Hacienda"
+}

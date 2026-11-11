@@ -1,0 +1,75 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 111,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla Nº 9: Puentes y Pasos a Desnivel Ruta Interportuaria.",
+   "encabezados": [
+    "Nombre",
+    "Ubicac. Aprox. (km)",
+    "Longitud Aprox. (m)",
+    "Ancho (m)"
+   ],
+   "filas": [
+    [
+     "Paso Superior Las Gaviotas",
+     "2,90",
+     "39",
+     "12,4"
+    ],
+    [
+     "Puente Las Ballenas",
+     "3,30",
+     "110",
+     "12,4"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Tabla Nº 10: Intersecciones a Desnivel con conexión a la Ruta Interportuaria a construir por la Sociedad Concesionaria.",
+   "encabezados": [
+    "Nombre",
+    "Ubic. Aprox. (km)",
+    "Conexión a:",
+    "Tipo",
+    "Observación"
+   ],
+   "filas": [
+    [
+     "Enlace Penco",
+     "0,00",
+     "Autopista del Itata y Autopista Concepción - Penco",
+     "Trébol",
+     "Complemento del Paso Superior existente."
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Tabla Nº 11: Pasos Interprediales.",
+   "encabezados": [
+    "Ubic. Aprox. (km)",
+    "Sección (m²)"
+   ],
+   "filas": [
+    [
+     "0,70",
+     "5 x 5"
+    ],
+    [
+     "2,30",
+     "5 x 5"
+    ],
+    [
+     "3,40",
+     "5 x 5"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

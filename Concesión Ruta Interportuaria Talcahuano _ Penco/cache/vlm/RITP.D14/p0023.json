@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 23,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 362,
+ "segundos": 6.9,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 232,
+  "conf_media": 0.9,
+  "frac_baja": 0.056,
+  "frac_rara": 0.007,
+  "tinta": 0.0394
+ },
+ "n_palabras_vlm": 234,
+ "frac_rara_vlm": 0.014,
+ "similitud": 0.954,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- —Sies posible, corte el suministro de energía.\n\n- | Evácue el área y cierre la puerta.\n\n- Use un extintor o una manguera de agua sólo si ha sido\nentrenado y cuando al hacerlo no le catise lesiones a\n\nusted ni a otros.\n\n- JAMÁS utilice agua contra un incendio eléctrico.\n\nAbandenar la Lucha contra el Incendio si:\n\n- No se logra apagar el incendio inmediatamente.\n- Existen concentraciones peligrosas de humo\n- El calor es intenso,\n\nUbicación de Extintores de Incendio\n\nLos extintores están ubicados en las pistas de peaje, en el edificio de\noperaciones, en los vehículos de patrullaje. Los empleados deben familiarizarse\ncon las ubicaciones de los extintores en su lugar de trabajo,\n\n5.10 Asalto\nDado que se recauda dinero, el riesgo de asalto está siempre presente,\n\nCualquiera de los sucesos descritos aquí debe ser indicado en detalle por la\npersona o las personas que lo presenciaron. Los recaudadores de peaje deben\nentregar la información en el Informe de Incidentes del Turno.\n\n- $5í es amenazado fisicamente, no entre en una\nconfrontación, Permita que la persona pase por la pista y\nllame de inmediato al Administradorísupervisor. Como\nmedida adicional, busque la patente del vehiculo.\n\n«Ses amenazado con arma de cualquier tipo, no ofrezca\nresistencia. Permita que la persona pase por la pista,\nllame inmediatamente al Jefe de Plaza en cuanto se\nretiren.\n\n22",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Si es posible, corte el suministro de energía.\n\n- Evacue el área y cierre la puerta.\n\n- Use un extintor o una manguera de agua sólo si ha sido\nentrenado y cuando al hacerlo no le cause lesiones a\nusted ni a otros.\n\n- JAMÁS utilice agua contra un incendio eléctrico.\n\nAbandonar la Lucha contra el Incendio si:\n\n- No se logra apagar el incendio inmediatamente.\n\n- Existen concentraciones peligrosas de humo\n\n- El calor es intenso.\n\nUbicación de Extintores de Incendio\n\nLos extintores están ubicados en las pistas de peaje, en el edificio de\noperaciones, en los vehículos de patrullaje. Los empleados deben familiarizarse\ncon las ubicaciones de los extintores en su lugar de trabajo.\n\n5.10 Asalto\n\nDado que se recauda dinero, el riesgo de asalto está siempre presente.\n\nCualquiera de los sucesos descritos aquí debe ser indicado en detalle por la\npersona o las personas que lo presenciaron. Los recaudadores de peaje deben\nentregar la información en el Informe de Incidentes del Turno.\n\n- Si es amenazado físicamente, no entre en una\nconfrontación. Permita que la persona pase por la pista y\nllame de inmediato al Administrador/supervisor. Como\nmedida adicional, busque la patente del vehículo.\n\n- Si es amenazado con arma de cualquier tipo, no ofrezca\nresistencia. Permita que la persona pase por la pista,\nllame inmediatamente al Jefe de Plaza en cuanto se\nretiren.\n\n22"
+}

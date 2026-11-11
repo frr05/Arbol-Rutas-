@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 177,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 500,
+ "segundos": 9.1,
+ "fecha": "2026-11-11 11:52",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 308,
+  "conf_media": 0.909,
+  "frac_baja": 0.091,
+  "frac_rara": 0.006,
+  "tinta": 0.0264
+ },
+ "n_palabras_vlm": 286,
+ "frac_rara_vlm": 0.035,
+ "similitud": 0.91,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nPuntaje, == NDo\n\nDonde,\nPuntajeg, : Es el puntaje obtenido por el licitante o grupo licitante “1”.\n\nNDw : Corresponde al número de días en que el licitante o grupo licitante “1” ofrece poner en Servicio\nProvisorio la Obra Opcional señalada en el artículo 1.3.2, contados desde la Puesta en Servicio\nProvisoria de las obras señaladas en el artículo 1.3.1 de estas Bases.\n\n3.3.4 Premio al Postulante\nEn caso que el Postulante de la iniciativa privada identificado en el artículo 1.2.3 de las Bases Administrativas\nparticipe en la licitación, el Puntaje Final que hubiere obtenido, cualquiera fuere el tramo en el que haya\n\npresentado su Oferta Económica, se incrementará en un diez por ciento (10%), todo ello de conformidad con lo\nseñalado en los artículos 8? y 23? del DS MOP N*240 de 1991.\n\nPor consiguiente, el Puntaje para el Postulante de la iniciativa, expresado con un (1) decimal, se calculará de la\nsiguiente manera:\n\nPuntaje Postulante = Puntajes, * Q\n\nDonde:\n\nPuntajes, : Es el puntaje final obtenido por el Postulante, para cualquiera de los Tramos A, B o C en que haya\npresentado su Oferta Económica.\n\na : Es un factor ponderador que refleja el Premio del Postulante antes señalado, que en este caso es\nigual a 0,9.\n\n3.3.5 Adjudicación\n\nLa Concesión se adjudicará a aquel licitante o grupo licitante que haya obtenido el mayor Puntaje Final en\ncualquiera de los Tramos donde debe estructurarse la Oferta Económica.\n\nDe producirse un empate, se adjudicará la Concesión a aquel licitante o grupo licitante que haya obtenido mejor\nNota en la evaluación de la Oferta Técnica.\n\nENECTO:.\nES Os Or\n(S a\n(2 o:\n¡9 =\nE 5l\nLS = mn E)\nEs, E\nES 5\n5 Deo SS\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 163",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nPuntaje_(i) = - ND_(i)\n\nDonde,\n\nPuntaje_(i) : Es el puntaje obtenido por el licitante o grupo licitante \"i\".\n\nND_(i) : Corresponde al número de días en que el licitante o grupo licitante \"i\" ofrece poner en Servicio\nProvisorio la Obra Opcional señalada en el artículo 1.3.2, contados desde la Puesta en Servicio\nProvisoria de las obras señaladas en el artículo 1.3.1 de estas Bases.\n\n3.3.4 Premio al Postulante\n\nEn caso que el Postulante de la iniciativa privada identificado en el artículo 1.2.3 de las Bases Administrativas\nparticipe en la licitación, el Puntaje Final que hubiere obtenido, cualquiera fuere el tramo en el que haya\npresentado su Oferta Económica, se incrementará en un diez por ciento (10%), todo ello de conformidad con lo\nseñalado en los artículos 8º y 23º del DS MOP Nº240 de 1991.\n\nPor consiguiente, el Puntaje para el Postulante de la iniciativa, expresado con un (1) decimal, se calculará de la\nsiguiente manera:\n\nPuntaje Postulante = Puntaje_(i) * α\n\nDonde:\n\nPuntaje_(i) : Es el puntaje final obtenido por el Postulante, para cualquiera de los Tramos A, B o C en que haya\npresentado su Oferta Económica.\n\nα : Es un factor ponderador que refleja el Premio del Postulante antes señalado, que en este caso es\nigual a 0,9.\n\n3.3.5 Adjudicación\n\nLa Concesión se adjudicará a aquel licitante o grupo licitante que haya obtenido el mayor Puntaje Final en\ncualquiera de los Tramos donde debe estructurarse la Oferta Económica.\n\nDe producirse un empate, se adjudicará la Concesión a aquel licitante o grupo licitante que haya obtenido mejor\nNota en la evaluación de la Oferta Técnica.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 163"
+}

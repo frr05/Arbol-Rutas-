@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:53",
+ "costo": 0.000633,
+ "usage": {
+  "completion_tokens": 1066,
+  "prompt_tokens": 4195,
+  "total_tokens": 5261,
+  "completion_tokens_details": {
+   "reasoning_tokens": 204
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.5,
+ "truncado": false,
+ "texto": "Ministerio de Obras Públicas\nCoordinación General de Concesiones\n\nh) Además deberá entregar información de los ingresos potenciales por\nconcepto de tarifa desglosados; estos ingresos se obtendrán de multiplicar los\nflujos vehiculares que hayan circulado a través de todos los puntos de cobros\ninstalados en la vía concesionada por los peajes máximos autorizados que se\nestén cobrando en cada uno de ellos. Esta información deberá ser entregada\nmensualmente, dentro de los 5 primeros días de cada mes. Cada ingreso\ndebidamente desglosado, deberá convertirse al valor de la UF del día en que\nefectivamente se percibió.\"\n\n• Las letras h) e i) quedan como letras i) y j), tal como se indica a continuación:\n\n“ i) Todos los informes señalados en el artículo 2.6.6 de las Bases Técnicas.\n\nj) Cualquier otra información, relacionada con el Contrato de Concesión, que\nrequiera el Inspector Fiscal, en el plazo indicado por éste.”\n\n8. En 1.8.3.2 “Garantías de Explotación”, enmendado por la Circular Aclaratoria Nº1, se rectifica el\nartículo reemplazando el quinto párrafo por el siguiente:\n\n“ La Sociedad Concesionaria deberá entregar una Garantía de Explotación Adicional que\ntendrá como finalidad asegurar el cumplimiento de las condiciones en que el Estado\nrecibirá la concesión, las que se indican en el artículo 1.13.2.1 de las presentes Bases\nde Licitación. En caso que la Oferta Económica del Concesionario se sitúe en el\nTramo A de licitación, según lo señalado en el artículo 3.2.1 de las presentes\nBases, dicha garantía será entregada dentro del mes siguiente al mes “m” de\nconcesión cuando se verifique que el monto VPIm, que se define en el artículo 1.7.6\nde la presentes Bases, ha alcanzado un porcentaje igual al 95% del valor de ITC\nexplicitado en el mismo artículo. En cualquier otro caso, la garantía será\nentregada a más tardar cuando falten 24 meses para la extinción de la concesión,\nsegún la Oferta Económica del licitante o grupo licitante adjudicatario, y\nconsistirá en dos o más boletas de garantía bancarias del mismo monto, emitidas en la\nciudad de Santiago de Chile por un banco de la plaza, a nombre del Director\nGeneral de Obras Públicas, pagaderas a la vista, por un valor total de UF 15.000\n(quince mil Unidades de Fomento). El plazo de vigencia de esta garantía adicional será\nel mayor plazo entre 3 años y el periodo que medie entre la entrega de la misma y\nel plazo máximo de término de la concesión más doce meses.”\n\n9. En 1.8.5.1 “Tipos de Infracciones y Multas”, se rectifica el artículo eliminando de la Tabla Nº2\nletra a), la siguiente multa:\n\n1.7.3 | 20 | No pago del capital mínimo al momento de la constitución de la Sociedad. | Cada día | Sin perjuicio del cobro de las garantías señaladas en el artículo 1.8.3, según corresponda.\n\n10. En 1.9.7 “Planos de Construcción”, se rectifica el artículo reemplazando el primer párrafo por el\nsiguiente:\n\n“ Dentro de los 90 días posteriores a cada Puesta en Servicio Provisoria de las obras,\nsegún lo dispuesto en el artículo 1.10.1 de las presentes Bases de Licitación, la\nSociedad Concesionaria presentará al Inspector Fiscal los planos de construcción y las\nmemorias explicativas de las obras correspondientes, junto con los respaldos de toda la\ninformación en archivos ópticos del tipo CD. En dichos planos se deberá definir y\ndestacar claramente, los límites del Area de Concesión.”\n\nCircular Aclaratoria Nº2\nPágina 4 de 15"
+}

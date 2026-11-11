@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000564,
+ "usage": {
+  "completion_tokens": 721,
+  "prompt_tokens": 4195,
+  "total_tokens": 4916,
+  "completion_tokens_details": {
+   "reasoning_tokens": 86
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.3,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nde trabajo, áreas de acopio, campamentos y transporte. Dicho profesional deberá informar y coordinarse con el\nInspector Fiscal para adoptar las medidas correctivas cuando sea necesario: suspensión de tareas, retiro de\nmateriales, limpieza de áreas de trabajo, etc.\n\nEste Plan deberá ser mantenido en la forma de un manual, de fácil comprensión y disponible para todo el\npersonal.\n\n2.7.1      Plan de Prevención de Riesgos durante la Construcción de la Obra\n\nLos principales riesgos que se identifican en la etapa de construcción y que deberán ser considerados en la\nelaboración de este plan, son:\n\n1.   Riesgos de accidentes en la vía, transporte y almacenamiento.\n2.   Riesgos por derrame de materiales peligrosos.\n3.   Riesgos de incendios en el área de faenas.\n4.   Riesgos por manejo de explosivos.\n5.   Riesgos por remoción en masa.\n6.   Riesgos de eventos naturales.\n\nEste Plan de Prevención de Riesgos deberá ser concordante con lo establecido en el artículo 2.8.1 de estas\nBases, y deberá explicitar, a lo menos, lo siguiente:\n\n•  Disposición de personal, equipos, herramientas y materiales necesarios para la mantención de las\n   condiciones de seguridad.\n\n•  Horario de Funcionamiento (normal o extraordinario).\n\n•  Medidas de Seguridad y Vigilancia.\n\n•  Medidas de prevención de incendios y otros.\n\n•  Dotación mínima de personal (normal, en turnos, dotación de reemplazo, vacaciones, etc.).\n\n•  Transporte para el personal de trabajo.\n\n•  Medidas de mantención de las distintas instalaciones.\n\n•  Medidas de aseo de las distintas instalaciones.\n\n•  Medidas orientadas a detectar y solucionar los problemas de accidentes, congestión o de cualquier otra\n   naturaleza que se produzcan en el camino.\n\n•  Mantención de elementos de seguridad, señalización y demarcación en el área de la concesión.\n\nEl presente plan deberá ser entregado como parte del Plan de Gestión Ambiental de la Obra durante la Etapa\nde Construcción de acuerdo a lo establecido en el artículo 1.9.2.5 de las presentes Bases Administrativas.\n\nLos principales riesgos que se identifican en la etapa de construcción y que deberán ser considerados en la\nelaboración del Plan de Prevención de Riesgos, son:\n\n1)   Riesgos por accidentes en caminos\n\nLas medidas mínimas de seguridad que se establecerán para minimizar este riesgo son:\n\n•  El personal a contratar para conducir los camiones, buses o maquinarias necesarias en un área específica,\n   será personal calificado, con licencia de conducir al día.\n\n•  Los vehículos que transporten maquinaria y materiales al área de trabajo contarán con las señalizaciones\n   exigidas por la legislación vigente.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n132"
+}

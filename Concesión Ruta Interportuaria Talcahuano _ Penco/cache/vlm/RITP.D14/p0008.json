@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 8,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 484,
+ "segundos": 9.0,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 315,
+  "conf_media": 0.918,
+  "frac_baja": 0.029,
+  "frac_rara": 0.005,
+  "tinta": 0.0577
+ },
+ "n_palabras_vlm": 319,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.962,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A,\n\n+ Las instalaciones de los Servicios Básicos, las instalaciones del\nConcesionario, -y de las Plazas de Peaje,\n\n+ Los Servicios Especiales Obligatorios a que se refieren las Bases de\nLicitación, es decir, Patrullaje de Emergencia Y Teléfonos de Emergencia,\n\n= Ál cumplimiento del Manual de Seguridad Vial y los procedimientos de\nEmergencia descritos en el presente documento,\n\nEl usuario tiene derecho a que la vía se mantenga en condiciones que\ngaranticen tin tránsito expedito y seguro.\n\nPor esta razón, el usuario tiene derecho a los servicios indispensables para\nevitar la congestión vehicular y cuando ella no se lograre por causas de fuerza\nmayor o caso fortuito, a que se le proporcione información oportuna a través de\nlos medios y en los lugares que se dispongan.\n\n3.3Derecho a Calidad del Servicio\n\nEl usuario tiene derecho a recibir del Concesionario los servicios que éste\npresta, con el nivel de calidad previsto en el Contrato de Concesión, pudiendo\nreclamar ante la Sociedad Concesionaria si esto no sucediera,\n\n3.4Derecho a Información\n\nEl usuario tiene derecho a recibir información general sobre los servicios que el\nConcesionario otorga, de manera de utilizarlos integramente,\n\n3.5De igual forma, tiene derecho a:\n* Recibir de parte del Concesionario información anticipada sobre cualquier\ncircunstancia que altere el tránsito y los servicios.\n+ Conocer con la debida antelación el régimen tarifario aprobado y sus\neventuales modificaciones.\n\n3.6 Derecho a Respuesta\n\nEl usuario tiene derecho a obtener respuesta adecuada de parte del\nConcestonario a sus consultas, preguntas o requerimientos,\n\n4.7 Derecho a Reclamo\n\nE! Usuario tiene derecho a interponer ante al Concesionario las quejas, reclamos\ny denuncias, con motivo de situaciones que lo afecten en su calidad de tal,\n\nEn caso de respuesta insatisfactoria o silencio de la Sociedad Concesionaria, el\nusuario tendrá derecho a queja, reclamo y denuncia ante el MOP, conforme a lo\nestipulado en el presente Reglamento de Servicio.",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n• Las instalaciones de los Servicios Básicos, las instalaciones del\nConcesionario, -y de las Plazas de Peaje.\n• Los Servicios Especiales Obligatorios a que se refieren las Bases de\nLicitación, es decir, Patrullaje de Emergencia Y Teléfonos de Emergencia.\n• Al cumplimiento del Manual de Seguridad Vial y los procedimientos de\nEmergencia descritos en el presente documento.\n\nEl usuario tiene derecho a que la vía se mantenga en condiciones que\ngaranticen un tránsito expedito y seguro.\n\nPor esta razón, el usuario tiene derecho a los servicios indispensables para\nevitar la congestión vehicular y cuando ella no se lograre por causas de fuerza\nmayor o caso fortuito, a que se le proporcione información oportuna a través de\nlos medios y en los lugares que se dispongan.\n\n3.3 Derecho a Calidad del Servicio\n\nEl usuario tiene derecho a recibir del Concesionario los servicios que éste\npresta, con el nivel de calidad previsto en el Contrato de Concesión, pudiendo\nreclamar ante la Sociedad Concesionaria si esto no sucediera.\n\n3.4 Derecho a Información\n\nEl usuario tiene derecho a recibir información general sobre los servicios que el\nConcesionario otorga, de manera de utilizarlos íntegramente.\n\n3.5 De igual forma, tiene derecho a:\n\n• Recibir de parte del Concesionario información anticipada sobre cualquier\ncircunstancia que altere el tránsito y los servicios.\n• Conocer con la debida antelación el régimen tarifario aprobado y sus\neventuales modificaciones.\n\n3.6 Derecho a Respuesta\n\nEl usuario tiene derecho a obtener respuesta adecuada de parte del\nConcesionario a sus consultas, preguntas o requerimientos.\n\n3.7 Derecho a Reclamo\n\nEl Usuario tiene derecho a interponer ante el Concesionario las quejas, reclamos\ny denuncias, con motivo de situaciones que lo afecten en su calidad de tal.\n\nEn caso de respuesta insatisfactoria o silencio de la Sociedad Concesionaria, el\nusuario tendrá derecho a queja, reclamo y denuncia ante el MOP, conforme a lo\nestipulado en el presente Reglamento de Servicio.\n\n7"
+}

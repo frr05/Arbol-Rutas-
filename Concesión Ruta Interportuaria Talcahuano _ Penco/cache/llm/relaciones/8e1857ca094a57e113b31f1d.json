@@ -1,0 +1,33 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-11 12:38",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.3.2",
+    "operacion": "elimina",
+    "parrafos": [
+     "[P1]",
+     "[P2]",
+     "[P3]",
+     "[P4]",
+     "[P5]"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "3.1.3",
+    "operacion": "elimina",
+    "parrafos": [],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

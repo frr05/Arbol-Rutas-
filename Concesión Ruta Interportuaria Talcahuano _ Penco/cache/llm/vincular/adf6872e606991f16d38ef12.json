@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 13:04",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D11.F0045",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "RITP.D11.F0046",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "RITP.D11.F0047",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "RITP.D11.F0048",
+    "destino": "BL:2.2.2.3"
+   },
+   {
+    "fragmento": "RITP.D11.F0049",
+    "destino": "BL:2.9.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0050",
+    "destino": "TEMA:operacion_y_servicios"
+   },
+   {
+    "fragmento": "RITP.D11.F0051",
+    "destino": "BL:2.9.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0052",
+    "destino": "BL:2.10.7.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0053",
+    "destino": "BL:2.2.1.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0055",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0056",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D13.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D13.F0004",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D13.F0005",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "RITP.D13.F0006",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "RITP.D13.F0009",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "RITP.D13.F0011",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "RITP.D13.F0012",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "RITP.D13.F0013",
+    "destino": "BL:1.15.3"
+   },
+   {
+    "fragmento": "RITP.D13.F0014",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D13.F0015",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "RITP.D13.F0017",
+    "destino": "BL:1.15.2"
+   },
+   {
+    "fragmento": "RITP.D13.F0019",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D13.F0021",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D14.F0001",
+    "destino": "BL:2.6.3.7"
+   }
+  ]
+ }
+}

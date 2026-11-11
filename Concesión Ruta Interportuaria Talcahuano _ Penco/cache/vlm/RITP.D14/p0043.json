@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 43,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 427,
+ "segundos": 8.0,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 299,
+  "conf_media": 0.9,
+  "frac_baja": 0.067,
+  "frac_rara": 0.005,
+  "tinta": 0.0514
+ },
+ "n_palabras_vlm": 298,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.96,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIÍA S.A,\n\nUna vez ocurrida la percepción, mentalmente se realiza una comparación con\notras experiencias similares ocurridas y de ellas se toma la decisión que es\nenviada a dos músculos para que estos actúen.\n\nEl pertodo será más o menos corto, de acuerdo a la complejidad del estímulo, de\nallí que hay reacciones que acortan su tiempo, al ser el resultado de un proceso\nsimple, como es el caso de hacer girar el volante en una curva o frenar ante la\npresencia de condición de riesgo.\n\nEn sÍntesis el proceso de percepción y reacción se traduce en:\n\n- Percepción: obtención de datos del medio ambiente (condiciones de\nwsibilidad, estado del camino, vehiculos u obstáculos en el camino que\naparecen sorpresivamente, etc.)\n\n- Toma de decisiones: el conductor decide hacer algo en una forma\ndeterminada (frenar, acelerar, efectuar una maniobra evasiva, pero aun\nno actúa).\n\n- — Control: es la ejecución de las maniobras decididas en la etapa anterior y\nel resultado final de! proceso,\n\nse ha establecido nueve etapas en una emergencia, estas son\n\n- Aparece la emergencia.\n\n- Se percibe la emergencia.\n\n- — Setoma conocimiento.\n\n- Se decide tomar una medida.\n\n- Comienza a tomarse la medida,\n\n- Se completan los movimientos de control.\n\n- Comienza la maniobra de emergencia ffrena, acelera, eto.)\n- Se alcanza la máxima intensidad de la maniobra.\n\n- Se termina la aplicación de la medida de control.\n\nPor consiguiente, el no estar atento a las condiciones del transito en el momento\nde la emergencia, disminuye notablemente el tiempo necesario para una\nmaniobra evasiva, esto conlleva a un aumento significativo del potencial de\ndaños,\n\nRecomendaciones importantes mientras conduzca\n\n- Conduzca siempre a fa defensiva con su cinturón de seguridad ajustado,\nUn accidente fatal puede ocurrir perfectamente a bajas velocidades.\n\n42",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nUna vez ocurrida la percepción, mentalmente se realiza una comparación con\notras experiencias similares ocurridas y de ellas se toma la decisión que es\nenviada a los músculos para que estos actúen.\n\nEl periodo será más o menos corto, de acuerdo a la complejidad del estímulo, de\nallí que hay reacciones que acortan su tiempo, al ser el resultado de un proceso\nsimple, como es el caso de hacer girar el volante en una curva o frenar ante la\npresencia de condición de riesgo.\n\nEn síntesis el proceso de percepción y reacción se traduce en:\n\n- Percepción: obtención de datos del medio ambiente (condiciones de\nvisibilidad, estado del camino, vehículos u obstáculos en el camino que\naparecen sorpresivamente, etc.)\n\n- Toma de decisiones: el conductor decide hacer algo en una forma\ndeterminada (frenar, acelerar, efectuar una maniobra evasiva, pero aun\nno actúa).\n\n- Control: es la ejecución de las maniobras decididas en la etapa anterior y\nel resultado final del proceso.\n\nSe ha establecido nueve etapas en una emergencia, estas son\n\n- Aparece la emergencia.\n- Se percibe la emergencia.\n- Se toma conocimiento.\n- Se decide tomar una medida.\n- Comienza a tomarse la medida.\n- Se completan los movimientos de control.\n- Comienza la maniobra de emergencia (frena, acelera, etc.)\n- Se alcanza la máxima intensidad de la maniobra.\n- Se termina la aplicación de la medida de control.\n\nPor consiguiente, el no estar atento a las condiciones del tránsito en el momento\nde la emergencia, disminuye notablemente el tiempo necesario para una\nmaniobra evasiva, esto conlleva a un aumento significativo del potencial de\ndaños.\n\nRecomendaciones importantes mientras conduzca\n\n- Conduzca siempre a la defensiva con su cinturón de seguridad ajustado.\nUn accidente fatal puede ocurrir perfectamente a bajas velocidades.\n\n42"
+}

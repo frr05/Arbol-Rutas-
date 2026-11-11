@@ -1,0 +1,89 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 124,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla Nº 18: Perfiles Transversales Tipo en Calzada Simple con Tercera Pista.",
+   "encabezados": [
+    "ELEMENTO",
+    "DIMENSIÓN"
+   ],
+   "filas": [
+    [
+     "Número de calzadas",
+     "1"
+    ],
+    [
+     "Ancho de calzadas de tres pistas (3ª Pista de subida)",
+     "10,5"
+    ],
+    [
+     "Bombeo mínimo (en un solo sentido)",
+     "2,5 %"
+    ],
+    [
+     "Ancho bermas",
+     "2,5 m."
+    ],
+    [
+     "Sobreanchos de compactación en zonas sin defensa caminera exterior (lateral)",
+     "0,5 m."
+    ],
+    [
+     "Sobreanchos de compactación en zonas con defensa caminera exterior (lateral)",
+     "1,0 m"
+    ],
+    [
+     "Pendiente transversal bermas",
+     "4,0 %"
+    ],
+    [
+     "Talud corte en tierra (*)",
+     "2 : 2,5 (H: V)"
+    ],
+    [
+     "Talud corte en roca meteorizada (*)",
+     "1 : 2 (H: V)"
+    ],
+    [
+     "Talud corte en roca (*), n ≤ 4",
+     "1 : n (H: V)"
+    ],
+    [
+     "Talud terraplén",
+     "3 : 2 (H:V)"
+    ],
+    [
+     "Ancho mínimo cuneta lateral de corte",
+     "1,0 m."
+    ]
+   ],
+   "notas": "Nota: (*) Se deberá cumplir con lo señalado en el artículo 2.3.2.1.2 de las presentes Bases."
+  },
+  {
+   "titulo": "Tabla Nº 19: Ejes Equivalentes de Diseño Mínimo.",
+   "encabezados": [
+    "Tipo de Obra",
+    "Millones de Ejes Equivalentes Asfalto"
+   ],
+   "filas": [
+    [
+     "Tramo Calzada Doble",
+     "29"
+    ],
+    [
+     "Tramo Calzada Simple",
+     "31"
+    ],
+    [
+     "Ramales y Lazos",
+     "10"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

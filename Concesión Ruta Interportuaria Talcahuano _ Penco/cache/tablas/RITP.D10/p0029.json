@@ -1,30 +1,38 @@
 {
  "documento": "RITP.D10",
  "pagina": 29,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:12",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
   {
-   "titulo": "RESUMEN DE PRESUPUESTO - CONVENIO COMPLEMENTARIO N° 1",
+   "titulo": "RESUMEN DE PRESUPUESTO - CONVENIO COMPLEMENTARIO Nº 1",
    "encabezados": [
-    "ITEM",
-    "DESIGNACION",
-    "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1",
+    "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 / ITEM",
+    "PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N° 1 / DESIGNACION",
     "INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON",
     "CONEXIÓN AV. ALESSANDRI",
     "PASO INTERPREDIAL KM 6,787",
-    "PASO INTERPREDIAL N° 2 KM 8,000",
-    "PASO INTERPREDIAL 2,580 RAMAL AV. ALESSANDRI",
+    "PASO INTERPREDIAL KM 8,000",
+    "PASO INTERPREDIAL Nº 2 KM 2,580 RAMAL AV. ALESSANDRI",
     "TOTALES (UF)"
    ],
    "filas": [
+    [
+     "",
+     "OBRAS",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
     [
      "1",
      "OBRAS EJECUTADAS",
      "0",
      "3.176",
-     "0",
      "0",
      "0",
      "0",
@@ -38,7 +46,6 @@
      "14.808",
      "10.446",
      "2.920",
-     "109.824",
      "109.824"
     ],
     [
@@ -49,7 +56,6 @@
      "8.858",
      "11.192",
      "1.295",
-     "81.940",
      "81.940"
     ],
     [
@@ -60,7 +66,6 @@
      "908",
      "0",
      "0",
-     "908",
      "908"
     ],
     [
@@ -71,7 +76,6 @@
      "0",
      "0",
      "0",
-     "8.073",
      "8.073"
     ],
     [
@@ -82,7 +86,6 @@
      "0",
      "0",
      "0",
-     "3.500",
      "3.500"
     ],
     [
@@ -93,7 +96,6 @@
      "1.000",
      "1.000",
      "0",
-     "4.400",
      "4.400"
     ],
     [
@@ -104,7 +106,6 @@
      "0",
      "0",
      "0",
-     "1.717",
      "1.717"
     ],
     [
@@ -115,8 +116,17 @@
      "0",
      "0",
      "0",
-     "8.355",
      "8.355"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
     ],
     [
      "10",
@@ -126,7 +136,6 @@
      "0",
      "0",
      "0",
-     "18.318",
      "18.318"
     ],
     [
@@ -137,7 +146,6 @@
      "25.574",
      "22.638",
      "4.215",
-     "240.211",
      "240.211"
     ],
     [
@@ -148,7 +156,6 @@
      "0",
      "0",
      "0",
-     "-26.973",
      "-26.973"
     ],
     [
@@ -159,13 +166,11 @@
      "0",
      "0",
      "0",
-     "-26.973",
      "-26.973"
     ],
     [
      "",
      "OTROS GASTOS E INVERSIONES",
-     "",
      "",
      "",
      "",
@@ -181,7 +186,6 @@
      "912",
      "645",
      "138",
-     "8.642",
      "8.642"
     ],
     [
@@ -192,7 +196,6 @@
      "652",
      "577",
      "160",
-     "6.513",
      "6.513"
     ],
     [
@@ -203,7 +206,6 @@
      "2.232",
      "1.973",
      "548",
-     "22.287",
      "22.287"
     ],
     [
@@ -214,7 +216,6 @@
      "1.837",
      "1.500",
      "751",
-     "18.980",
      "18.980"
     ],
     [
@@ -225,7 +226,6 @@
      "1.456",
      "1.214",
      "0",
-     "12.138",
      "12.138"
     ],
     [
@@ -236,19 +236,27 @@
      "7.089",
      "5.909",
      "1.597",
-     "68.560",
      "68.560"
     ],
     [
      "",
-     "SUB TOTAL GASTOS DE FINANCIAMIENTO",
+     "SUB TOTAL",
      "173.413",
      "41.363",
      "32.663",
      "28.547",
      "5.812",
-     "281.798",
      "281.798"
+    ],
+    [
+     "",
+     "GASTOS DE FINANCIAMIENTO",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "8.000"
     ],
     [
      "",
@@ -258,11 +266,10 @@
      "",
      "",
      "",
-     "",
      "289.798"
     ]
    ],
-   "notas": ""
+   "notas": null
   }
  ]
 }

@@ -18,6 +18,7 @@ import re
 
 from rapidfuzz import fuzz, process
 
+from . import config
 from .indice import Documento, Proyecto
 from .ocr import leer_paginas
 
@@ -26,6 +27,18 @@ _ANEXO = re.compile(r"^\s*(\S{1,2}\s*[.)]\s*)?(ANEXO|AP[EÉ]NDICE)\b", re.I)
 _NUM_PAGINA = re.compile(r"\W*(p[aá]g(ina)?\.?\s*)?\d{1,3}(\s*(de|/)\s*\d{1,3})?\W*", re.I)
 _FIN_PARRAFO = re.compile(r"[.:;]\s*[\"”»)]?\s*$")
 _INICIO_ITEM = re.compile(r"^\s*([a-zA-Z]\)|[ivx]+\)|\d{1,3}[.)\-]|[•■▪●\-–])\s")
+
+
+# TEXTO_SOLO_VISION=si: toda página usa la transcripción del modelo de visión (cache/vlm), sin respaldo en el OCR.
+# Del OCR en caché solo se usan la lista de páginas y la orientación (al renderizar). Una página sin transcripción
+# detiene la etapa.
+SOLO_VISION = config.env("TEXTO_SOLO_VISION", "no").lower() in ("si", "sí", "1", "true")
+
+
+class FaltaVision(RuntimeError):
+    def __init__(self, pagina: int):
+        super().__init__(f"página {pagina} sin transcripción de visión")
+        self.pagina = pagina
 
 
 def ruta_texto(p: Proyecto, doc_id: str):
@@ -64,6 +77,10 @@ def _lineas_pagina(pagina: dict, vlm: dict | None, fuente_manual: str | None) ->
     vlm_ok = vlm is not None and not vlm.get("truncado") and variedad(vlm["texto_vlm"]) >= 0.5 and (
         vlm.get("n_palabras_vlm", 0) >= 0.5 * pagina["calidad"]["n_palabras"] or pagina["calidad"]["conf_media"] < 0.5)
     usar_vlm = vlm is not None and (fuente_manual == "vlm" or (fuente_manual is None and vlm_ok))
+    if SOLO_VISION:                       # TEXTO_SOLO_VISION=si: el texto sale siempre del modelo de visión
+        if vlm is None:
+            raise FaltaVision(pagina["pagina"])
+        usar_vlm = True
     if usar_vlm:
         fuente, texto, confs = "vlm", vlm["texto_vlm"], None
     else:
@@ -90,16 +107,27 @@ def construir(p: Proyecto, doc: Documento, manual: dict | None = None) -> dict:
     manual = manual if manual is not None else _fuentes_manuales(p)
     lineas: list[dict] = []
     parrafo = -1
+    faltan = []
     for pagina in leer_paginas(p, doc):
         n = pagina["pagina"]
         ruta_v = p.dir_vlm / doc.id / f"p{n:04d}.json"
         vlm = json.loads(ruta_v.read_text(encoding="utf-8")) if ruta_v.exists() else None
-        fuente, filas = _lineas_pagina(pagina, vlm, manual.get((doc.id, n)))
+        if SOLO_VISION and vlm is not None and (vlm.get("truncado") or variedad(vlm["texto_vlm"]) < 0.5):
+            print(f"  ⚠ {doc.id} p{n:04d}: transcripción {'truncada' if vlm.get('truncado') else 'en bucle'} "
+                  "(se usa igual: no hay respaldo en el OCR)")
+        try:
+            fuente, filas = _lineas_pagina(pagina, vlm, manual.get((doc.id, n)))
+        except FaltaVision:
+            faltan.append(n)
+            continue
         for j, (texto, conf, nuevo) in enumerate(filas):
             if nuevo or j == 0:
                 parrafo += 1
             lineas.append({"i": len(lineas), "pag": n, "texto": texto, "conf": conf, "fuente": fuente,
                            "parrafo": parrafo, "marginal": False})
+    if faltan:
+        raise RuntimeError(f"{doc.id}: {len(faltan)} páginas sin transcripción de visión (TEXTO_SOLO_VISION=si): "
+                           f"{faltan[:20]}. Corre `python main.py vlm --proyecto {p.id} --todas`.")
     _marcar_marginales(lineas)
     return {"documento": doc.id, "archivo": doc.archivo, "lineas": lineas}
 

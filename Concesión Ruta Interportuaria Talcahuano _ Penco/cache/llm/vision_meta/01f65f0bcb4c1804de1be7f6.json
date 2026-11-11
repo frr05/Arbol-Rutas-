@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000523,
+ "usage": {
+  "completion_tokens": 411,
+  "prompt_tokens": 4409,
+  "total_tokens": 4820,
+  "completion_tokens_details": {
+   "reasoning_tokens": 169
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.3,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N\\u00ba 3: Ingresos M\\u00ednimos Garantizados por el Estado.\", \"encabezados\": [\"A\\u00f1o Calendario Explotaci\\u00f3n\", \"Ingresos M\\u00ednimos Garantizados IMGt (UF) / Con Av. Alessandri\", \"Ingresos M\\u00ednimos Garantizados IMGt (UF) / Sin Av. Alessandri\"], \"filas\": [[\"1\", \"37.998 x f\", \"13.244\"], [\"2\", \"40.789 x f\", \"14.217\"], [\"3\", \"43.794 x f\", \"15.264\"], [\"4\", \"47.028 x f\", \"16.392\"], [\"5\", \"50.511 x f\", \"17.606\"], [\"6\", \"54.260 x f\", \"18.912\"], [\"7\", \"58.297 x f\", \"20.320\"], [\"8\", \"62.502 x f\", \"21.785\"]], \"notas\": null}]}"
+}

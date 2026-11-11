@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 7,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 387,
+ "segundos": 6.9,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 249,
+  "conf_media": 0.927,
+  "frac_baja": 0.02,
+  "frac_rara": 0.011,
+  "tinta": 0.0492
+ },
+ "n_palabras_vlm": 251,
+ "frac_rara_vlm": 0.006,
+ "similitud": 0.982,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A,\n\nRuta\n\nVía para el tránsito de vehículos y sus obras complementarias tal como se\ndescribe en la \"Descripción del Proyecto” en el numeral 1.6 del presente\nReglamento.\n\nConcesionario, Concesionaria, Sociedad Concesionaria\n\nPersona jurídica titular del contrato de concesión. Por extensión, se refiere\nademás a quien ésta determine como empresa subcontratista para la operación,\nexplotación y conservación de la ruta.\n\nJete de Plaza\n\nPersona designada por el concesionario quien actuará como administrador\nresponsable de las operaciones de las plazas de peajes y demás instalaciones\nde la Concesión.\n\nIL. DEBERES Y DERECHOS DEL.USUARIO\n\n3.1 Derechos del usuario a recibir los Servicios Básicos\n\nEl usuario tiene derecho a recibir de parte del Concesionario los Servicios\nBásicos, estipulados en el Contrato de Concesión. Estos servicios consisten en\ncircular por la obra vial, utilizar o recibir los servicios de asistencia al usuario en\nlas vías tarificadas, tales como servicios de información, asistencia en ruta,\nasistencia en caso de accidentes, entre otros, sin restricción ni discriminación\nalgunña, en forma ininterrumpida, salvo caso fortuito o fuerza mayor.\n\n3.2 Derecho a Seguridad\n\nEl usuario tene derecho a exigir los elementos de seguridad, control, supervisión\ny gestión, además de la infraestructura necesaria para que la obra mantenga su\nnivel de servicio. De verse interrumpidas estas condiciones normales de servicio,\npor causa imputable a la Sociedad Concesionaria, el usuario tiene derecho a\nformular reclamos.\n\nEl derecho a la seguridad se refiere a:\n\n+ Las obras ejecutadas, en especial a la seguridad vial de ellas.",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nRuta\n\nVía para el tránsito de vehículos y sus obras complementarias tal como se\ndescribe en la \"Descripción del Proyecto\" en el numeral 1.6 del presente\nReglamento.\n\nConcesionario, Concesionaria, Sociedad Concesionaria\n\nPersona jurídica titular del contrato de concesión. Por extensión, se refiere\nademás a quien ésta determine como empresa subcontratista para la operación,\nexplotación y conservación de la ruta.\n\nJefe de Plaza\n\nPersona designada por el concesionario quien actuará como administrador\nresponsable de las operaciones de las plazas de peajes y demás instalaciones\nde la Concesión.\n\nIII. DEBERES Y DERECHOS DEL USUARIO\n\n3.1 Derechos del usuario a recibir los Servicios Básicos\n\nEl usuario tiene derecho a recibir de parte del Concesionario los Servicios\nBásicos, estipulados en el Contrato de Concesión. Estos servicios consisten en\ncircular por la obra vial, utilizar o recibir los servicios de asistencia al usuario en\nlas vías tarificadas, tales como servicios de información, asistencia en ruta,\nasistencia en caso de accidentes, entre otros, sin restricción ni discriminación\nalguna, en forma ininterrumpida, salvo caso fortuito o fuerza mayor.\n\n3.2 Derecho a Seguridad\n\nEl usuario tiene derecho a exigir los elementos de seguridad, control, supervisión\ny gestión, además de la infraestructura necesaria para que la obra mantenga su\nnivel de servicio. De verse interrumpidas estas condiciones normales de servicio,\npor causa imputable a la Sociedad Concesionaria, el usuario tiene derecho a\nformular reclamos.\n\nEl derecho a la seguridad se refiere a:\n\n• Las obras ejecutadas, en especial a la seguridad vial de ellas.\n\n6"
+}

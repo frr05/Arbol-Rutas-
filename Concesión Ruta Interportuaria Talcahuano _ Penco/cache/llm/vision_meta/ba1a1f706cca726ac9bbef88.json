@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.000582,
+ "usage": {
+  "completion_tokens": 813,
+  "prompt_tokens": 4195,
+  "total_tokens": 5008,
+  "completion_tokens_details": {
+   "reasoning_tokens": 29
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.2,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO – PENCO\nPOR ISLA ROCUANT\n\nANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA\nRef.: artículo 1.5.6, B.A.\n\nIdentificación del\nLicitante / Grupo Licitante: ________________________________________\n\nAcepta Distribuir Riesgos entre la Sociedad Concesionaria y el Estado, según lo indicado en 1.14.6.1\n\n--------------------\n(Indicar SI o NO)\n\nCOMPOSICIÓN DE LOS FACTORES DE LICITACIÓN (Completar)\n\n| Plazo de la Concesión ofrecido (NM), expresado en meses. (1) | ____________________ meses |\n| Monto del Subsidio solicitado (S), expresado en UF. (2) | ____________________ UF |\n| Plazo de Postergación de la Puesta en Servicio Provisoria de Av. Alessandri ofrecido (ND), expresado en días.(3) | ____________________ días |\n\nNotas:\n\n(1) “NM” corresponde al plazo de la concesión ofrecido, de acuerdo a lo indicado en el artículo 3.2 de las presentes Bases, el cual deberá ser inferior o igual a 378 meses (NM ≤ 378).\n\n(2) “S” corresponde al monto de Subsidio solicitado al Estado, de acuerdo a lo indicado en los artículos 1.14.7 y 3.2 de las presentes Bases, el cual deberá ser inferior o igual a UF 290.000 (0 < S ≤ 290.000).\nSi el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el valor del Subsidio S con valor “0” (S = 0).\n\n(3) “ND” corresponde al número de días contados desde la Puesta en Servicio Provisoria de las obras descritas en el artículo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las mismas Bases.\nSi el licitante o grupo licitante opta por SÍ construir las obras indicadas en el artículo 1.3.2, deberá señalar el número de días ND dentro del rango entre 1 y 1.800 (1 ≤ ND ≤ 1.800).\nSi el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras señaladas en el artículo 1.3.2 conjuntamente con la Puesta en Servicio Provisoria de las obras indicadas en el artículo 1.3.1, deberá completar ND con valor cero (ND = 0).\nSi el licitante o grupo licitante opta por NO ejecutar las obras de Prolongación de Av. Alessandri señaladas en el artículo 1.3.2 de las presentes Bases, para los efectos de la evaluación de la Oferta Económica, según el artículo 3.3, deberá completar el número ND con el valor 5.000 (ND = 5.000).\n\n____________________________________ ____________________________________\nFirma del Representante ante el MOP (*) Firma del Director General de Obras Públicas\n\n(*) De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento Nº3 de las Bases de Licitación."
+}

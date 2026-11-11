@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:48",
+ "costo": 0.000629,
+ "usage": {
+  "completion_tokens": 1046,
+  "prompt_tokens": 4195,
+  "total_tokens": 5241,
+  "completion_tokens_details": {
+   "reasoning_tokens": 216
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.9,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nCada vez que la Sociedad Concesionaria realice una modificación al Anteproyecto Referencial o al\nAnteproyecto Alternativo, según corresponda, que requiera expropiar terrenos que tengan un mayor valor de\ntasación que los del Anteproyecto Referencial o del Anteproyecto Alternativo, estos mayores costos serán de\ncargo de la Sociedad Concesionaria. Este mayor valor será determinado según la diferencia que exista entre el\nvalor pericial de los terrenos del Anteproyecto Referencial o del Anteproyecto Alternativo y el valor pericial de\nlos terrenos del Proyecto Modificado. La Sociedad Concesionaria deberá pagar en un plazo no superior a 60\ndías desde que sea notificada por el Inspector Fiscal por medio de anotación en el Libro de Obras\ncorrespondiente, el monto a que asciende este mayor valor por expropiaciones a que hace referencia el presente\npárrafo.\n\nLos costos en los que deba incurrir la Sociedad Concesionaria para la obtención de los antecedentes exigidos en\nel artículo 2.4 de las presentes Bases, serán de su exclusiva responsabilidad y cargo.\n\nAsimismo, los costos asociados a la suspensión o desistimiento de las expropiaciones que se hayan iniciado y\nque no se requieran por motivo de las modificaciones al Proyecto de Ingeniería Definitiva aprobado por el\nInspector Fiscal, a que se refiere el artículo 1.9.1.4, serán de su exclusiva responsabilidad y cargo. Estos costos\nincluyen todos aquellos en que a la fecha del desistimiento haya incurrido el MOP para la tramitación de tales\nexpropiaciones, así como las indemnizaciones que el MOP deba pagar por causa del desistimiento de dichas\nexpropiaciones. La Sociedad Concesionaria deberá hacer el pago al MOP por este concepto, en un plazo no\nsuperior a los 60 días desde que sea notificada por el Inspector Fiscal a través del Libro de Obras\ncorrespondiente.\n\nEl atraso en el cumplimiento de cualquiera de estos pagos hará incurrir a la Sociedad Concesionaria en las\nmultas establecidas en el artículo 1.8.5.1, sin perjuicio de lo dispuesto en el artículo 1.14.4 de las presentes\nBases de Licitación.\n\n1.8.5 Infracciones y Multas\n\nEl incumplimiento o infracción, por parte del Concesionario, de cualquiera de las obligaciones del Contrato de\nConcesión, será causal de sanciones y multas.\n\nEl Concesionario no estará exento de responsabilidad ni aún en los casos en que los incumplimientos sean\nconsecuencia de contratos que celebre con terceras personas.\n\nEl Inspector Fiscal notificará la infracción detectada al Concesionario y propondrá la aplicación, si es el caso, de\nlas multas que se estipulan a continuación.\n\n1.8.5.1 Tipos de Infracciones y Multas\n\nEn caso de incumplimiento de las obligaciones de la Sociedad Concesionaria el Inspector Fiscal notificará a la\nmisma de la infracción detectada y propondrá la aplicación, si es el caso, de las multas que se estipulan en la\nTabla Nº 2.\n\nTabla Nº 2: Infracciones y Multas a la Sociedad Concesionaria.\nArtículo | Monto | Tipo de Infracción | Criterio de | Otros\nBases de | Multa |  | Aplicación | \nLicitación | (UTM) |  |  | \na) Relacionadas con las Obligaciones de Información y Otras\n1.7.2 | 1.000 | Imputar costos del contrato de concesión u otros señalados en dicho artículo, a la contabilidad de la Sociedad Concesionaria. | Cada vez. | \nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+}

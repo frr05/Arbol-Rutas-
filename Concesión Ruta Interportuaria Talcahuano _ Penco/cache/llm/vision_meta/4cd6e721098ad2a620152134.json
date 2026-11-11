@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000614,
+ "usage": {
+  "completion_tokens": 973,
+  "prompt_tokens": 4195,
+  "total_tokens": 5168,
+  "completion_tokens_details": {
+   "reasoning_tokens": 86
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nproyectos definitivos deberán contar con la aprobación del Inspector Fiscal. En cualquier caso, la\nSociedad Concesionaria será responsable de cumplir con los estándares mínimos definidos en las\npresentes Bases de Licitación.\n\n31) Punto de Cobro: El lugar físico ubicado sobre las calzadas o en un acceso en el cual se instalan los\nequipos para efectuar el cobro de tarifas.\n\n32) Resolución de Calificación Ambiental: Es un acto administrativo en virtud del cual la COREMA\ncorrespondiente califica ambientalmente un proyecto o actividad, aprobándolo, rechazándolo o, si la\naprobación fuera condicionada, fijando las condiciones o exigencias ambientales que deberán\ncumplirse para su ejecución.\n\n33) Seguro por Daño Ambiental: Es aquel seguro contemplado por el artículo 15º de la Ley Nº19.300\nde 1994 sobre Bases Generales del Medio Ambiente y el DS Nº30/97 del MINSEGPRES, Reglamento\ndel Sistema de Evaluación de Impacto Ambiental, en sus artículos 98º y siguientes. Este seguro\npermite obtener una autorización provisoria para iniciar la construcción de las obras antes de contar\ncon la Resolución de Calificación Ambiental.\n\n34) SEIA: Sistema de Evaluación de Impacto Ambiental establecido en la Ley Nº19.300 de 1994, es el\nprocedimiento a cargo de la CONAMA o de la COREMA respectiva, que en base al Estudio o\nDeclaración de Impacto Ambiental, determina si el impacto ambiental de una actividad o proyecto se\najusta a las normas vigentes.\n\n35) Semestre: Período comprendido entre el 1º de Enero y el 30 de Junio o el período comprendido entre\nel 1º de Julio y el 31 de Diciembre de cada año.\n\n36) Servicios Básicos: Todos aquellos que comprenden el objeto específico de la concesión y que sean\nimprescindibles y por los cuales el Concesionario está autorizado a cobrar tarifas a los usuarios.\n\n37) Servicios Complementarios: Los servicios adicionales, útiles y necesarios, que el Concesionario esté\nautorizado a prestar y por los cuales podrá cobrar un precio a los usuarios, en virtud del Contrato de\nConcesión y del artículo 7º, letra j) del DS MOP Nº900 de 1996.\n\n38) Servicios Especiales Obligatorios: Cualesquiera otros servicios establecidos con carácter obligatorio\nen las presentes Bases de Licitación. Estos podrán ser onerosos o gratuitos, según se determine en\nestas Bases.\n\n39) Sobres de Oferta: Sobre, paquete, bulto u otro envoltorio en que son entregadas la Oferta Técnica y\nla Oferta Económica en las condiciones determinadas por las presentes Bases de Licitación.\n\n40) Sociedad Concesionaria: La sociedad constituida por el adjudicatario, con la que se celebrará el\nContrato de Concesión, y cuyo objeto será la ejecución, reparación, conservación y explotación de\nobras públicas fiscales, en la forma y condiciones determinadas en las presentes Bases de Licitación.\nTambién denominada Concesionario.\n\n41) Valor de la Unidad de Fomento (UF): El valor de la Unidad de Fomento será el que fije el Banco\nCentral de Chile en conformidad a la facultad que le confiere el número 9 del artículo 35º de la Ley\nNº18.840, Ley Orgánica Constitucional del Banco Central de Chile, y que dicho organismo publica en\nel Diario Oficial. Si en el futuro la Ley otorgara a otro organismo la facultad de fijar y/o publicar el\nvalor de la Unidad de Fomento, se estará sujeto a la Unidad de Fomento que dicho organismo fije. En\nel evento que termine la Unidad de Fomento, substitutivamente se aplicará la variación que\nexperimente el Índice de Precios al Consumidor (IPC) entre el último día del segundo mes anterior al\nque dejare de existir la Unidad de Fomento, y el último día del segundo mes anterior a la fecha de\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 4"
+}

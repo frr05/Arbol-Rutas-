@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000591,
+ "usage": {
+  "completion_tokens": 884,
+  "prompt_tokens": 4142,
+  "total_tokens": 5026,
+  "completion_tokens_details": {
+   "reasoning_tokens": 449
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.2,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Todo el personal mantendrá un código secreto \"CLAVE\n1\" que se interpretará como presencia de un asalto. Por\nlo tanto, el personal se abstendrá de indicar por radio,\naltoparlantes o intercomunicador la presencia de un\nasalto o mencionar la palabra robo sino mediante el uso\nde esta clave, de modo de no incitar a los asaltantes a\nrespuestas impredecibles.\n\n- La clave indicará al personal que no está en presencia\ndirecta del robo la necesidad inmediata de llamar a\nCarabineros.\n\n- Si el asalto es a las cajas de dinero tipo buzón, deberá\nexplicarse que las llaves las maneja una empresa\nexterna de recaudación y no hay manera de abrirlas sin\nesas llaves.\n\n- Si el asalto persigue las cajas de recaudación, se abrirán\npermitiendo que saquen el dinero remanente en ellas.\nEsto hace imperioso la necesidad de mantener un\nmínimo de dinero en caja depositando de acuerdo a las\ninstrucciones en el buzón.\n\n- Si es asaltado, entregue la bandeja de dinero entera\ninmediatamente y concéntrese en las apariencias físicas\ndel asaltante. NO VACILE NI PONGA NINGUNA\nRESISTENCIA. Si el asaltante le devuelve la bandeja,\nrecíbala. La bandeja podría tener huellas dactilares.\nCuide que no vaya a dañarlas o agregar más huellas.\n\nDespués del asalto:\n\n- Apriete el botón de asalto (pánico).\n\n- Rápidamente busque la patente, si fuera el caso.\n\n- Tome nota del color y la marca del vehículo y de\ncualquier marca o detalle, de ser posible.\n\n- Recuerde, y si es posible, anote los detalles del incidente\ninmediatamente ocurrido.\n\n- Rápidamente llame a Carabineros.\n\n23"
+}

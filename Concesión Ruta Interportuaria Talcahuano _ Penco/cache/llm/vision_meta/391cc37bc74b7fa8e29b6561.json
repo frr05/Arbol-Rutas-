@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000737,
+ "usage": {
+  "completion_tokens": 1589,
+  "prompt_tokens": 4195,
+  "total_tokens": 5784,
+  "completion_tokens_details": {
+   "reasoning_tokens": 793
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.6,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.16.3.2 Cobro por Uso Efectivo\n\nEn este caso el fraccionamiento tarifario consiste en ajustar la tarifa calculada en el artículo 1.16.1.1 de las\npresentes Bases, cada $1, al alza o a la baja y opera de la siguiente manera:\n\n• Si el remanente por sobre las unidades de pesos del valor de la tarifa reajustada es menor o igual a $0,5 el\nfraccionamiento se hará a la baja.\n\n• Si el remanente por sobre las unidades de pesos del valor de la tarifa reajustada es mayor a $0,5 el\nfraccionamiento se hará a al alza.\n\nSi durante el período de la concesión la inflación u otras circunstancias hicieran aconsejable variar la moneda\nfraccionaria utilizada, la Sociedad Concesionaria propondrá al DGOP una nueva forma de ajuste por\nfraccionamiento de monedas, la cual será implementada si es autorizada por el MOP.\n\nEste fraccionamiento se realizará independientemente para cada categoría de vehículo.\n\n1.17 GESTIÓN TARIFARIA\n\n1.17.1 Gestión Tarifaria\n\nLa Sociedad Concesionaria podrá proponer al Inspector Fiscal su intención de introducir un sistema tarifario\nque incorpore diferenciaciones de tarifas por horario punta, días de la semana o períodos determinados en el\naño, que presenten mayor tráfico. El MOP se reserva el derecho de aceptar o rechazar la solicitud de la\nSociedad Concesionaria.\n\nDicha solicitud deberá contener a lo menos, la nueva estructura tarifaria propuesta, posibles modificaciones\ndel proyecto y los cambios que esta nueva tarificación genera sobre las condiciones económicas de la\nconcesión.\n\nEn caso de que el MOP aceptare la solicitud de la Sociedad Concesionaria, el DGOP, con Visto Bueno del\nMinisterio de Hacienda, tendrá 120 días para contestar por escrito la comunicación de la Sociedad\nConcesionaria.\n\n1.17.2 Tarificación por Congestión\n\nPara disminuir los niveles de congestión y mejorar los niveles de servicio de la vía concesionada, el MOP,\ncon Visto Bueno del Ministerio de Hacienda, podrá exigir la implantación de una estructura tarifaria diferente\na la estipulada en el artículo 1.16.1.1 de las presentes Bases, para lo cual se utilizará el siguiente\nprocedimiento:\n\na) Cuando el MOP, de manera justificada, considere que los niveles de tránsito producen congestión,\ncomunicará al Concesionario a través del Inspector Fiscal, su intención de introducir un sistema tarifario\nque incorpore diferenciaciones de tarifas por horarios punta, días de la semana o periodos determinados\nen el año que presenten mayor tráfico, en toda la ruta, o bien en sectores específicos de la concesión si\nprocediere. Dicha notificación deberá contener al menos, la nueva estructura tarifaria propuesta, los\ncambios que esta nueva tarificación genera sobre las condiciones económicas de la concesión y los\nmecanismos de compensación o indemnización que eventualmente puedan producirse a la Sociedad\nConcesionaria en caso de perjuicio.\n\nb) La Sociedad Concesionaria tendrá 30 días para contestar por escrito a la comunicación del MOP. Si\nexistiesen diferencias entre la propuesta del MOP y la Sociedad Concesionaria, se dará un plazo de 30\ndías para llegar a acuerdo en las nuevas condiciones tarifarias y económicas de la concesión, con lo cual\nse modificará el Decreto de adjudicación. Transcurrido este plazo, si subsistiesen las diferencias entre el\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 92"
+}

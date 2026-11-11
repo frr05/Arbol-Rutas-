@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000621,
+ "usage": {
+  "completion_tokens": 1033,
+  "prompt_tokens": 4142,
+  "total_tokens": 5175,
+  "completion_tokens_details": {
+   "reasoning_tokens": 526
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.7,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nI. ANTECEDENTES GENERALES\n\n1.1 Objeto del Reglamento\n\nEl presente Reglamento de Servicio de la Obra es un reglamento interno emitido\npor la Sociedad Concesionaria y aprobado por el MOP, que rige el uso,\noperación, mantención y conservación de la obra y de los servicios básicos que\nofrece la Sociedad Concesionaria en la etapa de Explotación de la misma.\n\nEn él se establecen y precisan los derechos y obligaciones de los Usuarios, los\nderechos y obligaciones de la Sociedad Concesionaria y las actuaciones del\nMOP, de conformidad a los términos del Contrato de Concesión.\n\nEste Reglamento será revisado y actualizado periódicamente de acuerdo a las\nnecesidades de la operación, debiendo ser aprobadas las modificaciones por el\nMOP, orientándose a mantener un alto estándar de servicio que se espera para\nesta operación.\n\n1.2 Localización del Reglamento\n\nLa Sociedad Concesionaria dispone de ejemplares del Reglamento de Servicio\nde la Obra, los que están accesibles para consultas de los usuarios en el Edificio\nde la Concesionaria ubicado en la Plaza de Peajes de Avda. Alessandri (Km.\n1.270). Además se encontrará para entrega, copias del extracto de dicho\nReglamento.\n\n1.3 Alcance\n\nEste Reglamento es válido para todos los usuarios, personal del MOP y personal\nque trabaje en la Concesión, incluido personal de empresas externas y/o de\nservicio, tales como seguridad o aseo, entre otras. Su observación a las normas\nde funcionamiento es condición esencial para su aceptación como proveedor de\nservicios.\n\n1.4 De la Sociedad Concesionaria\n\nSociedad Concesionaria Autopista Interportuaria S.A., conformada por Besalco\nConcesiones S.A. y Besalco S.A., es una sociedad cuyo giro exclusivo es la\nConstrucción, Operación y Explotación de la Obra Pública Fiscal, denominada\n“Ruta Interportuaria Talcahuano – Penco, por Isla Rocuant”, según consta en el\nDecreto Supremo de Adjudicación del Ministerio de Obras Públicas Nº 112, de\nfecha 31 de enero de 2002. Esta sociedad fue constituida según consta en la\n\n2"
+}

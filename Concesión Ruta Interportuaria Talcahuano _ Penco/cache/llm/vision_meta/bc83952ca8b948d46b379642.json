@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:58",
+ "costo": 0.000613,
+ "usage": {
+  "completion_tokens": 965,
+  "prompt_tokens": 4199,
+  "total_tokens": 5164,
+  "completion_tokens_details": {
+   "reasoning_tokens": 594
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.3,
+ "truncado": false,
+ "texto": "RUTA INTERPORTUARIA TALCAHUANO PENCO POR ISLA ROCUANT\n\nB) DISMINUCIONES DE OBRAS\n\n1.- EJECUCIÓN DE BERMAS EN T.S.D.:\n\nEl Proyecto Referencial de Ingeniería de Detalle del contrato consultaba\nbermas del tipo doble tratamiento Superficial (T.S.D.).\n\nComo consecuencia del atraso en la entrega por parte del MOP de los\nterrenos necesarios para la ejecución de las obras contempladas en el\nConvenio Complementario Nº 1, se acordó la construcción de bermas en\nPavimento Asfáltico, lo cual permitió un menor plazo de ejecución, sin\ncomprometer la calidad técnica de éstas.\n\nDe esta manera, corresponde disminuir del monto a pagar en este\nconvenio, el valor de la ejecución de las obras por concepto de bermas\ndel tipo doble tratamiento superficial establecidas en el PRID, que en la\npráctica no se ejecutaron.\n\n2.- MODIFICACIÓN DEL ENLACE ROCUANT:\n\nLa Sociedad Concesionaria solicitó, en los términos establecidos en el\nartículo 1.9.1.1 de las Bases de Licitación, la modificación de proyecto\ndel Enlace Rocuant, lo cual significó una disminución significativa del\nvalor de ejecución de las obras, respecto al presupuesto del\nanteproyecto referencial. Según lo establecido en el contrato, le\ncorresponde a la Concesionaria ejecutar inversiones por un equivalente\ndel 70% de la disminución total registrada en el valor de dicho proyecto,\nlo cual se regula en este convenio.\n\nCARLOS DIAZ VARGAS\nINSPECCION FISCAL\n\nCONVENIO COMPLEMENTARIO Nº2 PAG. 8 DE 8"
+}

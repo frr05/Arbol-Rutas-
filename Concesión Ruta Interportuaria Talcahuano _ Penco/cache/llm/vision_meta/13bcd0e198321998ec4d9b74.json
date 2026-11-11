@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000501,
+ "usage": {
+  "completion_tokens": 407,
+  "prompt_tokens": 4199,
+  "total_tokens": 4606,
+  "completion_tokens_details": {
+   "reasoning_tokens": 304
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.1,
+ "truncado": false,
+ "texto": "ANEXO Nº 6\n\nMONOGRAFIAS DESCRIPTIVAS\n\nITEM 1: MODIFICACION DE TRAZADO EN EL ACCESO A TALCAHUANO\na) Trazado original del Acceso a Talcahuano\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO.PP.\nDEPTO. DE\nCONCESIONES"
+}

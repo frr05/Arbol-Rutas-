@@ -2,15 +2,15 @@
  "documento": "RITP.D11",
  "pagina": 12,
  "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 149,
- "segundos": 7.2,
- "fecha": "2026-11-05 00:45",
- "motivos": "conf_media",
+ "tokens": 172,
+ "segundos": 5.4,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 103,
   "conf_media": 0.829,
@@ -20,8 +20,8 @@
  },
  "n_palabras_vlm": 86,
  "frac_rara_vlm": 0.048,
- "similitud": 0.802,
+ "similitud": 0.792,
  "truncado": false,
  "texto_ocr": "NOVENO: El presente convenio se firma en cinco ejemplares, quedando dos de\nellos en poder de la Sociedad Concesionaria, dos en el Ministerio de Obras Públicas\ny el quinto deberá ser protocolizado ante Notario por la Sociedad Concesionaria\nconjuntamente con la transcripción del Decreto Supremo que apruebe el presente\nconvenio, conforme al artículo 9 del D.S. MOP N*900 de 1996.\n\nDirector General de Obras Públicas\n\nQS MM\n\nPAULO BEZAÑILLA SAAVEDRA CARLOS FUENZAC: pt\nSociedad Concesionaria Autopista Sociedad Conces Ha Autopista\nInterportuaria S.A. Inerportuara ¡ A,\n\n: A\n¿tl ¡ej ra NS\nONES TE on\n9 (99 as EOS]\nNES, EDS\nxt / 1d",
- "texto_vlm": "NOVENO: El presente convenio se firma en cinco ejemplares, quedando dos de ellos en poder de la Sociedad Concesionaria, dos en el Ministerio de Obras Públicas y el quinto deberá ser protocolizado ante Notario por la Sociedad Concesionaria conjuntamente con la transcripción del Decreto Supremo que apruebe el presente convenio, conforme al artículo 9 del D.S. MOP N° 900 de 1996.\n\nVICENTE PARDO DIAZ\nDirector General de Obras Públicas\n\nPAULO BEZANILLA SAAVEDRA\nSociedad Concesionaria Autopista\nInterportuaria S.A.\n\nCARLOS FUENZALIDA INOSTROZA\nSociedad Concesionaria Autopista\nInterportuaria S.A.\n\n9"
+ "texto_vlm": "NOVENO: El presente convenio se firma en cinco ejemplares, quedando dos de\nellos en poder de la Sociedad Concesionaria, dos en el Ministerio de Obras Públicas\ny el quinto deberá ser protocolizado ante Notario por la Sociedad Concesionaria\nconjuntamente con la transcripción del Decreto Supremo que apruebe el presente\nconvenio, conforme al artículo 9 del D.S. MOP Nº 900 de 1996.\n\nVICENTE PARDO DÍAZ\nDirector General de Obras Públicas\n\nPAULO BEZANILLA SAAVEDRA\nSociedad Concesionaria Autopista\nInterportuaria S.A.\n\nCARLOS FUENZALIDA INOSTROZA\nSociedad Concesionaria Autopista\nInterportuaria S.A.\n\n9"
 }

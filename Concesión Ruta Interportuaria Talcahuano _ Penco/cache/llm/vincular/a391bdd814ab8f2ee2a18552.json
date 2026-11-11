@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 13:04",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D11.F0017",
+    "destino": "BL:1.7.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0018",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0019",
+    "destino": "BL:1.10.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0020",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0021",
+    "destino": "BL:1.14.2.3.3"
+   },
+   {
+    "fragmento": "RITP.D11.F0022",
+    "destino": "BL:1.14"
+   },
+   {
+    "fragmento": "RITP.D11.F0023",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0024",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0025",
+    "destino": "BL:1.14.2.3.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0026",
+    "destino": "BL:1.14.2.3.3"
+   },
+   {
+    "fragmento": "RITP.D11.F0028",
+    "destino": "BL:1.14.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0031",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0032",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0033",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0034",
+    "destino": "BL:2.10.3"
+   },
+   {
+    "fragmento": "RITP.D11.F0035",
+    "destino": "BL:2.10.7"
+   },
+   {
+    "fragmento": "RITP.D11.F0036",
+    "destino": "BL:1.14.6.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0037",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0038",
+    "destino": "BL:1.14.2.3.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0039",
+    "destino": "BL:1.14.6.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0040",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0041",
+    "destino": "BL:1.14.2.3.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0042",
+    "destino": "BL:2.2.1.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0043",
+    "destino": "BL:2.2.1.5"
+   },
+   {
+    "fragmento": "RITP.D11.F0044",
+    "destino": "BL:2.2.2.1"
+   }
+  ]
+ }
+}

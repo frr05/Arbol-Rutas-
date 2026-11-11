@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.000581,
+ "usage": {
+  "completion_tokens": 808,
+  "prompt_tokens": 4195,
+  "total_tokens": 5003,
+  "completion_tokens_details": {
+   "reasoning_tokens": 60
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nEl plazo de la concesión \"NM\" será igual a 378 meses (NM = 378) y el factor \"ND\" corresponderá a cero (ND\n= 0).\n\nLa existencia de uno o más licitantes o grupos licitantes que presenten Ofertas en este Tramo, y siendo que no\nhubo Ofertas en el Tramo A, automáticamente descalificará a aquellos licitantes o grupos licitantes que\npresenten Ofertas en el Tramo C.\n\n3.2.3      Tramo C\n\nEl factor \"ND\" que el licitante o grupo licitante solicite en su Oferta, deberá situarse entre 1 y 1.800 días (1 ≤\nND ≤ 1.800). El plazo de la concesión \"NM\" será igual a 378 meses (NM = 378) y el monto de Subsidio\nsolicitado por el Oferente al Estado será de UF 290.000 (S = 290.000).\n\nSi licitante o grupo licitante opta por NO ejecutar la obra opcional \"Prolongación Camino Carriel Sur (Av.\nAlessandri)\" señalada en el artículo 1.3.2 de estas Bases, deberá consignar en su Oferta un valor para ND igual a\n5.000 (ND = 5.000).\n\n3.3      EVALUACIÓN DE LAS OFERTAS ECONÓMICAS\n\nSólo para efectos de la evaluación de las Ofertas Económicas se define el puntaje según compita en el Tramo A\n(Plazo de Concesión), en el Tramo B (Subsidio del Estado al Oferente) o en el Tramo C (Plazo de Postergación\nPSP Prolongación Av. Alessandri).\n\nEstos factores deberán ser expresados en números enteros positivos y los puntajes se calcularán con\naproximación a un (1) decimal:\n\n3.3.1      Tramo A\n\nPara todos los licitantes o grupos licitantes que soliciten un plazo de la concesión dentro del rango definido en el\nartículo 3.2.1, se determinará su puntaje como:\n\nPuntaje(i) = - NM(i)\n\nDonde,\n\nPuntaje(i)  : Es el puntaje obtenido por el licitante o grupo licitante \"i\".\n\nNM(i)      : Corresponde al Plazo de Concesión ofrecido por el licitante o grupo licitante \"i\".\n\n3.3.2      Tramo B\n\nPara todos los licitantes o grupos licitantes que soliciten un Subsidio del Estado dentro del rango definido en el\nartículo 3.2.2, se determinará su puntaje como:\n\nPuntaje(i) = - S(i)\n\nDonde,\n\nPuntaje(i)  : Es el puntaje obtenido por el licitante o grupo licitante \"i\".\n\nS(i)        : Corresponde al monto de Subsidio solicitado por el licitante o grupo licitante \"i\".\n\n3.3.3      Tramo C\n\nPara todos los licitantes o grupos licitantes que ofrezcan postergar la Puesta en Servicio Provisoria de Av.\nAlessandri y eventualmente optan por NO ejecutar dicha [ilegible], de acuerdo a lo señalado en el artículo 3.2.3, se\ndeterminará su puntaje como:"
+}

@@ -2,15 +2,15 @@
  "documento": "RITP.D11",
  "pagina": 9,
  "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 520,
- "segundos": 41.8,
- "fecha": "2026-10-27 19:09",
- "motivos": "conf_media,palabras_baja_conf",
+ "tokens": 919,
+ "segundos": 8.3,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 260,
   "conf_media": 0.686,
@@ -18,10 +18,10 @@
   "frac_rara": 0.0,
   "tinta": 0.0596
  },
- "n_palabras_vlm": 480,
- "frac_rara_vlm": 0.013,
- "similitud": 0.469,
+ "n_palabras_vlm": 426,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.456,
  "truncado": false,
  "texto_ocr": "3,2.1 A más tardar el 30 de noviembre de cada año el Inspector Fiscal deberá\ninformar, mediante anotación en el Libro de Explotación, si durante el año\nsiguiente corresponde la ejecución de cada una de las medidas\nidentificadas en el Anexo N? 1, Ítem 3. Sólo para el caso del año 2007, se\nentenderá autorizada y ordenada la ejecución de estas medidas\nadicionales, mediante el presente convenio.\n\n3.2.2 El valor total y definitivo para cada año por concepto de la ejecución o\nimplementación de las medidas que se identifican en el Anexo N* 1, ltem 3,\nse fija en la Tabla N* 1 siguiente:\n\nTabla N* 1 .\nMantención de Plan de Seguimiento Plan de Total\nTaludes Etapa de Seguimiento Reproductivo Seguimiento\nExplotación ambiental de Avifauna Ambiental\nTaludes Revegetación\n\nUF UF UF UF\n| 2008| 103566 [| “97 | 56720 | 2267 _ |1:67524|\nZ2oto[ 103566 487 |. - lo - _ |108537|\n085,68 AA O 10857]\naora] 103588] AB\n1.035,68 49,71 -\naora [1.035,68] HB | 87\no - |108537|\nE PR A E\n2017] 1.035,88] AB\name] 1.085,68] AA O | 8\n018 1088,88 | AA 1.085,37 |]\n2080] 1.035,68— | 487 [OB\nioess | em [0-1\n022] 103566 | 497 E 108537]\n2023 03568 | 7\n2024] 1.035,88 [AB O [os\n2025] 1.085,88 [RRA] 8837]\n20261 103568 | «4974 [| 2 - | _- [108537\n2027] 1.085,88] 48 O 87]\n2028 | 108806 | 48 2] ossar]\n2029] 1.085,58 1 BA O 108537]\n49,71 A or\n031] 103568 [8 [7\n| 2o32[ 103508] 4871] TO => [08537]",
- "texto_vlm": "3.2.1 A más tardar el 30 de noviembre de cada año el Inspector Fiscal deberá informar, mediante anotación en el Libro de Explotación, si durante el año siguiente corresponde la ejecución de cada una de las medidas identificadas en el Anexo N° 1, Ítem 3. Sólo para el caso del año 2007, se entenderá autorizada y ordenada la ejecución de estas medidas adicionales, mediante el presente convenio.\n\n3.2.2 El valor total y definitivo para cada año por concepto de la ejecución o implementación de las medidas que se identifican en el Anexo N° 1, Ítem 3, se fija en la Tabla N° 1 siguiente:\n\nTabla N° 1\n| Año | Mantención de Taludes Etapa de Explotación (UF) | Plan de Seguimiento ambiental de Taludes (UF) | Seguimiento Reproductivo Avifauna (UF) | Plan de Seguimiento Ambiental Revegetación (UF) | Total (UF) |\n|---|---|---|---|---|---|\n| 2007 | 1.035,66 | 49,71 | 567,20 | 45,34 | 1.697,91 |\n| 2008 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24 |\n| 2009 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24 |\n| 2010 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2011 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2012 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2013 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2014 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2015 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2016 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2017 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2018 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2019 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2020 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2021 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2022 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2023 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2024 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2025 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2026 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2027 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2028 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2029 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2030 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2031 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2032 | 1.035,66 | 49,71 | - | - | 1.085,37 |"
+ "texto_vlm": "3.2.1 A más tardar el 30 de noviembre de cada año el Inspector Fiscal deberá\ninformar, mediante anotación en el Libro de Explotación, si durante el año\nsiguiente corresponde la ejecución de cada una de las medidas\nidentificadas en el Anexo Nº 1, Ítem 3. Sólo para el caso del año 2007, se\nentenderá autorizada y ordenada la ejecución de estas medidas\nadicionales, mediante el presente convenio.\n\n3.2.2 El valor total y definitivo para cada año por concepto de la ejecución o\nimplementación de las medidas que se identifican en el Anexo Nº 1, Ítem 3,\nse fija en la Tabla Nº 1 siguiente:\n\nTabla Nº 1\nAño | Mantención de Taludes Etapa de Explotación (UF) | Plan de Seguimiento ambiental de Taludes (UF) | Seguimiento Reproductivo Avifauna (UF) | Plan de Seguimiento Ambiental Revegetación (UF) | Total (UF)\n2007 | 1.035,66 | 49,71 | 567,20 | 45,34 | 1.697,91\n2008 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24\n2009 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24\n2010 | 1.035,66 | 49,71 | - | - | 1.085,37\n2011 | 1.035,66 | 49,71 | - | - | 1.085,37\n2012 | 1.035,66 | 49,71 | - | - | 1.085,37\n2013 | 1.035,66 | 49,71 | - | - | 1.085,37\n2014 | 1.035,66 | 49,71 | - | - | 1.085,37\n2015 | 1.035,66 | 49,71 | - | - | 1.085,37\n2016 | 1.035,66 | 49,71 | - | - | 1.085,37\n2017 | 1.035,66 | 49,71 | - | - | 1.085,37\n2018 | 1.035,66 | 49,71 | - | - | 1.085,37\n2019 | 1.035,66 | 49,71 | - | - | 1.085,37\n2020 | 1.035,66 | 49,71 | - | - | 1.085,37\n2021 | 1.035,66 | 49,71 | - | - | 1.085,37\n2022 | 1.035,66 | 49,71 | - | - | 1.085,37\n2023 | 1.035,66 | 49,71 | - | - | 1.085,37\n2024 | 1.035,66 | 49,71 | - | - | 1.085,37\n2025 | 1.035,66 | 49,71 | - | - | 1.085,37\n2026 | 1.035,66 | 49,71 | - | - | 1.085,37\n2027 | 1.035,66 | 49,71 | - | - | 1.085,37\n2028 | 1.035,66 | 49,71 | - | - | 1.085,37\n2029 | 1.035,66 | 49,71 | - | - | 1.085,37\n2030 | 1.035,66 | 49,71 | - | - | 1.085,37\n2031 | 1.035,66 | 49,71 | - | - | 1.085,37\n2032 | 1.035,66 | 49,71 | - | - | 1.085,37\n\n6"
 }

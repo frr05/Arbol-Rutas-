@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000603,
+ "usage": {
+  "completion_tokens": 809,
+  "prompt_tokens": 4409,
+  "total_tokens": 5218,
+  "completion_tokens_details": {
+   "reasoning_tokens": 122
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.6,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"CONTINGENCIAS\", \"ACCIONES\"], \"filas\": [[\"Derrame de sustancias peligrosas - Almacenamiento\", \"Si el derrame es menor - menos de un tambor- se procederá a: 1. Utilizar los elementos de contención de derrames pequeños -tapones- a fin de detener el vertimiento del producto. 2. Se avisará al Supervisor correspondiente de la obra, quién determinará las acciones a seguir para limpiar el área afectada. 3. Si existe un derrame hacia algún curso o masa de agua se deberá diseñar un plan de monitoreo de contingencia, a fin de revisar la calidad de las aguas a posterior. 4. Se mantendrá un registro -ficha- indicando la información mínima que permita dimensionar el derrame producido. 5. El supervisor comunicará semanalmente a la inspección fiscal respecto de la estadística de estos derrames. Si el derrame es mayor - más de un tambor- se procederá a: 1. Se aplicará el plan para derrames menores, aunque previamente se verificará si hay personas que se hayan visto afectadas por el derrame o trabajadores que hayan estado laborando en el área del accidente. 2. Si es así, se procederá a utilizar los elementos apropiados para resguardar primero la vida y salud de dichas personas. 3. El supervisor de la obra determinará la necesidad de requerir servicios externos para contener el derrame (bomberos, carabineros, contratistas, etc.). 4. Se registrará el accidente y se avisará de inmediato a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa.\"], [\"Incendio en Areas de Faenas\", \"1. Se organizará el equipo previamente entrenado para estos efectos. 2. El supervisor de obra deberá decidir si es necesario solicitar la ayuda de servicios externos para detener el fuego –bomberos, CONAF. 3. Se registrará el accidente y se avisará de inmediato a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa.\"], [\"Explosión\", \"1. Si hay personas heridas, se procederá a darle atención de urgencia y enviarlas de inmediato al hospital, clínica o consultorio más cercano. 2. Se prohibirá el paso a personas no involucradas en las labores de salvamento al área afectada. 3. Si producto de la explosión ocurre un incendio o derrame, se procederá a aplicar los planes de contingencia detallados específicamente para estos riesgos. 4. El supervisor de obra avisará de inmediato a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa.\"], [\"Accidentes de trabajadores\", \"1. Se dará atención de primeros auxilios en el área del accidente. 2. Si el accidente es mayor, se trasladará al herido hasta el centro asistencial más cercano. 3. Se dará el aviso correspondiente a la mutual de seguridad. 4. Se registrará el accidente en forma apropiada y se avisará a la inspección fiscal. Los encargados de comunicaciones serán quienes darán información oficial a la prensa.\"]], \"notas\": null}]}"
+}

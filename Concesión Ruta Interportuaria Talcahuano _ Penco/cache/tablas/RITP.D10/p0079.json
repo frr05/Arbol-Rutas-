@@ -1,14 +1,14 @@
 {
  "documento": "RITP.D10",
  "pagina": 79,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:30",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
-   "titulo": "Tabla N° 3: Resolución de Avance Mensual",
+   "titulo": null,
    "encabezados": [
-    "Res. N°",
+    "Res. Nº",
     "Mes",
     "Avance Mensual",
     "Mes Pago",
@@ -93,7 +93,7 @@
      "8.244,10"
     ]
    ],
-   "notas": "En las particulares condiciones del presente ejemplo numérico, queda un remanente a favor del MOP por UF 8.244,10, que debe ser resuelto bajo las condiciones estipuladas en el numeral 4.2 del Convenio Complementario N° 1."
+   "notas": null
   }
  ]
 }

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:48",
+ "costo": 0.00059,
+ "usage": {
+  "completion_tokens": 853,
+  "prompt_tokens": 4195,
+  "total_tokens": 5048,
+  "completion_tokens_details": {
+   "reasoning_tokens": 37
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.9,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLa expresión notificación por escrito, comprende entre otras, anotaciones en el Libro de Obra correspondiente, carta certificada, telegrama, o cualquier otro medio que permita dejar constancia fehaciente de la notificación.\n\nEn los casos en que haya intervenido la Comisión Conciliadora, ésta deberá establecer el mecanismo que empleará para poner en conocimiento de las partes las decisiones o resoluciones que adopte, con independencia de las comunicaciones del MOP.\n\n1.8.5.3 Plazo para el Pago de Multas\n\nLas multas o sanciones aplicadas por el MOP deberán ser pagadas por el Concesionario dentro de los 30 días siguientes a la fecha de su notificación por escrito. Si el Concesionario no diere cumplimiento a la sanción impuesta, dentro del plazo fijado, el MOP hará efectivas las garantías conforme a lo establecido en el artículo 1.8.3 de las presentes Bases, sin perjuicio de las demás acciones que procedan.\n\n1.8.6 Atribuciones del Director General de Obras Públicas\n\nDurante la vigencia del Contrato, el DGOP tendrá todas las facultades y atribuciones que conforme al ordenamiento jurídico le correspondan, teniendo, a lo menos, las siguientes funciones y atribuciones:\n\na) Recomendar al Ministro de Obras Publicas las autorizaciones que correspondan, según las solicitudes planteadas por la Sociedad Concesionaria.\n\nb) Otorgar a la Sociedad Concesionaria autorización expresa para la modificación de los estatutos de la sociedad, para enajenar y gravar bienes y derechos, según lo establecido en artículo 15° del DS MOP N°900 de 1996, y para otros actos que puedan establecer las Bases de Licitación.\n\nc) Proponer al Ministro de Obras Públicas las modificaciones al contrato que sean necesarias por razones de interés público, conforme al inciso primero del artículo 19° del DS MOP N°900 de 1996, así como las indemnizaciones o compensaciones que procedan en caso de perjuicio.\n\nd) Proponer al Ministro de Obras Públicas la aceptación o rechazo de la revisión del sistema tarifario, de su fórmula de ajuste o del plazo de concesión por causas sobrevinientes que así lo justifiquen.\n\ne) Proponer al Ministro de Obras Públicas los convenios a que se refiere el artículo 20° del DS MOP N°900 de 1996.\n\nf) Autorizar la puesta en servicio de la obra, provisoria y definitiva.\n\ng) Poner término a la puesta en servicio provisoria, cuando procediere.\n\nh) Informar acerca de las controversias que hayan sido sometidas a la Comisión Conciliadora, a los acreedores que lo soliciten y que tengan constituida en su favor la prenda especial de obra pública.\n\ni) En general, tendrá todas las facultades y atribuciones que le correspondan como parte del Contrato de Concesión.\n\n1.8.7 Pesos Máximos y Dimensiones de los Vehículos\n\nEn la vía concesionada regirán las normas de pesos máximos y dimensiones máximas de los vehículos establecidas para los caminos públicos y contenidas, respectivamente, en el Decreto MOP N°158 del 29 de Enero de 1980 y en la Resolución N°1 del 3 de Enero de 1995 del Ministerio de Transporte y Telecomunicaciones.\n\nPara verificar el peso de los vehículos, la Sociedad Concesionaria podrá instalar plazas de pesaje en la concesión o disponer de pesaje móvil. Todos los costos asociados a la instalación y funcionamiento de las plazas de pesaje instaladas por la Sociedad Concesionaria son de entero cargo de ésta. El Inspector Fiscal será el encargado de fiscalizar la instalación y funcionamiento de las plazas de pesaje instaladas por la Sociedad Concesionaria.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 44"
+}

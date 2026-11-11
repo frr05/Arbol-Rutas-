@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.00054,
+ "usage": {
+  "completion_tokens": 497,
+  "prompt_tokens": 4409,
+  "total_tokens": 4906,
+  "completion_tokens_details": {
+   "reasoning_tokens": 161
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.2,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N\\u00ba 4: Banda Superior de Ingresos.\", \"encabezados\": [\"A\\u00f1o Calendario Explotaci\\u00f3n\", \"Banda Superior de Ingresos BSYt (UF) / Incluye Av. Alessandri\", \"Banda Superior de Ingresos BSYt (UF) / No Incluye Av. Alessandri\"], \"filas\": [[\"1\", \"48.671 x g\", \"39.389\"], [\"2\", \"52.246 x g\", \"43.170\"], [\"3\", \"56.094 x g\", \"47.333\"], [\"4\", \"60.238 x g\", \"51.917\"], [\"5\", \"64.698 x g\", \"56.963\"], [\"6\", \"69.501 x g\", \"62.518\"], [\"7\", \"74.672 x g\", \"68.633\"], [\"8\", \"80.057 x g\", \"74.924\"], [\"9\", \"85.842 x g\", \"81.813\"], [\"10\", \"92.056 x g\", \"89.356\"], [\"11\", \"98.732 x g\", \"97.616\"], [\"12\", \"106.632 x g\", \"105.383\"], [\"13\", \"115.176 x g\", \"113.782\"], [\"14\", \"124.415 x g\", \"122.865\"], [\"15\", \"134.406 x g\", \"132.687\"]], \"notas\": null}]}"
+}

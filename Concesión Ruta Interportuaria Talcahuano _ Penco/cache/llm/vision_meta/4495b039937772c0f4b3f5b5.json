@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:58",
+ "costo": 0.000563,
+ "usage": {
+  "completion_tokens": 718,
+  "prompt_tokens": 4199,
+  "total_tokens": 4917,
+  "completion_tokens_details": {
+   "reasoning_tokens": 36
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.7,
+ "truncado": false,
+ "texto": "indica en el Anexo Nº 2 del presente convenio.\n\n2.5 Los montos indicados en los numerales del 2.1 al 2.4, no incluyen el\nImpuesto al Valor Agregado IVA. A mayor abundamiento, ninguno de los\nmontos referidos en este Convenio Complementario incluye IVA.\n\nTERCERO: COMPENSACIONES EN EL RÉGIMEN ECONÓMICO DE LA\nCONCESIÓN.\n\nPara compensar todas las inversiones, obras y servicios adicionales, los mayores\ncostos asociados que expresamente se detallan en los diferentes numerales de\nlas cláusulas primera y segunda, de conformidad con lo prescrito en el artículo 20\nde la Ley de Concesiones de Obras Públicas, las partes convienen las\ncompensaciones e indemnizaciones de que da cuenta el presente instrumento,\ncomo un pago único y total, utilizando para ello los siguientes factores del régimen\neconómico del contrato:\n\n3.1 Las partes acuerdan que, para compensar el monto de UF 68.273,62\n(Sesenta y Ocho mil doscientas setenta y tres coma sesenta y dos Unidades\nde Fomento) estipulado en el Anexo Nº 1 Ítem 1, según numeral 2.2\nprecedente, y en atención al cronograma de ejecución de las obras, del\nAnexo Nº 1 Ítem 2, el MOP adeuda a la Sociedad Concesionaria la cantidad\nde UF 27.829,45 (Veintisiete mil ochocientas veintinueve coma cuarenta y\ncinco Unidades de Fomento), determinado en su valor presente al 31 de\ndiciembre de 2006, conforme se indica en el mismo anexo.\n\nPara compensar el monto de UF 27.829,45; el Ministerio de Obras Públicas\nrealizará un pago único y total a la Sociedad Concesionaria a más tardar el\n31 de marzo de 2008, pudiendo el MOP realizar el pago en cualquier fecha\nanterior. El monto señalado (UF 27.829,45), devengará, a partir del 1 de\nenero de 2007, el interés diario resultante de aplicar la porción diaria que\ncorresponda de la tasa de interés corriente para operaciones reajustables,\nmayores de UF 2.000 y a un plazo mayor de un año, que informe la\nSuperintendencia de Bancos e Instituciones Financieras, hasta la fecha de\npago efectivo de la obligación. Para una mejor comprensión respecto al\ncálculo de los intereses en el Anexo Nº 3 se incluye un ejemplo numérico.\n\n3.2 El MOP pagará el último día hábil de cada año, de acuerdo a lo señalado\nen el numeral 2.3 del presente convenio, la suma equivalente en pesos de\nlos montos que corresponden a dichas medidas ambientales adicionales,\nque se ejecutarían durante cada año, a partir del año 2007, las cuales se\ndescriben en el Anexo Nº 2; todos correspondientes a obras de la\nconcesión contratadas mediante el presente Convenio Complementario,\nsegún lo que se regula en los numerales del 3.2.1 al 3.2.5 siguientes.\n\n5"
+}

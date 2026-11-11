@@ -1,0 +1,32 @@
+{
+ "tarea": "relaciones",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-11 12:36",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "A1 — ANEXO Nº1: FORMULARIO PROPUESTA ECONOMICA",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "[P2]",
+     "[P3]",
+     "[P4]",
+     "[P5]",
+     "[P6]",
+     "[P7]",
+     "[P8]",
+     "[P9]",
+     "[P10]",
+     "[P11]"
+    ],
+    "texto_nuevo": [
+     601,
+     631
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

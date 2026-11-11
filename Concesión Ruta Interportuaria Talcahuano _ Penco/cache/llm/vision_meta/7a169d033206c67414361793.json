@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000736,
+ "usage": {
+  "completion_tokens": 1583,
+  "prompt_tokens": 4195,
+  "total_tokens": 5778,
+  "completion_tokens_details": {
+   "reasoning_tokens": 808
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.0,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.16.1.3 Localización de las Plazas de Peaje en Accesos\n\nLa localización de las plazas de peaje en accesos (entrada o salida), deberá ser establecida por el licitante o grupo licitante en su Oferta Técnica, según se solicita en el Documento N°9 del artículo 1.5.5 de las presentes Bases.\n\nUna vez obtenida la Puesta en Servicio Provisoria de la totalidad de las obras señalada en el artículo 1.9.5 de las presentes Bases, si el Concesionario decide instalar plazas de peajes en los accesos, deberá tener en cuenta lo siguiente:\n\n• Podrá tarificar (pago directo, descuento de tarifa troncal o entrega de tickets) a las salidas o entradas de la vía concesionada.\n\n• Podrá utilizar esta modalidad de cobro en acceso para tarificar la vía concesionada hacia otras rutas que no se encuentren incluidas en la presente concesión.\n\n• Podrá concordar el cobro de peajes con otras concesiones que estén operando, siempre y cuando esto no signifique alterar el régimen tarifario permitido, previa autorización por parte del DGOP.\n\n• Tendrá la obligación de instalar al menos una (1) pista con cobro manual.\n\n1.16.2 Sistemas de Cobro por Uso Efectivo\n\nPor Sistema de Cobro por Uso Efectivo se entenderá aquel sistema que producto de un control total de accesos, es capaz de cobrar a los usuarios de la vía según la distancia total o parcial que han recorrido dentro de la vía concesionada.\n\nLa tecnología para el cobro del peaje bajo este sistema debe ser Control de Accesos Manual.\n\nEn un sistema de cobro por uso efectivo se podrán tarificar todos los enlaces a desnivel con la vía concesionada. Bajo la tecnología de cobro definida, será obligatorio detectar las entradas a la vía concesionada para cobrar a las salidas de ella en función de la distancia recorrida.\n\nLa Sociedad Concesionaria deberá dimensionar adecuadamente la cantidad de pistas por sentido que operarán en cada hora según se solicita en el Documento N°9 de su Oferta Técnica, para cumplir con lo dispuesto en el artículo 1.19 de estas Bases.\n\n1.16.3 Fraccionamiento de Tarifas\n\nA continuación se entregan los criterios a utilizar para ajustar las tarifas en caso de que éstas, con el reajuste, queden fraccionadas.\n\n1.16.3.1 Cobro en Peajes Troncales\n\nCon el fin de facilitar el cobro de peajes a los usuarios, se aplicará un fraccionamiento tarifario, que consiste en ajustar la tarifa calculada en el artículo 1.16.1.1 de las presentes Bases, cada $50, al alza o a la baja y opera de la siguiente manera:\n\n• Si el remanente por sobre las centenas de pesos del valor de la tarifa reajustada es menor a $50, el fraccionamiento se hará a la baja si dicho remanente se encuentra entre $1 y $24, y se hará al alza si dicho remanente se encuentra entre $25 y $49.\n\n• Si el remanente por sobre las centenas de pesos del valor de la tarifa reajustada es mayor a $50, el fraccionamiento se hará a la baja si dicho remanente se encuentra entre $51 y $74, y se hará al alza si dicho remanente se encuentra entre $75 y $99.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES\n91"
+}

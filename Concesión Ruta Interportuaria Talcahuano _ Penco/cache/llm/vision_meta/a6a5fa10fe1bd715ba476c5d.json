@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.00054,
+ "usage": {
+  "completion_tokens": 495,
+  "prompt_tokens": 4409,
+  "total_tokens": 4904,
+  "completion_tokens_details": {
+   "reasoning_tokens": 279
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.6,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N\\u00ba 15: Secciones Transversales.\", \"encabezados\": [\"Kil\\u00f3metro / Desde\", \"Kil\\u00f3metro / Hasta\", \"Secci\\u00f3n Transversal\"], \"filas\": [[\"0,00\", \"0,55\", \"Calzada Doble\"], [\"0,55\", \"0,85\", \"Transici\\u00f3n\"], [\"0,85\", \"1,36\", \"Calzada Simple\"], [\"1,36\", \"1,50\", \"Transici\\u00f3n\"], [\"1,50\", \"2,60\", \"Calzada Simple con Tercera Pista\"], [\"2,60\", \"2,70\", \"Transici\\u00f3n\"], [\"2,70\", \"4,00\", \"Calzada Simple\"], [\"4,00\", \"10,4\", \"Calzada Simple\"]], \"notas\": null}]}"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.00061,
+ "usage": {
+  "completion_tokens": 954,
+  "prompt_tokens": 4195,
+  "total_tokens": 5149,
+  "completion_tokens_details": {
+   "reasoning_tokens": 94
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.6,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nDespués de su aprobación, el pago del IVA de la factura se efectuará dentro de los 15 días contados desde la fecha de aprobación de la mencionada factura por parte del Inspector Fiscal.\n\nEn caso que el Inspector Fiscal manifieste su disconformidad con los antecedentes presentados, notificará por escrito el rechazo de los documentos presentados y su justificación, debiendo el Concesionario volver a presentar los antecedentes debidamente corregidos.\n\n1.14.4 Intereses que Devengarán los Pagos que tenga que realizar la Sociedad Concesionaria\n\nLa Sociedad Concesionaria y el MOP realizarán los pagos establecidos en este contrato en los plazos señalados en las presentes Bases de Licitación. En caso que se produzcan retrasos, dichos pagos devengarán un interés real diario de 0,0198%, lo que debe entenderse sin perjuicio de la aplicación de las multas que corresponda.\n\nEl retraso de los pagos que la Sociedad Concesionaria tenga que realizar al Estado, dará derecho a éste, al cobro de la correspondiente garantía, conforme a lo señalado en el artículo 1.8.3 letra k) de las presentes Bases de Licitación.\n\n1.14.5 Procedimiento para la realización de Pagos por el MOP y la Sociedad Concesionaria\n\nEl MOP y la Sociedad Concesionaria realizarán los pagos que correspondan en virtud del presente contrato, en los plazos previstos para ello en las presentes Bases de Licitación. Para ello, la Sociedad Concesionaria deberá presentar al Inspector Fiscal, durante el mes de Octubre de cada año, la relación de todos los pagos que tenga que efectuar el MOP a la Sociedad Concesionaria al año siguiente, indicando el motivo, la cuantía estimada y el plazo en que deberán realizarse, así como todos los pagos que tenga que realizar la Sociedad Concesionaria al MOP.\n\nRespecto de los pagos que tenga que realizar el MOP, la Sociedad Concesionaria, con un (1) mes de antelación a la fecha prevista para la realización de cada uno de estos pagos, deberá reiterar por escrito al Inspector Fiscal la fecha, cuantía y motivo del pago. Los pagos se harán mediante Vale Vista o Cheque Nominativo extendidos a nombre de la Sociedad Concesionaria o a quien corresponda legalmente.\n\nEl atraso en el cumplimiento de tal obligación, como asimismo el entregarla con datos erróneos por negligencia de la Sociedad Concesionaria, o con antecedentes maliciosamente falsos o incompletos, hará incurrir a la misma en las multas establecidas en el artículo 1.8.5.1 de las presentes Bases de Licitación.\n\nLos pagos que la Sociedad Concesionaria deba realizar al Estado se harán mediante Vale Vista extendido a nombre del Director General de Obras Públicas.\n\nLos pagos estipulados en UF en las presentes Bases de Licitación, deberán ser convertidos a pesos al valor de la UF del día en que se efectúa el pago correspondiente.\n\nLa entrega de la relación de pagos o de la reiteración por escrito será sin perjuicio de la obligación de la Sociedad Concesionaria y del MOP de realizar los pagos que correspondan en virtud del presente contrato en los plazos y condiciones previstas en las presentes Bases de Licitación, sin perjuicio de las sanciones que procedan respecto de la Sociedad Concesionaria en caso de atraso o incumplimiento.\n\n1.14.6 Distribución de Riesgos entre la Sociedad Concesionaria y el Estado\n\nEn la presente concesión se estipulan los siguientes mecanismos que permiten distribuir los riesgos entre la Sociedad Concesionaria y el Estado.\n\n1.14.6.1 Distribución de Riesgos de Demanda entre el Concesionario y el Estado\n\nSe estipula un mecanismo de Ingresos Mínimos Garantizados (IMG) por el Estado, el cual permite distribuir los riesgos derivados de la incertidumbre en el tráfico durante la etapa de explotación de la concesión. Como\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 81"
+}

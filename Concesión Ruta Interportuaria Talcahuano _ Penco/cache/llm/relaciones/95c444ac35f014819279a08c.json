@@ -1,0 +1,20 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:49",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.1",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P2"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "dentro del plazo de treinta días contados desde la solicitud de Puesta en Servicio Provisoria",
+    "debe_decir": "dentro del plazo de treinta días contados desde la primera solicitud de Puesta en Servicio Provisoria",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

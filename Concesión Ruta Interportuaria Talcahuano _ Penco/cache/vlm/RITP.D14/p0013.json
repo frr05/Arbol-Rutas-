@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 13,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 464,
+ "segundos": 8.3,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 305,
+  "conf_media": 0.91,
+  "frac_baja": 0.033,
+  "frac_rara": 0.005,
+  "tinta": 0.0526
+ },
+ "n_palabras_vlm": 305,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.969,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARÍA S.A.\n\na. Exigir por parte del usuario el pago por el servicio prestado de\nacuerdo a las tarifas publicadas en las plazas, correspondiente al\ntipo de venículo utilizado, como contraprestación por el derecho a\ntransitar por la ruta.\n\nb, Exigir judicialmente el pago por el servicio prestado, El alcance de\neste derecho del concesionario es equivalente al indicado en la Ley\nde Concesfones, esto es, a demandar al usuario ante el Juez de\nPolicía Local por hasta 40 veces el importe más reajustes.\n\nc. Exigir al usuario el cumplimiento de las instrucciones que\nfuncionarios autorizados por la Concesionaria O de su operadora\npudieren impartir con motivo de la explotación del servicio; normas\nde seguridad y prevención de accidentes, y en general respecto de\ncualquier medida tendiente a garantizar, al mismo usuario y otros,\nuna ruta segura y expedita.\n\nd. Coordinadamente, y con autorización previa de la Inspección Fiscal\nalterar temporalmente las condiciones del servicio mediante la\nadopción de medidas como fijación de horarios, sefalización,\nluminación, entre otras. Estas alteraciones deberán ser informadas\npreviamente al MOP y posteriormente al usuario. El Concesionario\ndispondrá las medidas para la oportuna reanudación del servicio.\n\n4,2 Deberes del concesionario:\na. Exigir el cobro por el servicio de acuerdo a las tarifas vigentes.\n\nb. informar al Usuario las tarifas vigentes en la plaza a través de la\npublicación de éstas en la prensa y su publicación en lugares\nvisibles en las plazas de peaje.\n\nc. Infermar oportunamente al usuario de cualquier cambio en las\ncondiciones de prestación del servicio, ya sea en términos de\ncambios tarifarios, trabajos en la ruta, cierre o desvío temporal de\nla ruta, etc.\n\nd. Mantener las obras ejecutadas en las condiciones establecidas ef\nlas Bases de Licitación.\n\n€. Restituir fa circulación vial en caso de interrupción en el menor\ntiempo posible.\n\n12",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\na. Exigir por parte del usuario el pago por el servicio prestado de\nacuerdo a las tarifas publicadas en las plazas, correspondiente al\ntipo de vehículo utilizado, como contraprestación por el derecho a\ntransitar por la ruta.\n\nb. Exigir judicialmente el pago por el servicio prestado. El alcance de\neste derecho del concesionario es equivalente al indicado en la Ley\nde Concesiones, esto es, a demandar al usuario ante el Juez de\nPolicía Local por hasta 40 veces el importe más reajustes.\n\nc. Exigir al usuario el cumplimiento de las instrucciones que\nfuncionarios autorizados por la Concesionaria o de su operadora\npudieren impartir con motivo de la explotación del servicio; normas\nde seguridad y prevención de accidentes, y en general respecto de\ncualquier medida tendiente a garantizar, al mismo usuario u otros,\nuna ruta segura y expedita.\n\nd. Coordinadamente, y con autorización previa de la Inspección Fiscal\nalterar temporalmente las condiciones del servicio mediante la\nadopción de medidas como fijación de horarios, señalización,\niluminación, entre otras. Estas alteraciones deberán ser informadas\npreviamente al MOP y posteriormente al usuario. El Concesionario\ndispondrá las medidas para la oportuna reanudación del servicio.\n\n4.2 Deberes del concesionario:\n\na. Exigir el cobro por el servicio de acuerdo a las tarifas vigentes.\n\nb. Informar al usuario las tarifas vigentes en la plaza a través de la\npublicación de éstas en la prensa y su publicación en lugares\nvisibles en las plazas de peaje.\n\nc. Informar oportunamente al usuario de cualquier cambio en las\ncondiciones de prestación del servicio, ya sea en términos de\ncambios tarifarios, trabajos en la ruta, cierre o desvío temporal de\nla ruta, etc.\n\nd. Mantener las obras ejecutadas en las condiciones establecidas en\nlas Bases de Licitación.\n\ne. Restituir la circulación vial en caso de interrupción en el menor\ntiempo posible.\n\n12"
+}

@@ -1,0 +1,58 @@
+{
+ "tarea": "relaciones",
+ "modelo": "dots-studio/dots-3-note-preview:free",
+ "fecha": "2026-11-11 12:54",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.9",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [
+     1041,
+     1041
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.11",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión.",
+    "debe_decir": "que la Sociedad Concesionaria o el MOP se encontrasen obligados a pagar por daños que con motivo de la ejecución de las obras, sufran terceros en sus bienes y/o en sus personas y que hubiesen acontecido dentro del Area de Concesión y en los lugares donde la Sociedad Concesionaria se encuentre ejecutando obras.",
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.17",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1077,
+     1113
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.17.2",
+    "operacion": "reemplaza_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1114,
+     1126
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

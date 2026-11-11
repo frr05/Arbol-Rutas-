@@ -1,10 +1,104 @@
 {
  "documento": "RITP.D05",
  "pagina": 3,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:09",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Obras a Realizar",
+    "Cláusulas de las Bases de Licitación"
+   ],
+   "filas": [
+    [
+     "A) Obras Ruta Interportuaria",
+     ""
+    ],
+    [
+     "A.1 Obras Nuevas",
+     "2.2.1"
+    ],
+    [
+     "1. Calzadas Nuevas",
+     "2.2.1.1"
+    ],
+    [
+     "2. Puentes y Estructuras a Desnivel",
+     "2.2.1.2"
+    ],
+    [
+     "3. Defensas Fluviales",
+     "2.2.1.3"
+    ],
+    [
+     "4. Obras Complementarias en Intersecciones a Desnivel existentes",
+     "2.2.1.4"
+    ],
+    [
+     "5. Pasos Interprediales",
+     "2.2.1.5"
+    ],
+    [
+     "6. Cierros Perimetrales",
+     "2.2.1.6"
+    ],
+    [
+     "7. Servicios Especiales Obligatorios",
+     "2.2.1.7"
+    ],
+    [
+     "A.2 Mejoramiento de Infraestructura y Superestructura Preexistente",
+     "2.2.2."
+    ],
+    [
+     "1. Obras de Mejoramiento de Intersecciones y Calzadas existentes",
+     "2.2.2.1"
+    ],
+    [
+     "2. Mantenimiento de Puentes y Estructuras",
+     "2.2.2.2"
+    ],
+    [
+     "3. Mantenimiento General del Sistema de Drenaje y Saneamiento",
+     "2.2.2.3"
+    ],
+    [
+     "4. Mantenimiento de Obras Preexistentes",
+     "2.2.2.4"
+    ],
+    [
+     "5. Accesos Privados Provisorios",
+     "2.2.2.5"
+    ],
+    [
+     "A.3 Obras de Seguridad, Señalización y Demarcación",
+     "2.2.3"
+    ],
+    [
+     "1. Señalización y Demarcación",
+     "2.2.3.1"
+    ],
+    [
+     "2. Defensas Camineras",
+     "2.2.3.2"
+    ],
+    [
+     "3. Iluminación",
+     "2.2.3.3."
+    ],
+    [
+     "4. Obras de Semaforización",
+     "2.2.3.4"
+    ],
+    [
+     "B) Obras de Prolongación Camino Carriel Sur (Av. Alessandri)",
+     "2.2.4"
+    ]
+   ],
+   "notas": null
+  },
   {
    "titulo": "Factor Tarifas Máximas para cada Tipo de Vehículo",
    "encabezados": [
@@ -47,100 +141,6 @@
      "Tipo 7",
      "Camiones de más de 2 Ejes",
      "3,2"
-    ]
-   ],
-   "notas": null
-  },
-  {
-   "titulo": "Tabla N° 3: Obras a Realizar",
-   "encabezados": [
-    "Obras a Realizar",
-    "Cláusulas de las Bases de Licitación"
-   ],
-   "filas": [
-    [
-     "A) Obras Ruta Interportuaria",
-     ""
-    ],
-    [
-     "A.1 Obras Nuevas",
-     ""
-    ],
-    [
-     "1. Calzadas Nuevas",
-     "2.2.1"
-    ],
-    [
-     "2. Puentes y Estructuras a Desnivel",
-     "2.2.1.2"
-    ],
-    [
-     "3. Defensas Fluviales",
-     "2.2.1.3"
-    ],
-    [
-     "4. Obras Complementarias en Intersecciones a Desnivel existentes",
-     "2.2.1.4"
-    ],
-    [
-     "5. Pasos Interpediales",
-     "2.2.1.5"
-    ],
-    [
-     "6. Cierros Perimetrales",
-     "2.2.1.6"
-    ],
-    [
-     "7. Servicios Especiales Obligatorios",
-     "2.2.1.7"
-    ],
-    [
-     "A.2 Mejoramiento de Infraestructura y Superestructura Preexistente",
-     ""
-    ],
-    [
-     "1. Obras de Mejoramiento de Intersecciones y Calzadas existentes",
-     "2.2.2.1"
-    ],
-    [
-     "2. Mantenimiento de Puentes y Estructuras",
-     "2.2.2.2"
-    ],
-    [
-     "3. Mantenimiento General del Sistema de Drenaje y Saneamiento",
-     "2.2.2.3"
-    ],
-    [
-     "4. Mantenimiento de Obras Preexistentes",
-     "2.2.2.4"
-    ],
-    [
-     "5. Accesos Privados Provisorios",
-     "2.2.2.5"
-    ],
-    [
-     "A.3 Obras de Seguridad, Señalización y Demarcación",
-     ""
-    ],
-    [
-     "1. Señalización y Demarcación",
-     "2.2.3"
-    ],
-    [
-     "2. Defensas Camineras",
-     "2.2.3.2"
-    ],
-    [
-     "3. Iluminación",
-     "2.2.3.3."
-    ],
-    [
-     "4. Obras de Semaforización",
-     "2.2.3.4"
-    ],
-    [
-     "B) Obras de Prolongación Camino Carriel Sur (Av. Alessandri)",
-     "2.2.4"
     ]
    ],
    "notas": null

@@ -2,15 +2,15 @@
  "documento": "RITP.D14",
  "pagina": 4,
  "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 217,
- "segundos": 9.4,
- "fecha": "2026-11-05 00:47",
- "motivos": "conf_media",
+ "tokens": 247,
+ "segundos": 6.6,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 134,
   "conf_media": 0.871,
@@ -20,8 +20,8 @@
  },
  "n_palabras_vlm": 134,
  "frac_rara_vlm": 0.012,
- "similitud": 0.914,
+ "similitud": 0.911,
  "truncado": false,
  "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nescritura pública de fecha 11 de junio de 2002, en la notaría de doña Antonieta\nMendoza Escalas. Un extracto de esta escritura se inscribió a fojas 14.575 N*\n12,006 del Registro de Comercio de Santiago correspondiente al año 2002 y fue\npublicado en el Diario Oficial de fecha 14 de junio de 2002. Su gerente general\nes el señor Ignacio Swett Lazcano, según consta en la escritura pública del acta\nde directorio N* 1 de fecha 11 de junio de 2002, de la notaría de doña Antonieta\nMendoza Escalas,\n\n1.5 Organización del concesionario\n\n. '\nlanacio Swell Lazcano :\nGerente General\n\n| ]\nCarlos Fuenzalida Inostroza\nGerente Técnico\n\nRodrigo Gahn\nGerente Empresa Operadora\nCentral Parking System\n\nSupervisores de Plazas ; Supervisor de Conservación\n\n(Por Contratar) y Mantención\n¿re Cantatar",
- "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nescritura pública de fecha 11 de junio de 2002, en la notaría de doña Antonieta Mendoza Escalas. Un extracto de esta escritura se inscribió a fojas 14.575 Nº 12.006 del Registro de Comercio de Santiago correspondiente al año 2002 y fue publicado en el Diario Oficial de fecha 14 de junio de 2002. Su gerente general es el señor Ignacio Swett Lazcano, según consta en la escritura pública del acta de directorio Nº 1 de fecha 11 de junio de 2002, de la notaría de doña Antonieta Mendoza Escalas.\n\n1.5 Organización del concesionario\n\nIgnacio Swett Lazcano\nGerente General\n\nCarlos Fuenzalida Inostroza\nGerente Técnico\n\nRodrigo Cahn\nGerente Empresa Operadora\nCentral Parking System\n\nNelson Duffau\nAdministrador Jefe Plaza\n\nSupervisores de Plazas\n(Por Contratar) | Supervisor de Conservación\ny Mantención\n(Por Contratar)"
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nescritura pública de fecha 11 de junio de 2002, en la notaría de doña Antonieta\nMendoza Escalas. Un extracto de esta escritura se inscribió a fojas 14.575 Nº\n12.006 del Registro de Comercio de Santiago correspondiente al año 2002 y fue\npublicado en el Diario Oficial de fecha 14 de junio de 2002. Su gerente general\nes el señor Ignacio Swett Lazcano, según consta en la escritura pública del acta\nde directorio Nº 1 de fecha 11 de junio de 2002, de la notaría de doña Antonieta\nMendoza Escalas.\n\n1.5 Organización del concesionario\n\nIgnacio Swett Lazcano\nGerente General\n\nCarlos Fuenzalida Inostroza\nGerente Técnico\n\nRodrigo Cahn\nGerente Empresa Operadora\nCentral Parking System\n\nNelson Duffau\nAdministrador Jefe Plaza\n\nSupervisores de Plazas\n(Por Contratar)\n\nSupervisor de Conservación\ny Mantención\n(Por Contratar)\n\n3"
 }

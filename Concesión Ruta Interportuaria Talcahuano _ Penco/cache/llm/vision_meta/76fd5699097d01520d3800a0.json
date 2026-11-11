@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000612,
+ "usage": {
+  "completion_tokens": 964,
+  "prompt_tokens": 4195,
+  "total_tokens": 5159,
+  "completion_tokens_details": {
+   "reasoning_tokens": 86
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.7,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLos estudios de Mecánica de Suelos tendrán como mínimo los siguientes alcances:\n\n• Pozos o calicatas cada 250 m aproximadamente, de profundidad no inferior a 1,5 m.\n• Descripción estratigráfica del suelo y toma de muestras perturbadas y no perturbadas del suelo, según\ncorresponda.\n• Prospección con una profundidad mínima de 12 m para las estructuras proyectadas.\n• A las muestras obtenidas se le realizarán ensayos de clasificación y/o compresiones no confinadas en el\nlaboratorio. Los resultados de los ensayes de laboratorio más los antecedentes existentes para suelos de\nidéntica formación geológica y clasificación, permitirán estimar los parámetros de esfuerzo, deformación y\nresistencia al corte de los estratos de suelo.\n\nCon la información obtenida, se plantearán los modelos geomecánicos que se utilizarán en los análisis,\nemitiendo informes de mecánica de suelos que a lo menos cubrirán los siguientes aspectos:\n\n• Tipo de fundación más apropiada para las obras proyectadas.\n• Capacidad de soporte de fundaciones para los casos estáticos y sísmicos.\n• Recomendaciones sobre dimensiones mínimas de fundaciones y profundidad de fundación.\n• Especificaciones para tratamiento de suelos sueltos, removidos y rellenos artificiales si existen, mediante\neventuales mejoramientos de suelos.\n• Cálculo de asentamientos de fundaciones para solicitaciones permanentes y eventuales.\n• Criterios sobre asentamientos totales admisibles basados en la distorsión máxima admisible y\nrecomendaciones sobre asentamientos totales máximos de fundaciones.\n• Determinación de constantes de balasto para deformaciones verticales y al giro.\n• Empujes de suelos sobre muros de contención, para los casos estáticos y sísmicos (con posibilidad de\nrotar en la base).\n• Diseños de tirantes anclados o sistemas de tierra reforzada si es conveniente para taludes de relleno.\n• Análisis de estabilidad de taludes de cortes en terreno natural para los casos de obras temporales (durante\nla construcción) y de obras permanentes.\n• Recomendaciones sobre pendientes máximas de terrenos compactados.\n• Recomendaciones de construcción generales (excavaciones y precauciones a tomar por la inspección\ntécnica para detectar derrumbes, rellenos y su control, protección contra la erosión de terraplenes y cortes,\netc.).\n\nEn el análisis de estabilidad de taludes de corte mayores a 4 metros se deberá determinar el ángulo de corte y las\nterrazas que se requerirá implementar. Una vez confeccionados los taludes un experto en mecánica de suelos\ndeberá inspeccionar cada talud de corte y determinar áreas de fallas, planos de corte, surgencias de aguas\nsubterráneas y la posible generación de cárcavas. Consecuentemente, deberá determinar las áreas de riesgo de\nprocesos erosivos, de caída de materiales y de procesos de remoción en masa. Para cada una de las áreas de\nriesgo determinadas se deberán proponer medidas suficientes que permitan eliminar dicho riesgo.\n\nEntre las medidas que puede proponer el Concesionario están las siguientes:\n\n• Reducir el ángulo de corte de los taludes, especialmente en terrenos arcillosos o de maicillo, de acuerdo a\nlos planos de falla detectados.\n• Producir voluntariamente la caída de materiales en forma controlada y recomponer el talud a un ángulo de\ncorte que asegure su estabilidad.\n• Desplazar la pared del talud hasta la desaparición de las áreas de riesgo.\n• Ensanche de las terrazas.\n• Confección de una red de drenaje de aguas superficiales, conformada por fosos, contrafosos, canales\nrevestidos, bajadas de agua, etc.\n• Implementación de drenes subterráneos paralelos o transversales al talud, consistentes en tuberías\nsemipermeables, dispuestas mediante la excavación con topos.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 106"
+}

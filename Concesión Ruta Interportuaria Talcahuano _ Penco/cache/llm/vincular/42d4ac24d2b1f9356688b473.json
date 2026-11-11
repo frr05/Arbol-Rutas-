@@ -1,0 +1,109 @@
+{
+ "tarea": "vincular",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 13:04",
+ "respuesta": {
+  "asignaciones": [
+   {
+    "fragmento": "RITP.D07.F0004",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D07.F0005",
+    "destino": "BL:1.10.3"
+   },
+   {
+    "fragmento": "RITP.D07.F0006",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D07.F0007",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D12.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D12.F0002",
+    "destino": "BL:1.11"
+   },
+   {
+    "fragmento": "RITP.D12.F0004",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D12.F0005",
+    "destino": "TEMA:regimen_economico"
+   },
+   {
+    "fragmento": "RITP.D12.F0006",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D12.F0007",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0001",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0002",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0003",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0004",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0005",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0006",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0007",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0008",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0009",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0010",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0012",
+    "destino": "FORMALIDAD"
+   },
+   {
+    "fragmento": "RITP.D11.F0013",
+    "destino": "BL:1.14.2.1"
+   },
+   {
+    "fragmento": "RITP.D11.F0014",
+    "destino": "BL:1.4.2"
+   },
+   {
+    "fragmento": "RITP.D11.F0015",
+    "destino": "BL:1.7.4"
+   },
+   {
+    "fragmento": "RITP.D11.F0016",
+    "destino": "FORMALIDAD"
+   }
+  ]
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 39,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 299,
+ "segundos": 13.4,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 201,
+  "conf_media": 0.942,
+  "frac_baja": 0.025,
+  "frac_rara": 0.023,
+  "tinta": 0.0313
+ },
+ "n_palabras_vlm": 194,
+ "frac_rara_vlm": 0.016,
+ "similitud": 0.98,
+ "truncado": false,
+ "texto_ocr": "%\nY\n\n2.1 INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\n\nProducto de la oposición del sector industrial pesquero al paso de la Ruta\nInterportuaria por su loteo industrial, se debio considerar una modificación de\ntrazado por el sector mencionado.\n\nLas obras consisten en la continuidad de la ruta troncal y su conexión con el\nsector Las Industrias y la Avenida Colón en la comuna de Talcahuano.\n\nLas obras de mayor envergadura consideradas para este ítem, se refieren al\ncambio de trazado de la Ruta Troncal entre el Km 9,500 hasta el empalme con\nla avenida Colón en el km 11,269. Cambio de trazado que obliga a la\nconstrucción de un nuevo Puente sobre el canal el Morro con 140 mts de\nlongitud.\n\nAdemás considera la modificación de empalme con la Avenida Colón,\ngenerando una estructura de paso que permite la accesibilidad con el sector\nLas Industrias, así como también de ramales y pistas que conforman un enlace\nque permite la conectividad con la vialidad existente, incluyendo obras de\niluminación y paisajismo.\n\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 173.413 U.F.\n\n7\n\n/\n\nCARLOS DIAZ/VARGAS\nINSPECT FISCAL\n\nDEPTO. DE\n\nNCES\n\nONES",
+ "texto_vlm": "2.1 INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\n\nProducto de la oposición del sector industrial pesquero al paso de la Ruta\nInterportuaria por su loteo industrial, se debio considerar una modificación de\ntrazado por el sector mencionado.\nLas obras consisten en la continuidad de la ruta troncal y su conexión con el\nsector Las Industrias y la Avenida Colón en la comuna de Talcahuano.\nLas obras de mayor envergadura consideradas para este ítem, se refieren al\ncambio de trazado de la Ruta Troncal entre el Km 9,500 hasta el empalme con\nla avenida Colón en el km 11,269. Cambio de trazado que obliga a la\nconstrucción de un nuevo Puente sobre el canal el Morro con 140 mts de\nlongitud.\nAdemás considera la modificación de empalme con la Avenida Colón,\ngenerando una estructura de paso que permite la accesibilidad con el sector\nLas Industrias, así como también de ramales y pistas que conforman un enlace\nque permite la conectividad con la vialidad existente, incluyendo obras de\niluminación y paisajismo.\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 173.413 U.F.\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL"
+}

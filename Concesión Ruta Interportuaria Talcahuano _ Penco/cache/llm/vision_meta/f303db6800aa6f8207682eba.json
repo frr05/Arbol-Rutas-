@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:54",
+ "costo": 0.000737,
+ "usage": {
+  "completion_tokens": 1588,
+  "prompt_tokens": 4195,
+  "total_tokens": 5783,
+  "completion_tokens_details": {
+   "reasoning_tokens": 815
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.3,
+ "truncado": false,
+ "texto": "Respuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n20.- En el Anteproyecto de Referencia, Interportuaria, Vol. 1, Memoria General, Cuadro archivo\nTránsito 2OOI.xls cuadro 111.3, cálculo de ejes equivalentes en doble calzada, presenta un error\nde operación en la planilla, siendo el resultado que se obtiene de 23, 754 millones de EE, para 20\naños.\n\nPor otra parte, la Tabla N° 19 de las bases de licitación establece 29 millones de EE.\nAlgo similar ocurre con el cálculo para calzada simple.\n¿Cuál es el valor a considerar en el diseño?.\n\nRespuesta:\n\nRemítase a lo señalado en las Bases de Licitación.\n\n21.- En el punto 8 del Art 1.3.1. se señala que forma parte integrante del proyecto la construcción, al\nmenos 3 atraviesos tipo cajón de 5 x 5 m.\n\nEn el punto 2.2.1.5. Pasos Interprediales se señala que \"... la Sociedad Concesionaria deberá\nconstruir, a su entero costo, tres pasos interprediales, sin conexión a la vía concesionada, en el\nsector de Cosmito y río Andalién. La estructura propiamente tal de cada uno de estos pasos\ncorresponderá a un cajón tipo del Manual, de Carretera, Vol 4, con una sección transversal de 5x\n5 m.\"\n\nEn la Tabla N° 11 se indica la ubicación preliminar de estos atraviesos. Sin embargo, la ubicación\ndefinitiva de los mismos será producto de la ingeniería definitiva que el Concesionario debe\ndesarrollar y someter a la aprobación del Inspector Fiscal.\n\nEn el caso que la ubicación definitiva de estas obras, producto de un análisis operacional de la\nruta, resulten en sectores de corte, que harían inviable una solución en base a cajones ¿ Qué tipo\nde estructuras deben considerarse ? ¿Cuáles serían sus dimensiones?. Estimamos que la inversión\nasociada a una obra de tipo Paso Superior que es la más probable, es mucho más elevada que una\nsolución del tipo cajón, por lo tanto es necesario que quede clara la solución alternativa a\nconsiderar y cómo se pagan esos mayores costos. A modo de ejemplo podemos afirmar que este\nproblema ocurrirá para interconectar el camino forestal principal que recorre longitudinalmente el\npredio y que quedará interrumpido producto de la Ruta Interportuaria.\n\nRespuesta:\n\nRemítase a lo señalado en la Bases de Licitación, en particular, a los artículos 1.9.1.1 y\n1.14.2.2 de dichas Bases.\n\n22.- En el numeral 2.9.1.1 del Plan de manejo Ambiental Preliminar de las Bases de Licitación se\nindica a modo imperativo que el proyecto deberá ingresar al Sistema de Evaluación de Impacto\nAmbiental (SEIA). Si no existen las circunstancias por las cuales la Ley 19.300 hace obligatorio\nel sometimiento del proyecto al SEIA:\n\n¿Se deberá igualmente ingresar el proyecto al sistema?.\n\nRespuesta:\n\nRemítase a lo establecido en las Bases de Licitación.\n\n23.- Respecto a las medidas de mitigación y reparación indicadas en las Bases de Licitación:\n\na) Existe una representación cartográfica de ellas a escala adecuada?\nb) En caso de ser afirmativa la respuesta a la pregunta a) se solicita acceder a ella.\n\nRespuesta:\n\nLa información disponible es la que se ha remitido a los licitantes.\n\nCircular Aclaratoria N°1\nPágina 19 de 20"
+}

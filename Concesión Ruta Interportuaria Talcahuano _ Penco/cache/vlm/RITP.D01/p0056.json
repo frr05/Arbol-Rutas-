@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 56,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 581,
+ "segundos": 9.2,
+ "fecha": "2026-11-11 11:48",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 293,
+  "conf_media": 0.922,
+  "frac_baja": 0.024,
+  "frac_rara": 0.027,
+  "tinta": 0.0429
+ },
+ "n_palabras_vlm": 349,
+ "frac_rara_vlm": 0.011,
+ "similitud": 0.723,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nArtículo Monto\n\nBases de Multa\n\nLicitación | (UTM)\n2.2.1.7 20\n\n2.6.1.9 50\n2.6.1.11 20\n2.6.2.1 25\n2.6.2.1 5\n\n2.2.1.7.2 25\n\nTipo de Infracción Criterio de\n\nAplicación\n\nNo prestación de servicios especiales | Cada día\nobligatorios en las condiciones\nestablecidas en las Bases de\nLicitación.\n\nIncumplimiento en comunicar al|Cada vez\nInspector Fiscal cualquier falta O\ndesperfecto de los equipos y/o\nausencia de personal.\n\nde modificar y\nuniformar la ' señalización y\n\nCada vez\n\nIncumplimiento\n\ndemarcación en todo el tramo en\nconcesión, así como de la instalación\nde los letreros requeridos.\n\nIncumplimiento en el plazo máximo | Cada día\nde reemplazo de luminaria\ndefectuosa o reposición de elementos\n\ncon falla.\n\nIncumplimiento en el plazo máximo | Cada día\n\npara el reemplazo de elementos de\n\nseguridad y/o señalización dañados.\n\nIncumplimiento de las solicitudes del | Cada día\nInspector Fiscal sobre reparaciones,\nsustituciones de elementos deterio-\nrados, envejecidos o fatigados y otras\nobras adicionales de conservación,\ncuando a su juicio éstas no cumplan\ncon lo especificado en las Bases\n\nTécnicas.\n\nFalta de personal de reemplazo para | Cada vez\ntodas y cada una de las actividades O\nfalta de idoneidad de éste.\n\nIncumplimiento de las normas sobre\n\nCada vez\nequipos de seguridad, vestimenta\nadecuada y otros.\n\nIncumplimiento de las exigencias | Cada vez\nmínimas a las dependencias de la\nSociedad Concesionaria.\nIncumplimiento de la obligación de\n\ninformar oportunamente en caso de\n\nCada vez\n\ncongestión en la vía concesionada.\nIncumplimiento en las medidas de| Cada vez\nseguridad y control.\n\nOtros\n\nNo mantenimiento de tránsito en|Cada día\nzona de faenas de conservación de\n\nIncumplimiento en la reposición del | Cada día\n\n2.6.3.2 100\n2.6.3.3 20\nobras.\n2.6.3.3 20\ntránsito normal.\n\nÑ “MINISTERIO DE OBRAS PUBLICAS — COORDINACION GENERAL DE CONCESIONES",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nArtículo Bases de Licitación | Monto Multa (UTM) | Tipo de Infracción | Criterio de Aplicación | Otros\n2.2.1.7 | 20 | No prestación de servicios especiales obligatorios en las condiciones establecidas en las Bases de Licitación. | Cada día | \n2.2.1.7.2 | 25 | Incumplimiento en comunicar al Inspector Fiscal cualquier falta o desperfecto de los equipos y/o ausencia de personal. | Cada vez | \n2.2.3.1 | 25 | Incumplimiento de modificar y uniformar la señalización y demarcación en todo el tramo en concesión, así como de la instalación de los letreros requeridos. | Cada vez | \n2.6.1.7 | 50 | Incumplimiento en el plazo máximo de reemplazo de luminaria defectuosa o reposición de elementos con falla. | Cada día | \n2.6.1.9 | 50 | Incumplimiento en el plazo máximo para el reemplazo de elementos de seguridad y/o señalización dañados. | Cada día | \n2.6.1.11 | 20 | Incumplimiento de las solicitudes del Inspector Fiscal sobre reparaciones, sustituciones de elementos deteriorados, envejecidos o fatigados y otras obras adicionales de conservación, cuando a su juicio éstas no cumplan con lo especificado en las Bases Técnicas. | Cada día | \n2.6.2.1 | 25 | Falta de personal de reemplazo para todas y cada una de las actividades o falta de idoneidad de éste. | Cada vez | \n2.6.2.1 | 5 | Incumplimiento de las normas sobre equipos de seguridad, vestimenta adecuada y otros. | Cada vez | \n2.6.2.2 | 25 | Incumplimiento de las exigencias mínimas a las dependencias de la Sociedad Concesionaria. | Cada vez | \n2.6.3.1 | 50 | Incumplimiento de la obligación de informar oportunamente en caso de congestión en la vía concesionada. | Cada vez | \n2.6.3.2 | 100 | Incumplimiento en las medidas de seguridad y control. | Cada vez | \n2.6.3.3 | 20 | No mantenimiento de tránsito en zona de faenas de conservación de obras. | Cada día | \n2.6.3.3 | 20 | Incumplimiento en la reposición del tránsito normal. | Cada día | \nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 42"
+}

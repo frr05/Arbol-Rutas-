@@ -1,0 +1,31 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:39",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.3",
+    "operacion": "elimina_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": "o) Cada vez que se compruebe el incumplimiento de las obligaciones señaladas en el artículo 1.7.3 de las presentes Bases de Licitación;",
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": "1.8.3",
+    "operacion": "reemplaza_texto",
+    "parrafos": [
+     "P1"
+    ],
+    "texto_nuevo": [],
+    "donde_dice": null,
+    "debe_decir": "o) Cualquier otro incumplimiento del Contrato, según lo establecido en las presentes Bases de Licitación.",
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

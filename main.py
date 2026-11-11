@@ -95,14 +95,109 @@ def cmd_marcar(args):
         print(f"      resumen y calibración → {p.dir_revision / 'calidad_ocr.md'}")
 
 
-def cmd_vlm(args):
-    from mt.vlm import rescatar
+COLUMNAS_USO = ["fecha", "etapa", "segundos", "proveedor", "modelo", "llamadas", "tokens_entrada", "tokens_salida",
+                "tokens_razonamiento", "costo_usd"]
 
-    from mt.vlm import ModeloOpenRouter
+
+def _registrar_uso(p, etapa: str, inicio: float, antes: dict):
+    """Agrega a revision/uso_etapas.csv el tiempo de la etapa y, por modelo, las llamadas a la red, los tokens y el
+    precio (lo que salió de caché no cuenta), y rehace el resumen revision/uso_etapas.md."""
+    import csv
+
+    from mt import llm
+
+    segundos = round(time.time() - inicio, 1)
+    fecha = time.strftime("%Y-%m-%d %H:%M")
+    filas = []
+    for modelo, u in llm.foto_uso().items():
+        a = antes.get(modelo, {})
+        d = {k: u[k] - a.get(k, 0) for k in u}
+        if d["llamadas"]:
+            filas.append({"fecha": fecha, "etapa": etapa, "segundos": segundos,
+                          "proveedor": "meta" if modelo.startswith("meta:") else "openrouter", "modelo": modelo,
+                          **{k: d[k] for k in ("llamadas", "tokens_entrada", "tokens_salida", "tokens_razonamiento")},
+                          "costo_usd": round(d["costo_usd"], 6)})
+    if not filas:
+        filas = [{"fecha": fecha, "etapa": etapa, "segundos": segundos, "proveedor": "-", "modelo": "-",
+                  "llamadas": 0, "tokens_entrada": 0, "tokens_salida": 0, "tokens_razonamiento": 0, "costo_usd": 0}]
+    ruta = p.dir_revision / "uso_etapas.csv"
+    nuevo = not ruta.exists()
+    with ruta.open("a", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=COLUMNAS_USO, delimiter=";", lineterminator="\n")
+        if nuevo:
+            w.writeheader()
+        w.writerows(filas)
+    for f in filas:
+        if f["llamadas"]:
+            print(f"  uso · {f['modelo']}: {f['llamadas']} llamadas · {f['tokens_entrada']:,} tokens entrada · "
+                  f"{f['tokens_salida']:,} salida ({f['tokens_razonamiento']:,} razonamiento) · US$ {f['costo_usd']:.4f}")
+    _resumen_uso(p)
+
+
+def _resumen_uso(p):
+    import csv
+
+    with (p.dir_revision / "uso_etapas.csv").open(encoding="utf-8") as fh:
+        filas = list(csv.DictReader(fh, delimiter=";"))
+    por_etapa: dict[tuple, dict] = {}
+    for f in filas:
+        clave = (f["fecha"], f["etapa"])
+        e = por_etapa.setdefault(clave, {"segundos": float(f["segundos"]), "proveedores": set(), "llamadas": 0,
+                                         "entrada": 0, "salida": 0, "razon": 0, "costo": 0.0})
+        if f["proveedor"] != "-":
+            e["proveedores"].add(f["modelo"])
+        e["llamadas"] += int(f["llamadas"])
+        e["entrada"] += int(f["tokens_entrada"])
+        e["salida"] += int(f["tokens_salida"])
+        e["razon"] += int(f["tokens_razonamiento"])
+        e["costo"] += float(f["costo_usd"])
+    md = [f"# Tiempo, tokens y precio por etapa · {p.nombre} ({p.id})", "",
+          "Solo llamadas a la red (lo que salió de caché no cuenta). Detalle por modelo en `uso_etapas.csv`.", "",
+          "| Fecha | Etapa | Tiempo | Modelos | Llamadas | Tokens entrada | Tokens salida | De ellos razonamiento | US$ |",
+          "|---|---|---:|---|---:|---:|---:|---:|---:|"]
+    tot = {"segundos": 0.0, "llamadas": 0, "entrada": 0, "salida": 0, "razon": 0, "costo": 0.0}
+    for (fecha, etapa), e in por_etapa.items():
+        md.append(f"| {fecha} | {etapa} | {e['segundos'] / 60:.1f} min | {', '.join(sorted(e['proveedores'])) or '—'} | "
+                  f"{e['llamadas']} | {e['entrada']:,} | {e['salida']:,} | {e['razon']:,} | {e['costo']:.4f} |")
+        for k in tot:
+            tot[k] += e[k]
+    md.append(f"| | **Total** | **{tot['segundos'] / 60:.1f} min** | | **{tot['llamadas']}** | **{tot['entrada']:,}** | "
+              f"**{tot['salida']:,}** | **{tot['razon']:,}** | **{tot['costo']:.4f}** |")
+    por_prov: dict[str, dict] = {}
+    for f in filas:
+        if f["proveedor"] == "-":
+            continue
+        q = por_prov.setdefault(f["modelo"], {"llamadas": 0, "entrada": 0, "salida": 0, "razon": 0, "costo": 0.0})
+        q["llamadas"] += int(f["llamadas"])
+        q["entrada"] += int(f["tokens_entrada"])
+        q["salida"] += int(f["tokens_salida"])
+        q["razon"] += int(f["tokens_razonamiento"])
+        q["costo"] += float(f["costo_usd"])
+    md += ["", "## Por modelo", "", "| Modelo | Llamadas | Tokens entrada | Tokens salida | Razonamiento | US$ |",
+           "|---|---:|---:|---:|---:|---:|"]
+    for m, q in sorted(por_prov.items()):
+        md.append(f"| {m} | {q['llamadas']} | {q['entrada']:,} | {q['salida']:,} | {q['razon']:,} | {q['costo']:.4f} |")
+    (p.dir_revision / "uso_etapas.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+
+
+def cmd_vlm(args):
+    from mt import llm, meta
+    from mt.ocr import leer_paginas
+    from mt.vlm import ModeloMeta, ModeloOpenRouter, rescatar
 
     for p, docs in _objetivos(args):
-        vlm = ModeloOpenRouter(p.carpeta / "cache" / "llm") if args.openrouter else None
-        rescatar(p, {d.id for d in docs}, modelo=args.modelo, forzar=args.forzar, limite=args.limite, vlm=vlm)
+        dir_llm = p.carpeta / "cache" / "llm"
+        vlm = (ModeloMeta(dir_llm) if meta.activo() else
+               ModeloOpenRouter(dir_llm) if args.openrouter else None)
+        paginas = None
+        if args.todas:                       # todas las páginas, no solo las marcadas por el OCR
+            paginas = [{"documento": d.id, "pagina": pag["pagina"], "motivos": "todas"}
+                       for d in docs for pag in leer_paginas(p, d)]
+        inicio, antes = time.time(), llm.foto_uso()
+        rescatar(p, {d.id for d in docs}, modelo=args.modelo, forzar=args.forzar, limite=args.limite, vlm=vlm,
+                 paginas=paginas)
+        _registrar_uso(p, "vlm", inicio, antes)
+        print(f"  {llm.resumen(dir_llm)}")
 
 
 def cmd_comparar(args):
@@ -116,7 +211,7 @@ def _etapa(nombre: str, p, args):
     from mt import actos, arbol, bases, chunks, ensamblar, fragmentos, llm, relaciones, tablas, texto, verificar
     from mt import vectores, vincular
 
-    inicio = time.time()
+    inicio, antes = time.time(), llm.foto_uso()
     print(f"\n[{nombre}] {p.id} · {p.nombre}")
     usar_llm = not args.reglas
     if nombre == "texto":
@@ -158,6 +253,7 @@ def _etapa(nombre: str, p, args):
         saldo = llm.saldo_restante()
         print(f"  {llm.resumen(p.carpeta / 'cache' / 'llm')}"
               + (f" · saldo de la clave US$ {saldo:.3f}" if saldo is not None else ""))
+    _registrar_uso(p, nombre, inicio, antes)
     print(f"  ⏱ {time.time() - inicio:.0f} s")
 
 
@@ -223,6 +319,8 @@ def main(argv=None):
     s.add_argument("--modelo", help="id de Hugging Face (por defecto VLM_MODELO)")
     s.add_argument("--limite", type=int, help="procesar a lo más N páginas (para probar)")
     s.add_argument("--openrouter", action="store_true", help="modelo de visión de OpenRouter en vez de uno local")
+    s.add_argument("--todas", action="store_true",
+                   help="todas las páginas, no solo las marcadas (con VISION_PROVEEDOR=meta usa la API de Meta)")
     s.add_argument("--forzar", action="store_true")
     s.set_defaults(f=cmd_vlm)
 

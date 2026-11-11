@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 50,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 388,
+ "segundos": 4.9,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 233,
+  "conf_media": 0.93,
+  "frac_baja": 0.013,
+  "frac_rara": 0.012,
+  "tinta": 0.0391
+ },
+ "n_palabras_vlm": 249,
+ "frac_rara_vlm": 0.012,
+ "similitud": 0.956,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nTratar de hacer arrancar el vehiculo de la batería descargada. Si no\narranca enseguida dejar en marcha el motor del vehiculo que tiene la\nbateria en buen estado, durante algunos minutos, antes de tratar\nnuevamente de hacer arrancar el otro.\n\nQuitar las pinzas en orden inverso, o sea, primero la del cables negro del\nmotor, para evitar una chispa en la batería.\n\nLas pinzas del cable rojo y las del cable negro nunca deben estar en\ncontacto entre si.\n\nMantener los cables y las manos alejadas de ventiladores y correas\n\n7.11 Uso de extintores\n\nEl polvo químico seco como agente extintor es sumamente efectivo y presenta\nvarias ventajas sobre otros elementos extintores del fuego, tales como:\n\nRápida acción\nAmplio campo de aplicación\nEfectividad\n\nLos extintores de polvo químico Usados en las faenas poseen las siguientes\ncaracteristicas:\n\nAlcance normal de proyección: 6 metros\nFlujo de descarga (0.4 a 0.5 Kg./seg.)\n\nTiempo descarga según capacidad de los extintores (de 15 a 20 5£0.)\n\nTécnicas de aplicación:\n\nRetire el extintor de su ubicación.\n\nUse la manilla para transportario hacia el sitio de amago.\nUbiquese a unos 2 0 3 metros del fuego y a favor del viento,\nRetire el seguro y tire el pasador,\n\nBaje el percutor al máximo y apriete el gatillo de la manguera de\ndescarga.\n\nDirija el chorro a la base del fuego con movimientos de abanico.\n\ndá",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Tratar de hacer arrancar el vehículo de la batería descargada. Si no\narranca enseguida dejar en marcha el motor del vehículo que tiene la\nbatería en buen estado, durante algunos minutos, antes de tratar\nnuevamente de hacer arrancar el otro.\n\n- Quitar las pinzas en orden inverso, o sea, primero la del cable negro del\nmotor, para evitar una chispa en la batería.\n\n- Las pinzas del cable rojo y las del cable negro nunca deben estar en\ncontacto entre si.\n\n- Mantener los cables y las manos alejadas de ventiladores y correas\n\n7.11 Uso de extintores\n\nEl polvo químico seco como agente extintor es sumamente efectivo y presenta\nvarias ventajas sobre otros elementos extintores del fuego, tales como:\n\n- Rápida acción\n- Amplio campo de aplicación\n- Efectividad\n\nLos extintores de polvo químico usados en las faenas poseen las siguientes\ncaracterísticas:\n\n- Alcance normal de proyección: 6 metros\n\n- Flujo de descarga (0.4 a 0.5 Kg./seg.)\n\n- Tiempo descarga según capacidad de los extintores (de 15 a 20 seg.)\n\nTécnicas de aplicación:\n\n- Retire el extintor de su ubicación.\n\n- Use la manilla para transportarlo hacia el sitio de amago.\n\n- Ubíquese a unos 2 o 3 metros del fuego y a favor del viento.\n\n- Retire el seguro y tire el pasador.\n\n- Baje el percutor al máximo y apriete el gatillo de la manguera de\ndescarga.\n\n- Dirija el chorro a la base del fuego con movimientos de abanico.\n\n49"
+}

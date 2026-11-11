@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.00062,
+ "usage": {
+  "completion_tokens": 893,
+  "prompt_tokens": 4409,
+  "total_tokens": 5302,
+  "completion_tokens_details": {
+   "reasoning_tokens": 456
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.7,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"NOMBRE LICITANTE/GRUPO LICITANTE:\", \"\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"Nombre Integrante del Licitante/ Grupo Licitante\", \"Participación (Porcentaje) (A)\", \"Patrimonio Total Integrante (Millones de pesos) (B)\", \"Patrimonio Ponderado (Millones de pesos) (C)\"], \"filas\": [[\"1.\", \"\", \"\", \"\"], [\"2.\", \"\", \"\", \"\"], [\"3.\", \"\", \"\", \"\"], [\"4.\", \"\", \"\", \"\"], [\"5.\", \"\", \"\", \"\"], [\"6.\", \"\", \"\", \"\"], [\"7.\", \"\", \"\", \"\"], [\"8.\", \"\", \"\", \"\"], [\"9.\", \"\", \"\", \"\"], [\"10.\", \"\", \"\", \"\"]], \"notas\": null}, {\"titulo\": null, \"encabezados\": [\"Nombre Integrante del Licitante/ Grupo Licitante\", \"Participación (Porcentaje) (A)\", \"Patrimonio Total Integrante (Millones de pesos) (B)\", \"Patrimonio Ponderado (Millones de pesos) (C)\"], \"filas\": [[\"Totales\", \"\", \"\", \"\"]], \"notas\": \"Notas: (A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación. (B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación. (C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.600.000.000 (patrimonio mínimo). (D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo.\"}]}"
+}

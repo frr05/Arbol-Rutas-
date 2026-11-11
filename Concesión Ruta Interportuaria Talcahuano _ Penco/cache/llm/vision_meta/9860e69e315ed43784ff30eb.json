@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000539,
+ "usage": {
+  "completion_tokens": 492,
+  "prompt_tokens": 4410,
+  "total_tokens": 4902,
+  "completion_tokens_details": {
+   "reasoning_tokens": 476
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.4,
+ "truncado": false,
+ "texto": "{\"tablas\": []}"
+}

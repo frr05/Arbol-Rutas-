@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.00073,
+ "usage": {
+  "completion_tokens": 1446,
+  "prompt_tokens": 4409,
+  "total_tokens": 5855,
+  "completion_tokens_details": {
+   "reasoning_tokens": 690
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 17.5,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"Plazo de la Concesi\\u00f3n ofrecido (NM), expresado en meses. (1)\", \"________________ meses\"], [\"Monto del Subsidio solicitado (S), expresado en UF. (2)\", \"________________ UF\"], [\"Plazo de Postergaci\\u00f3n de la Puesta en Servicio Provisoria de Av. Alessandri ofrecido (ND), expresado en d\\u00edas.(3)\", \"________________ d\\u00edas\"]], \"notas\": \"Notas: (1) \\\"NM\\\" corresponde al plazo de la concesi\\u00f3n ofrecido, de acuerdo a lo indicado en el art\\u00edculo 3.2 de las presentes Bases, el cual deber\\u00e1 ser inferior o igual a 378 meses (NM \\u2264 378). (2) \\\"S\\\" corresponde al monto de Subsidio solicitado al Estado, de acuerdo a lo indicado en los art\\u00edculos 1.14.7 y 3.2 de las presentes Bases, el cual deber\\u00e1 ser inferior o igual a UF 290.000 (0 < S \\u2264 290.000). Si el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluaci\\u00f3n de la Oferta Econ\\u00f3mica, seg\\u00fan el art\\u00edculo 3.3, deber\\u00e1 completar el valor del Subsidio S con valor \\\"0\\\" (S = 0). (3) \\\"ND\\\" corresponde al n\\u00famero de d\\u00edas contados desde la Puesta en Servicio Provisoria de las obras descritas en el art\\u00edculo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongaci\\u00f3n de Av. Alessandri se\\u00f1aladas en el art\\u00edculo 1.3.2 de las mismas Bases. Si el licitante o grupo licitante opta por S\\u00cd construir las obras indicadas en el art\\u00edculo 1.3.2, deber\\u00e1 se\\u00f1alar el n\\u00famero de d\\u00edas ND dentro del rango entre 1 y 1.800 (1 \\u2264 ND \\u2264 1.800). Si el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras se\\u00f1aladas en el art\\u00edculo 1.3.2 conjuntamente con la Puesta en Servicio Provisoria de las obras indicadas en el art\\u00edculo 1.3.1, deber\\u00e1 completar ND con valor cero (ND = 0). Si el licitante o grupo licitante opta por NO ejecutar las obras de Prolongaci\\u00f3n de Av. Alessandri se\\u00f1aladas en el art\\u00edculo 1.3.2 de las presentes Bases, para los efectos de la evaluaci\\u00f3n de la Oferta Econ\\u00f3mica, seg\\u00fan el art\\u00edculo 3.3, deber\\u00e1 completar el n\\u00famero ND con el valor 5.000 (ND = 5.000).\"}]}"
+}

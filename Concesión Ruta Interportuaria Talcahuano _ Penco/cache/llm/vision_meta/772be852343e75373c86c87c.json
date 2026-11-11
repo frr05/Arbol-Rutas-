@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000604,
+ "usage": {
+  "completion_tokens": 923,
+  "prompt_tokens": 4195,
+  "total_tokens": 5118,
+  "completion_tokens_details": {
+   "reasoning_tokens": 82
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.2,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nTabla Nº 9: Puentes y Pasos a Desnivel Ruta Interportuaria.\n\nNombre | Ubicac. Aprox. (km) | Longitud Aprox. (m) | Ancho (m)\nPaso Superior Las Gaviotas | 2,90 | 39 | 12,4\nPuente Las Ballenas | 3,30 | 110 | 12,4\n\n2.2.1.3 Defensas Fluviales\n\nLas defensas fluviales a construir por la Sociedad Concesionaria deberán incluir todas las obras que contenga\nel proyecto de ingeniería definitiva aprobado por el Inspector Fiscal, de acuerdo a lo indicado en el artículo\n2.3.2.5 de las presentes Bases.\n\n2.2.1.4 Intersecciones a Desnivel Mínimas\n\nPara dar continuidad a los caminos transversales existentes y generar conexión con la vialidad existente, el\nConcesionario deberá construir como mínimo la intersección a desnivel que se detalla en la Tabla Nº 10.\n\nEl Anteproyecto Referencial entregado por el MOP que se ha puesto a disposición de los licitantes o grupos\nlicitantes, corresponde a las soluciones mínimas exigidas para cada obra.\n\nTabla Nº 10: Intersecciones a Desnivel con conexión a la Ruta Interportuaria a\nconstruir por la Sociedad Concesionaria.\n\nNombre | Ubic. Aprox. (km) | Conexión a: | Tipo | Observación\nEnlace Penco | 0,00 | Autopista del Itata y Autopista Concepción - Penco | Trébol | Complemento del Paso Superior existente.\n\n2.2.1.5 Pasos Interprediales\n\nA objeto de dar continuidad a caminos privados o conectar predios que han sido divididos producto del\nemplazamiento del nuevo eje, la Sociedad Concesionaria deberá construir, a su entero costo, tres pasos\ninterprediales, sin conexión a la vía concesionada, en el sector de Cosmito y río Andalién. La estructura\npropiamente tal de cada uno de estos pasos corresponderá a un Cajón tipo del Manual de Carreteras,\nVolumen 4, con la sección transversal señalada en la Tabla Nº 11.\n\nTabla Nº 11: Pasos Interprediales.\n\nUbic. Aprox. (km) | Sección (m²)\n0,70 | 5 x 5\n2,30 | 5 x 5\n3,40 | 5 x 5\n\nLa ubicación final de cada una de estas estructuras será producto de la ingeniería definitiva que el\nConcesionario debe desarrollar y someter a la aprobación del Inspector Fiscal.\n\n2.2.1.6 Cierros Perimetrales\n\nSin perjuicio de los cercos de deslindes de la faja fiscal de la ruta incluidos como obras en los Proyectos\nReferenciales entregados por el MOP, la Sociedad Concesionaria será responsable de delimitar la faja fiscal\nentregada por el MOP, por medio de la reubicación de los cercos de deslindes que sean modificados producto\nde la expropiación o de las obras, lo que deberá ajustarse en forma estricta a lo indicado en los planos con los\nque se ejecutó la expropiación. En caso que los cercos no puedan ser trasladados, éstos deberán restituirse por\nmedio de la colocación de cercos que en ningún caso podrán ser de calidad inferior a poste de pino insigne de\nóptima calidad, impregnado con tratamiento que garantice mayor durabilidad, certificado por el fabricante,\nespaciados cada 3 metros, con 7 hebras de alambre de púas galvanizado, de acuerdo a lo establecido en el\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 97"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.000663,
+ "usage": {
+  "completion_tokens": 1217,
+  "prompt_tokens": 4195,
+  "total_tokens": 5412,
+  "completion_tokens_details": {
+   "reasoning_tokens": 290
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.3,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO – PENCO\nPOR ISLA ROCUANT\n\nANEXO Nº2: FORMULARIO Nº6\nRef.: artículo 1.5.5, Letra B, Documento Nº10.\n\nCRONOGRAMA REFERENCIAL DE INVERSION TIPO CARTA GANTT\n\nA) OBRAS DE INGENIERIA RUTA INTERPORTUARIA\n\n|  |  | VALORES (UF) |  |  |  |  |\n| ITEM | DESCRIPCION | Mes 1 | Mes 2 | Mes .. | Mes n | Total |\n| A.1 | Obras Viales Ruta Interportuaria |  |  |  |  |  |\n| A.1.1 | Ruta Interportuaria Km 0,0 al 4,0 |  |  |  |  |  |\n| A.1.2 | Ruta Interportuaria Km 4,0 al 10,9 |  |  |  |  |  |\n| A.2 | Enlace Penco |  |  |  |  |  |\n| A.2.1 | Obra Vial |  |  |  |  |  |\n| A.2.2 | Obras de Iluminación |  |  |  |  |  |\n| A.2.3 | Obras de Paisajismo |  |  |  |  |  |\n| A.3 | Intersecciones a Nivel |  |  |  |  |  |\n| A.3.1 | Mejoramiento Intersección Las Industrias |  |  |  |  |  |\n| A.3.2 | Empalme Colón |  |  |  |  |  |\n| A-3-3 | Cambio de Servicios |  |  |  |  |  |\n| A-3-4 | Obras de Iluminación |  |  |  |  |  |\n| A-3-5 | Obras de Paisajismo |  |  |  |  |  |\n| A.4 | Estructuras |  |  |  |  |  |\n| A.4.1 | Puente sobre Río Andalién (Puente Las Ballenas) |  |  |  |  |  |\n| A.4.2 | Estructuras sobre FF.CC. (Puente Las Gaviotas) |  |  |  |  |  |\n| A.4.3 | Estructuras de conexión interpredial (3) |  |  |  |  |  |\n| A.5 | Obras de Seguridad |  |  |  |  |  |\n| A.5.1 | Defensas Camineras |  |  |  |  |  |\n| A.5.2 | Señalización y Demarcación |  |  |  |  |  |\n| A.5.3 | Cierros Perimetrales |  |  |  |  |  |\n| A.6 | Defensas Fluviales |  |  |  |  |  |\n| A.6.1 | Enrocados de Protección |  |  |  |  |  |\n| A.7 | Misceláneos |  |  |  |  |  |\n| A.7.1 | Obras de Arquitectura |  |  |  |  |  |\n| A.7.2 | Obras de Mitigación Ambiental |  |  |  |  |  |\n| A.7.3 | Rehabilitación Puente Rocuant (existente) |  |  |  |  |  |\n| A.7.4 | Otros |  |  |  |  |  |\n|  | ..... |  |  |  |  |  |\n| SUBTOTAL A (UF) |  |  |  |  |  |  |\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000706,
+ "usage": {
+  "completion_tokens": 1432,
+  "prompt_tokens": 4199,
+  "total_tokens": 5631,
+  "completion_tokens_details": {
+   "reasoning_tokens": 844
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.0,
+ "truncado": false,
+ "texto": "El Director General de Obras Públicas certifica que el valor acordado ha\nsido adecuadamente determinado, y corresponde a aquél que normalmente\nprevalecería en el mercado para obras de este tipo.\n\n2.8 El valor único y total, acordado a suma alzada, de los Estudios y Proyectos\nde Ingeniería de detalle, incluyendo la planimetría de expropiaciones, que\nse indican en el Anexo N°1 Ítem c), Proyectos de Ingeniería, asciende a UF\n8.642 (Ocho Mil Seiscientas Cuarenta y Dos Unidades de Fomento).\n\nEl Director General de Obras Públicas certifica que el valor acordado ha\nsido adecuadamente determinado, y corresponde a aquél que normalmente\nprevalecería en el mercado para obras de este tipo.\n\n2.9 El valor total, acordado a suma alzada, de los costos de seguros adicionales\nde construcción y explotación, que se indican en el Anexo N° 1 d), Seguros\nAdicionales, en que incurrirá la Sociedad Concesionaria durante todo el plazo\nde la Concesión como consecuencia de la incorporación a la misma de las\nobras objeto del presente convenio, asciende a UF 6.513 (Seis Mil\nQuinientas Trece Unidades de Fomento).\n\nEl Director General de Obras Públicas certifica que el valor acordado ha\nsido adecuadamente determinado, y corresponde a aquél que normalmente\nprevalecería en el mercado para obras de este tipo.\n\n2.10 El valor total, acordado a suma alzada, por los mayores gastos generales\nen que incurrirá la Sociedad Concesionaria durante el plazo de ejecución\nde las obras adicionales, se detalla en el Anexo N° 1 Ítem e), Mayores\nGastos Generales y corresponde a UF 18.980 (Diez y Ocho Mil\nNovecientas Ochenta Unidades de Fomento).\n\nEl Director General de Obras Públicas certifica que el valor acordado ha\nsido adecuadamente determinado, y corresponde a aquél que normalmente\nprevalecería en el mercado para obras de este tipo.\n\n2.11 El valor total, acordado a suma alzada, por los mayores gastos de\nadministración, inspección y control en que deberá incurrir la Sociedad\nConcesionaria durante el plazo de ejecución de las obras adicionales y de\ntodo el plazo de concesión, se detalla en el Anexo N° 1 Ítem f), Gastos\nAdicionales de Administración y Control y corresponde a UF 12.138 (Doce\nMil Ciento Treinta y Ocho Unidades de Fomento).\n\nEl Director General de Obras Públicas certifica que el valor acordado ha\nsido adecuadamente determinado, y corresponde a aquél que normalmente\n\n10"
+}

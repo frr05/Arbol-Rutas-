@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000481,
+ "usage": {
+  "completion_tokens": 333,
+  "prompt_tokens": 4142,
+  "total_tokens": 4475,
+  "completion_tokens_details": {
+   "reasoning_tokens": 25
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 4.9,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nmenos 48 hrs., se puede deducir que no hay traumatismo encéfalo craneano.\nPero en caso que aparezca por lo menos uno de ellos, lo más apropiado es no\naventurar y consultar rápidamente al especialista. De la premura con que se\nhaga puede depender el grado de recuperación de la víctima, e incluso su vida.\n\n7.14 En caso de un accidente\n\nPermanezca en el lugar del accidente\n\nDetenga su vehículo en el lugar del accidente o tan cerca como sea posible\nasegurándose que el lugar de detención no presenta riesgos adicionales.\n\nTestigos\n\nObtenga el nombre, apellidos y domicilio de dos personas que hayan\npresenciado el hecho y que puedan servir de testigos.\n\nEn caso de haber muertos\n\nNo los mueva ni toque. Esto debe ser canalizado por medio de Carabineros.\n\nPolicía\n\nObtenga la intervención de un Carabinero, para que deje constancia del\naccidente, quienes son la autoridad competente al respecto.\n\nDetalle del otro vehículo implicado\n\nSi hubiera otro vehículo implicado, obtenga la patente, el nombre y domicilio de\nla persona que lo conducía y personas que viajaban en él.\n\nLugar y hora del accidente\n\nAnote el lugar exacto, hora, estado del tiempo, ubicación de los vehículos y otros\ndetalles que permitan redactar un informe escrito.\n\n56"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000618,
+ "usage": {
+  "completion_tokens": 991,
+  "prompt_tokens": 4195,
+  "total_tokens": 5186,
+  "completion_tokens_details": {
+   "reasoning_tokens": 238
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.4,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nTabla Nº 1: Anteproyectos y Estudios Referenciales.\n\nAnteproyectos | Realizado por | Volúmenes\n1. Anteproyecto de Ingeniería: Proposición de la obra por Concesión “Ruta Interportuaria Talcahuano - Penco por Isla Rocuant”, Estudio de Ingeniería. | Postulante | 8\n2. Anteproyecto de Ingeniería “Prolongación Avenida Alessandri”. | CITRA Consultores | I\nEstudios | Realizado por | Volúmenes\na) Estudio Modelación Ruta Interportuaria de la VIII Región. | ASTRA Consultores | 1\nb) Estudio Plan de Manejo Ambiental Preliminar, Ruta Interportuaria Talcahuano - Penco por Isla Rocuant. | Centro EULA, Chile Universidad de Concepción | 1\n\nLos Anteproyectos Referenciales contienen las soluciones mínimas exigidas para las obras, lo que se complementa con lo exigido en las presentes Bases; no obstante, la Sociedad Concesionaria, deberá entregar al Inspector Fiscal para su aprobación los Proyectos de Ingeniería Definitiva conforme a lo señalado en el artículo 1.9.1 de las presentes Bases de Licitación. La Sociedad Concesionaria no podrá iniciar obra alguna mientras no se hayan aprobado dichos proyectos por el MOP.\n\nLas referencias de kilometrajes de las presentes Bases de Licitación corresponden a los que figuran en los Anteproyectos Referenciales entregado por el MOP.\n\nLas obras contenidas en el Anteproyecto de Ingeniería “Prolongación Avenida Alessandri”, señalado en la Tabla Nº 1, y que se detallan en el artículo 2.2.4, son opcionales.\n\nEn caso de aceptar en su Oferta la opción de ejecutar las obras de la Prolongación Avenida Alessandri, el licitante o grupo licitante se compromete a construirlas y explotarlas, pasando dichas obras a formar parte del Contrato de Concesión, siendo su ejecución obligatoria y por lo tanto aplicándosele a estas obras las presentes Bases en su totalidad.\n\n1.4.5 Anteproyectos Alternativos\n\nDe acuerdo a lo que se indica en el artículo 1.5.5 letra B, Documento Nº7 de las presentes Bases de Licitación, los licitantes o grupos licitantes que no acepten todo o parte del Anteproyecto Referencial entregado por el MOP, deberán presentar en su Oferta Técnica los correspondientes proyectos alternativos, a nivel de anteproyecto de ingeniería, sujeto a las condiciones indicadas en las presentes Bases y lo que se indica a continuación:\n\na) El anteproyecto alternativo deberá ser elaborado a nivel de Anteproyecto (planta, perfiles tipo, longitudinales y transversales) de acuerdo a lo establecido al respecto en el Manual de Carreteras, Volúmenes 2 y 3 (última edición) del MOP y Manual de Vialidad Urbana, Volumen 3 del MINVU.\n\nb) El anteproyecto alternativo debe mantener y respetar el trazado, conexiones y soluciones planteadas en el Anteproyecto Referencial. Además deberá respetar lo establecido en el Plan Regulador Metropolitano de Concepción y la Normativa Legal Vigente.\n\nc) Todos los costos adicionales (obras, equipos, expropiaciones, etc.) que se generen a raíz del Anteproyecto Alternativo, serán de cargo del Concesionario.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 8"
+}

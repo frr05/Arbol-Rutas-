@@ -1,43 +1,29 @@
 {
  "documento": "RITP.D10",
  "pagina": 75,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:05",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
-   "titulo": "ANEXO N° 7 - Item 7.1 Contabilización de las Inversiones",
+   "titulo": null,
    "encabezados": [
     "",
-    "Avance Construcción Obras Nuevas o Adicionales (**)(2.6)(A)",
-    "Ajuste de Meses Anteriores (4.1. c))(B)",
-    "Mantencción y Conservación de Obras Adicionales (2.7)(C)",
-    "Cambio de Servicios (2.6)(D)",
-    "Gasto de Gestión por Cambio de Servicios (10% de D)(E)",
-    "Avance Aprobación de Ingeniería de Detalle (2.8)(F)",
-    "Seguros Adicionales de Construcción y Explotación (2.9)(G)",
-    "Mayores Gastos Generales (2.10)(H)",
-    "Mayores Gastos de Administración y Control (2.11)(I)",
+    "Avance Construcción Obras Nuevas o Adicionales (**) (2.6) (A)",
+    "Ajuste de Meses Anteriores (4.1. c)) (B)",
+    "Mantención y Conservación de Obras Adicionales (2.7) (C)",
+    "Cambio de Servicios (2.6) (D)",
+    "Gasto de Gestión por Cambio de Servicios (10% de D) (E)",
+    "Avance Aprobación de Ingeniería de Detalle (2.8) (F)",
+    "Seguros Adicionales de Construcción y Explotación (2.9) (G)",
+    "Mayores Gastos Generales (2.10) (H)",
+    "Mayores Gastos de Administración y Control (2.11) (I)",
     "Gastos de Financiamiento (*) (J)",
-    "Interés del Mes (N = O₁, * 0,56541%)(N)",
+    "Avance mensual de inversiones en CC N° 1 (K = Suma (B..J)) (K)",
+    "Interés del Mes (N = O_{t-1} * 0,56541%) (N)",
     "Saldo Parcial Acumulado de la Cuenta de Inversión CC N° 1 (O)"
    ],
    "filas": [
-    [
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     "",
-     ""
-    ],
     [
      "Sep-04",
      "0",
@@ -51,6 +37,7 @@
      "0",
      "0",
      "0,00",
+     "",
      "0,00"
     ],
     [
@@ -65,6 +52,7 @@
      "0",
      "0",
      "0",
+     "5.687,00",
      "0,00",
      "5.687,00"
     ],
@@ -80,6 +68,7 @@
      "0",
      "0",
      "0",
+     "26.478,30",
      "30,82",
      "32.196,12"
     ],
@@ -95,6 +84,7 @@
      "18.980",
      "12.138",
      "8.000",
+     "136.313,44",
      "174,47",
      "168.684,03"
     ],
@@ -110,6 +100,7 @@
      "0",
      "0",
      "0",
+     "57.090,86",
      "914,08",
      "226.688,97"
     ],
@@ -125,6 +116,7 @@
      "0",
      "0",
      "0",
+     "33.128,02",
      "1.228,40",
      "261.045,39"
     ],
@@ -140,6 +132,7 @@
      "0",
      "0",
      "0",
+     "16.982,68",
      "1.414,58",
      "279.442,65"
     ],
@@ -155,6 +148,7 @@
      "0",
      "0",
      "0",
+     "12.327,26",
      "1.514,27",
      "293.284,18"
     ],
@@ -170,6 +164,7 @@
      "0",
      "0",
      "0",
+     "1.790,44",
      "1.589,28",
      "296.663,90"
     ],
@@ -186,10 +181,11 @@
      "12.138,00",
      "8.000,00",
      "289.798",
+     "",
      ""
     ]
    ],
-   "notas": "Tasa real mensual: 0,54189% (*) : En el presente ejemplo numérico, se asume que la sociedad concesionaria no paga impuesto de timbre y estampillas. Si ello no fuera así, en la columna (J) se deberían registrar los valores efectivamente efectivamente desembolsados por este concepto, sujeto a lo límites que establece el numeral 2.13 del Convenio Complementario N° 1 (**) : En el avance de construcción se ha deducido proporcionalmente el monto de disminución de obras que se consigna en el ítem g) del Anexo N° 1"
+   "notas": "Tasa real mensual: 0,54189% Nota: Para todos los efectos del ejemplo numérico, se asume que la entrada en vigencia del Convenio Complementario N° 1 se efectúan en el mes de enero de 2005 (*): En el presente ejemplo numérico, se asume que la sociedad concesionaria no paga impuesto de timbre y estampillas. Si ello no fuera así, en la columna (J) se deberían registrar los valores efectivamente efectivamente desembolsados por este concepto, sujeto a lo límites que establece el numeral 2.13 del Convenio Complementario N° 1 (**): En el avance de construcción se ha deducido proporcionalmente el monto de disminución de obras que se consigna en el Ítem g) del Anexo N° 1"
   }
  ]
 }

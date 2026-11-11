@@ -122,6 +122,29 @@ def _router(dir_cache: Path) -> _Router:
     return _routers[ruta]
 
 
+# Uso real de esta corrida por modelo (solo llamadas a la red; lo que sale de caché no suma). main.py toma una foto
+# antes y después de cada etapa para registrar tiempo, tokens y precio (revision/uso_etapas.csv).
+USO: dict[str, dict[str, float]] = {}
+_USO_LOCK = threading.Lock()
+
+
+def registrar_uso(modelo: str, uso: dict | None, costo: float):
+    uso = uso or {}
+    with _USO_LOCK:
+        u = USO.setdefault(modelo, {"llamadas": 0, "tokens_entrada": 0, "tokens_salida": 0,
+                                    "tokens_razonamiento": 0, "costo_usd": 0.0})
+        u["llamadas"] += 1
+        u["tokens_entrada"] += int(uso.get("prompt_tokens") or 0)
+        u["tokens_salida"] += int(uso.get("completion_tokens") or 0)
+        u["tokens_razonamiento"] += int((uso.get("completion_tokens_details") or {}).get("reasoning_tokens") or 0)
+        u["costo_usd"] += float(costo or 0)
+
+
+def foto_uso() -> dict[str, dict[str, float]]:
+    with _USO_LOCK:
+        return {m: dict(u) for m, u in USO.items()}
+
+
 def saldo_restante() -> float | None:
     """Saldo disponible de la clave según OpenRouter (None si no se puede consultar o no tiene límite)."""
     try:
@@ -201,6 +224,7 @@ def _llamar(r: _Router, modelo: str, sistema: str, prompt: str | list, json_mode
     eleccion = (datos.get("choices") or [{}])[0]
     contenido = (eleccion.get("message") or {}).get("content") or ""
     costo = float((datos.get("usage") or {}).get("cost") or 0)
+    registrar_uso(modelo, datos.get("usage"), costo)
     if not contenido.strip():
         raise _Falla("formato", f"respuesta vacía (finish_reason={eleccion.get('finish_reason')})", costo)
     return contenido, costo
@@ -321,6 +345,7 @@ def pedir_embeddings(dir_cache: Path, textos: list[str], modelo: str) -> list[li
             time.sleep(5 * (intento + 1))
             continue
         r.sumar(modelo, float((datos.get("usage") or {}).get("cost") or 0))
+        registrar_uso(modelo, datos.get("usage"), float((datos.get("usage") or {}).get("cost") or 0))
         filas = sorted(datos["data"], key=lambda d: d["index"])
         if len(filas) != len(textos):
             errores.append(f"{len(filas)} vectores para {len(textos)} textos")

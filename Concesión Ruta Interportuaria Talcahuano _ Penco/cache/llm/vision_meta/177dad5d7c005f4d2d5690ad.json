@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000647,
+ "usage": {
+  "completion_tokens": 1135,
+  "prompt_tokens": 4195,
+  "total_tokens": 5330,
+  "completion_tokens_details": {
+   "reasoning_tokens": 253
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\npago, siendo la base sobre la cual se aplicará esta variación, el valor en pesos de la Unidad de\nFomento del último día del mes anterior al que dejare de existir esta última.\n\n42) Valor de la Unidad Tributaria Mensual: El valor de la Unidad Tributaria Mensual (UTM) será el\nque fije el Servicio de Impuestos Internos, de acuerdo al artículo 8º del DL Nº830, de 1974.\n\n43) Velocidades de Diseño y Operación: Se considerarán las definiciones dispuestas en el acápite\n3.102.4 del Volumen 3 del Manual de Carreteras de la Dirección de Vialidad (última edición). Los\ndiseños geométricos que se efectúen con la velocidad de diseño, deberán cumplir con las normas\nmínimas definidas en el capítulo 3.200 de este mismo manual.\n\n1.2.3 Identificación del Postulante\n\nLa obra pública fiscal objeto de la presente licitación, ha sido propuesta por la empresa B y A Ingenieros\nLtda., RUT 79.774.110-8 y aprobada por el MOP.\n\n1.2.4 Premio al Postulante\n\nEl postulante individualizado en el artículo 1.2.3 de las presentes Bases, tiene derecho a un premio en la\nevaluación de su Oferta Económica, tal como se expresa en el Artículo 8º del DS MOP Nº240 de 1991.\n\nEl postulante podrá presentarse a la licitación acompañando la documentación solicitada en estas Bases y\nadjuntando copia del Oficio del Director General de Obras Públicas que acredita la aceptación de su\nProposición. En este caso se le asignará como premio en la evaluación de su Oferta Económica, un\nincremento del diez por ciento del puntaje final calculado según se explicita en el artículo 3.3 de las Bases\nEconómicas.\n\nEl postulante podrá presentarse también a la licitación formando parte de un grupo licitante, cediendo\nexpresamente el premio a dicho grupo licitante.\n\n1.3 DEL PROYECTO\n\n1.3.1 Descripción del Proyecto\n\nLa presente concesión tiene por objeto principal la construcción de un nuevo camino que se desarrollará en\ngran parte por el borde costero de la Bahía de Concepción, a través del sector de Isla Rocuant.\n\nEl nuevo corredor vial denominado \"Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\" (o sólo Ruta\nInterportuaria), se localiza en la Octava Región del Bío Bío y se desarrolla de Oriente a Poniente a través de las\ncomunas de Penco y Talcahuano, en una longitud de 10,9 km aproximadamente, en calzada simple\nbidireccional de una pista por sentido en casi toda su extensión, desde el Enlace Penco en la Autopista del\nItata hasta su empalme con Av. Colón en Talcahuano, para una velocidad de diseño de 100 km/hr, salvo en\nzonas de restricción en donde ésta será de 80 km/hr. Incluye el Enlace Penco y terceras pistas para vehículos\npesados en zona de restricción de velocidad.\n\nDe acuerdo al Plan Regulador Metropolitano de Concepción (PRMC) vigente, la nueva vía Ruta\nInterportuaria está representada por el eje del Sistema Vial Metropolitano denominado «vía principal\nTalcahuano – Penco», entre Enlace Penco en la Autopista del Itata (Acceso Norte a Concepción), y su\nempalme con Av. Colón.\n\nLas principales obras que el Concesionario deberá ejecutar obligatoriamente, son:\n\nDesde el km 0,00 hasta el km 0,55 aproximadamente, construcción de doble calzada de 7 m de ancho\ncada una, bermas exteriores de 2,5 m y mediana de 3,0 m.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 5"
+}

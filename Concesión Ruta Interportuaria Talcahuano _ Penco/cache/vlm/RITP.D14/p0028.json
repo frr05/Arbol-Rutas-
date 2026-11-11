@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 28,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 459,
+ "segundos": 6.4,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 322,
+  "conf_media": 0.921,
+  "frac_baja": 0.025,
+  "frac_rara": 0.004,
+  "tinta": 0.0581
+ },
+ "n_palabras_vlm": 322,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.978,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nLuego de que el Administrador sea informado deberá comunicar el hecho a la\nadministración para enviar la Declaración individual de Accidentes del Trabajo,\ncon todos los antecedentes que en el se solicitan,\n\nDe acuerdo al tipo de accidente deberá solicitarse parte policial emitido por\nCarabineros, que certifique los acontecimientos sucedidos en la vía pública que\nocasionaron alguna lesión. Preocuparse además de contar con 2 testigos\noculares, los que tembién se registrarán en el respectivo formulario de\naccidentes.\n\nImportante\n- Tener presente que la Asociación Chilena de Seguridad\n\nno niega la atención primaria, pero luego investiga a\naquien cobrar los aranceles médicos,\n\n- Si se informa un accidente como del trabajo o trayecto y\ntras las investigaciones de la ACHS, ésta sentencia que\nno corresponde a un accidente con ocasión del trabajo o\nde trayecto, el costo de las atenciones médicas y de\nhospitalización, si correspondieren, serán cobradas\ndirectamente por la ACHS al trabajador atendido con\nposibles multas para el empleador por mal uso del\nservicio.\n\n- Horario de Trabajo, El horario de permanencia de un\ntrabajador es importante en el caso de accidentes de\ntrabajo, ya que si este ocurre fuera del horario, deja sin\nprotección al trabajador. Por lo que se requiere llevar el\nregistro de asistencia al día, debidamerte firmado con\nhorario de entrada y salida.\n\n- Por necesidades del establecimiento toda permanencia\ndel trabajador más allá de su horaria normal debe ser\nconocido por el Administrador y la administración.\n\nVI MANUAL DEL PEAJISTA\n\n6.71. Objetivos y alcance\n\nEl presente Manua! del Peajista tiene como objetivo fijar el estándar de servicio\nque se espera del personal de caja durante el desempeño de su trabajo; la\nrelación de éste con los Usuarios y el procedimiento a seguir para casos\nconsiderados especiales. Los procedimientos relacionados con el\nfuncionamiento de los equipos automatizados de cobro estarán definidos en el\nManual correspondiente provisto por el proveedor de ellos.\n\nya",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nLuego de que el Administrador sea informado deberá comunicar el hecho a la\nadministración para enviar la Declaración Individual de Accidentes del Trabajo,\ncon todos los antecedentes que en el se solicitan.\n\nDe acuerdo al tipo de accidente deberá solicitarse parte policial emitido por\nCarabineros, que certifique los acontecimientos sucedidos en la vía pública que\nocasionaron alguna lesión. Preocuparse además de contar con 2 testigos\noculares, los que también se registrarán en el respectivo formulario de\naccidentes.\n\nImportante\n- Tener presente que la Asociación Chilena de Seguridad\nno niega la atención primaria, pero luego investiga a\nquien cobrar los aranceles médicos.\n\n- Si se informa un accidente como del trabajo o trayecto y\ntras las investigaciones de la ACHS, ésta sentencia que\nno corresponde a un accidente con ocasión del trabajo o\nde trayecto, el costo de las atenciones médicas y de\nhospitalización, si correspondieren, serán cobradas\ndirectamente por la ACHS al trabajador atendido con\nposibles multas para el empleador por mal uso del\nservicio.\n\n- Horario de Trabajo. El horario de permanencia de un\ntrabajador es importante en el caso de accidentes de\ntrabajo, ya que si este ocurre fuera del horario, deja sin\nprotección al trabajador. Por lo que se requiere llevar el\nregistro de asistencia al día, debidamente firmado con\nhorario de entrada y salida.\n\n- Por necesidades del establecimiento toda permanencia\ndel trabajador más allá de su horario normal debe ser\nconocido por el Administrador y la administración.\n\nVI MANUAL DEL PEAJISTA\n\n6.1. Objetivos y alcance\n\nEl presente Manual del Peajista tiene como objetivo fijar el estándar de servicio\nque se espera del personal de caja durante el desempeño de su trabajo; la\nrelación de éste con los Usuarios y el procedimiento a seguir para casos\nconsiderados especiales. Los procedimientos relacionados con el\nfuncionamiento de los equipos automatizados de cobro estarán definidos en el\nManual correspondiente provisto por el proveedor de ellos.\n\n27"
+}

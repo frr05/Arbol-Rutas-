@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:01",
+ "costo": 0.00062,
+ "usage": {
+  "completion_tokens": 898,
+  "prompt_tokens": 4409,
+  "total_tokens": 5307,
+  "completion_tokens_details": {
+   "reasoning_tokens": 77
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.9,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Artículo Bases de Licitación\", \"Monto Multa (UTM)\", \"Tipo de Infracción\", \"Criterio de Aplicación\", \"Otros\"], \"filas\": [[\"1.9.2.4\", \"20\", \"Atraso en la entrega del Plan y Programa de Conservación de Obras Nuevas y Preexistentes.\", \"Cada día\", \"\"], [\"1.9.2.5\", \"20\", \"Atraso en la entrega del Plan de Gestión Ambiental de la Obra durante la Etapa de Construcción.\", \"Cada día\", \"\"], [\"1.9.4\", \"350\", \"Atraso en el avance del 4% de la obra. Las obras que se considerarán en el cálculo de las declaraciones de avance serán las incluidas en el Formulario N°6 del Anexo N°2, letras A y B.\", \"Cada día\", \"En dicho avance no se incluirán los pagos que la Sociedad Concesionaria tenga que realizar al MOP, según lo indicado en los artículos 1.8.4.3 y 1.14.1.\"], [\"1.9.4\", \"350\", \"Atraso en el avance del 30% de la obra. Las obras que se considerarán en el cálculo de las declaraciones de avance serán las incluidas en el Formulario N°6 del Anexo N°2, letras A y B.\", \"Cada día\", \"En dicho avance no se incluirán los pagos que la Sociedad Concesionaria tenga que realizar al MOP, según lo indicado en los artículos 1.8.4.3 y 1.14.1.\"], [\"1.9.4\", \"350\", \"Atraso en el avance del 50% de la obra. Las obras que se considerarán en el cálculo de las declaraciones de avance serán las incluidas en el Formulario N°6 del Anexo N°2, letras A y B.\", \"Cada día\", \"En dicho avance no se incluirán los pagos que la Sociedad Concesionaria tenga que realizar al MOP, según lo indicado en los artículos 1.8.4.3 y 1.14.1.\"], [\"1.9.4\", \"350\", \"Atraso en el avance del 70% de la obra. Las obras que se considerarán en el cálculo de las declaraciones de avance serán las incluidas en el Formulario N°6 del Anexo N°2, letras A y B.\", \"Cada día\", \"En dicho avance no se incluirán los pagos que la Sociedad Concesionaria tenga que realizar al MOP, según lo indicado en los artículos 1.8.4.3 y 1.14.1.\"], [\"1.9.4\", \"350\", \"No entrega de las Declaraciones de Avance en los plazos establecidos.\", \"Cada día\", \"En dicho avance no se incluirán los pagos que la Sociedad Concesionaria tenga que realizar al MOP, según lo indicado en los artículos 1.8.4.3 y 1.14.1.\"], [\"1.9.5\", \"180\", \"Atraso en el plazo máximo, más las prórrogas autorizadas, para la Puesta en Servicio Provisoria de la totalidad de las obras.\", \"Cada día\", \"\"], [\"1.9.6\", \"100\", \"Atraso en la entrega de los nuevos programas de trabajo dentro del plazo estipulado.\", \"Cada día\", \"\"], [\"1.9.7\", \"20\", \"Atraso en la entrega de los planos de construcción y memorias explicativas.\", \"Cada día\", \"\"], [\"1.9.8, 1.9.9\", \"100\", \"Incumplimiento del Plan de Desvíos de Tránsito.\", \"Cada día\", \"\"]], \"notas\": null}]}"
+}

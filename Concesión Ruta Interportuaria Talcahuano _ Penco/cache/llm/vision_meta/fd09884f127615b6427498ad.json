@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000595,
+ "usage": {
+  "completion_tokens": 878,
+  "prompt_tokens": 4195,
+  "total_tokens": 5073,
+  "completion_tokens_details": {
+   "reasoning_tokens": 92
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nlas condiciones de entrega cumplan con las presentes Bases de Licitación y entregará a la misma, en forma\noficial, un memorándum en el cual se establezca lo siguiente:\n\n• Todas las reparaciones que debe realizar la Sociedad Concesionaria y los plazos de ejecución de éstos;\n\n• Todos los trabajos de mantenimiento, y los plazos de ejecución de éstos, necesarios para que en el\nmomento de la Recepción las obras estén absolutamente operables y con los estándares establecidos en\nestas Bases de Licitación;\n\n• Plan de manejo de los diferentes servicios que explota y presta el Concesionario de manera de asegurar la\ncontinuidad de la operación de la concesión al término de la misma e inicio de la próxima administración.\n\nLa no entrega del memorándum indicado, no libera a la Sociedad Concesionaria de las obligaciones que se le\nimponen en este artículo.\n\nSin perjuicio de lo anterior, el incumplimiento de estas obligaciones dará derecho al MOP al cobro de las\nGarantías señaladas en el artículo 1.8.3 y a la aplicación de las multas previstas en el artículo 1.8.5.1 de las\npresentes Bases de Licitación.\n\nAntes de la extinción de la concesión, el Inspector Fiscal de la Explotación solicitará al DGOP el\nnombramiento de una Comisión de Recepción de la Concesión, integrada por tres personas: un representante\ndel Director General de Obras Públicas, otro del Director de Vialidad y una última designada por el Ministro\nde Obras Públicas. La Comisión deberá evacuar su informe en un plazo no superior a los treinta días desde la\nfecha de notificación de su designación. Una vez verificado el cabal cumplimiento del Contrato, dará curso\nal documento de término de la concesión y al Acta de Entrega.\n\n1.13.3 Extinción de la Concesión por Incumplimiento Grave de las Obligaciones Impuestas a la\nSociedad Concesionaria\n\nSe considerará incumplimiento grave de las obligaciones del Contrato las siguientes:\n\na) Disminución del capital de la Sociedad Concesionaria sin autorización expresa del MOP;\n\nb) Demoras no autorizadas en la construcción por un período superior a 60 días. Se entenderá por demora\nno autorizada en la construcción toda vez que una de las declaraciones de avance presentadas por el\nConcesionario no refleje los porcentajes de obra exigidos en el artículo 1.9.4 de las presentes Bases;\n\nc) Incumplimiento en tres oportunidades de los niveles mínimos de servicio establecidos en las presentes\nBases de Licitación y en el Reglamento de Servicio de la Obra;\n\nd) Cobranza en tres oportunidades de tarifas superiores a las autorizadas;\n\ne) Incumplimiento en tres oportunidades de las normas de conservación y mantenimiento de las obras;\n\nf) No constitución o no reconstitución de las garantías en los plazos y condiciones previstas en las\npresentes Bases de Licitación;\n\ng) Entrega de información técnica o económica maliciosamente falsa o incompleta, en dos oportunidades;\n\nLa no ejecución e incumplimiento reiterado de las medidas que imponga el o los organismos\ncompetentes para la aprobación de la o las Declaraciones o Estudios de Impacto Ambiental asociadas al\nproyecto y/o sus actividades, desde que le sean notificadas dichas medidas al Concesionario por el\nInspector Fiscal, a través de anotación en el Libro de Obras. Para los efectos de este artículo, se\nentenderá que existe incumplimiento reiterado de esta obligación, cuando notificada por segunda vez de\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 74"
+}

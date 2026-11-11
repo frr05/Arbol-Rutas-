@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000509,
+ "usage": {
+  "completion_tokens": 473,
+  "prompt_tokens": 4142,
+  "total_tokens": 4615,
+  "completion_tokens_details": {
+   "reasoning_tokens": 244
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.7,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Si es de importancia notifique al Administrador Jefe de Plaza de\ninmediato.\n\n- Repórtese en el lugar afectado.\n\n- Si el material no puede ser removido, notifique al concesionario para\ntomar medidas adicionales.\n\nAnimales en el Camino\n\nAnimales podrían pasearse por el camino. Se podría tratar de animales salvajes\nde los alrededores o de mascotas. Informar la presencia de cualquier animal\nmuerto o vivo en el camino al Administrador Jefe de Plaza. Efectuar lo siguiente:\n\n- Si está muerto, apartar el animal a un costado de la ruta.\n\n- Si está vivo y reviste peligro para el tránsito, pedir ayuda a otros\nfuncionarios para trata de apartarlo de la ruta.\n\n- En caso necesario deberá asegurar la zona para evitar accidentes,\nincluso cerrando el tránsito a automóviles\n\n- Llamar a Carabineros en caso de que no fuere posible apartar al animal\nde la ruta.\n\n59"
+}

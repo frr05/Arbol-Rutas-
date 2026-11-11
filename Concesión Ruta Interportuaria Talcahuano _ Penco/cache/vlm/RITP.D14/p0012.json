@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 12,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 414,
+ "segundos": 8.2,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 237,
+  "conf_media": 0.91,
+  "frac_baja": 0.034,
+  "frac_rara": 0.006,
+  "tinta": 0.0511
+ },
+ "n_palabras_vlm": 256,
+ "frac_rara_vlm": 0.006,
+ "similitud": 0.966,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nEn cada cabina de pago, se informará al cliente de la disponibilidad del libro\nmediante señales informativas al respecto. Adicionalmente, el recibo de pago\nque será entregado a cada usuario al momento de pasar por caja incluye los\nteléfonos, dirección y correo electrónico disporibles para que pueda dirigir sus\nreclamos en caso de no recurrir al Libro.\n\n3.20 El Libro es foliado y tabulado de la siguiente manera,\n\nFECHA | RECLAMO\n\nLa revisión periódica del libra es parte del procedimiento rutinario del Jefe de\nPlaza a cargo, quien mensualmente informará al concesionario del estado del\nmismo. Á cada usuario se le solicitará que registre su hombre y teléfono de\nmanera de hacer un seguimiento posterior.\n\nEl tiempo máximo de respuesta al usuario es de 72 horas de registrado el\nreclamo en el libro correspondiente. La Sociedad Concesionaria contactará al\nafectado a través de los puntos de contacto que éste deje registrados.\n\nMensualmente, el Concesionario elaborará un cuadro sinóptico de los registros\nrecibidos en el Libro de Reclamos y Sugerencias. De acuerdo a la frecuencia y\ntipificación de los Reclamos y Sugerencias, se elaborarán tabulaciones para los\ncasos más repetidos con el objeto de plantear programas correctivos y\npreventivos. Este cuadro deberá ser remitido a los siguientes destinatarios.\n\n- | Sociedad Concesionaria\n- inspector Fiscal del MOP\n- Gerencia Empresa Administradora y Operadora\n\nWN. DEBERES Y DERECHOS DEL CONCESIONARIO\n\n4.1 Derechos del concesionario",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nEn cada cabina de pago, se informará al cliente de la disponibilidad del libro\nmediante señales informativas al respecto. Adicionalmente, el recibo de pago\nque será entregado a cada usuario al momento de pasar por caja incluye los\nteléfonos, dirección y correo electrónico disponibles para que pueda dirigir sus\nreclamos en caso de no recurrir al Libro.\n\n3.20 El Libro es foliado y tabulado de la siguiente manera.\n\nFECHA | RECLAMO | NOMBRE | TELEFONO | SEGUIMIENTO | PROXIMO PASO\n |  |  |  |  | \n |  |  |  |  | \n\nLa revisión periódica del libro es parte del procedimiento rutinario del Jefe de\nPlaza a cargo, quien mensualmente informará al concesionario del estado del\nmismo. A cada usuario se le solicitará que registre su nombre y teléfono de\nmanera de hacer un seguimiento posterior.\n\nEl tiempo máximo de respuesta al usuario es de 72 horas de registrado el\nreclamo en el libro correspondiente. La Sociedad Concesionaria contactará al\nafectado a través de los puntos de contacto que éste deje registrados.\n\nMensualmente, el Concesionario elaborará un cuadro sinóptico de los registros\nrecibidos en el Libro de Reclamos y Sugerencias. De acuerdo a la frecuencia y\ntipificación de los Reclamos y Sugerencias, se elaborarán tabulaciones para los\ncasos más repetidos con el objeto de plantear programas correctivos y\npreventivos. Este cuadro deberá ser remitido a los siguientes destinatarios.\n\n- Sociedad Concesionaria\n- Inspector Fiscal del MOP\n- Gerencia Empresa Administradora y Operadora\n\nIV. DEBERES Y DERECHOS DEL CONCESIONARIO\n\n4.1 Derechos del concesionario\n\n11"
+}

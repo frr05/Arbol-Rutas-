@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:54",
+ "costo": 0.000777,
+ "usage": {
+  "completion_tokens": 1786,
+  "prompt_tokens": 4195,
+  "total_tokens": 5981,
+  "completion_tokens_details": {
+   "reasoning_tokens": 944
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.8,
+ "truncado": false,
+ "texto": "El Anteproyecto Referencial entregado por el MOP que se ha puesto a disposición de\nlos licitantes o grupos licitantes, corresponde a las soluciones mínimas exigidas para\ncada obra.\n\nLas obras que debe ejecutar la Sociedad Concesionaria, para complementar y\nmejorar el Enlace Penco actual son, principalmente, las siguientes:\n\n• Lazo Penco-Autopista Itata.\n• Lazo Talcahuano-Penco.\n• Lazo Concepción- Talcahuano.\n• Ramal Talcahuano-Concepción, conforme a lo dispuesto en el artículo 1.9.5\nde las presentes Bases.\"\n\n28. En 2.2.1.5 \"Pasos Interprediales\", se rectifica el artículo reemplazando el segundo párrafo por el\nsiguiente:\n\n\"La ubicación final de cada una de estas estructuras así como su longitud, será\nproducto de la ingeniería definitiva que el Concesionario debe desarrollar y someter a\nla aprobación del Inspector Fiscal.\"\n\n29. En 2.2.2.2 \"Mantenimiento de Puentes y Estructuras\", se rectifica el artículo reemplazándolo por\nel siguiente:\n\n\"Durante la Etapa de Construcción se efectuarán en las estructuras preexistentes que se\nentregan a la presente concesión, conforme a lo señalado en el artículo 1.8.17 de\nlas Bases Administrativas, labores de mantenimiento de diversa índole según sea su\ncondición al momento del inicio de las obras. La información incluida en el\nAnteproyecto Referencial recoge las necesidades mínimas de mantenimiento\ndeterminadas, las que deberán ser verificadas por la Sociedad Concesionaria y\nsometidas a la aprobación del Área de Proyectos de Puentes y Estructuras de la\nUnidad de Ingeniería de la Dirección de Vialidad, constituyendo las obras mínimas a\nrealizar por el Concesionario durante la Etapa de Construcción. Será responsabilidad\nde la Sociedad Concesionaria verificar que estas obras garanticen la estabilidad y\nseguridad de los puentes. En particular, para el \"Puente Rocuant\" (sobre el Canal\nEl Morro), las obras de mantenimiento mínimas a realizar son: reposición de\nbarandas, cantoneras y recapado asfáltico.\"\n\n30. En 2.2.2.5 \"Accesos Privados\", se rectifica el artículo reemplazándolo por el siguiente:\n\n\"2.2.2.5 Accesos Privados Provisorios\n\nEl Concesionario deberá construir, según corresponda, a su entero costo, los\naccesos a nivel, tipo cuellos simples a ambos lados de la vía, conforme al diseño\nestablecido en la Resolución N°416 de Junio de 1987, lámina 3 de 3, de la\nDirección de Vialidad del MOP, que se indican a continuación:\n\n• Primer Acceso: Conformado por 2 Cuellos Simples, ubicados en el Km 4,90\naproximadamente.\n\n• Segundo Acceso: Conformado por 2 Cuellos Simples, ubicados en el Km 7,70\naproximadamente.\n\nEstos accesos tendrán el carácter de provisorios y podrán ser solamente\nutilizados por los propietarios de los predios adyacentes, en tanto se mantengan\nlas condiciones actuales de urbanización y desarrollo del sector y se disponga del\nadecuado control para impedir que estos accesos sean utilizados por otros\nterceros. En caso que se inicien loteos o construcciones en estos sectores, que\nrequieran utilizar dichos accesos, el o los propietarios deberán presentar la\nsolicitud formal de acceso, de acuerdo a lo establecido en el artículo 1.8.9 de las\npresentes Bases, debiendo cumplir con todo lo estipulado en dicho artículo.\n\nCon todo, una vez materializada y habilitada las obras de Prolongación Av.\nAlessandri y su conexión con la Ruta Interportuaria, el Concesionario deberá"
+}

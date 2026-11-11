@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000625,
+ "usage": {
+  "completion_tokens": 907,
+  "prompt_tokens": 4437,
+  "total_tokens": 5344,
+  "completion_tokens_details": {
+   "reasoning_tokens": 658
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.5,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"CONTRALORIA GENERAL TOMA DE RAZON\", \"encabezados\": [\"RECEPCION\", \"\", \"\"], \"filas\": [[\"DEPART. JURIDICO\", \"\", \"\"], [\"DEP. T. R. Y REGISTRO\", \"\", \"\"], [\"DEPART. CONTABIL.\", \"\", \"\"], [\"SUB. DEP. C. CENTRAL\", \"\", \"\"], [\"SUB. DEP. E. CUENTAS\", \"\", \"\"], [\"SUB. DEP. C. P. Y BIENES NAC.\", \"\", \"\"], [\"DEPART. AUDITORIA\", \"\", \"\"], [\"DEPART. V. O. P., U y T.\", \"\", \"\"], [\"SUB. DEP. MUNICIP.\", \"\", \"\"], [\"\", \"\", \"\"]], \"notas\": null}, {\"titulo\": \"REFRENDACION\", \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"REF. POR $\", \"\"], [\"IMPUTAC.\", \"\"], [\"ANOT. POR $\", \"\"], [\"IMPUTAC.\", \"\"], [\"DEDUC DTO.\", \"\"]], \"notas\": null}]}"
+}

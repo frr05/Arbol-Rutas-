@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000607,
+ "usage": {
+  "completion_tokens": 963,
+  "prompt_tokens": 4142,
+  "total_tokens": 5105,
+  "completion_tokens_details": {
+   "reasoning_tokens": 572
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.8,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n | NOMBRE CONTACTO | DIRECCIÓN | TELÉFONO\nAMBULANCIA (Coordinación directa con Bomberos) | (Coordinación con Bomberos) | (Coordinación con Bomberos) | 131\nASOCIACIÓN CHILENA DE SEGURIDAD | Mesa Central | Cardenio Avello Nro. 36 | (41)- 402222\nBOMBEROS |  | Orompello Nro. 136 | 132\nCARABINEROS (COMISARIA) | Prefectura Lomas Verdes | Avda. Alessandri s/n | (41) - 481799 ó 133\nJEFE DE PLAZA | Nelson Duffau | Oficina Concesionaria | (41)- 466996\nJEFE DE MANTENCIÓN | (Por Contratar) | Oficina Concesionaria | (41)- 466996\n\nEl primer paso en la elaboración de un plan de prevención de riesgos y\naccidentes es identificar el tipo de emergencia al que se está expuesto.\n\n5.2 Alcance\n\nEstos procedimientos cubren la seguridad en terreno de las instalaciones de\ncobro de peajes con el fin de aminorar daños; documenta la forma en que los\nempleados deben responder para proteger al público y protegerse a ellos\nmismos; y establece un plan de acción.\n\n5.3 Identificando las emergencias\n\nEl primer paso del Plan es identificar los potenciales riesgos que existen y el\nhecho que se trate de una operación de peajes:\n\nEmergencias Generales. Se identifican aquellas emergencias que surgirían\ndebido a causas naturales o del hombre.\n\n5.4 Identificación de una emergencia general\n\nDesastres Naturales\n\n- Terremoto\n\n15"
+}

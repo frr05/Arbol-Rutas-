@@ -1,0 +1,100 @@
+{
+ "documento": "RITP.D09",
+ "pagina": 1,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:03",
+ "tablas": [
+  {
+   "titulo": "CONTRALORIA GENERAL TOMA DE RAZON",
+   "encabezados": [
+    "RECEPCION",
+    "",
+    ""
+   ],
+   "filas": [
+    [
+     "DEPART. JURIDICO",
+     "",
+     ""
+    ],
+    [
+     "DEP. T. R. Y REGISTRO",
+     "",
+     ""
+    ],
+    [
+     "DEPART. CONTABIL.",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. C. CENTRAL",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. E. CUENTAS",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. C. P. Y BIENES NAC.",
+     "",
+     ""
+    ],
+    [
+     "DEPART. AUDITORIA",
+     "",
+     ""
+    ],
+    [
+     "DEPART. V. O. P., U y T.",
+     "",
+     ""
+    ],
+    [
+     "SUB. DEP. MUNICIP.",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     ""
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "REFRENDACION",
+   "encabezados": [
+    "Campo",
+    "Valor"
+   ],
+   "filas": [
+    [
+     "REF. POR $",
+     ""
+    ],
+    [
+     "IMPUTAC.",
+     ""
+    ],
+    [
+     "ANOT. POR $",
+     ""
+    ],
+    [
+     "IMPUTAC.",
+     ""
+    ],
+    [
+     "DEDUC DTO.",
+     ""
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D11",
+ "pagina": 20,
+ "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 455,
+ "segundos": 8.9,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 275,
+  "conf_media": 0.924,
+  "frac_baja": 0.047,
+  "frac_rara": 0.006,
+  "tinta": 0.0598
+ },
+ "n_palabras_vlm": 262,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.945,
+ "truncado": false,
+ "texto_ocr": "RUTA INTERPORTUARIA TALCAHUANO PENCO POR ISLA ROCUANT\n\nANEXO NO 2\n\nDESCRIPCIÓN DE LAS NUEVAS INVERSIONES Y GASTOS\nASOCIADOS AL PRESENTE CONVENIO\n\nA) NUEVAS INVERSIONES Y GASTOS ASOCIADOS\n1.- IMPERMEABILIZACIÓN DE LOSAS DE PUENTES:\n\nEspecificación técnica incorporada por el Departamento de Puentes de la\nDirección de Vialidad, en atención a las condiciones climáticas de la\nzona, y aplicable a la superestructura del Puente Las Ballenas y Paso\nSuperior Las Gaviotas,\n\nLa lámina impermeable se dispone bajo la estructura de pavimento\nasfáltico, e impide la eventual filtración de agua hacia la losa de\nhormigón armado de las estructuras señaladas.\n\nEsta exigencia del Departamento de Puentes no es contractual, dado\nque no está considerada dentro de los antecedentes que forman parte\ndel Proyecto Referencial de Ingeniería de Detalle (PRID) del Contrato,\n\n2.- CONEXIÓN VIAL ATRAVIESO INTERPREDIAL NO 2 KM 2.360\nEN RUTA TRONCAL:\n\nEl Proyecto Referencial de Ingeniería de Detalle del Contrato\ncontemplaba un atravieso interpredial en el Km. 2.700 de la ruta\ntroncal, frente al predio denominado Caymaco.\n\nPor una solicitud del propietario del predio en comento, la estructura de\natravieso cambió su emplazamiento al Km. 2.360, situación aprobada\nformalmente por la Dirección de Vialidad por oficio ORD. NO 961 fecha\n20 de Enero de 2004,\n\nEn la nueva ubicación, se hizo necesario implementar una vialidad\ninterpredial a objeto de conectar adecuadamente con la vialidad\nexistente al interior del predio. Esta última situación no estaba\ncontemplada dentro de los antecedentes referenciales del contrato, dado\nque en la ubicación original del atravieso_no se requería implementar\nesta conexión. _ E\n\nCONVENIO COMPLEMENTARIO N*2\n\n0 Es\nPAG. 1DE8 ¿go\n\nDE.\n\no\no\n\n27\ne\nPS\nE\ns Y\n\n003\nnada",
+ "texto_vlm": "RUTA INTERPORTUARIA TALCAHUANO PENCO POR ISLA ROCUANT\n\nANEXO Nº 2\n\nDESCRIPCIÓN DE LAS NUEVAS INVERSIONES Y GASTOS\nASOCIADOS AL PRESENTE CONVENIO\n\nA) NUEVAS INVERSIONES Y GASTOS ASOCIADOS\n\n1.- IMPERMEABILIZACIÓN DE LOSAS DE PUENTES:\n\nEspecificación técnica incorporada por el Departamento de Puentes de la\nDirección de Vialidad, en atención a las condiciones climáticas de la\nzona, y aplicable a la superestructura del Puente Las Ballenas y Paso\nSuperior Las Gaviotas.\n\nLa lámina impermeable se dispone bajo la estructura de pavimento\nasfáltico, e impide la eventual filtración de agua hacia la losa de\nhormigón armado de las estructuras señaladas.\n\nEsta exigencia del Departamento de Puentes no es contractual, dado\nque no está considerada dentro de los antecedentes que forman parte\ndel Proyecto Referencial de Ingeniería de Detalle (PRID) del Contrato.\n\n2.- CONEXIÓN VIAL ATRAVIESO INTERPREDIAL Nº 2 KM 2.360\nEN RUTA TRONCAL:\n\nEl Proyecto Referencial de Ingeniería de Detalle del Contrato\ncontemplaba un atravieso interpredial en el Km. 2.700 de la ruta\ntroncal, frente al predio denominado Caymaco.\n\nPor una solicitud del propietario del predio en comento, la estructura de\natravieso cambió su emplazamiento al Km. 2.360, situación aprobada\nformalmente por la Dirección de Vialidad por oficio ORD. Nº 961 fecha\n20 de Enero de 2004.\n\nEn la nueva ubicación, se hizo necesario implementar una vialidad\ninterpredial a objeto de conectar adecuadamente con la vialidad\nexistente al interior del predio. Esta última situación no estaba\ncontemplada dentro de los antecedentes referenciales del contrato, dado\nque en la ubicación original del atravieso no se requería implementar\nesta conexión.\n\nCONVENIO COMPLEMENTARIO Nº2 PAG. 1 DE 8"
+}

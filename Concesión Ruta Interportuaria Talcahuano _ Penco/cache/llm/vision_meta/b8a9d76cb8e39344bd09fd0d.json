@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000535,
+ "usage": {
+  "completion_tokens": 471,
+  "prompt_tokens": 4413,
+  "total_tokens": 4884,
+  "completion_tokens_details": {
+   "reasoning_tokens": 214
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 5.3,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla 1: Cuadro de Entrega de Terrenos\", \"encabezados\": [\"Terrenos\", \"Obra\", \"Plazo de Entrega\"], \"filas\": [[\"Sector sur entre Av. Col\\u00f3n y Canal el Morro\", \"Modificaci\\u00f3n de Trazado en el Acceso a Talcahuano\", \"Entregado en tiempo y forma\"], [\"Sector norte entre Canal El Morro y trazado actual de Ruta Troncal\", \"Modificaci\\u00f3n de Trazado en el Acceso a Talcahuano\", \"Entregado en tiempo y forma\"], [\"Lote 14-b y 15 de propiedad de VALMAR\", \"Empalme con la Av. Alessandri\", \"Entregado en tiempo y forma\"], [\"Lotes 7, 13 y 8 de la concesi\\u00f3n Terminal de Pasajeros Aeropuerto Carriel Sur de Concepci\\u00f3n\", \"Empalme con la Av. Alessandri\", \"15-11-2004\"]], \"notas\": null}]}"
+}

@@ -1,8 +1,43 @@
 {
  "documento": "RITP.D10",
  "pagina": 81,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:06",
- "tablas": []
+ "fecha": "2026-11-11 12:04",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Campo",
+    "Valor"
+   ],
+   "filas": [
+    [
+     "a) A pagar según número 2 a) siguiente:",
+     ""
+    ],
+    [
+     "- Obras y servicios :",
+     "U.F. 125.941,49"
+    ],
+    [
+     "- Interés :",
+     "U.F. 2.058,51"
+    ],
+    [
+     "b) A pagar según número 2 b) siguiente:",
+     ""
+    ],
+    [
+     "- Obras y servicios :",
+     "U.F. 36.083,30"
+    ],
+    [
+     "- Interés :",
+     "U.F. 3.046,89"
+    ]
+   ],
+   "notas": null
+  }
+ ]
 }

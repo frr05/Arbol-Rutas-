@@ -1,0 +1,60 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 122,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla Nº 15: Secciones Transversales.",
+   "encabezados": [
+    "Kilómetro / Desde",
+    "Kilómetro / Hasta",
+    "Sección Transversal"
+   ],
+   "filas": [
+    [
+     "0,00",
+     "0,55",
+     "Calzada Doble"
+    ],
+    [
+     "0,55",
+     "0,85",
+     "Transición"
+    ],
+    [
+     "0,85",
+     "1,36",
+     "Calzada Simple"
+    ],
+    [
+     "1,36",
+     "1,50",
+     "Transición"
+    ],
+    [
+     "1,50",
+     "2,60",
+     "Calzada Simple con Tercera Pista"
+    ],
+    [
+     "2,60",
+     "2,70",
+     "Transición"
+    ],
+    [
+     "2,70",
+     "4,00",
+     "Calzada Simple"
+    ],
+    [
+     "4,00",
+     "10,4",
+     "Calzada Simple"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 57,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 308,
+ "segundos": 5.0,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 210,
+  "conf_media": 0.925,
+  "frac_baja": 0.014,
+  "frac_rara": 0.014,
+  "tinta": 0.0371
+ },
+ "n_palabras_vlm": 210,
+ "frac_rara_vlm": 0.014,
+ "similitud": 0.969,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA $.A.\n\nmenos 48 hrs., se puede deducir que no hay traumatismo encéfalo craneano.\nPero en caso que aparezca por lo menos uno de ellos, lo más aproplado es no\naventurar y consultar rápidamente al especialista. De la premura con que se\nhaga puede depender el grado de recuperación de la víctima, e incluso su vida.\n7.14 En caso de un accidente\n\nParmanezca en el lugar del accidente\n\nDetenga su Vehiculo en el lugar del accidente o tan cerca como sea posible\nasegurándose que el lugar de detención no presente riesgos adicionales.\nTestigos\n\nObtenga el nombre, apellidos y domicilio de dos personas que hayan\npresenciado el hecho y que puedan servir de testigos.\n\nEn caso de haber muertos\n\nNo los mueva ni toque. Esto debe ser canalizado por medio de Carabineros.\n\nPolicía\n\nObtenga la intervención de un Carabinero, para que deje constancia del\naccidente, quienes son la autoridad competente al respecto.\n\nDetalle del otro vehículo implicado\n\nSi hubiera otro vehiculo implicado, obtenga la patente, el nombre y domicilio de\nla persona que to conducía y personas que viajaban en él.\n\nLugar y hora del accidente\n\nAnote el lugar exacto, hora, estado del tiempo, ubicación de los vehículos y otros\ndetalles que permitan redactar un informe escrito.\n\n56",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nmenos 48 hrs., se puede deducir que no hay traumatismo encéfalo craneano.\nPero en caso que aparezca por lo menos uno de ellos, lo más apropiado es no\naventurar y consultar rápidamente al especialista. De la premura con que se\nhaga puede depender el grado de recuperación de la víctima, e incluso su vida.\n\n7.14 En caso de un accidente\n\nPermanezca en el lugar del accidente\n\nDetenga su vehículo en el lugar del accidente o tan cerca como sea posible\nasegurándose que el lugar de detención no presenta riesgos adicionales.\n\nTestigos\n\nObtenga el nombre, apellidos y domicilio de dos personas que hayan\npresenciado el hecho y que puedan servir de testigos.\n\nEn caso de haber muertos\n\nNo los mueva ni toque. Esto debe ser canalizado por medio de Carabineros.\n\nPolicía\n\nObtenga la intervención de un Carabinero, para que deje constancia del\naccidente, quienes son la autoridad competente al respecto.\n\nDetalle del otro vehículo implicado\n\nSi hubiera otro vehículo implicado, obtenga la patente, el nombre y domicilio de\nla persona que lo conducía y personas que viajaban en él.\n\nLugar y hora del accidente\n\nAnote el lugar exacto, hora, estado del tiempo, ubicación de los vehículos y otros\ndetalles que permitan redactar un informe escrito.\n\n56"
+}

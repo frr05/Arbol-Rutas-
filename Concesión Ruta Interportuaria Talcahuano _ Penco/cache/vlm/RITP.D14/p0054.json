@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 54,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 550,
+ "segundos": 7.9,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 369,
+  "conf_media": 0.915,
+  "frac_baja": 0.019,
+  "frac_rara": 0.004,
+  "tinta": 0.0593
+ },
+ "n_palabras_vlm": 369,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.959,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nfalta de oxigeno en la sangre o paralización de la circulación y, por lo tanto, la\nnecesidad de prestar ayuda a la respiración.\n\nCualquiera que sea el agente que determine la asfixia, la víctima queda en\nestado de muerte aparente a clínica.\n\nEl elemento más importante en la \"resucitación boca a boca”, es la posición de la\ncabeza y cuello, extendidos completamente, para lograr que el aire pase por la\ngarganta y penetre a los pulmones.\n\nEl tiempo es importante\n\nNo pierda tiempo llevando la victima a un mejor lugar, a menos que se trate de\nun lugar inseguro. El propósito principal es hacer que llegue el aire de inmediato\na los pulmones de la victima, ya que los tejidos privados de oxigeno, fiene un\nlimite de pocos minutos de resistencia. Si se introduce aire en los pulmones,\npara que la sangre tenga el oxígeno que necesita, se puede prolongar la vida.\n\nEn una persona inconsciente, la cabeza tiende a inclinarse hacia adelante, la\nlengua se afloja y cae hacia atrás, pudiendo a llegar a obstruir el paso del alre en\nla garganta; para evitar la obstrucción, hay que levantar el cuello e inclinar la\ncabeza hacía atrás.\n\nTécnicas de respiración artificial Boca a Boca\n\n- Tienda la victima de espaldas y limpie su boca, retirando cualquier\nmateria extraña que difículte la respiración (mucosidad, fierra, etc.)\n\n- Levante la cabeza de la víctima por la barbilla e inclínela hacia atrás, de\nmanera que el mentón apunte hacia arriba. Sostenga la mandíbula\ninferior, de modo que la lengua ho impida el paso de atre durante el\nprocedimiento. Introduzca el pulgar entre los dientes de la víctima, para\nasl tener levantada la mandíbula y la cabeza inclinada hacia atrás.\n\n- Si la victima aun no respira, empiece con la respiración artificial\ninmediatamente; cualquier demora puede ser fatal. Con el pulgar y el\nindice cierre los orificios nasales, para evitar la pérdida de aire por la\nnariz.\n\n- Coloque su boca sobre la victima, apoyándola firmemente para sellar los\n\nescapes de aire, Si se coloca un pañuelo sobre la boca de la víctima, se\nevita el contacto directo. Esto no afecta grandemente el paso del aire.\n\n53",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nfalta de oxigeno en la sangre o paralización de la circulación y, por lo tanto, la\nnecesidad de prestar ayuda a la respiración.\n\nCualquiera que sea el agente que determine la asfixia, la víctima queda en\nestado de muerte aparente o clínica.\n\nEl elemento más importante en la \"resucitación boca a boca\", es la posición de la\ncabeza y cuello, extendidos completamente, para lograr que el aire pase por la\ngarganta y penetre a los pulmones.\n\nEl tiempo es importante\n\nNo pierda tiempo llevando la víctima a un mejor lugar, a menos que se trate de\nun lugar inseguro. El propósito principal es hacer que llegue el aire de inmediato\na los pulmones de la víctima, ya que los tejidos privados de oxigeno, tiene un\nlímite de pocos minutos de resistencia. Si se introduce aire en los pulmones,\npara que la sangre tenga el oxígeno que necesita, se puede prolongar la vida.\n\nEn una persona inconsciente, la cabeza tiende a inclinarse hacia adelante, la\nlengua se afloja y cae hacia atrás, pudiendo a llegar a obstruir el paso del aire en\nla garganta; para evitar la obstrucción, hay que levantar el cuello e inclinar la\ncabeza hacia atrás.\n\nTécnicas de respiración artificial Boca a Boca\n\n- Tienda la víctima de espaldas y limpie su boca, retirando cualquier\nmateria extraña que dificulte la respiración (mucosidad, tierra, etc.)\n\n- Levante la cabeza de la víctima por la barbilla e inclínela hacia atrás, de\nmanera que el mentón apunte hacia arriba. Sostenga la mandíbula\ninferior, de modo que la lengua no impida el paso de aire durante el\nprocedimiento. Introduzca el pulgar entre los dientes de la víctima, para\nasí tener levantada la mandíbula y la cabeza inclinada hacia atrás.\n\n- Si la víctima aun no respira, empiece con la respiración artificial\ninmediatamente; cualquier demora puede ser fatal. Con el pulgar y el\nindice cierre los orificios nasales, para evitar la pérdida de aire por la\nnariz.\n\n- Coloque su boca sobre la víctima, apoyándola firmemente para sellar los\nescapes de aire. Si se coloca un pañuelo sobre la boca de la víctima, se\nevita el contacto directo. Esto no afecta grandemente el paso del aire.\n\n53"
+}

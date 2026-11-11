@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:57",
+ "costo": 0.000578,
+ "usage": {
+  "completion_tokens": 790,
+  "prompt_tokens": 4199,
+  "total_tokens": 4989,
+  "completion_tokens_details": {
+   "reasoning_tokens": 615
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.5,
+ "truncado": false,
+ "texto": "Autorizo las firmas del anverso de don Enrique Alberto Elgueta Galmez, CI. N°\n4.553.840-0, y de don Gonzalo Sebatián Castillo Nicolás, CI. N° 6.662.748-9, ambos\nen representación de SOCIEDAD CONCESIONARIA AEROSUR S.A., RUT. N°\n96.888.630-4. - SANTIAGO, 02 DE DICIEMBRE DE 2.004. -\n\nCertifico, que hoy protocolicé el docu-\nmento con el N°...35. al final de los\nRegistros de Escrituras Públicas.\nSantiago, -3 DIC 2004\n\nES TESTIMONIO FIEL DE SU ORIGINAL\nSantiago, -3 DIC 2004"
+}

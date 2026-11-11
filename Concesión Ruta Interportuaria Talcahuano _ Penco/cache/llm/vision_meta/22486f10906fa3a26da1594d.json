@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000657,
+ "usage": {
+  "completion_tokens": 1186,
+  "prompt_tokens": 4199,
+  "total_tokens": 5385,
+  "completion_tokens_details": {
+   "reasoning_tokens": 656
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.0,
+ "truncado": false,
+ "texto": "contabilizará el último día del mes en que el Inspector Fiscal apruebe\ncada uno de los proyectos, según la cifra correspondiente, señalada\nen dicho Anexo. No obstante lo anterior, el valor máximo a\ncontabilizar por este concepto ascenderá a UF 8.642 (Ocho Mil\nSeiscientas Cuarenta y Dos Unidades de Fomento).\n\nd) Para el caso de los siguientes Ítems del Anexo Nº 1 y de acuerdo a\nlas cifras que se indican, éstos se contabilizarán por una única vez,\ncon fecha 31 de diciembre de 2004:\n\n- Ítem b) Conservación y Mantenimiento: UF 22.287\n- Ítem e) Mayores Gastos Generales: UF 18.980\n- Ítem f) Gastos Adicionales de Administración y Control:\nUF 12.138\n\ne) Para el caso del Ítem h) del Anexo Nº 1, Gastos de Financiamiento,\nconsignados en los numerales 2.12 y 2.13 precedentes, éstos se\ncontabilizarán de la siguiente manera:\n\ni. Gastos por comisiones bancarias, costos legales y otros\nasociados: las UF 8.000 por el concepto detallado en el numeral\n2.12 precedente se contabilizarán por una única vez, el 31 de\ndiciembre de 2004.\n\nii. Gasto por Pago de Impuesto de Timbres y Estampillas: cada\npago que efectúe la Sociedad Concesionaria por el concepto\nestablecido en el numeral 2.13 precedente, se contabilizará el\núltimo día del mes en que la Sociedad Concesionaria hubiere\npagado este impuesto, y como máximo hasta el valor tope\nestipulado en el citado numeral.\n\n3.4 Para simplificar la comprensión de la contabilización de las nuevas\ninversiones, se ha preparado el Anexo Nº7, cuyo ítem 7.1 describe y\nejemplifica esta contabilización.\n\nCUARTO: COMPENSACIONES EN EL RÉGIMEN ECONÓMICO DE LA\nCONCESIÓN.\n\nPara compensar todas las inversiones, obras y servicios adicionales, los mayores\ncostos asociados que expresamente se detallan en los diferentes numerales de\nlas cláusulas primera y segunda, de conformidad con lo prescrito en el artículo 20\nde la Ley de Concesiones de Obras Públicas, las partes convienen las\n\n16"
+}

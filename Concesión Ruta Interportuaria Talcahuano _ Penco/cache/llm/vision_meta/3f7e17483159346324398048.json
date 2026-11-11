@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000595,
+ "usage": {
+  "completion_tokens": 879,
+  "prompt_tokens": 4195,
+  "total_tokens": 5074,
+  "completion_tokens_details": {
+   "reasoning_tokens": 41
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.7.6 Duración de la Concesión\n\nEl plazo de la concesión será el ofrecido por el licitante o grupo licitante Adjudicatario en su Oferta Económica según lo establecido en el artículo 3.2 de las Bases Económicas, contado desde el inicio del plazo de la concesión señalado en el artículo 1.7.5 de las presentes Bases. En todo caso, dicho plazo no podrá ser superior a trescientos setenta y ocho (378) meses contados desde el de inicio del plazo de la concesión antes señalado.\n\n1.7.7 De la Sociedad Concesionaria\n\n1.7.7.1 Cumplimiento del Ordenamiento Jurídico\n\nPara todos los efectos legales, el contrato de concesión se considerará celebrado en Chile y deberá interpretarse conforme a la Legislación Chilena.\n\nEl Concesionario deberá cumplir con todas las leyes, decretos y reglamentos de la República de Chile vigentes a la fecha de la firma del Contrato, que se relacionan con él y con todos aquellos que se dicten durante su vigencia. De igual manera, deberá pagar todos los derechos, impuestos, tasas, contribuciones y otros gravámenes y cualesquiera otros desembolsos que fueren necesarios para la construcción de las obras y su explotación.\n\n1.7.7.2 Transformación, Fusión y Cambios en la Administración de la Sociedad Concesionaria\n\nLa Sociedad Concesionaria deberá solicitar al Director General de Obras Públicas, por escrito, autorización expresa para los siguientes actos:\n\na) Modificación de los estatutos de la Sociedad Concesionaria;\nb) Todo acto jurídico y contrato regulado por el artículo 15º del DS MOP Nº900 de 1996, en cuyo caso, además, se requerirá el consentimiento del Ministro de Obras Públicas para su autorización;\nc) Transferencia sobre los derechos a que hace referencia el artículo 30º número 5 del DS MOP Nº956 de 1997.\n\nEl DGOP se pronunciará, mediante Resolución, sobre la solicitud de autorización, en el plazo de 60 días contados desde la fecha de la recepción de la pertinente solicitud en la Oficina de Partes de la DGOP. En caso que no se responda en dicho plazo, la autorización se entenderá concedida siempre que el acto que se autoriza sea conforme a derecho.\n\n1.7.7.3 De la Modificación del Capital de la Sociedad Concesionaria\n\nDesde la constitución de la Sociedad Concesionaria y hasta el término de la Etapa de Construcción no se podrá reducir el capital social de la misma, por debajo del capital mínimo exigido.\n\nDurante la Etapa de Construcción, los recursos aportados como capital a la Sociedad Concesionaria deberán ser invertidos siempre en la obra y en los otros gastos asociados a ella. En caso que dichos recursos no puedan ser invertidos en la obra o en los otros gastos asociados a ella, lo que será calificado por el Inspector Fiscal, podrán ser invertidos en instrumentos financieros con liquidez suficiente, siempre que garanticen su adecuada disponibilidad para efectos de las obligaciones del Contrato de Concesión.\n\nEl Inspector Fiscal podrá en cualquier momento, durante la vigencia del Contrato de Concesión, auditar el capital de la Sociedad Concesionaria, de manera de comprobar que el capital de la misma y que los recursos han sido invertidos de acuerdo a lo indicado en el párrafo precedente. El incumplimiento de esta obligación, hará incurrir a la Sociedad Concesionaria en la multa establecida en el artículo 1.8.5.1 de las presentes Bases de Licitación.\n\nPara los efectos previstos en este artículo, la Sociedad Concesionaria deberá proporcionar al Inspector Fiscal, dentro del plazo de 15 días desde que éste lo solicite, toda la información requerida. El Inspector Fisc [ilegible] en\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 21"
+}

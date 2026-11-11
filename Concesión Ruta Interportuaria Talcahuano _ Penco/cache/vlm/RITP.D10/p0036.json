@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 36,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 234,
+ "segundos": 6.2,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 63,
+  "conf_media": 0.909,
+  "frac_baja": 0.063,
+  "frac_rara": 0.03,
+  "tinta": 0.0214
+ },
+ "n_palabras_vlm": 99,
+ "frac_rara_vlm": 0.023,
+ "similitud": 0.545,
+ "truncado": false,
+ "texto_ocr": "PRESUPUESTO OBRAS CONVENIO\nCOMPLEMENTARIO N? 1\n\nDISMINUCION DE OBRAS\n\nm\n\nO S3NOIS3INOD\n\no\n\nANEXO N? 1\n\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\n\n9) DISMINUCION DE OBRAS\n\nINTERSECCION LAS\nINDUSTRIAS Y EMPALME\nAV. COLON\n\nCONEXIÓN AV.\nALESSANDRI\n\nPASO INTERPREDIAL\nKM 6,787\n\nPASO INTERPREDIAL || PASO INTERPREDIAL N* 2 KM\nKM 8,000 2,580 RAMAL AV. ALESSANDRI TOTALES (UF)\n\n/\n\n/ o/\nCARLOS-DIAZ VARGAS\nINSPECTOR FISCAL\n\n1",
+ "texto_vlm": "ANEXO Nº 1\n\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\n\ng) DISMINUCION DE OBRAS\n\nPRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO Nº 1 | INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON | CONEXIÓN AV. ALESSANDRI | PASO INTERPREDIAL KM 6,787 | PASO INTERPREDIAL KM 8,000 | PASO INTERPREDIAL Nº 2 KM 2,580 RAMAL AV. ALESSANDRI | TOTALES (UF)\n1 | DISMINUCION DE OBRAS | 18.937 | 8.036 | 0 | 0 | 0 | 26.973\nTOTAL | 18.937 | 8.036 | 0 | 0 | 0 | 26.973\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO.PP.\nDEPTO. DE CONCESIONES"
+}

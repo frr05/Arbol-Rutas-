@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:57",
+ "costo": 0.000581,
+ "usage": {
+  "completion_tokens": 807,
+  "prompt_tokens": 4199,
+  "total_tokens": 5006,
+  "completion_tokens_details": {
+   "reasoning_tokens": 224
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.5,
+ "truncado": false,
+ "texto": "- El certificado del Inspector Fiscal de la obra, de fecha xx de febrero de 2005, que consta a\nfojas Nº xx y xx del Libro de Obra Nº xx del contrato de concesión.\n\n- El Ord. Nº xxxx de fecha xx de febrero de 2005, del Inspector Fiscal de la obra.\n\n- La Resolución Nº 520 de 1996 de la Contraloría General de la República que fijó el texto\nrefundido, coordinado y sistematizado de la Resolución Nº 55 de 1992.\n\nCONSIDERANDO:\n\n- Que en virtud de las nuevas inversiones a realizar por la Sociedad Concesionaria para la\nejecución de las obras descritas en el Convenio Complementario Nº 1 de la obra pública\nfiscal denominada Ruta Interportuaria Talcahuano – Penco por Isla Rocuant, el MOP\npagará las sumas señaladas en el numeral 2.14 de acuerdo a lo consignado en el numeral\n4.1, ambos del referido convenio.\n\n- Que el avance físico de las obras que debe realizar la Sociedad Concesionaria es\ncuantificado y valorado mensualmente por el Inspector Fiscal, según el procedimiento\ndescrito en las cláusulas segunda y tercera del Convenio Complementario Nº 1.\n\n- Que de acuerdo al certificado emitido por el Inspector Fiscal de la obra con fecha xx de\nfebrero de 2005, que consta a fojas Nº xx y xx del Libro de Obra Nº xx, y a lo informado\npor el mismo Inspector Fiscal mediante Ord. Nº xxxx de fecha xx de febrero de 2005, el\navance correspondiente al mes de diciembre de 2004 es cuantificado y valorado en el\nmonto único y total de UF 162.024,79.\n\nRESUELVO:\n\nDGOP Nº ________________ / (Exento)\n\n1. ESTABLECESE que el valor devengado en beneficio de la “Sociedad Concesionaria\nAutopista Interportuaria S.A.”, en el mes de diciembre del año 2004 corresponde a la\nsuma de UF 167.130,19 que se desagrega según el siguiente detalle:\n\na) A pagar según número 2 a) siguiente:\n- Obras y servicios : U.F. 125.941,49\n- Interés : U.F. 2.058,51\nb) A pagar según número 2 b) siguiente:\n- Obras y servicios : U.F. 36.083,30\n- Interés : U.F. 3.046,89\n\nConvenio Complementario Nº 1 – Ruta Interportuaria Talcahuano – Penco por Isla Rocuant\nAnexo Nº 8 – Modelo de Resolución DGOP Datos simulados, sólo a título de ejemplo"
+}

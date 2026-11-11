@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000587,
+ "usage": {
+  "completion_tokens": 838,
+  "prompt_tokens": 4195,
+  "total_tokens": 5033,
+  "completion_tokens_details": {
+   "reasoning_tokens": 23
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.7,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n1.15.4 Factores por Tipo de Vehículo\n\nEn el evento que la Sociedad Concesionaria opte por cobrar tarifas diferenciadas por tipo de vehículo, de acuerdo a lo indicado en el artículo 1.15.1, para la determinación de las tarifas máximas por tipo de vehículo, se deberá multiplicar la tarifa indicada en el artículo 1.15.2 por el factor correspondiente de la Tabla Nº 6 siguiente:\n\nTabla Nº 6: Factor Tarifas Máximas para cada Tipo de Vehículo.\n\nTipo | Clase de Vehículo | Factor (F)\nTipo 1 | Motos y Motonetas | 0,3\nTipo 2 | Autos y Camionetas | 1,0\nTipo 3 | Autos y Camionetas con Remolque | 1,0\nTipo 4 | Buses de 2 Ejes | 1,8\nTipo 5 | Camiones de 2 Ejes | 1,8\nTipo 6 | Buses de más de 2 Ejes | 3,2\nTipo 7 | Camiones de más de 2 Ejes | 3,2\n\n1.16 SISTEMA Y TECNOLOGÍAS DE COBRO Y LOCALIZACIÓN DE LAS PLAZAS DE PEAJE\n\nLa Sociedad Concesionaria deberá adoptar uno de los siguientes dos sistemas de cobro de peaje en la vía, lo cual deberá señalar, según se solicita, en el Documento Nº9 de su Oferta Técnica. La Sociedad Concesionaria deberá cumplir todas y cada una de las indicaciones definidas para el sistema adoptado, respetar los requerimientos tecnológicos establecidos en las presentes Bases y cumplir con las siguientes condiciones:\n\n• Para cualquier viaje que se realice dentro de la vía concesionada definida en el artículo 1.3.1 de las Bases, sólo podrá considerar como máximo, dos (2) detenciones producto del sistema de cobro (incluye cobros troncales o en accesos), para todos los usuarios.\n\n• Cualquier viaje que se realice dentro de la vía concesionada, y que considere como máximo dos (2) detenciones producto del sistema de cobro (incluye cobros troncales o en accesos), podrá pagar como máximo el 100% del valor de la suma por sentido de los cobros en las plazas troncales.\n\n• Con la autorización de Puesta en Servicio Provisoria de la obra correspondiente según lo señalado en los artículos 1.3.1 y 1.3.2, el Concesionario tendrá derecho al inicio del cobro de las tarifas máximas autorizadas definidas en 1.15.2, de acuerdo a lo señalado en 1.10.2, todos artículos de las presentes Bases.\n\nLa tecnología de cobro adoptada deberá incluir el suministro de todos los equipos, los servicios y los procesos para realizar todas las operaciones necesarias; además, deberá proporcionar un sistema con capacidades que garanticen el más alto grado de rendición de cuentas y auditabilidad. Sin perjuicio de lo anterior dicha tecnología deberá ser sometida a la aprobación del Inspector Fiscal, previo a su implementación.\n\nEl incumplimiento de las exigencias establecidas para los sistemas y tecnologías de cobro señaladas en el presente artículo, hará incurrir a la Sociedad Concesionaria en la multa establecida en el artículo 1.8.5.1 de estas Bases.\n\n1.16.1 Sistema de Cobro por Derecho de Paso\n\nPor Sistema de Cobro por Derecho de Paso se entenderá aquel sistema en el cual se cobra al usuario de la vía por el derecho de paso en un lugar determinado de la calzada, sin considerar la distancia recorrida por el vehículo dentro del Area de Concesión.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n89"
+}

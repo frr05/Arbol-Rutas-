@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:49",
+ "costo": 0.000592,
+ "usage": {
+  "completion_tokens": 860,
+  "prompt_tokens": 4195,
+  "total_tokens": 5055,
+  "completion_tokens_details": {
+   "reasoning_tokens": 123
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.4,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLa primera de ellas, se pagará dentro del plazo de 60 días contados desde la obtención por parte de la\nSociedad Concesionaria, de la autorización de la Puesta en Servicio Definitiva de las obras definidas en el\nartículo 1.3.1, y las cuotas restantes, se pagarán dentro del plazo de 12, 24, 36, 48 y 60 meses, contados desde\nla fecha del pago de la primera cuota.\n\nEste monto sólo se pagará si el licitante o grupo licitante lo solicita en su Oferta Económica, de acuerdo a lo\nindicado en los artículos 3.1.2 y 0 de las Bases Económicas.\n\nEl valor de cada cuota quedará determinado de acuerdo a la siguiente expresión:\n\nCUOTA = 0,3051 x S\n\nDonde S = Monto de Subsidio solicitado, según el artículo 0 de las Bases Económicas.\n\nEl monto máximo de S, a solicitar por el licitante o grupo licitante, es de UF 290.000 (doscientas noventa mil\nUnidades de Fomento).\n\n1.15 SISTEMA TARIFARIO\n\nLa Sociedad Concesionaria deberá tener en cuenta las consideraciones que se señalan a continuación para\nestablecer sus tarifas. El incumplimiento de estas consideraciones, hará merecedora a la Sociedad\nConcesionaria de las multas establecidas en el artículo 1.8.5.1 de las presentes Bases.\n\n1.15.1 Clasificación de los Tipos de Vehículos\n\nLa Sociedad Concesionaria deberá adoptar las categorías para la clasificación de tipos de vehículos,\nindicadas en la Tabla N° 5.\n\nTabla N° 5: Clasificación Según Tipo de Vehículo.\n\nTipo | Clase de Vehículo\nTipo 1 | Motos y Motonetas\nTipo 2 | Autos y Camionetas\nTipo 3 | Autos y Camionetas con Remolque\nTipo 4 | Buses de 2 Ejes\nTipo 5 | Camiones de 2 Ejes\nTipo 6 | Buses de más de 2 Ejes\nTipo 7 | Camiones de más de 2 Ejes\n\nEn la eventualidad que el MOP modifique sus criterios de clasificación de vehículos para efecto del cobro de\ntarifas, la Sociedad Concesionaria podrá solicitar acogerse a la nueva clasificación, manteniendo las restantes\ncondiciones de las presentes Bases de Licitación.\n\n1.15.2 Fórmula de Ajuste Tarifario\n\nSe define la Máxima Tarifa Base “T₀” con un valor de 60 $/km (moneda al 31 de Diciembre de 2000), la cual\npodrá ser aplicada en un Sistema de Cobro por Derecho de Paso o un Sistema de Cobro por Uso Efectivo, a\nlos vehículos Tipo 2 que circulen por la vía concesionada, incluida la Obra Opcional señalada en el artículo\n1.3.2 de estas Bases, en caso que la Sociedad Concesionaria opte por construir dicha obra.\n\na) Reajuste Anual\n\nEl valor de la tarifa máxima se reajustará a partir del 10 de Enero de cada año de explotación. El reajuste a\naplicar se calculará de la siguiente manera:\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 87"
+}

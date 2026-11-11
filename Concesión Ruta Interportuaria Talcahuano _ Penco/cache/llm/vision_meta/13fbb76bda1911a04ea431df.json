@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000593,
+ "usage": {
+  "completion_tokens": 895,
+  "prompt_tokens": 4142,
+  "total_tokens": 5037,
+  "completion_tokens_details": {
+   "reasoning_tokens": 460
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.1,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n7.5 Clasificación de accidentes según nivel de compromiso con la ruta\n\nLos accidentes se clasifican de acuerdo a su gravedad o nivel de compromiso en\nlos siguientes niveles:\n\n- Nivel 1 (sin afectar calzadas)\n- Nivel 2 (suspensión momentánea, flujo en un sentido)\n- Nivel 3 (interrupción tránsito en ambos sentidos)\n\nEs importante considerar que una vez recibida la información se deberá actuar\nen forma inmediata. Las actuaciones en caso de accidente se enmarcarán en\nconformidad con los procedimientos establecidos en el manual ABC.\n\nProcedimiento ante un accidente según nivel\n\nNIVEL 1\n\nFlujo vehicular normal en ambos sentidos de la vía.\n\n- Llamado de un SOS a Central de Llamados\n- Llamado de un usuario directamente a la central\n- Atención directa del patrullero en inspección rutinaria\n\nCentral de Llamados se comunicará con la patrulla, informando de un accidente.\nLe indicará el tipo de evento, kilómetro, calzada, etc. y la enviará al lugar. El\nAdministrador Jefe de Plaza será alertado de inmediato del procedimiento.\n\nUna vez en el lugar evalúa la situación, verificando si existen o no lesionados,\ninformará el nivel del accidente, señalará el lugar y pedirá por medio de la\nCentral o directamente apoyo de carabineros, bomberos y ambulancia según\ncorresponda. El procedimiento de aseguramiento de la ruta deberá estar\nimplementado a la brevedad.\n\nLa ambulancia procederá al traslado del o los heridos si existen, conforme al\nprocedimiento establecido.\n\nEl patrullero recopilará toda la información de las personas involucradas en el\naccidente y de los daños de infraestructura, tomando las fotografías de rigor\nconforme a procedimiento.\n\nUna vez trasladados los vehículos, el móvil se comunicará con la Central de\nLlamados y el Administrador Jefe de Plaza informando el término del\nprocedimiento.\n\n37"
+}

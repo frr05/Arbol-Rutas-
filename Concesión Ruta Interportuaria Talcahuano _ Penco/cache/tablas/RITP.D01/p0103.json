@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D01",
  "pagina": 103,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:04",
+ "fecha": "2026-11-11 12:02",
  "tablas": [
   {
-   "titulo": "Tabla N° 6: Factor Tarifas Máximas para cada Tipo de Vehículo.",
+   "titulo": "Tabla Nº 6: Factor Tarifas Máximas para cada Tipo de Vehículo.",
    "encabezados": [
     "Tipo",
     "Clase de Vehículo",

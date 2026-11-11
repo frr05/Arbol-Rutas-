@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 52,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 631,
+ "segundos": 10.1,
+ "fecha": "2026-11-11 11:48",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 346,
+  "conf_media": 0.913,
+  "frac_baja": 0.061,
+  "frac_rara": 0.023,
+  "tinta": 0.0442
+ },
+ "n_palabras_vlm": 385,
+ "frac_rara_vlm": 0.018,
+ "similitud": 0.771,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nArtículo Monto Tipo de Infracción Criterio de Otros\nBases de Multa Aplicación\nLicitación | (UTM)\n19.15 | 300 Incumplimiento de la obligación de | Cada día Sin perjuicio del cobro de\nentregar resultados de ensayes y/o las garantías establecidas\ncertificados de calidad, solicitados en el artículo 1.8.3.\npor el Inspector Fiscal, en los plazos\n\ny condiciones fijados por éste. : |\nAtraso en la entrega del Plan de| Cada día | o |\nGestión Ambiental para la Etapa de ( |\n\nExplotación.\n1.14,1 400 Atraso en cualquiera de los pagos | Cada día Sin perjuicio del cobro de\nseñalados en el artículo 1.14. 1. las garantías señaladas en el Y\nartículo 1.8.3 y de lo :\n\ne,\n\ndispuesto en el artículo\n1.144,\nCada día\n\n1,14.2.3.3 100 Atraso en al entrega de la Boleta de\n\nGarantía Bancaria para la realización\nde nuevas inversiones.\n\n1,.14,5 20 No presentar la relación de todos los | Cada mes\npagos que tenga que efectuar el MOP\n\na la Sociedad Concesionaria así\n\ncomo los que tenga que realizar la\n\nSociedad Concesionaria al MOP.\n\n2.4 50 Atraso en la entrega de antecedentes | Cada día \"Los antecedentes incom- |\nexpropiatorios. pletos y/o erróneos no se\n| considerarán recibidos por\n\nel Inspector Fiscal\n\n2.6.6.1, 20 Atraso en la entrega de los informes | Cada día A É\n2.6.6.2, mensuales, trimestrales y/o anuales\n2.6.6.3, en los plazos señalados.\n\n2.10.13,\n2.11.9\nb) Durante la Etapa de Construcción\n\n1.9.1.1\n\nCada vez Sin perjuicio del cobro de\nlas garantías según\n\nIniciar obras sin tener la aprobación\n\nprevia de los proyectos de Ingeniería\nDefinitiva por parte del Inspector\nFiscal.\n\ncorresponda.\n\n1.9.2.1 20 Incumplimiento de las instrucciones | Cada día ¿\nimpartidas por el Inspector Fiscal a\ntravés del Libro Construcción de la\nObra sobre obligaciones relacionadas\ncon el Contrato de Concesión.\n\nCada\nsemana\n\nNo establecer un sistema de libros de\nreclamos y sugerencias cuyo diseño\ndeberá ser aprobado por el Inspector\nFiscal.\n\nModificación y/o adulteración de los | Cada vez\n\nreclamos presentados por los\nusuarios en el Libro de Reclamos.",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nArtículo Bases de Licitación | Monto Multa (UTM) | Tipo de Infracción | Criterio de Aplicación | Otros\n1.9.15 | 300 | Incumplimiento de la obligación de entregar resultados de ensayes y/o certificados de calidad, solicitados por el Inspector Fiscal, en los plazos y condiciones fijados por éste. | Cada día | Sin perjuicio del cobro de las garantías establecidas en el artículo 1.8.3.\n1.10.11 | 100 | Atraso en la entrega del Plan de Gestión Ambiental para la Etapa de Explotación. | Cada día |\n1.14.1 | 400 | Atraso en cualquiera de los pagos señalados en el artículo 1.14.1. | Cada día | Sin perjuicio del cobro de las garantías señaladas en el artículo 1.8.3 y de lo dispuesto en el artículo 1.14.4.\n1.14.2.3.3 | 100 | Atraso en al entrega de la Boleta de Garantía Bancaria para la realización de nuevas inversiones. | Cada día |\n1.14.5 | 20 | No presentar la relación de todos los pagos que tenga que efectuar el MOP a la Sociedad Concesionaria así como los que tenga que realizar la Sociedad Concesionaria al MOP. | Cada mes |\n2.4 | 50 | Atraso en la entrega de antecedentes expropiatorios. | Cada día | Los antecedentes incompletos y/o erróneos no se considerarán recibidos por el Inspector Fiscal\n2.6.6.1, 2.6.6.2, 2.6.6.3, 2.10.13, 2.11.9 | 20 | Atraso en la entrega de los informes mensuales, trimestrales y/o anuales en los plazos señalados. | Cada día |\nb) Durante la Etapa de Construcción\n1.9.1.1 | 450 | Iniciar obras sin tener la aprobación previa de los proyectos de Ingeniería Definitiva por parte del Inspector Fiscal. | Cada vez | Sin perjuicio del cobro de las garantías según corresponda.\n1.9.2.1 | 20 | Incumplimiento de las instrucciones impartidas por el Inspector Fiscal a través del Libro Construcción de la Obra sobre obligaciones relacionadas con el Contrato de Concesión. | Cada día |\n1.9.2.2 | 50 | No establecer un sistema de libros de reclamos y sugerencias cuyo diseño deberá ser aprobado por el Inspector Fiscal. | Cada semana |\n1.9.2.2 | 120 | Modificación y/o adulteración de los reclamos presentados por los usuarios en el Libro de Reclamos. | Cada vez |\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 38"
+}

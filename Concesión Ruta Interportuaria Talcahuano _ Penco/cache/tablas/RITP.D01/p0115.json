@@ -1,0 +1,56 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 115,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla Nº 13: Obras de Mejoramiento y/o Modificaciones de Intersecciones y Calzadas Existentes.",
+   "encabezados": [
+    "Nombre",
+    "Km aprox.",
+    "Obras a Ejecutar"
+   ],
+   "filas": [
+    [
+     "Enlace Penco",
+     "0,00",
+     "• Transformación ramal Penco–Autopista Itata en ramal Penco–Talcahuano. • Modificación lazo Autopista Itata–Concepción. • Incluye señalización e iluminación. • Drenaje y saneamiento."
+    ],
+    [
+     "Las Industrias",
+     "10,40",
+     "• Recapado asfáltico de calle La Isla desde calle Las Industrias (813 m aprox.). • Modificación intersección calles La Isla - Las Industrias, mediante canalización. • Incluye señalización e iluminación. • Drenaje y saneamiento."
+    ],
+    [
+     "Empalme con Av. Colón",
+     "11,15",
+     "• Recapado asfáltico de calle Las Industrias, desde el estribo sur Puente Rocuant hasta Av. Colón (230 m aprox.). • Nueva calzada segregada desde el estribo sur del puente hasta Av. Colón frente a calle Hualpén (34 m aprox.). • Modificación pista central de viraje en Av. Colón hacia Ruta Interportuaria. • Semaforización • Incluye iluminación y paisajismo. • Drenaje y saneamiento"
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "Tabla Nº 14: Mantenimiento de Estructuras.",
+   "encabezados": [
+    "Nombre",
+    "Ubic. Aprox. (km)",
+    "Obras a ejecutar"
+   ],
+   "filas": [
+    [
+     "Estructura Enlace Penco",
+     "0,00",
+     "Mantenimiento General"
+    ],
+    [
+     "Puente Rocuant (sobre canal El Morro)",
+     "10,81",
+     "Reposición de barandas, cantoneras y recapado asfáltico."
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

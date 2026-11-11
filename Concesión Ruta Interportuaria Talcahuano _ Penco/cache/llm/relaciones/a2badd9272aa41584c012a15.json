@@ -1,0 +1,24 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:59",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "A2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P3",
+     "P4"
+    ],
+    "texto_nuevo": [
+     1481,
+     1512
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

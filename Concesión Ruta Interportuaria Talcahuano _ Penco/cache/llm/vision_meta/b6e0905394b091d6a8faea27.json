@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000633,
+ "usage": {
+  "completion_tokens": 1065,
+  "prompt_tokens": 4195,
+  "total_tokens": 5260,
+  "completion_tokens_details": {
+   "reasoning_tokens": 416
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n• Procedimientos en caso de accidente en vehículo.\n• Manejo seguro.\n• Procedimientos en caso de accidente en plantas de instalación de faenas, de explotación de empréstitos,\nplantas productoras de materiales y botaderos.\n• Procedimientos en caso de accidente en los frentes de faenas.\n\nEl Plan de Control de Accidentes para la etapa de construcción que preparará el Concesionario debe incluir al\nmenos lo siguiente:\n\n• Objetivos\n• Plan de llamado de emergencia\n• Funciones del grupo de respuesta\n• Funciones del grupo asesor\n• Medios y equipos\n\nA continuación se presenta una lista de medidas que deberán ser consideradas en la elaboración del Plan de\nMedidas de Control de Accidentes o Contingencias para la etapa de construcción. Al respecto, es importante\nseñalar que las medidas expuestas son de carácter general, por lo tanto éstas deberán ser complementadas con\nlas medidas específicas a definir por la Sociedad Concesionaria.\n\nTabla Nº 20: Lista de Contingencias y Acciones Mínimas a seguir durante la Etapa de Construcción.\n\nCONTINGENCIAS | ACCIONES\nAccidentes en la vía | Avisar al supervisor de faenas del accidente, quién deberá tomar las siguientes medidas: 1. Disponer de la Señalización de emergencia y de aviso a los usuarios cuando corresponda. 2. Asegurarse que los accidentados sean trasladados a centros de atención médica. 3. Asegurarse que Carabineros haya sido informado del accidente. 4. Disponer de equipos y maquinaria para ayudar a despejar la vía en el más breve plazo una vez autorizado por Carabineros. 5. Asegurarse de que las compañías de seguros involucradas han sido avisadas en forma oportuna. 6. Entregar información oportuna a los encargados de comunicaciones, quienes darán las informaciones a la prensa en forma oficial. 7. Registrar el accidente en un formulario previamente definido.\nDerrame de sustancias peligrosas – Transporte | Se aplican las mismas acciones de contingencia que para accidentes en la vía - punto anterior- y además: 1. El supervisor correspondiente deberá trasladar al lugar del accidente todos los equipos y maquinarias que permitan limpiar el derrame, en forma rápida y segura para los trabajadores y el medio ambiente, una vez que Carabineros lo autorice. 2. Llamar a bomberos y otras instituciones previamente definidas, si fuese necesario, quienes podrán ayudar a enfrentar la contingencia. 3. Si el derrame ha afectado algún curso o masa de agua, deberá diseñarse un plan de monitoreo de contingencia, a fin de revisar la calidad de las aguas a posterior. 4. Dar aviso a la gerencia del proyecto y a los encargados de comuni[ilegible]iones, quienes darán la información oficial a la prensa. 5. Dar [ilegible] la inspección fiscal.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES 136"
+}

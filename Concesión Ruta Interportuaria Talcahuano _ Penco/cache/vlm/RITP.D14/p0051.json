@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 51,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 404,
+ "segundos": 8.7,
+ "fecha": "2026-11-11 12:00",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 270,
+  "conf_media": 0.902,
+  "frac_baja": 0.03,
+  "frac_rara": 0.0,
+  "tinta": 0.0512
+ },
+ "n_palabras_vlm": 271,
+ "frac_rara_vlm": 0.005,
+ "similitud": 0.975,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA 5.A.\n\n- Asegúrese que cada barrido del chorro de químico, sólo cubra\nligeramente una superficie más ancha que el luego.\n\n- Avance tan rápido como ta acción de la extinción de su agente le\npermita. No se arriesgue.\n\nCuando el fuego esté extinguido, se recomienda apartarse para cerciorarse que\nno haya reignición. Si hay cenizas ardiendo, aplicar nuevamente polvo químico\nseco.\n\n7.12 Uso adecuado de radiotransmisores\n\nLos radiotransmisores o equipos de radiocomunicaciones han llegado ha\nconstituir un importante y valioso apoyo a los sistemas de prevención de\naccidentes, al proporcionar comunicaciones entre vehículos y estaciones base\nque pueden ser utilizadas como punto de coordinación ante una emergencia.\nPara obtener un uso efectivo de estos equipos, es necesario entender algunos\nde los factores que afectan su utilidad y que pueden entorpecer las relaciones\nentre los Usuarios, Las personas que, por razones de operación, utilicen los\nequipos radiotansmisores deberán observar las siguientes conductas en sus\ncomunicaciones radiales:\n\n- Escuchar antes de hablar para asegurarse que la frecuencia está clara y\nusted no esta interfiriendo otras transmisiones.\n\n- La transmisión deberá ser lo mas corta y precisa posible, consistente y\ncon claridad.\n\n- Identifíquese claramente en la comunicación y con la parte receptora.\n\n- Utilice un lenguaje adecuado de comunicación que demuestre respeto y\nseriedad de la comunicación.\n\n- Deje una pausa al final de conversación.\n\n- Evite realizar interferencia intencional con cualquier otro equipo de\nradiocomunicación.\n\n- Seconsidera falta grave la transmisión de un mensaje falso o engañoso.\n\n- No sostenga conversaciones personales a través del equipo de\nradiocomunicación. Para esto se debe usar su teléfono personal.\n\n50",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Asegúrese que cada barrido del chorro de químico, sólo cubra\nligeramente una superficie más ancha que el fuego.\n\n- Avance tan rápido como la acción de la extinción de su agente le\npermita. No se arriesgue.\n\nCuando el fuego esté extinguido, se recomienda apartarse para cerciorarse que\nno haya reignición. Si hay cenizas ardiendo, aplicar nuevamente polvo químico\nseco.\n\n7.12 Uso adecuado de radiotransmisores\n\nLos radiotransmisores o equipos de radiocomunicaciones han llegado ha\nconstituir un importante y valioso apoyo a los sistemas de prevención de\naccidentes, al proporcionar comunicaciones entre vehículos y estaciones base\nque pueden ser utilizadas como punto de coordinación ante una emergencia.\n\nPara obtener un uso efectivo de estos equipos, es necesario entender algunos\nde los factores que afectan su utilidad y que pueden entorpecer las relaciones\nentre los Usuarios. Las personas que, por razones de operación, utilicen los\nequipos radiotransmisores deberán observar las siguientes conductas en sus\ncomunicaciones radiales:\n\n- Escuchar antes de hablar para asegurarse que la frecuencia está clara y\nusted no está interfiriendo otras transmisiones.\n\n- La transmisión deberá ser lo mas corta y precisa posible, consistente y\ncon claridad.\n\n- Identifíquese claramente en la comunicación y con la parte receptora.\n\n- Utilice un lenguaje adecuado de comunicación que demuestre respeto y\nseriedad de la comunicación.\n\n- Deje una pausa al final de conversación.\n\n- Evite realizar interferencia intencional con cualquier otro equipo de\nradiocomunicación.\n\n- Se considera falta grave la transmisión de un mensaje falso o engañoso.\n\n- No sostenga conversaciones personales a través del equipo de\nradiocomunicación. Para esto se debe usar su teléfono personal.\n\n50"
+}

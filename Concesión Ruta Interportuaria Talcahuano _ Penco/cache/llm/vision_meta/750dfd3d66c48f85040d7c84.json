@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000684,
+ "usage": {
+  "completion_tokens": 1212,
+  "prompt_tokens": 4413,
+  "total_tokens": 5625,
+  "completion_tokens_details": {
+   "reasoning_tokens": 648
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.6,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N\\u00ba 1\", \"PRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO N\\u00ba 1\", \"INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON\", \"CONEXI\\u00d3N AV. ALESSANDRI\", \"PASO INTERPREDIAL KM 6,787\", \"PASO INTERPREDIAL KM 8,000\", \"PASO INTERPREDIAL N\\u00ba 2 KM 2,580 RAMAL AV. ALESSANDRI\", \"TOTALES (UF)\"], \"filas\": [[\"1\", \"OBRAS EJECUTADAS\", \"0\", \"3.176\", \"0\", \"0\", \"0\", \"3.176\"], [\"2\", \"OBRAS VIALES\", \"58.045\", \"23.605\", \"14.808\", \"10.446\", \"2.920\", \"109.824\"], [\"3\", \"PUENTES Y ESTRUCTURAS\", \"60.595\", \"0\", \"8.858\", \"11.192\", \"1.295\", \"81.940\"], [\"4\", \"OBRAS DE ARTE\", \"0\", \"0\", \"908\", \"0\", \"0\", \"908\"], [\"5\", \"ILUMINACION Y SEMAFORIZACION\", \"4.953\", \"3.120\", \"0\", \"0\", \"0\", \"8.073\"], [\"6\", \"PAISAJISMO\", \"3.000\", \"500\", \"0\", \"0\", \"0\", \"3.500\"], [\"7\", \"DESVIOS DE TRANSITO\", \"600\", \"1.800\", \"1.000\", \"1.000\", \"0\", \"4.400\"], [\"8\", \"MOVILIZACION DE EQUIPOS\", \"1.717\", \"0\", \"0\", \"0\", \"0\", \"1.717\"], [\"9\", \"APLICACIONES DE LA R.C.A.\", \"7.760\", \"595\", \"0\", \"0\", \"0\", \"8.355\"], [\"10\", \"MODIFICACION DE SERVICIOS\", \"13.492\", \"4.826\", \"0\", \"0\", \"0\", \"18.318\"], [\"TOTAL CONSTRUCCION\", \"TOTAL CONSTRUCCION\", \"150.162\", \"37.622\", \"25.574\", \"22.638\", \"4.215\", \"240.211\"]], \"notas\": null}]}"
+}

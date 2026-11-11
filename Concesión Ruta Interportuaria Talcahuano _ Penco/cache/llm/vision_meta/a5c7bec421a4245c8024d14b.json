@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000671,
+ "usage": {
+  "completion_tokens": 1151,
+  "prompt_tokens": 4409,
+  "total_tokens": 5560,
+  "completion_tokens_details": {
+   "reasoning_tokens": 436
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.7,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"A) OBRAS DE INGENIERIA RUTA INTERPORTUARIA\", \"encabezados\": [\"ITEM\", \"DESCRIPCION\", \"VALORES (UF) / Mes 1\", \"VALORES (UF) / Mes 2\", \"VALORES (UF) / Mes ...\", \"VALORES (UF) / Mes n\", \"VALORES (UF) / Total\"], \"filas\": [[\"A.1\", \"Obras Viales\", \"\", \"\", \"\", \"\", \"\"], [\"A.1.1\", \"Ruta Interportuaria Km 0,0 al Km 10,9 aprox.\", \"\", \"\", \"\", \"\", \"\"], [\"A.2\", \"Enlace Penco\", \"\", \"\", \"\", \"\", \"\"], [\"A.2.1\", \"Obra Vial (lazos y ramales)\", \"\", \"\", \"\", \"\", \"\"], [\"A.2.2\", \"Obras de Iluminación\", \"\", \"\", \"\", \"\", \"\"], [\"A.2.3\", \"Obras de Paisajismo\", \"\", \"\", \"\", \"\", \"\"], [\"A.3\", \"Intersecciones a Nivel\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.1\", \"Mejoramiento Intersección Las Industrias\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.2\", \"Empalme Colón\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.3\", \"Cambio de Servicios\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.4\", \"Obras de Iluminación\", \"\", \"\", \"\", \"\", \"\"], [\"A.3.5\", \"Obras de Paisajismo\", \"\", \"\", \"\", \"\", \"\"], [\"A.4\", \"Estructuras\", \"\", \"\", \"\", \"\", \"\"], [\"A.4.1\", \"Puente sobre Río Andalíen (Puente Las Ballenas)\", \"\", \"\", \"\", \"\", \"\"], [\"A.4.2\", \"Estructura sobre FF.CC. (Puente Las Gaviotas)\", \"\", \"\", \"\", \"\", \"\"], [\"A.4.3\", \"Estructuras de Conexión Interpredial (3)\", \"\", \"\", \"\", \"\", \"\"], [\"A.5\", \"Obras de Seguridad\", \"\", \"\", \"\", \"\", \"\"], [\"A.5.1\", \"Defensas Camineras\", \"\", \"\", \"\", \"\", \"\"], [\"A.5.2\", \"Señalización y Demarcación\", \"\", \"\", \"\", \"\", \"\"], [\"A.5.3\", \"Cierros Perimetrales\", \"\", \"\", \"\", \"\", \"\"], [\"A.6\", \"Defensas Fluviales\", \"\", \"\", \"\", \"\", \"\"], [\"A.6.1\", \"Enrocados de Protección\", \"\", \"\", \"\", \"\", \"\"], [\"A.7\", \"Miceláneos\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.1\", \"Obras de Arquitectura\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.2\", \"Obras de Mitigación Ambiental\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.3\", \"Rehabilitación Puente Rocuant (existente)\", \"\", \"\", \"\", \"\", \"\"], [\"A.7.4\", \"Otros\", \"\", \"\", \"\", \"\", \"\"], [\"\", \"...\", \"\", \"\", \"\", \"\", \"\"], [\"SUBTOTAL A (UF)\", \"SUBTOTAL A (UF)\", \"\", \"\", \"\", \"\", \"\"]], \"notas\": null}]}"
+}

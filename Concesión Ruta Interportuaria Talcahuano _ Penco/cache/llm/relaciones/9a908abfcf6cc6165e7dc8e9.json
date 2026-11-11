@@ -1,0 +1,23 @@
+{
+ "tarea": "relaciones",
+ "modelo": "dots-studio/dots-3-note-preview:free",
+ "fecha": "2026-11-11 12:19",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "1.8.2",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P25"
+    ],
+    "texto_nuevo": [
+     248,
+     259
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   }
+  ]
+ }
+}

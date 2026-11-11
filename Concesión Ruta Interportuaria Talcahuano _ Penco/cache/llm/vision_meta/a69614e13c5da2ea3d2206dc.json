@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.00061,
+ "usage": {
+  "completion_tokens": 953,
+  "prompt_tokens": 4195,
+  "total_tokens": 5148,
+  "completion_tokens_details": {
+   "reasoning_tokens": 145
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.0,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nMuestreo de 2 puntos ubicados a 50 m del eje, uno localizado en el kilómetro 4,50 aproximadamente y otro en\nel kilómetro 10,50 aproximadamente, y no menos de 5 km entre sí obteniendo el ruido de fondo según método\ndel DS 146/97 en horario diurno, fin de semana y temporada de verano. La ubicación definitiva de los puntos\nde medición, será resuelta por el Inspector Fiscal.\n\nLa información obtenida sobre los problemas detectados y las acciones realizadas deberá ser incluida en uno de\ncada dos de los Informes Ambientales que el Concesionario deberá enviar en forma semestral al Inspector\nFiscal, según lo indicado en el artículo 2.11.9 de estas Bases.\n\nEn caso de detectarse niveles de ruido por sobre los límites establecidos por la legislación Chilena o que se\nconsideren molestos para la fauna, el Inspector Fiscal podrá ordenar la implementación de sistemas de control\nde ruido que pueden consistir en barreras acústicas.\n\n2.11.3 Geomorfología\n\nPara evitar la aparición de procesos erosivos que tengan como consecuencia el arrastre de materiales hacia los\ncursos de agua existentes, la Sociedad Concesionaria deberá ejecutar un Plan de Seguimiento que verifique el\ngrado de estabilidad de las laderas intervenidas durante la Etapa de Construcción, a fin de detectar la ocurrencia\nde eventuales situaciones críticas. Adicionalmente, las obras antes señaladas deberán ser inspeccionadas cada\nvez que las precipitaciones sean intensas o cuando se produzca un sismo.\n\nSe deberá llevar un registro de las zonas afectadas por deslizamientos, derrumbes y caídas de piedra, situaciones\nen las cuales la Sociedad Concesionaria deberá implementar medidas correctivas adicionales tales como:\ncambio en la inclinación del talud, revegetación natural o artificial, contención con mallas, aterrazamiento y\notras, previa autorización del Inspector Fiscal. Estos registros y las medidas correctivas implementadas deberán\nquedar incorporados en los Informes Ambientales a entregar al Inspector Fiscal.\n\n2.11.4 Suelos\n\nDurante los primeros 3 años de la etapa de explotación, se deberán realizar inspecciones semestrales (antes y\ndespués de la época de lluvias) con el propósito de verificar que las medidas de mitigación implementadas\ndurante la etapa de construcción cumplan con los objetivos para las cuales han sido propuestas.\n\nEn el caso que se detecten alteraciones no previstas o fracaso de las propuestas se deberán proponer nuevas\nmedidas, las cuales deberán ser sometidas a aprobación de la Inspección Fiscal antes de su implementación.\n\n2.11.5 Recurso Aguas Superficiales\n\nLa Sociedad Concesionaria hará un seguimiento de los eventuales accidentes tales como: erosión de riberas de\ncursos de agua en una zona 100 m aguas abajo y aguas arriba desde la faja fiscal, derrames de líquidos\ncontaminantes u otras sustancias nocivas dentro del área de la concesión, cuyos resultados serán presentados en\nlos Informes Ambientales exigidos en el artículo 2.11.9 de las presentes Bases, las cuales deberán incluir las\nmedidas implementadas para su solución.\n\n2.11.6 Medio Biótico\n\n2.11.6.1 Medidas de Mitigación Vegetación\n\nSe deberá remover las malezas que no constituyan vegetación nativa cada tres meses de la faja caminera y de\nlos bordes. Para tales efectos se recomienda utilizar métodos mecánicos para así evitar el uso de herbicidas,\nsobre todo en el sector de la marisma y en la cercanía de cursos de agua.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n157"
+}

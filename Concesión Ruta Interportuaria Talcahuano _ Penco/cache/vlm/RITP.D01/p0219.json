@@ -2,15 +2,15 @@
  "documento": "RITP.D01",
  "pagina": 219,
  "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 63,
- "segundos": 18.2,
- "fecha": "2026-10-27 19:05",
- "motivos": "pocas_palabras,conf_media,palabras_baja_conf,texto_raro",
+ "tokens": 77,
+ "segundos": 8.4,
+ "fecha": "2026-11-11 11:53",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 6,
   "conf_media": 0.521,
@@ -18,10 +18,10 @@
   "frac_rara": 0.333,
   "tinta": 0.0567
  },
- "n_palabras_vlm": 35,
- "frac_rara_vlm": 0.083,
- "similitud": 0.098,
+ "n_palabras_vlm": 21,
+ "frac_rara_vlm": 0.062,
+ "similitud": 0.143,
  "truncado": false,
  "texto_ocr": "BAHIA\nE\nCONCEPCION\n\nPINAC/O,\n\n”.\n\n¿QN",
- "texto_vlm": "RUTA INTERPORTUARIA TALCAHUANO-PENCO\nFigura. Zona de restricción.\nPUERTO\nDE\nTALCAHUANO\nBAHIA\nDE\nCONCEPCION\nZONA DE\nRESTRICCION\nLEYENDA\nZONA DE\nRIESGO\nCENTRO GULA OSE\nUNIVERSIDAD DE CONCEPCION\nMQP\nCOORDINACION DE PROYECTOS DE CONCESION\n230P - 3740153704"
+ "texto_vlm": "PUERTO\nDE\nTALCAHUANO\nBAHIA\nDE\nCONCEPCION\nZONA DE\nRESTRICCIÓN\nLEYENDA\nZONA DE\nRIESGO\nRUTA INTERPORTUARIA TALCAHUANO-PENCO\nFigura. Zona de restricción.\nMOP"
 }

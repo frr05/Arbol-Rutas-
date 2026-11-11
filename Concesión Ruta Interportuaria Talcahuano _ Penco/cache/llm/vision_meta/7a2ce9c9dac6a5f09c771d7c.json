@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000608,
+ "usage": {
+  "completion_tokens": 967,
+  "prompt_tokens": 4142,
+  "total_tokens": 5109,
+  "completion_tokens_details": {
+   "reasoning_tokens": 479
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.8,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\ntráfico de otros vehículos por la ruta que pueden no haberse percatado de la\nsituación.\n\nDe esta manera, la primera medida a tomar ante cualquier accidente en la ruta\nes asegurar la zona permitiendo que usted y otros medios ayuden al accidentado\ny que esto no provoque otros siniestros adicionales.\n\nPara asegurar la zona del accidente:\n\n- Llegue al lugar con las balizas funcionando.\n\n- Detenga completamente su vehículo aplicando frenos de mano a una\ndistancia segura.\n\n- Detenga el motor del vehículo. Puede siempre haber un riesgo de\nincendio.\n\n- Ubique al menos 15 conos de acuerdo a las instrucciones del Manual de\nSeñalización de Tránsito.\n\n- Dé siempre su ubicación al Administrador Jefe de Plaza.\n\nTrasvasije de combustible\n\nLa mayoría de las personas conocen y han utilizado más de alguna vez el\nprincipio de los vasos comunicantes o \"sifón \"para trasvasijar líquidos de un\ndepósito a otro al succionar con una manguera. Pero lo que no conocen y por tal\nrazón lo subestiman, son los riesgos al trasvasijar bencina.\n\nEstudios clínicos han demostrado que los destilados del petróleo que incluyen\nparafina, gasolinas, solventes, etc., son todos capaces de provocar graves\nconsecuencias al ingerirse o inhalarse.\n\nEl mayor peligro no es el efecto en el estómago, sino en los pulmones. Cuando\nla bencina entra en la boca por ejemplo, existe la posibilidad de que cierta\ncantidad pueda entrar en los pulmones, y cause una irritación inmediata,\ndañando los tejidos. La destrucción de los tejidos hace que los pulmones se\nllenen de líquidos, provocando lo que se conoce como EDEMA PULMONAR.\n\nEn cuanto a la toxicidad de la gasolina en el estómago, las sustancias entran\nrápidamente en el estómago, la sustancia entra rápidamente en la corriente\nsanguínea y puede disminuir la respiración y la función cardiaca. Como estas\nreacciones ocurren en breves segundos, la muerte causada por una\ncombinación de edema pulmonar y falla cardíaca puede ocurrir en cosa de\n\n45"
+}

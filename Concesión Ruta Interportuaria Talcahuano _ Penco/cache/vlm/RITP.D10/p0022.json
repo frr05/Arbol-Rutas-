@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 22,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 567,
+ "segundos": 10.2,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 384,
+  "conf_media": 0.949,
+  "frac_baja": 0.016,
+  "frac_rara": 0.004,
+  "tinta": 0.0627
+ },
+ "n_palabras_vlm": 387,
+ "frac_rara_vlm": 0.004,
+ "similitud": 0.986,
+ "truncado": false,
+ "texto_ocr": "“Cuenta de Inversión Convenio Complementario N* 1” en el mes\nrespectivo.\n\nEn cada Resolución se deberá indicar, entre otros antecedentes, la\nfecha de pago, el monto adeudado y un detalle del mismo,\ndistinguiéndose, entre otros, las cantidades que correspondan a las\nobras y/o servicios, así como los intereses correspondientes, de\nacuerdo al modelo de Resolución contenido en el Anexo N? 8, que se\nadjunta y forma parte del presente Convenio Complementario.\n\nLas resoluciones se emitirán mensualmente. La primera de ellas\nreconocerá los avances acumulados y actualizados hasta el último día\ndel mes inmediatamente anterior al de entrada en vigencia del\npresente Convenio Complementario.\n\nDe conformidad a lo dispuesto en el literal a) de este numeral, si a la\nfecha de la emisión de cada una de las Resoluciones mensuales, el\nmonto de inversión acumulada en la “Cuenta de Inversión Convenio\nComplementario N* 1”, más los intereses correspondientes, es\nmenor o igual a la suma señalada en el Pago 1 de la Tabla 2\nprecedente, éstas serán pagadas en la fecha señalada para dicho\nPago 1. Las sumas contabilizadas en la “Cuenta de Inversión\nConvenio Complementario N* 1”, más intereses correspondientes,\nque excedan la cantidad señalada en el Pago 1 de la Tabla 2 anterior,\ny hasta la cantidad indicada en el Pago 2 de la misma tabla, serán\npagadas en la fecha señalada para dicho Pago 2 y así sucesivamente\nhasta las cantidades indicadas en el Pago 3. Todas las sumas\ncontabilizadas en la “Cuenta de Inversión Convenio\nComplementario N* 1” serán pagadas en la fecha que corresponda,\nde conformidad al procedimiento antes descrito.\n\nEn caso que la suma reconocida en alguna de las Resoluciones\nemitidas, exceda parcialmente el monto contemplado en los Pagos 1 ó\n2 de la Tabla 2 anterior, según corresponda, la cantidad en exceso\ntendrá como fecha de pago la contemplada en el Pago\ninmediatamente siguiente de la misma Tabla.\n\nLos pagos indicados en la Tabla N* 2 serán contabilizados de acuerdo\nal desarrollo matemático del ltem 7.2 del Anexo NO 7.\n\nUna vez tramitada cada una de las resoluciones, sólo un ejemplar de\ncada una deberá ser suscrita ante Notario por el representante legal\nde la Sociedad Concesionaria y por el Inspector Fiscal en un plazo de\n5 días, quedando en poder de la primera. Una vez tramitada cada",
+ "texto_vlm": "“Cuenta de Inversión Convenio Complementario N° 1” en el mes\nrespectivo.\n\nEn cada Resolución se deberá indicar, entre otros antecedentes, la\nfecha de pago, el monto adeudado y un detalle del mismo,\ndistinguiéndose, entre otros, las cantidades que correspondan a las\nobras y/o servicios, así como los intereses correspondientes, de\nacuerdo al modelo de Resolución contenido en el Anexo Nº 8, que se\nadjunta y forma parte del presente Convenio Complementario.\n\nLas resoluciones se emitirán mensualmente. La primera de ellas\nreconocerá los avances acumulados y actualizados hasta el último día\ndel mes inmediatamente anterior al de entrada en vigencia del\npresente Convenio Complementario.\n\nDe conformidad a lo dispuesto en el literal a) de este numeral, si a la\nfecha de la emisión de cada una de las Resoluciones mensuales, el\nmonto de inversión acumulada en la “Cuenta de Inversión Convenio\nComplementario N° 1”, más los intereses correspondientes, es\nmenor o igual a la suma señalada en el Pago 1 de la Tabla 2\nprecedente, éstas serán pagadas en la fecha señalada para dicho\nPago 1. Las sumas contabilizadas en la “Cuenta de Inversión\nConvenio Complementario N° 1”, más intereses correspondientes,\nque excedan la cantidad señalada en el Pago 1 de la Tabla 2 anterior,\ny hasta la cantidad indicada en el Pago 2 de la misma tabla, serán\npagadas en la fecha señalada para dicho Pago 2 y así sucesivamente\nhasta las cantidades indicadas en el Pago 3. Todas las sumas\ncontabilizadas en la “Cuenta de Inversión Convenio\nComplementario N° 1” serán pagadas en la fecha que corresponda,\nde conformidad al procedimiento antes descrito.\n\nEn caso que la suma reconocida en alguna de las Resoluciones\nemitidas, exceda parcialmente el monto contemplado en los Pagos 1 ó\n2 de la Tabla 2 anterior, según corresponda, la cantidad en exceso\ntendrá como fecha de pago la contemplada en el Pago\ninmediatamente siguiente de la misma Tabla.\n\ne. Los pagos indicados en la Tabla Nº 2 serán contabilizados de acuerdo\nal desarrollo matemático del Ítem 7.2 del Anexo Nº 7.\n\nf. Una vez tramitada cada una de las resoluciones, sólo un ejemplar de\ncada una deberá ser suscrita ante Notario por el representante legal\nde la Sociedad Concesionaria y por el Inspector Fiscal en un plazo de\n5 días, quedando en poder de la primera. Una vez tramitada cada\n\n19"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000557,
+ "usage": {
+  "completion_tokens": 714,
+  "prompt_tokens": 4142,
+  "total_tokens": 4856,
+  "completion_tokens_details": {
+   "reasoning_tokens": 528
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.9,
+ "truncado": false,
+ "texto": "TABLA DE CARTELES Y GUIA DE RESPUESTA\nUSE ESTA TABLA SOLAMENTE SI NO PUEDE IDENTIFICARLOS ESPECIFICAMENTE AL USAR EL\nINICIAL PARA USARSE EN EL LUGAR\nDOCUMENTO DE EMBARQUE, EL CARTEL NUMERADO, O EL NUMERO DE LA ETIQUETA NARANJA\n111\n112\n114\n112\n121\n123\n127\n128\n118\n122\n112\n134\n139\n143\n148\n136\n153\n153\n163\n158\n171\nEXPLOSIVES\nDANGEROUS\nTOXIC GAS\nINHALATION HAZARD\nTOXIC\nPOISON\nINHALATION HAZARD\nRADIOACTIVE\nCORROSIVE\nOXIDIZER\nDANGER\nPágina 17"
+}

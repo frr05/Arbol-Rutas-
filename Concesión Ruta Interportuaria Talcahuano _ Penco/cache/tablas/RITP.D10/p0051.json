@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D10",
  "pagina": 51,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:05",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
-   "titulo": "ANEXO N° 5",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "PARTIDA DESCRIPCION",
@@ -45,7 +45,7 @@
      "90,670"
     ]
    ],
-   "notas": "PRECIOS UNITARIOS DE ITEM NUEVOS COMPLEMENTARIOS A LOS DEL ANEXO N° 3 DE LAS BASES DE LICITACION"
+   "notas": null
   }
  ]
 }

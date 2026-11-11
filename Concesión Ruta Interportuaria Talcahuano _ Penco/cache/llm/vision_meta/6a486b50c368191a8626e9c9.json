@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:04",
+ "costo": 0.000599,
+ "usage": {
+  "completion_tokens": 788,
+  "prompt_tokens": 4413,
+  "total_tokens": 5201,
+  "completion_tokens_details": {
+   "reasoning_tokens": 478
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.3,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"ITEM\", \"DESIGNACION\", \"VALOR TOTAL (UF)\"], \"filas\": [[\"1\", \"MEDIDAS AMBIENTALES ADICIONALES*\", \"\"], [\"1.1\", \"GEOMORFOLOGIA\", \"\"], [\"\", \"D 176   MANTENCION DE TALUDES ETAPA DE EXPLOTACION\", \"26.927,16\"], [\"\", \"D 196   PLAN DE SEGUIMIENTO AMBIENTAL DE TALUDES\", \"1.292,46\"], [\"1.2\", \"FLORA Y VEGETACION\", \"\"], [\"\", \"H 196   PLAN DE SEGUIMIENTO AMBIENTAL REVEGETACION\", \"90,68\"], [\"1.3\", \"FAUNA\", \"\"], [\"\", \"I 250     SEGUIMIENTO REPRODUCTIVO AVIFAUNA\", \"1.701,60\"], [\"\", \"TOTAL\", \"30.011,90\"]], \"notas\": \"*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde al MOP financiar por sobre las UF 12.000 hasta un valor m\\u00e1ximo de UF 24.000 de inversi\\u00f3n en medidas ambientales adicionales. Por sobre las UF 24.000 los costos ser\\u00e1n asumidos en partes iguales por ambas partes.\"}]}"
+}

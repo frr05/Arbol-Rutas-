@@ -1,0 +1,85 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 167,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla N° 23: Alternativas de Reutilización y Disposición Final de Residuos Sólidos.",
+   "encabezados": [
+    "Tipo de residuo",
+    "Reutilización en las obras y/o actividades de la concesión",
+    "Recuperación para Reutilización, reciclaje y/o disposición final previo tratamiento",
+    "Disposición final en vertederos para materiales inertes",
+    "Disposición final en vertederos municipales"
+   ],
+   "filas": [
+    [
+     "Asfalto",
+     "Si",
+     "Si",
+     "Si",
+     "No"
+    ],
+    [
+     "Concreto",
+     "Si",
+     "Si",
+     "Si",
+     "No"
+    ],
+    [
+     "Tierra y material de descarte",
+     "Si",
+     "Si",
+     "Si",
+     "Si"
+    ],
+    [
+     "Fierros y chatarras",
+     "No",
+     "Si",
+     "Si",
+     "No"
+    ],
+    [
+     "Orgánicos vegetales",
+     "Si",
+     "Si",
+     "Si",
+     "Si"
+    ],
+    [
+     "Lodos de piscinas de decantación",
+     "No",
+     "Si",
+     "Si",
+     "No"
+    ],
+    [
+     "Grasas, aceites y lubricantes",
+     "No",
+     "Si",
+     "No",
+     "No"
+    ],
+    [
+     "Restos de pinturas y solventes",
+     "No",
+     "Si",
+     "No",
+     "No"
+    ],
+    [
+     "Orgánicos domésticos",
+     "No",
+     "No",
+     "No",
+     "Si"
+    ]
+   ],
+   "notas": null
+  }
+ ]
+}

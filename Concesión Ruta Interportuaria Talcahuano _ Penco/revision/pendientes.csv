@@ -1,21 +1,11 @@
 fragmento;acto;articulo;operacion;motivo
-RITP.D02.F0006;RITP.D02.A1;1.14.7;reemplaza_parrafo;el artículo 1.14.7 no está entre los candidatos ['1.8.3.2', '1.9.4']
-RITP.D02.F0006;RITP.D02.A1;1.14.7;reemplaza_parrafo;el artículo 1.14.7 no está entre los candidatos ['1.8.3.2', '1.9.4']
-RITP.D02.F0015;RITP.D02.A2;1.8.5.1;reemplaza_texto;debe_decir «a) Relacionadas con las Obligaciones de Informació» no está en el fragmento
-RITP.D02.F0015;RITP.D02.A2;1.8.5.1;reemplaza_texto;donde_dice «No pago del capital minimo al» no está en el texto vigente de 1.8.5.1
-RITP.D02.F0015;RITP.D02.A2;1.8.5.1;reemplaza_texto;donde_dice «Cada día» no está en el texto vigente de 1.8.5.1
-RITP.D02.F0017;RITP.D02.A2;1.10.1;reemplaza_texto;donde_dice «la Puesta en Servicio Provisoria de la totalidad d» no está en el texto vigente de 1.10.1
-RITP.D02.F0019;RITP.D02.A2;1.13.2.1;reemplaza_texto;donde_dice «Al menos doce (12) meses antes de la extinción de » no está en el texto vigente de 1.13.2.1
-RITP.D02.F0019;RITP.D02.A2;1.13.3;agrega_texto;el artículo 1.13.3 no está entre los candidatos ['1.13.2', '1.13.2.1']
-RITP.D02.F0022;RITP.D02.A2;1.13.3;agrega_parrafo;el artículo 1.13.3 no está entre los candidatos ['1.7.3']
-RITP.D02.F0044;RITP.D02.A2;1.3.2;elimina;párrafo inexistente en 1.3.2: ['[P1]', '[P2]', '[P3]', '[P4]', '[P5]', '[P6]', '[P7]']
-RITP.D02.F0045;RITP.D02.A3;1.8.3;elimina;párrafo inexistente en 1.8.3: ['[P16]']
-RITP.D02.F0045;RITP.D02.A3;1.8.3;reemplaza_texto;párrafo inexistente en 1.8.3: ['[P17]']
-RITP.D02.F0046;RITP.D02.A3;2.2.3.2;reemplaza_parrafo;párrafo inexistente en 2.2.3.2: ['[P2]']
-RITP.D02.F0050;RITP.D02.A4;1.3.1;reemplaza_parrafo;las líneas del texto nuevo ya fueron usadas por otra operación
-RITP.D02.F0050;RITP.D02.A4;1.3.1;reemplaza_texto;párrafo inexistente en 1.3.1: ['P4']
-RITP.D02.F0054;RITP.D02.A4;1.5.5;reemplaza_texto;donde_dice «El licitante o grupo licitante deberá presentar en» no está en el texto vigente de 1.5.5
-RITP.D02.F0054;RITP.D02.A4;1.5.5;reemplaza_texto;donde_dice «El licitante o grupo licitante deberá entregar en » no está en el texto vigente de 1.5.5
-RITP.D02.F0054;RITP.D02.A4;1.5.5;elimina_texto;donde_dice «Se elimina el último párrafo.» no está en el texto vigente de 1.5.5
-RITP.D02.F0054;RITP.D02.A4;1.5.5;reemplaza_texto;donde_dice «El licitante o grupo licitante deberá entregar un » no está en el texto vigente de 1.5.5
-RITP.D02.F0061;RITP.D02.A4;1.8.17.1;reemplaza_articulo;las líneas del texto nuevo ya fueron usadas por otra operación
+RITP.D02.F0010;RITP.D02.A1;1.7.6;reemplaza_articulo;las líneas del texto nuevo ya fueron usadas por otra operación
+RITP.D02.F0012;RITP.D02.A1;;agrega_articulo;las líneas del texto nuevo ya fueron usadas
+RITP.D02.F0014;RITP.D02.A1;1.8.2;reemplaza_parrafo;las líneas del texto nuevo ya fueron usadas por otra operación
+RITP.D02.F0027;RITP.D02.A2;1.8.2;reemplaza_texto;donde_dice «h) Además deberá entregar información de los ingre» no está en el texto vigente de 1.8.2
+RITP.D02.F0035;RITP.D02.A2;1.13.2.1;reemplaza_texto;donde_dice «1.13.2.1 Recepción de la Concesión en Caso de Exti» no está en el texto vigente de 1.13.2.1
+RITP.D02.F0057;RITP.D02.A2;3.1.1;reemplaza_parrafo;las líneas del texto nuevo ya fueron usadas por otra operación
+RITP.D02.F0071;RITP.D02.A2;1.3.2;elimina;párrafo inexistente en 1.3.2: ['[P1]', '[P2]', '[P3]', '[P4]', '[P5]']
+RITP.D02.F0075;RITP.D02.A3;1.8.3;reemplaza_texto;reemplaza_texto necesita donde_dice y debe_decir
+RITP.D02.F0089;RITP.D02.A4;1.5.5;reemplaza_texto;donde_dice «El licitante o grupo licitante deberá entregar en » no está en el texto vigente de 1.5.5
+RITP.D02.F0089;RITP.D02.A4;1.5.5;reemplaza_texto;donde_dice «El licitante o grupo licitante deberá entregar un » no está en el texto vigente de 1.5.5

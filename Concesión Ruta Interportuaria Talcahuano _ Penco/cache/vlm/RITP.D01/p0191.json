@@ -2,15 +2,15 @@
  "documento": "RITP.D01",
  "pagina": 191,
  "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 446,
- "segundos": 31.7,
- "fecha": "2026-11-05 00:43",
- "motivos": "conf_media",
+ "tokens": 856,
+ "segundos": 11.9,
+ "fecha": "2026-11-11 11:52",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 154,
   "conf_media": 0.845,
@@ -18,10 +18,10 @@
   "frac_rara": 0.011,
   "tinta": 0.0456
  },
- "n_palabras_vlm": 401,
- "frac_rara_vlm": 0.034,
- "similitud": 0.689,
+ "n_palabras_vlm": 423,
+ "frac_rara_vlm": 0.009,
+ "similitud": 0.675,
  "truncado": false,
  "texto_ocr": "ASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n¿ Y\n\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nPOR ISLA ROCUANT\n\nANEXO N*2: FORMULARIO N*4\n\nRef: artículo 1.5,5, Letra A, Documento N*6b).\n\nANTECEDENTES FINANCIEROS DEL GRUPO LICITANTE\n\nGRUPO LICITANTE\nMONEDA : Millones de $ del 31 de Diciembre de 2000\n\nParticipación (% I\n\nACTIVO CIRCULANTE\nExistencias\nCuentas por cobrar\nACTIVO FIJO\nTOTAL ACTIVOS\nPASIVO CIRCULANTE\nPASIVO LARGO PLAZO\nTOTAL PASIVOS CP4LP\n\nOS DE EX : ÓN\nAY Y D y PX p O A O y\nRESULTADO OPERA NAL\nRESULTADO ÑN PERACIONA]L\nULTADO A YPUESTO\nmpuestos\njastos Financieros\norrección Monetaria\nUTT DD YPUESTO\n\nNotas: (1) La columna Consolidado corresponde a la suma ponderada según el porcentaje de participación de cada integrante del\ny y Grupo Licitante.\nLo 7 YE y\n\nY\n\nSINO (2) Las cifras deben ser expresadas en pesos del 31/12/2000,\n\n\"MINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES",
- "texto_vlm": "REPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nBASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nPOR ISLA ROCUANT\n\nANEXO N°2: FORMULARIO N°4\nRef.: artículo 1.5.5, Letra A, Documento N°6b).\n\nANTECEDENTES FINANCIEROS DEL GRUPO LICITANTE\n\nGRUPO LICITANTE : \nMONEDA : Millones de $ del 31 de Diciembre de 2000\n\n| Nombre Integrante | Integrante 1 | | | Integrante n | | | Consolidado | | |\n|---|---|---|---|---|---|---|---|---|---|\n| Participación (%) | a% | | | z% | | | 100% | | |\n| Año | 1998 | 1999 | 2000 | 1998 | 1999 | 2000 | 1998 | 1999 | 2000 |\n\n| ACTIVO CIRCULANTE | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|\n| Existencias | | | | | | | | | |\n| Cuentas por cobrar | | | | | | | | | |\n| ACTIVO FIJO | | | | | | | | | |\n| TOTAL ACTIVOS | | | | | | | | | |\n| PASIVO CIRCULANTE | | | | | | | | | |\n| PASIVO LARGO PLAZO | | | | | | | | | |\n| TOTAL PASIVOS CP+LP | | | | | | | | | |\n| PATRIMONIO | | | | | | | | | |\n\n| INGRESOS DE EXPLOTACION | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|\n| MARGEN DE EXPLOTACION | | | | | | | | | |\n| RESULTADO OPERACIONAL | | | | | | | | | |\n| RESULTADO NO OPERACIONAL | | | | | | | | | |\n| RESULTADO Antes IMPUESTOS | | | | | | | | | |\n| Impuestos | | | | | | | | | |\n| Gastos Financieros | | | | | | | | | |\n| Corrección Monetaria | | | | | | | | | |\n| UTILIDAD Después IMPUESTOS | | | | | | | | | |\n\nNotas: (1) La columna Consolidado corresponde a la suma ponderada según el porcentaje de participación de cada integrante del Grupo Licitante.\n(2) Las cifras deben ser expresadas en pesos del 31/12/2000.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\nCONCESION RUTA INTERPORTUARIA TALCAHUANO – PENCO\nPOR ISLA ROCUANT\nANEXO Nº2: FORMULARIO Nº4\nRef.: artículo 1.5.5, Letra A, Documento Nº6b).\nANTECEDENTES FINANCIEROS DEL GRUPO LICITANTE\nGRUPO LICITANTE : ________________________________________\nMONEDA : Millones de $ del 31 de Diciembre de 2000\nNombre Integrante | Integrante 1 | ...... | Integrante n\nParticipación (%) | a% |  | z%\nAño | 1998 | 1999 | 2000 | 1998 | 1999 | 2000 | 1998 | 1999 | 2000\nConsolidado\n100%\n1998 | 1999 | 2000\nACTIVO CIRCULANTE |  |  |  |  |  |  |  |  |  |  |  |  |\nExistencias |  |  |  |  |  |  |  |  |  |  |  |  |\nCuentas por cobrar |  |  |  |  |  |  |  |  |  |  |  |  |\nACTIVO FIJO |  |  |  |  |  |  |  |  |  |  |  |  |\nTOTAL ACTIVOS |  |  |  |  |  |  |  |  |  |  |  |  |\nPASIVO CIRCULANTE |  |  |  |  |  |  |  |  |  |  |  |  |\nPASIVO LARGO PLAZO |  |  |  |  |  |  |  |  |  |  |  |  |\nTOTAL PASIVOS CP+LP |  |  |  |  |  |  |  |  |  |  |  |  |\nPATRIMONIO |  |  |  |  |  |  |  |  |  |  |  |  |\nINGRESOS DE EXPLOTACION |  |  |  |  |  |  |  |  |  |  |  |  |\nMARGEN DE EXPLOTACION |  |  |  |  |  |  |  |  |  |  |  |  |\nRESULTADO OPERACIONAL |  |  |  |  |  |  |  |  |  |  |  |  |\nRESULTADO NO OPERACIONAL |  |  |  |  |  |  |  |  |  |  |  |  |\nRESULTADO Antes IMPUESTOS |  |  |  |  |  |  |  |  |  |  |  |  |\nImpuestos |  |  |  |  |  |  |  |  |  |  |  |  |\nGastos Financieros |  |  |  |  |  |  |  |  |  |  |  |  |\nCorrección Monetaria |  |  |  |  |  |  |  |  |  |  |  |  |\nUTILIDAD Después IMPUESTOS |  |  |  |  |  |  |  |  |  |  |  |  |\nNotas: (1) La columna Consolidado corresponde a la suma ponderada según el porcentaje de participación de cada integrante del\nGrupo Licitante.\n(2) Las cifras deben ser expresadas en pesos del 31/12/2000.\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES"
 }

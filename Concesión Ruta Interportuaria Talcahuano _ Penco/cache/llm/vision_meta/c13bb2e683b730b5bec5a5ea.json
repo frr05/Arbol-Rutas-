@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000635,
+ "usage": {
+  "completion_tokens": 1102,
+  "prompt_tokens": 4142,
+  "total_tokens": 5244,
+  "completion_tokens_details": {
+   "reasoning_tokens": 563
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.1,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nindividualizada. Este ticket debe ser presentado en la Plaza de Peaje de salida\nde la ruta, para efectuar el cobro correspondiente.\n\n3.11  Obligación de Respeto a la Normativa Vigente\n\nLos Usuarios deben utilizar la obra entregada en concesión y los servicios que\npresta el Concesionario, respetando la legislación general vigente,\nespecialmente la Ley de Tránsito, la normativa de la Dirección de Vialidad del\nMOP, la normativa del Ministerio de Transporte y Telecomunicaciones y en\nespecial las normas sobre pesos máximos por eje, las normas sobre transportes\nespeciales, las normas sobre transporte de cargas peligrosas, las normas sobre\ndimensiones máximas de vehículos y la señalización caminera, en especial la\nprovisional dispuesta para situaciones de emergencia.\n\n3.12  Obligación de Obedecer Instrucciones\n\nEl Usuario durante la circulación por la obra concesionada, tiene la obligación de\nobedecer las instrucciones impartidas por Carabineros y en ausencia de éstos,\npor personal del Concesionario.\n\nEsta obligación comprende también el acatamiento de las instrucciones respecto\ndel uso general de la obra, sus instalaciones y servicios que brinda, tales como:\navisos, advertencias, señales, instructivos, entre otros.\n\n3.13  Obligación de Debido Cuidado\n\nEl usuario tiene la obligación de actuar con debido cuidado y previsión, evitando\ncausar daños a terceros, a la obra e instalaciones del Concesionario.\n\n3.14  Obligación de Conducción Responsable\n\nEl usuario tiene la obligación de conducir su vehículo sin arriesgar su propia\nseguridad y la de los otros Usuarios, respetando las normas del tránsito y de\nseguridad y control que disponga la Sociedad Concesionaria para ello.\n\n3.15  Obligación de Pago de Daños al Concesionario\n\nSin perjuicio de las actuaciones de los Tribunales de Justicia, el usuario deberá\npagar al Concesionario los daños que ocasione a la obra y sus instalaciones,\ncon motivo de sus actuaciones en el uso de la obra y sus servicios, siendo\nresponsabilidad de la Concesionaria dar las facilidades correspondientes para\nmaterializar dicho pago.\n\n3.16  Obligación de Pagar los Daños Ocasionados a Terceros\n\nEl Usuario deberá pagar los daños que cause a terceros, durante el uso de la\nobra, en sus instalaciones o servicios, cuando sea de su responsabilidad.\n\n9"
+}

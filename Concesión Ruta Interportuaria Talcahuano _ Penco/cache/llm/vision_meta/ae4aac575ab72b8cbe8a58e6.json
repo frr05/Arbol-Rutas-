@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:52",
+ "costo": 0.000567,
+ "usage": {
+  "completion_tokens": 738,
+  "prompt_tokens": 4195,
+  "total_tokens": 4933,
+  "completion_tokens_details": {
+   "reasoning_tokens": 283
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 7.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nCOORDINACION GENERAL DE CONCESIONES\n\nCONCESION RUTA INTERPORTUARIA TALCAHUANO – PENCO\nPOR ISLA ROCUANT\n\nANEXO Nº2: FORMULARIO Nº2\nRef.: artículo 1.5.5, Letra A, Documento Nº2.\n\nDECLARACION JURADA\n\nComparecen⁽¹⁾:\n\na) ________________________________________________________________________\nb) ________________________________________________________________________\nc) ________________________________________________________________________\nd) ________________________________________________________________________\ne) ________________________________________________________________________\n\nEl licitante o los integrantes del grupo licitante ya individualizados, declaramos bajo juramento, que:\n\n1º No tenemos impedimentos legales, reglamentarios o inhabilidades para efectuar o celebrar\ncontratos de concesión con el MOP y que cumplimos con lo señalado en el D.S. MOP Nº956 de\n1997, artículos 15º y 16º.\n2º Acatamos todas las disposiciones inherentes al proceso de licitación y adjudicación de la licitación,\nlas normas establecidas en la Ley de Concesiones, en su Reglamento y en las Bases de Licitación.\n3º Las personas naturales o jurídicas que integran este licitante o grupo licitante, no forman parte\ndirecta ni indirectamente de otro licitante o grupo licitante que se presenta a la licitación del\nproyecto de concesión “Ruta Interportuaria Talcahuano – Penco por Isla Rocuant”.\n\nFirma Representante Legal ⁽²⁾:\n\n________________ ________________ ________________ ________________ ________________\na) b) c) d) e)\n\n⁽¹⁾ En caso de tratarse de un Grupo Licitante, indicar los nombres de los representantes de todos los miembros del grupo.\n⁽²⁾ En caso de tratarse de un Grupo Licitante, consignar las firmas de los representantes de todos los miembros del grupo.\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES"
+}

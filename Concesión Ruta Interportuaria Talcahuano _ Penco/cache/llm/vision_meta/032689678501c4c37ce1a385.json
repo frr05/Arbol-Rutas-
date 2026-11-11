@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:47",
+ "costo": 0.000608,
+ "usage": {
+  "completion_tokens": 943,
+  "prompt_tokens": 4195,
+  "total_tokens": 5138,
+  "completion_tokens_details": {
+   "reasoning_tokens": 92
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.5,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nSi la Sociedad Concesionaria opta por ejecutar esta Obra Opcional, se compromete a construirla, mantenerla\ny explotarla, pasando dicha obra a formar parte del contrato de concesión, siendo su ejecución obligatoria y\nteniendo el derecho a explotarlas en los términos indicados en las presentes Bases de Licitación.\n\nPara ejecutar esta Obra Opcional, el Concesionario deberá respetar la normativa legal vigente. En caso de\nrequerirse, la Sociedad Concesionaria deberá elaborar una Declaración o un Estudio de Impacto Ambiental\npor la ejecución de las obras según corresponda, debiendo gestionar la aprobación de la DIA o EIA ante la\nautoridad pertinente. Todos los gastos relativos a la elaboración de dicha DIA o EIA, como asimismo los\nrelacionados tanto con la tramitación y eventuales medidas exigidas por COREMA VIII Región serán de\nexclusivo cargo del Concesionario.\n\n1.4      DE LA LICITACION\n\n1.4.1    Participantes\n\nLa Licitación será nacional y podrán participar en ella personas naturales o jurídicas, consideradas\nindividualmente como licitante o formando parte de un grupo licitante, de nacionalidad chilena, es decir, que\nse hayan constituido de conformidad con la legislación chilena, y que cumplan los requisitos exigidos en el\nDS MOP Nº900 de 1996, Ley de Concesiones, el DS MOP Nº956 de 1997, Reglamento de la Ley de\nConcesiones, el DFL MOP Nº850 de 1997 y en las presentes Bases de Licitación. Podrán participar también\nlas agencias chilenas de sociedades anónimas extranjeras, siempre que cumplan con los requisitos antes\nseñalados.\n\n1.4.2    Documentos que Conforman las Bases de Licitación\n\nLos documentos que conforman las Bases de Licitación son:\n\nDoc. Nº1   Llamado a Licitación por Concesión.\nDoc. Nº2   Bases Administrativas.\nDoc. Nº3   Bases Técnicas.\nDoc. Nº4   Bases Económicas.\nDoc. Nº5   Circulares Aclaratorias emitidas por el Director General de Obras Públicas.\nDoc. Nº6   Manual de Planes de Manejo Ambiental para Obras Concesionadas, elaborado por la\n            Coordinación General de Concesiones (última edición).\n\nEn caso de discrepancia en la interpretación del Contrato de Concesión, primará lo dispuesto en las Bases de\nLicitación y sus Circulares Aclaratorias por sobre lo establecido en la Oferta presentada por el Adjudicatario\nde la concesión, salvo el caso en que ésta contenga aspectos superiores a lo exigido en las Bases de Licitación\ny sus Circulares Aclaratorias, lo que será calificado por el DGOP.\n\n1.4.3      Presupuesto Oficial Estimado de la Obra\n\nEl Presupuesto Oficial Estimado de la Obra es de UF 517.700 (quinientas diecisiete mil setecientas Unidades\nde Fomento), cantidad que considera sólo las obras señaladas en el artículo 1.3.1, y de UF 648.250\n(seiscientas cuarenta y ocho mil doscientas cincuenta Unidades de Fomento) cantidad que incluye además la\nobra opcional señalada en el artículo 1.3.2 de las presentes Bases; ambas sumas no incluyen IVA. Estos\nvalores consideran todos los costos del proyecto, incluyendo los Gastos Generales y Utilidades.\n\n1.4.4      Anteproyectos y Estudios Referenciales\n\nLos Anteproyectos y Estudios Referenciales que son puestos a disposición de los licitantes o grupos licitantes\npor el MOP en la Coordinación General de Concesiones (Merced 753, 8º piso, Santiago de Chile), son los\nindicados en la Tabla Nº 1:\n\nMINISTERIO DE OBRAS PUBLICAS – COORDINACION GENERAL DE CONCESIONES\n7"
+}

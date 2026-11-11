@@ -2,15 +2,15 @@
  "documento": "RITP.D11",
  "pagina": 18,
  "archivo": "4_modificacion_obras_convenios/Convenio-2-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 429,
- "segundos": 37.4,
- "fecha": "2026-10-27 19:11",
- "motivos": "conf_media,palabras_baja_conf",
+ "tokens": 884,
+ "segundos": 11.4,
+ "fecha": "2026-11-11 11:58",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 204,
   "conf_media": 0.677,
@@ -18,10 +18,10 @@
   "frac_rara": 0.038,
   "tinta": 0.0555
  },
- "n_palabras_vlm": 420,
- "frac_rara_vlm": 0.0,
- "similitud": 0.287,
+ "n_palabras_vlm": 371,
+ "frac_rara_vlm": 0.019,
+ "similitud": 0.273,
  "truncado": false,
  "texto_ocr": "e]\n\ny\n1\nrr,\nPo\n$33\n\nMO\n\nES\n\nANEXO N* 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO\n\nITEM 3: INVERSIONES Y GASTOS ASOCIADOS A MEDIDAS AMBIENTALES ADICIONALES\nRCA N” 46. COREMA VIIHREGION, A CONTAR DEL AÑO 2007\n\n1.085,37\n\n202 1.035,66 49,71\n\n2025 1.035,66 49,71\n1.035,66 ,\n202 1.035,66 :\n\n1.035,66 49,71\n1.035,66 ,\n\n1.085,37\n\nMENEGES\n\nSj¡oOjo¡o\n\nSw Nim\n\nN|[=/9S|0/0 |< ES\n>lajoa[alp 5\nlolo || co\nXA RAR eN\na cerda | ar cr.\n\nMantención de Plan de Seguimiento Plan de Total\nTaludes Etapa de Seguimiento Reproductivo Seguimiento\nExplotación ambienta! de Avifauna Ambiental\nTaludes Revegetación\nUF (UF (UE (UF (UP) .\ndi 103566 | 4971 _ | 56720 | \"4534 \"| 169791 |\n\n1.035,66\n1.035,66 BAY O 37]\n| 2041 To3566 >] 487422 JO] To Y\n| 2012] 1.035,86 | 4974 YY]\nBoal. 103566 [| 4971 Y\n2014] 103568 |\" 4971 | AY 085,37 |\nlA 08537 |\n| 2016] 103566 [| 4971 | 7\n49,71 DIO\nMOT IE IE E Y EFE Y A\n49,71\n49,71 1.085,37\n\n2021 49,71 1.085,37\n\n2022| 103566 | 49,71 1.085,37\n\n20231 103566 | A]\n\n035, lA]\n49,71 AO]\n203 49,71 lA OS | 08]\n\nmo,\n\nA\n\nil “e ¿CUA VARGAS\n\nile\n\n5 la]",
- "texto_vlm": "ANEXO N° 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO\nITEM 3: INVERSIONES Y GASTOS ASOCIADOS A MEDIDAS AMBIENTALES ADICIONALES\nRCA N° 46. COREMA VIII REGION, A CONTAR DEL AÑO 2007\n\n| Año | Mantención de Taludes Etapa de Explotación (UF) | Plan de Seguimiento ambiental de Taludes (UF) | Seguimiento Reproductivo Avifauna (UF) | Plan de Seguimiento Ambiental Revegetación (UF) | Total (UF) |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| 2007 | 1.035,66 | 49,71 | 567,20 | 45,34 | 1.697,91 |\n| 2008 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24 |\n| 2009 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24 |\n| 2010 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2011 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2012 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2013 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2014 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2015 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2016 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2017 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2018 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2019 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2020 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2021 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2022 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2023 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2024 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2025 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2026 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2027 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2028 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2029 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2030 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2031 | 1.035,66 | 49,71 | - | - | 1.085,37 |\n| 2032 | 1.035,66 | 49,71 | - | - | 1.085,37 |"
+ "texto_vlm": "ANEXO Nº 1\nPRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO\n\nITEM 3: INVERSIONES Y GASTOS ASOCIADOS A MEDIDAS AMBIENTALES ADICIONALES\nRCA Nº 46. COREMA VIII REGION, A CONTAR DEL AÑO 2007\n\nAño | Mantención de Taludes Etapa de Explotación (UF) | Plan de Seguimiento ambiental de Taludes (UF) | Seguimiento Reproductivo Avifauna (UF) | Plan de Seguimiento Ambiental Revegetación (UF) | Total (UF)\n2007 | 1.035,66 | 49,71 | 567,20 | 45,34 | 1.697,91\n2008 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24\n2009 | 1.035,66 | 49,71 | 567,20 | 22,67 | 1.675,24\n2010 | 1.035,66 | 49,71 | - | - | 1.085,37\n2011 | 1.035,66 | 49,71 | - | - | 1.085,37\n2012 | 1.035,66 | 49,71 | - | - | 1.085,37\n2013 | 1.035,66 | 49,71 | - | - | 1.085,37\n2014 | 1.035,66 | 49,71 | - | - | 1.085,37\n2015 | 1.035,66 | 49,71 | - | - | 1.085,37\n2016 | 1.035,66 | 49,71 | - | - | 1.085,37\n2017 | 1.035,66 | 49,71 | - | - | 1.085,37\n2018 | 1.035,66 | 49,71 | - | - | 1.085,37\n2019 | 1.035,66 | 49,71 | - | - | 1.085,37\n2020 | 1.035,66 | 49,71 | - | - | 1.085,37\n2021 | 1.035,66 | 49,71 | - | - | 1.085,37\n2022 | 1.035,66 | 49,71 | - | - | 1.085,37\n2023 | 1.035,66 | 49,71 | - | - | 1.085,37\n2024 | 1.035,66 | 49,71 | - | - | 1.085,37\n2025 | 1.035,66 | 49,71 | - | - | 1.085,37\n2026 | 1.035,66 | 49,71 | - | - | 1.085,37\n2027 | 1.035,66 | 49,71 | - | - | 1.085,37\n2028 | 1.035,66 | 49,71 | - | - | 1.085,37\n2029 | 1.035,66 | 49,71 | - | - | 1.085,37\n2030 | 1.035,66 | 49,71 | - | - | 1.085,37\n2031 | 1.035,66 | 49,71 | - | - | 1.085,37\n2032 | 1.035,66 | 49,71 | - | - | 1.085,37\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO.PP.\nDEPTO. DE CONCESIONES\nCARLOS DIAZ VARGAS\n[ilegible] de Chile\n[ilegible]"
 }

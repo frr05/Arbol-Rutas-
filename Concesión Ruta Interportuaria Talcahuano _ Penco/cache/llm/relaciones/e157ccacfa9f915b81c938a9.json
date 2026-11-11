@@ -1,0 +1,35 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:55",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": "2.3.2.4",
+    "operacion": "reemplaza_parrafo",
+    "parrafos": [
+     "P5"
+    ],
+    "texto_nuevo": [
+     1414,
+     1417
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": null
+   },
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     1419,
+     1447
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "2.3.2.17"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:02",
+ "costo": 0.000735,
+ "usage": {
+  "completion_tokens": 1468,
+  "prompt_tokens": 4409,
+  "total_tokens": 5877,
+  "completion_tokens_details": {
+   "reasoning_tokens": 764
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 16.0,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": \"Tabla N\\u00ba 16: Perfiles Transversales Tipo en Calzada Doble.\", \"encabezados\": [\"ELEMENTO\", \"DIMENSI\\u00d3N\"], \"filas\": [[\"N\\u00famero de calzadas\", \"2\"], [\"Ancho de calzada unidireccional de dos pistas\", \"7,0\"], [\"Ancho mediana (no incluye bermas interiores)\", \"3,0 m\"], [\"Bombeo m\\u00ednimo\", \"2,5 %\"], [\"Ancho bermas exteriores\", \"2,5 m.\"], [\"Ancho bermas interiores\", \"1,0 m\"], [\"Sobreanchos de compactaci\\u00f3n en zonas sin defensa caminera exterior (lateral)\", \"0,5 m.\"], [\"Sobreanchos de compactaci\\u00f3n en zonas con defensa caminera exterior (lateral)\", \"1,0 m\"], [\"Pendiente transversal bermas exteriores\", \"4,0 % hacia el exterior\"], [\"Pendiente transversal berma interior (inclinaci\\u00f3n igual a bombeo)\", \"2,5 %\"], [\"Talud corte en tierra (*)\", \"2 : 2,5 (H:V)\"], [\"Talud corte en roca meteorizada (*)\", \"1 : 2 (H:V)\"], [\"Talud corte en roca (*), n \\u2264 4\", \"1 : n (H:V)\"], [\"Talud terrapl\\u00e9n\", \"3 : 2 (H:V)\"], [\"Cuneta mediana\", \"Trapezoidal cuando sea necesario\"], [\"Ancho m\\u00ednimo cuneta lateral de corte\", \"0,8 m.\"]], \"notas\": null}, {\"titulo\": \"Tabla N\\u00ba 17: Perfiles Transversales Tipo en Calzada Simple.\", \"encabezados\": [\"ELEMENTO\", \"DIMENSI\\u00d3N\"], \"filas\": [[\"N\\u00famero de calzadas\", \"1\"], [\"Ancho de calzada bidireccional de dos pistas\", \"7,0\"], [\"Bombeo m\\u00ednimo (en un solo sentido)\", \"2,5 %\"], [\"Ancho bermas\", \"2,5 m.\"], [\"Sobreanchos de compactaci\\u00f3n en zonas sin defensa caminera exterior (lateral)\", \"0,5 m.\"], [\"Sobreanchos de compactaci\\u00f3n en zonas con defensa caminera exterior (lateral)\", \"1,0 m\"], [\"Pendiente transversal bermas\", \"4,0 %\"], [\"Talud corte en tierra (*)\", \"2 : 2,5 (H: V)\"], [\"Talud corte en roca meteorizada (*)\", \"1 : 2 (H: V)\"], [\"Talud corte en roca (*), n \\u2264 4\", \"1 : n (H: V)\"], [\"Talud terrapl\\u00e9n\", \"3 : 2 (H:V)\"], [\"Ancho m\\u00ednimo cuneta lateral de corte\", \"1,0 m.\"]], \"notas\": null}]}"
+}

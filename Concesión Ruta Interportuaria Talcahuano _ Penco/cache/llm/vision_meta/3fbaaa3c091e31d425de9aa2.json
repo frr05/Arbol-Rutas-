@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:54",
+ "costo": 0.000659,
+ "usage": {
+  "completion_tokens": 1197,
+  "prompt_tokens": 4195,
+  "total_tokens": 5392,
+  "completion_tokens_details": {
+   "reasoning_tokens": 339
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.3,
+ "truncado": false,
+ "texto": "Año Calendario Explotación | Con Av. Alessandri | Sin Av. Alessandri\n9 | 123.381 | 81.813\n10 | 132.312 | 89.356\n11 | 141.908 | 97.616\n12 | 153.262 | 105.383\n13 | 165.542 | 113.782\n14 | 178.822 | 122.865\n15 | 193.182 | 132.687\n16 | 208.712 | 143.309\n17 | 225.507 | 154.797\n18 | 243.668 | 167.219\n19 | 263.309 | 180.653\n20 | 284.548 | 195.181\n\nPara los efectos de la aplicación del mecanismo de Coparticipación del Estado en los ingresos de la Sociedad Concesionaria, se tendrán en cuenta los criterios que se indican a continuación, conforme a lo señalado en el artículo 1.14.6.1.2 de las Bases de Licitación.\n\nSi el Concesionario, habiendo optado por ejecutar las obras de Av. Alessandri según consta en su Oferta Económica, decide postergar su Puesta en Servicio Provisoria hasta por un plazo máximo de 720 días según lo indicado en el numeral siete anterior del presente decreto la Banda Superior de Ingresos a considerar para efectos del presente mecanismo serán aquellos valores señalados en la columna \"Sin Av. Alessandri\" de la Tabla anterior hasta que se obtenga la Puesta en Servicio Definitiva de dicha obra, momento a partir del cual se considerarán los valores señalados en la columna \"Con Av. Alessandri\" de la misma Tabla. En caso que el Concesionario decida no postergar su Puesta en Servicio Provisoria, se considerará como Banda Superior de Ingresos los valores señalados en la columna \"Con Av. Alessandri\" de la Tabla anterior.\n\nPara efectos de este mecanismo de coparticipación de ingresos, se establece como primer año calendario de explotación, aquel que comienza el 1º de Enero del año en que se autorice la Puesta en Servicio Definitiva de las obras señaladas en el artículo 1.3.1 de las Bases de Licitación.\n\nPara los efectos del cálculo del pago de parte de la Sociedad Concesionaria, para el primer año calendario de explotación de la concesión, en el caso que considere menos de 12 meses de explotación, contados desde la fecha de Puesta en Servicio Definitiva de las obras hasta el 31 de diciembre de dicho año calendario, la Banda Superior de Ingresos será por la proporción de los meses que efectivamente operó la concesión. Para estos efectos, se considerará que un mes equivale a 30 días.\n\ni) El Concesionario deberá contratar los seguros de Responsabilidad Civil por Daños a Terceros y por Catástrofe, de acuerdo a lo señalado en los artículos 1.8.11 y 1.8.12 de las Bases de Licitación.\n\nDERECHOS DEL CONCESIONARIO\n\na) Explotar las obras a contar de la autorización de Puesta en Servicio Provisoria de las obras señaladas en el artículo 1.3.1 de las Bases de Licitación, hasta el término de la concesión, todo ello de conformidad a lo señalado en el artículo 1.10 de las Bases de Licitación.\n\nb) Cobrar las tarifas a todos los usuarios de la concesión de acuerdo a lo establecido en los artículos 1.15, 1.16 y 1.17 de las Bases de Licitación. El sistema de reajuste de las tarifas máximas y el sistema de cobro podrán ser objeto de revisión a solicitud del Concesionario de conformidad con lo previsto en el artículo 1.15.3 de las Bases de Licitación.\n\nc) Explotar los servicios complementarios indicados en el artículo 1.10.10.2 de las Bases de Licitación, de acuerdo al procedimiento y condiciones establecidas en dicho artículo.\n\n7"
+}

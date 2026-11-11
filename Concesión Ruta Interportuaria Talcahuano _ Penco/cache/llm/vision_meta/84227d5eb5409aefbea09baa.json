@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000636,
+ "usage": {
+  "completion_tokens": 1082,
+  "prompt_tokens": 4195,
+  "total_tokens": 5277,
+  "completion_tokens_details": {
+   "reasoning_tokens": 101
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.9,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nLa tecnología para el cobro del peaje deberá considerar cobro Manual (como en las plazas que actualmente\nposee la Dirección de Vialidad), la que podrá ser en combinación con tecnología Automática (tarjeta,\nmonedas, fichas, etc.).\n\nEn el caso que la Sociedad Concesionaria opte por este sistema de cobro dentro de la(s) vía(s)\nconcesionada(s), según corresponda, de acuerdo a lo señalado en los artículos 1.3.1 y 1.3.2 de estas Bases,\npodrá ubicar plazas de peaje troncales situadas a lo ancho de la calzada y plazas de peaje en accesos.\n\n1.16.1.1 Tarifas Máximas Sistema de Cobro por Derecho de Paso o Uso Efectivo\n\nSi el Concesionario contempla un Sistema de Cobro por Derecho de Paso o Uso Efectivo, éste podrá cobrar\nlas siguientes tarifas máximas por sentido, conforme a lo indicado en los artículos 1.15.2 y 1.15.4 de las\npresentes Bases. La tarifa será determinada de acuerdo a la siguiente expresión:\n\nTarifa ($) = Tt x D x Fj\n\nDonde:\n\nTt : Tarifa Máxima reajustada de acuerdo a lo indicado en el artículo 1.15.2 de las presentes Bases.\n\nD : Corresponde a la longitud de la vía concesionada (en km) para el caso del sistema de cobro por\nDerecho de Paso, o bien a la longitud recorrida (en km) dentro de la vía concesionada para el caso\ndel sistema de cobro por Uso efectivo.\n\nFj : Corresponde al factor para cada tipo de vehículo j definido en el artículo 1.15.4, si la Sociedad\nConcesionaria opta por tarifas diferenciadas por tipo de vehículo.\n\nPara los peajes en accesos se fija una tarifa máxima única de $300 (pesos al 31/12/2000) reajustable de\nacuerdo a lo señalado en el artículo 1.15.2, para los vehículos tipo 2, de acuerdo a la Tabla Nº 6. El\nConcesionario podrá cobrar tarifa diferenciada por tipo de vehículo en los accesos.\n\nSe deja establecido que ningún usuario de la concesión deberá pagar más de una vez dentro de la(s) vía(s)\nconcesionada(s), en cada viaje; entendiéndose por viaje la distancia recorrida desde que el usuario ingresa a\nla vía hasta que la abandona. Por lo tanto, si el usuario ya pagó un peaje troncal no se le podrá cobrar otro\npeaje troncal ni tampoco un peaje en acceso; asimismo, si el usuario no pasa por un peaje troncal no se le\npuede cobrar más de un acceso.\n\n1.16.1.2 Localización de las Plazas de Peaje Troncales\n\nLa localización de las plazas de peaje troncales deberá ser establecida por el licitante o grupo licitante en su\nOferta Técnica, conforme a lo indicado en el Documento Nº9 del artículo 1.5.5, limitadas a un máximo de\nuna por tramo definido en 1.3.1 y 1.3.2, ambos artículos de las presentes Bases. Estas plazas serán\nbidireccionales, no obstante podrán ubicarse por sentido de cobro en distintos lugares dentro de un mismo\ntramo, respetando un distanciamiento mínimo de 5 km entre las plazas de peaje. Respecto al tramo Ruta\nInterportuaria definido en el artículo 1.3.1, la plaza de peaje troncal respectiva deberá ubicarse entre el km\n0,00 y el km 10,4 aproximadamente. Todo lo anterior es sin perjuicio de lo dispuesto en el artículo 1.15.3 de\nlas presentes Bases.\n\nLa Sociedad Concesionaria deberá dimensionar adecuadamente la cantidad de pistas por sentido que operarán\nen cada hora según se solicita en el Documento Nº9 de su Oferta Técnica. Será obligatorio en este sistema de\ncobro, implementar la(s) plaza(s) de peaje troncal(es) con al menos una (1) pista manual por sentido, y en forma\nopcional una (1) pista de cobro automático, por sentido. El diseño debe considerar la operación de pistas\nadicionales, opcionalmente casetas móviles, en las horas y días de mayor demanda.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 90"
+}

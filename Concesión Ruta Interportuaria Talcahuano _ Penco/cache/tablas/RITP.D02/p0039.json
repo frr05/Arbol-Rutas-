@@ -1,20 +1,20 @@
 {
  "documento": "RITP.D02",
  "pagina": 39,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:04",
+ "fecha": "2026-11-11 12:03",
  "tablas": [
   {
-   "titulo": "Tabla N° 3: Obras de Ingeniería Ruta Interportuaria",
+   "titulo": "A) OBRAS DE INGENIERIA RUTA INTERPORTUARIA",
    "encabezados": [
     "ITEM",
     "DESCRIPCION",
-    "Mes 1",
-    "Mes 2",
-    "Mes ...",
-    "Mes n",
-    "Total"
+    "VALORES (UF) / Mes 1",
+    "VALORES (UF) / Mes 2",
+    "VALORES (UF) / Mes ...",
+    "VALORES (UF) / Mes n",
+    "VALORES (UF) / Total"
    ],
    "filas": [
     [
@@ -217,7 +217,7 @@
     ],
     [
      "A.7",
-     "Misceláneos",
+     "Miceláneos",
      "",
      "",
      "",
@@ -270,7 +270,7 @@
      ""
     ],
     [
-     "",
+     "SUBTOTAL A (UF)",
      "SUBTOTAL A (UF)",
      "",
      "",
@@ -279,7 +279,7 @@
      ""
     ]
    ],
-   "notas": ""
+   "notas": null
   }
  ]
 }

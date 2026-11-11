@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:03",
+ "costo": 0.000706,
+ "usage": {
+  "completion_tokens": 1325,
+  "prompt_tokens": 4410,
+  "total_tokens": 5735,
+  "completion_tokens_details": {
+   "reasoning_tokens": 426
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 369
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 13.8,
+ "truncado": false,
+ "texto": "{\"tablas\": [{\"titulo\": null, \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"Identificaci\\u00f3n del Licitante / Grupo Licitante:\", \"CONSORCIO AUTOPISTA INTERPORTUARIA\"], [\"1.- Acepta Distribuir Riesgos entre la Sociedad Concesionaria y el Estado, seg\\u00fan lo indicado en el art\\u00edculo 1.14.6.1 de estas Bases: (Indicar SI o NO)\", \"SI\"], [\"2.- Tasa de Descuento de los Ingresos para el c\\u00e1lculo del VPIm, seg\\u00fan lo indicado en el art\\u00edculo 1.7.6.1 de estas Bases: (indicar Tasa Fija/Tasa Variable)\", \"Tasa Fija\"]], \"notas\": null}, {\"titulo\": \"COMPOSICI\\u00d3N DE LOS FACTORES DE LICITACI\\u00d3N (Completar)\", \"encabezados\": [\"Campo\", \"Valor\"], \"filas\": [[\"Ingresos Totales de la Concesi\\u00f3n (ITC), expresado en UF. (1)\", \"UF\"], [\"Monto del Subsidio solicitado (S), expresado en UF. (2)\", \"287.000 UF\"], [\"Plazo de Postergaci\\u00f3n de la Puesta en Servicio Provisoria de Av. Alessandri ofrecido (ND), expresado en d\\u00edas. (3)\", \"\\u2014 d\\u00edas\"]], \"notas\": \"Notas: (1) \\\"ITC\\\" corresponde al monto de Ingresos Totales de la Concesi\\u00f3n que postula obtener el licitante o grupo licitante, de acuerdo a lo indicado en los art\\u00edculos 3.1.1 y 3.2.1 de las presentes Bases. (2) \\\"S\\\" corresponde al monto de Subsidio solicitado al Estado, de acuerdo a lo indicado en los art\\u00edculos 1.14.7 y 3.2 de las presentes Bases, el cual deber\\u00e1 ser inferior o igual a UF 290.000 (0 < S \\u2264 290.000). Si el licitante o grupo licitante opta por NO solicitar Subsidio al Estado, para los efectos de la evaluaci\\u00f3n de la Oferta Econ\\u00f3mica, seg\\u00fan el art\\u00edculo 3.3, deber\\u00e1 completar el valor del Subsidio S con valor \\\"0\\\" (S = 0). (3) \\\"ND\\\" corresponde al n\\u00famero de d\\u00edas contados desde la Puesta en Servicio Provisoria de las obras descritas en el art\\u00edculo 1.3.1 de las presentes Bases, en que el licitante o grupo licitante ofrece poner en Servicio Provisorio las obras de Prolongaci\\u00f3n de Av. Alessandri se\\u00f1aladas en el art\\u00edculo 1.3.2 de las mismas Bases. Para los efectos del Tramo C de licitaci\\u00f3n, si el licitante o grupo licitante opta por S\\u00cd construir las obras indicadas en el art\\u00edculo 1.3.2, deber\\u00e1 se\\u00f1alar el n\\u00famero de d\\u00edas ND dentro del rango entre 720 y 1.800 (720 < ND \\u2264 1.800). Para este mismo tramo, si el licitante o grupo licitante opta por NO ejecutar las obras de Prolongaci\\u00f3n de Av. Alessandri se\\u00f1aladas en el art\\u00edculo 1.3.2, para los efectos de la evaluaci\\u00f3n de la Oferta Econ\\u00f3mica, seg\\u00fan el art\\u00edculo 3.3, deber\\u00e1 completar el n\\u00famero ND con el valor 5.000 (ND = 5.000).\"}]}"
+}

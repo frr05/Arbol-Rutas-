@@ -2,15 +2,15 @@
  "documento": "RITP.D10",
  "pagina": 59,
  "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 400,
- "segundos": 26.2,
- "fecha": "2026-11-05 00:29",
- "motivos": "conf_media",
+ "tokens": 684,
+ "segundos": 13.4,
+ "fecha": "2026-11-11 11:57",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 259,
   "conf_media": 0.788,
@@ -18,10 +18,10 @@
   "frac_rara": 0.055,
   "tinta": 0.1037
  },
- "n_palabras_vlm": 260,
- "frac_rara_vlm": 0.068,
- "similitud": 0.715,
+ "n_palabras_vlm": 331,
+ "frac_rara_vlm": 0.038,
+ "similitud": 0.645,
  "truncado": false,
  "texto_ocr": "ES : REPUSLI\n- MINISTEALO D,\n\nENERAL\n\nQA\n\n+\n\nMINISTERIO DE HACIENDA\n\nUy da\n1\n\nA\nARA\n\nÑ\ny\n\nCONTRALORIA GENERAL\n\nEPART, *,.\n\n$US. DEP\n\nSUS. DEP.\"\n\nENTA\n\nJURIDICO\n\nCCE NTRAL\n\nE. CUENTAS” py\n\nRes POR\ndebas.\nHOT ROR 3\nA PUTAC\n\nPROCESO\nOF. DE PARTES\nD0GO\n\nP\n\n...\n\nCA DE Orig * .\nE OBRAS PÚBLICAS\nDE OBRAS PÚBLICAS\n\nlas obras y servicios que indica,\ncorrespondientes a la concesiones\ndenominadas “Terminal de\nPasajeros Acropuerto Carricl Súr\nde Concepción” y “Ruta\n- Interportuaria Talcahuano-Penco\npor Isla Rocuant.\n\nSANTIAGO, (5 fgy 200\n\nVISTOS: - El DFL MOP N? 850 de 1997, que\n\nfijó el texto refundido, coordinado\n\ny sistematizado de la Ley pe?\n15.840, de 1964, Orgánica del\nMinisterio de Obras Públicas y del\n-DFL N* 206, de 1960, Ley de\nCaminos.\n\nEl D.S. MOP N* 900 de 1996, que\nfijó el texto refundido, coordinado\ny sistematizado del DFL MOP No\n164 de 1991, Lev de Concesiones\nde Obras Públicas,\n\nEl DS MOP N* 956, de 1997,\nReglamento e la Ley de\nConcesiones de Chras Públicas, en\nespecial el artículo 59.\n\nLas bases de licitación del contrato\nde concesión “Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción”.\n\nLas bases de licitación del contrato\nde concesión “Rua Interportuaria\nTalcahuano-Penco por Isla\n\nRocuant”.\n\nEl DS. MOP N* 72, de fecha 20 de\nenero de 1999, zue adjudicó el\ncontrato de concesión para la\nejecución, corcervación y\nexplotación de ¿2 obra pública\nfiscal denominada “Terminal de\nPasajeros Aercriuzmo Carriel Sur\nde Concepción”\n\nModifica, por razones de urgencia,\n\nD\nEPTO.DE O\n\nNCESIONES SÓ ---",
- "texto_vlm": "MINISTERIO DE HACIENDA\nOFICINA DE PARTES\n24 NOV 2004\nRECIBIDO\n\nCONTRALORIA GENERAL\nTOMA DE RAZON\n2865-\nRECEPCION\n\nDEPART.\nJURIDICO\n\nDEP.T.R.\nREGISTRO\n\nDEPART.\nCONTABIL.\n\nSUB. DEP.\nC.CENTRAL\n\nSUB. DEP.\nE. CUENTAS\n\nSUB. DEP.\nS.P.Y\nBIENES NAC.\n\nDEPART.\nAUDITORIA\n\nDEPART.\nV.O.P. U y T.\n\nSUB. DEP\nMUNICIP.\n\nREFRENDACION\n\nREF POR\nIMPUTAC.\nANOT. POR\nIMPUTAC.\n\nDEDUC TO\n\nPROCESO\nOF. DE PARTES N° 14 5444\nDGOP\n\nRef.: Modifica, por razones de urgencia, las obras y servicios que indica, correspondientes a la concesiones denominadas \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\" y \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\".\n\nSANTIAGO, 16 NOV 2004\n\nVISTOS: - El DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL N° 206, de 1960, Ley de Caminos.\n\n- El D.S. MOP N° 900 de 1996, que fijó el texto refundido, coordinado y sistematizado del DFL MOP N° 164 de 1991, Ley de Concesiones de Obras Públicas.\n\n- El DS MOP N° 956, de 1997, Reglamento de la Ley de Concesiones de Obras Públicas, en especial el artículo 69°.\n\n- Las bases de licitación del contrato de concesión \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\".\n\n- Las bases de licitación del contrato de concesión \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\".\n\n- El D.S. MOP N° 12, de fecha 20 de enero de 1999, que adjudicó el contrato de concesión para la ejecución, conservación y explotación de la obra pública fiscal denominada \"Terminal de Pasajeros Aeropuerto Carriel Sur de Concepción\"."
+ "texto_vlm": "16195\n-2 DIC 2004\nREPUBLICA DE CHILE\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OBRAS PUBLICAS\nNOTARIO PUBLICO\nMorande 261\nSantiago\nJUAN RICARDO SAN MARTIN URBEJOLA\nMINISTERIO DE HACIENDA\nOFICINA DE PARTES\n24 NOV 2004\nRECIBIDO\nRef.: Modifica, por razones de urgencia,\nlas obras y servicios que indica,\ncorrespondientes a la concesiones\ndenominadas \"Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción\" y \"Ruta\nInterportuaria Talcahuano-Penco\npor Isla Rocuant.\nCONTRALORIA GENERAL\nTOMA DE RAZON\n2965.-\nRECEPCION\nSANTIAGO, 16 NOV 2004\nVISTOS: - El DFL MOP N° 850 de 1997, que\nfijó el texto refundido, coordinado\ny sistematizado de la Ley N°\n15.840, de 1964, Orgánica del\nMinisterio de Obras Públicas y del\nDFL N° 206, de 1960, Ley de\nCaminos.\nDEPART. JURIDICO |  | \nDEP. T. R. Y REGISTRO |  | \nDEPART. CONTABIL. |  | \nSUB. DEP. C. CENTRAL |  | \nSUB. DEP. E. CUENTAS |  | \nSUB. DEP. C. P. Y BIENES NAC. |  | \nDEPART. AUDITORIA |  | \nDEPART. V. O. P., U y T. |  | \nSUB. DEP. MUNICIP. |  | \n|  | \n|  | \n- El D.S. MOP N° 900 de 1996, que\nfijó el texto refundido, coordinado\ny sistematizado del DFL MOP N°\n164 de 1991, Ley de Concesiones\nde Obras Públicas.\n- El DS MOP N° 956, de 1997,\nReglamento de la Ley de\nConcesiones de Obras Públicas, en\nespecial el artículo 69°.\nREFRENDACION\n- Las bases de licitación del contrato\nde concesión \"Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción\".\nREF. POR IMPUTAC. $ |\nANOT. POR IMPUTAC. $ |\nDEDUC. DTO |\n- Las bases de licitación del contrato\nde concesión \"Ruta Interportuaria\nTalcahuano-Penco por Isla\nRocuant\".\n|  | \n- El D.S. MOP N° 12, de fecha 20 de\nenero de 1999, que adjudicó el\ncontrato de concesión para la\nejecución, conservación y\nexplotación de la obra pública\nfiscal denominada \"Terminal de\nPasajeros Aeropuerto Carriel Sur\nde Concepción\".\nPROCESO OF. DE PARTES DGOP N° 14544.\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL\nDEPTO. DE CONCESIONES"
 }

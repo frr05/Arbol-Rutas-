@@ -1,9 +1,9 @@
 {
  "documento": "RITP.D01",
  "pagina": 49,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 02:59",
+ "fecha": "2026-11-11 12:01",
  "tablas": [
   {
    "titulo": "Tabla N° 2: Infracciones y Multas a la Sociedad Concesionaria.",
@@ -16,21 +16,21 @@
    ],
    "filas": [
     [
+     "a) Relacionadas con las Obligaciones de Información y Otras",
+     "a) Relacionadas con las Obligaciones de Información y Otras",
+     "a) Relacionadas con las Obligaciones de Información y Otras",
+     "a) Relacionadas con las Obligaciones de Información y Otras",
+     "a) Relacionadas con las Obligaciones de Información y Otras"
+    ],
+    [
      "1.7.2",
      "1.000",
      "Imputar costos del contrato de concesión u otros señalados en dicho artículo, a la contabilidad de la Sociedad Concesionaria.",
      "Cada vez.",
      ""
-    ],
-    [
-     "",
-     "",
-     "",
-     "",
-     ""
     ]
    ],
-   "notas": ""
+   "notas": null
   }
  ]
 }

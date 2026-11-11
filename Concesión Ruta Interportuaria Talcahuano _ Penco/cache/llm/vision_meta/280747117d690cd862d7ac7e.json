@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:58",
+ "costo": 0.000768,
+ "usage": {
+  "completion_tokens": 1743,
+  "prompt_tokens": 4196,
+  "total_tokens": 5939,
+  "completion_tokens_details": {
+   "reasoning_tokens": 862
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.4,
+ "truncado": false,
+ "texto": "Acta de Constitución de la Comisión Conciliadora del contrato de concesión de obra pública fiscal\ndenominada \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\", de fecha 28 de noviembre\nde 2003 y Normas de Procedimiento aprobadas en la misma fecha.\n\nLa solicitud de intervención de fecha 02 de junio de 2005, formulada por la Sociedad Concesionaria\nAutopista Interportuaria S.A., ante la Comisión Conciliadora del contrato de concesión de obra\npública fiscal denominada \"Ruta Interportuaria Talcahuano-Penco por Isla Rocuant\".\n\nPropuesta de Conciliación de 15 de septiembre de 2005, formulada a las partes del contrato de\nconcesión por la Comisión Conciliadora.\n\nEl Ord. Nº 3333, de 29 de noviembre de 2005, del señor Ministro de Obras Públicas.\n\nEl Ord. Nº 1091, de 13 de diciembre de 2005, del Gabinete del señor Ministro de Hacienda.\n\nEl Acta de Conciliación, de fecha 31 de enero de 2006, firmada por los miembros de la Comisión\nConciliadora y por las partes del contrato de concesión, debidamente representadas, reducida a\nescritura pública en Notaría de Santiago de doña Antonieta Mendoza Escalas, con fecha 15 de\nmarzo de 2006, Repertorio Nº 2380/2006.\n\nEl Oficio ORD. Nº IF-INT-EXPL 083/06, de fecha 29 de junio de 2006, del Inspector Fiscal de\nExplotación.\n\nLa carta SCRIT-MOP-EXPL Nº181/06, de fecha 5 de julio de 2006, de Sociedad Concesionaria\nAutopista Interportuaria S.A.\n\nLa Resolución Nº 520 de 1996, de la Contraloría General de la República, que fijó el texto\nrefundido, coordinado y sistematizado de la Resolución Nº 55 de 1992.\n\nCONSIDERANDO:\n\n- Que, con el objeto de poner término a la controversia surgida entre las partes del contrato de\nconcesión de la especie, a propósito de la solicitud de intervención presentada el día 02 de junio de\n2005 por la Sociedad Concesionaria Autopista Interportuaria S.A., con fecha 31 de enero de 2006,\nlas mismas partes, debidamente representadas, suscribieron un Acta de Conciliación ante la\nComisión Conciliadora de la Concesión \"Ruta Interportuaria Talcahuano - Penco por Isla\nRocuant\".\n\n- Que el pago de la suma conciliada debe efectuarse, por el Ministerio de Obras Públicas, dentro del\nplazo de seis meses, contados desde la reducción a escritura pública, del Acta de Conciliación de\nfecha 31 de enero de 2006, según se expresa en el numeral 3 de la letra b) del mismo instrumento.\n\nDECRETO:\n\n1. AUTORICESE el pago de UF 66.501 (sesenta y seis mil quinientas una unidades de\nfomento) a favor de Sociedad Concesionaria Autopista Interportuaria S.A., en\ncumplimiento del Acta de Conciliación, de fecha 31 de enero de 2006. Dicho pago deberá ser\nefectuado por el Ministerio de Obras Públicas, en el plazo máximo de 60 días contados desde la\npublicación en el Diario Oficial del presente Decreto, y deberá considerar la cifra de UF 66.501\nactualizada con el interés diario resultante de aplicar la tasa de interés corriente para operaciones\nreajustables, mayores de UF 2.000 y a un plazo mayor de un año, que informe la\nSuperintendencia de Bancos e Instituciones Financieras para cada día, hasta la fecha de pago\nefectivo de la obligación, y según su equivalencia en pesos conforme al valor de dicha unidad para\nel mismo día. Para que el MOP efectúe este pago, la Sociedad Concesionaria deberá haber\ncumplido las formalidades detalladas en el número 2 siguiente."
+}

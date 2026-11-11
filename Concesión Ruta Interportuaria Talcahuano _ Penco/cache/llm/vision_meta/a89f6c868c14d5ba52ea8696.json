@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:59",
+ "costo": 0.000555,
+ "usage": {
+  "completion_tokens": 706,
+  "prompt_tokens": 4142,
+  "total_tokens": 4848,
+  "completion_tokens_details": {
+   "reasoning_tokens": 361
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 6.8,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n- Siéntese siempre en forma recta durante su turno en la caja.\n\n• Ser un profesional\n\n- No fumar en el lugar de trabajo.\n\n- No usar el teléfono del local para uso personal.\n\n- No reunirse en grupos cuando está en sus labores.\n\n- No discutir con un cliente. Orientarlo a que sus reclamos los\ndirija en la oficina de la Concesionaria.\n\n• Prohibiciones\n\nEntre otras prohibiciones están las siguientes, válidas tanto para el personal de\nSociedad Concesionaria Autopista Interportuaria S.A. como de cualquier\nempresa de servicio externa:\n- Fumar en el recinto (toda la vía e instalaciones) en todo\nmomento.\n\n- Comer en su puesto de trabajo. Incluye masticables.\n\n- Reunirse en grupos sin necesidad aparente.\n\n- Presentarse a trabajar desaseado, sin afeitarse o sin su\nuniforme completo\n\n• Trato al usuario molesto\n\nEn situaciones en las que la relación con el cliente se torne difícil, es importante\nsiempre mantener una compostura profesional.\n\nSe deberán seguir los siguientes pasos de manera de controlar la situación.\n\n- Calme al cliente: esto se puede lograr mostrando\npreocupación e interés por el problema del cliente.\n\n- Explique al cliente que las consultas y reclamos deben ser\ndirigidas en la oficina de administración, ya que de lo\ncontrario se produce congestión en el punto de pago.\n\n- En la oficina de administración: escuche y responda con\nempatía.\n\n29"
+}

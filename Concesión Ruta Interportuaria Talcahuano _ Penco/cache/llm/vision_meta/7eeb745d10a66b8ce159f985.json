@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000644,
+ "usage": {
+  "completion_tokens": 1150,
+  "prompt_tokens": 4142,
+  "total_tokens": 5292,
+  "completion_tokens_details": {
+   "reasoning_tokens": 593
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 10.2,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nEl TEC Abierto es potencialmente más grave que el cerrado, por el riesgo de\ninfección y por el compromiso de las cavidades anexas.\nTodos los TEC tienen un grado de contusión cerebral, daño que ocurre en el\ncerebro y que puede ser leve, moderado o grave.\n\nSíntomas\n\nEl paciente que sufre un TEC puede presentar lesiones craneanas, expresadas\nen heridas del cuero cabelludo, o en fracturas, con o sin hundimiento del cráneo.\nAsimismo, alteraciones de conciencia, como pérdida de ella, confusión, estupor,\nen el que el paciente cae en un estado de sopor profundo.\nTambién se pueden observar signos focales como: alteraciones de los\nmovimientos de los ojos, las pupilas permanecen dilatadas aunque varíe el\nestímulo, o con dilataciones dispares entre uno y otro ojo. Los reflejos, en\ngeneral, se pueden ver alterados.\nLos dolores de cabeza y los vómitos son otros de los síntomas que permiten\nsospechar de la existencia de un TEC y también puede haber lesiones en otras\npartes del cuerpo, en el cuello, tronco o extremidades.\n\nContusiones leves\n\nCuando la contusión cerebral es leve, la pérdida de conciencia no se presenta,\nno hay signos focales (alteraciones en los ojos) y tampoco secuelas o bien, es\nmuy raro que se produzcan. Si la contusión es mediana o moderada, la pérdida\nde conciencia puede ser de hasta 24 hrs., los signos focales se presentan con\nfrecuencia y hay secuelas posibles.\n\nContusiones graves\n\nSi la contusión es grave, la pérdida de conciencia puede durar días o semanas,\nlos signos focales están presentes con frecuencia y hay secuelas posibles.\nAlgunas de las complicaciones de los TEC son las hemorragias, Edemas\nCerebrales y las infecciones como la Meningitis, los Abscesos y la Osteomielitis\n(que afecta al hueso), en tanto que las secuelas son de dos tipo: regresivas o\ndefinitivas, que afectan las funciones motoras, los sentidos, el lenguaje, la\nmente; y evolutivas, como la Epilepsia, Hematomas y Abscesos Crónicos, entre\notras.\n\nQUE HACER\n\nFrente a una situación de accidente, golpe o herida, lo más apropiado es\nrequerir la atención especializada. Mientras tanto, hay que mantener al afectado\nen observación. Si no presenta ninguno de los síntomas señalados, en por lo\n\n55"
+}

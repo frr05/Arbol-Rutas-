@@ -1,0 +1,101 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 189,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": null,
+   "encabezados": [
+    "Campo",
+    "Valor"
+   ],
+   "filas": [
+    [
+     "NOMBRE LICITANTE/GRUPO LICITANTE:",
+     ""
+    ]
+   ],
+   "notas": null
+  },
+  {
+   "titulo": "IDENTIFICACION DE APORTES (*)",
+   "encabezados": [
+    "Nombre Integrante del Licitante/ Grupo Licitante",
+    "Participación (Porcentaje) (A)",
+    "Patrimonio Total Integrante (Millones de pesos) (B)",
+    "Patrimonio Ponderado (Millones de pesos) (C)"
+   ],
+   "filas": [
+    [
+     "1.",
+     "",
+     "",
+     "-"
+    ],
+    [
+     "2.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "6.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "7.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "9.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "10.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Totales",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "notas": "(Los montos serán expresados en moneda al 31 de diciembre de 2000) Notas: (A) Corresponde a la participación de cada uno de los Integrantes dentro del Licitante/Grupo Licitante o participación de los socios directos dentro de la sociedad en reciente formación. (B) Corresponde al patrimonio total de cada uno de los Integrantes del Licitante/Grupo Licitante o patrimonio total de cada uno de los socios directos de la sociedad en reciente formación. (C) Corresponde a la multiplicación de (A) por (B), cuyo total debe ser mayor o igual que $ 2.350.000.000 (patrimonio mínimo). (D) En caso que el Licitante sea una sola persona jurídica, dicho licitante deberá presentar este formulario acreditando el 100% del patrimonio mínimo. (*) Formulario a utilizar por los Licitantes/Grupos Licitantes y por aquellas Sociedades constituidas especialmente para proyectos de concesión que no puedan acreditar por sí mismas los requisitos patrimoniales exigidos por las Bases de Licitación. (**) De acuerdo a lo establecido en el artículo 1.5.5 letra A) Documento N°3 de las Bases de Licitación."
+  }
+ ]
+}

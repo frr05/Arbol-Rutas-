@@ -1,0 +1,43 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 154,
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 2,
+ "fecha": "2026-11-11 12:02",
+ "tablas": [
+  {
+   "titulo": "Tabla Nº 22: Actividades NO ejecutables en Zonas de Restricción(*).",
+   "encabezados": [
+    "Nº",
+    "Actividad"
+   ],
+   "filas": [
+    [
+     "1",
+     "Instalación, operación y abandono de faenas (campamentos, estacionamientos, bodegas o almacenajes)."
+    ],
+    [
+     "2",
+     "Operación de plantas de producción de materiales (chancado, asfalto, hormigón)."
+    ],
+    [
+     "3",
+     "Apertura, uso y manejo de empréstitos y áridos (canteras, pozos, encauzamientos, nivelaciones, etc.)."
+    ],
+    [
+     "4",
+     "Apertura, uso y manejo de botaderos."
+    ],
+    [
+     "5",
+     "Movimiento de maquinaria."
+    ],
+    [
+     "6",
+     "Transporte de material de construcción."
+    ]
+   ],
+   "notas": "(*) Las Zonas de Restricción se localizan fuera de la faja fiscal."
+  }
+ ]
+}

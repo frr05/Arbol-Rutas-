@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000606,
+ "usage": {
+  "completion_tokens": 934,
+  "prompt_tokens": 4195,
+  "total_tokens": 5129,
+  "completion_tokens_details": {
+   "reasoning_tokens": 141
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 9.3,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n2.9.2 Zonas de Restricción\n\nCon el objeto de prevenir impactos negativos durante la etapa de construcción de la obra, el Concesionario deberá considerar las áreas restrictivas indicadas en los instrumentos de planificación territorial vigentes (Planos Reguladores), y en particular, las zonas de restricción que se encuentran graficadas en el Anexo Nº4, \"Cartografía Referencial de Zonas de Restricción\", de las presentes Bases, en las cuales no se podrá realizar las actividades listadas en Tabla Nº 22 siguiente.\n\nTabla Nº 22: Actividades NO ejecutables en Zonas de Restricción(*).\n\nNº | Actividad\n1 | Instalación, operación y abandono de faenas (campamentos, estacionamientos, bodegas o almacenajes).\n2 | Operación de plantas de producción de materiales (chancado, asfalto, hormigón).\n3 | Apertura, uso y manejo de empréstitos y áridos (canteras, pozos, encauzamientos, nivelaciones, etc.).\n4 | Apertura, uso y manejo de botaderos.\n5 | Movimiento de maquinaria.\n6 | Transporte de material de construcción.\n(*) Las Zonas de Restricción se localizan fuera de la faja fiscal.\n\n2.10 PLAN DE MANEJO AMBIENTAL MINIMO DURANTE LA CONSTRUCCION\n\nEl Plan de Manejo Ambiental Mínimo que deberá implementar la Sociedad Concesionaria considera medidas de mitigación, reparación, compensación, prevención de riesgos y control de accidentes, según resulte pertinente para aquellas actividades y obras del proyecto que en la fase de construcción produzcan impactos negativos en algún componente ambiental, que no pueda revertirse sin la aplicación de tales medidas, o cuando sea necesario aplicarlas para cumplir con la legislación vigente. Las medidas establecidas se basan en las conclusiones y recomendaciones del Plan de Manejo Ambiental Preliminar referencial, señalado en el artículo 1.4.4 de las Bases Administrativas, y en la aplicación de criterios definidos por la Coordinación General de Concesiones. La Sociedad Concesionaria podrá incorporar obras adicionales a las exigidas, que a su juicio contribuyan al cumplimiento de las condiciones de construcción indicadas en las Bases Técnicas en lo referente a la protección del medio ambiente. Junto con ello, la Sociedad Concesionaria deberá cumplir con todas las exigencias contenidas en la correspondiente Resolución de Calificación Ambiental.\n\nEste plan mínimo es sin perjuicio de lo establecido en el artículo 1.8.1 en relación con las facultades del Inspector Fiscal de instruir medidas adicionales, en caso: i) de demostrarse el incumplimiento de las medidas establecidas en la Bases de Licitación, ii) de detectarse la ocurrencia de impactos ambientales no considerados en éstas.\n\nEste Plan de Manejo Ambiental Mínimo se presenta desglosado por elemento ambiental. Para cada uno de ellos se indican las medidas de mitigación, reparación, compensación, prevención de riesgos y/o de contingencias, según resulte pertinente.\n\nAdicionalmente, se incluye como parte de este Plan de Manejo Ambiental, las obligaciones ambientales para la ejecución de faenas señaladas en el artículo 2.10.12, cuyo objetivo es evitar la aparición de impactos producto de estas actividades, y los informes ambientales señalados en el artículo 2.10.13 de las presentes Bases.\n\nEl incumplimiento de las medidas establecidas en el presente Plan y de las instrucciones impartidas por el Inspector Fiscal a través del Libro de Construcción de la Obra, hará incurrir a la Sociedad Concesionaria en las multas establecidas en el artículo 1.8.5.1 de las Bases Administrativas\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 140"
+}

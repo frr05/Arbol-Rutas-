@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:54",
+ "costo": 0.000625,
+ "usage": {
+  "completion_tokens": 1026,
+  "prompt_tokens": 4195,
+  "total_tokens": 5221,
+  "completion_tokens_details": {
+   "reasoning_tokens": 25
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.6,
+ "truncado": false,
+ "texto": "- Las Resoluciones DGOP Nº 340, de fecha 05 de noviembre de 2001; Nº 362, de fecha 26 de\nnoviembre de 2001; y Nº 371, de fecha 29 de noviembre de 2001, que aprueban las Circulares\nAclaratorias Nº 1, 2, 3 y 4 de las referidas Bases de Licitación;\n\n- El Acta de Apertura de la Licitación de fecha 06 de diciembre de 2001;\n\n- El Oficio DGOP Nº 1757 de fecha 18 de diciembre de 2001, mediante el cual el Director General de\nObras Públicas solicitó a los Licitantes y Grupos Licitantes, las aclaraciones y rectificaciones que se\nindicaron y la carta de respuesta del Licitante Adjudicatario de la Licitación de fecha 19 de diciembre\nde 2001 ingresada en la Oficina de Partes de la Dirección General de Obras Públicas, el 20 de\ndiciembre de 2001;\n\n- El Acta de Evaluación de las Ofertas Técnicas de fecha 20 de diciembre de 2001;\n\n- El Acta de Apertura de la Ofertas Económicas de fecha 28 de diciembre de 2001;\n\n- El Acta de Calificación de las Ofertas Económicas de fecha 02 de enero de 2002;\n\n- El Acta de Adjudicación del Director General de Obras Públicas de fecha 17 de enero de 2002.\n\nDECRETO\n\n1. Adjudícase el Contrato de Concesión para la ejecución, conservación y explotación de la obra\npública fiscal denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\" al Grupo\nLicitante Consorcio Autopista Interportuaria, formado por las empresas Besalco S.A.,\nConstructora BYA Ingenieros Ltda., y Proyectos de Infraestructura e Inversiones Genera Ltda.\n\n2. Declárase que forman parte integrante de este Decreto Supremo de Adjudicación para la concesión\nde la obra pública fiscal denominada \"Ruta Interportuaria Talcahuano - Penco por Isla Rocuant\", las\nBases de Licitación, aprobadas por Resolución DGOP Nº 261 del 16 de agosto de 2001; las\nCirculares Aclaratorias Nº 1, 2, 3 y 4, aprobadas por Resoluciones DGOP Nº 340, 362 y 371, todas\ndel año 2001; y las Ofertas Técnica y Económica, presentada por el Grupo Licitante adjudicatario\nConsorcio Autopista Interportuaria, en la forma aprobada por el MOP.\n\n3. En caso de discrepancia en la interpretación del presente contrato, primará lo dispuesto en las Bases\nde Licitación y en sus Circulares Aclaratorias, por sobre lo establecido en la Oferta presentada por el\nAdjudicatario de la concesión, salvo el caso en que ésta contenga aspectos superiores a lo exigido en\nlas Bases de Licitación y sus Circulares Aclaratorias, lo que será calificado por el Director General\nde Obras Públicas.\n\n4. Forman parte del contrato de concesión las disposiciones pertinentes de los siguientes cuerpos\nlegales:\n\na) El Decreto Supremo MOP Nº 900, de 1996, que fija el texto refundido, coordinado y\nsistematizado del DFL MOP Nº 164, de 1991, Ley de Concesiones de Obras Públicas.\n\nb) El Decreto Supremo MOP Nº 936, de 1997, Reglamento de la Ley de Concesiones de Obras\nPúblicas.\n\nc) El DFL MOP Nº 850, de 1997, que fija el texto refundido, coordinado y sistematizado de la\nLey Nº 15.840, de 1964, Orgánica del Ministerio de Obras Públicas y del DFL Nº 206, de\n1960, Ley de Caminos.\n\n5. La concesión tendrá un plazo de duración de 378 meses según lo señalado en el artículo 1.7.6.2 de\nlas Bases de Licitación y en la Oferta Económica presentada por el Adjudicatario. Este plazo se\ncontará desde el inicio del plazo de la concesión, de acuerdo a lo señalado en el artículo 1.7.5 de las\nBases de Licitación.\n\n6. El Concesionario construirá, conservará y explotará las obras que se indican en las Bases de\nLicitación, que comprenden una nueva vía para el tránsito de vehículos hacia y desde Talcahuano en\nla Octava Región del Bío - Bío, o que precisen acceder a las zonas portuarias de Talcahuano, Penco\n2"
+}

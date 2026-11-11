@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D01",
+ "pagina": 108,
+ "archivo": "1_licitacion/BALI-Concesion-Ruta-Interportuaria-Talcahuano-Penco.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 475,
+ "segundos": 7.0,
+ "fecha": "2026-11-11 11:50",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 345,
+  "conf_media": 0.95,
+  "frac_baja": 0.009,
+  "frac_rara": 0.0,
+  "tinta": 0.0293
+ },
+ "n_palabras_vlm": 343,
+ "frac_rara_vlm": 0.0,
+ "similitud": 0.993,
+ "truncado": false,
+ "texto_ocr": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nCuando se haya determinado un TEC superior a 2 minutos durante dos horas en una plaza de peaje dentro de\nun mismo mes, la Sociedad Concesionaria deberá modificar el Plan de Atención en dicha plaza de peaje, para\nlo cual tendrá un plazo de 5 días. En caso que sea necesaria la construcción o instalación de nuevas pistas\npara la plaza de peaje, éstas serán exigibles en el plazo de seis (6) meses desde que fuera comprobada la\nsituación descrita en este párrafo. El incumplimiento de la modificación del Plan de Atención o de la\nconstrucción o instalación de nuevas pistas dará origen al cobro de las multas establecidas en el artículo\n1.8.5.1 de las presentes Bases. :\n\nEl valor de TEC será calculado cuando el Inspector Fiscal lo estime conveniente y deberá ser anotado en el\nLibro de Explotación de la Obra, debiendo recalcularse a lo menos una vez cada dos años y cuando se\nmodifiquen las características de las plazas de peaje. Para tales efectos, el MOP contratará y pagará auna\nempresa consultora elegida por el Inspector Fiscal entre las empresas inscritas en el Registro de Consultores\ndel MOP.\n\nSin perjuicio de lo anterior, en caso que se compruebe un valor de TEC superior a 5 minutos y encontrándose\nvencido el plazo máximo dispuesto para la modificación del Plan de Atención de Plazas de Peaje o del plazo\npara la construcción o instalación de nuevas pistas dispuestos en los párrafos precedentes, dará origen al\n- cobro de la multa establecida en el artículo 1.8.5.1 de estas Bases.\n\nEl Inspector Fiscal podrá determinar que el Tiempo de Espera en Cola (TEC) ha tenido un alza debido a una\ncircunstancia extraordinaria y no proceder a exigir la modificación del Plan de Atención en Plazas de Peaje ni\nla construcción de nuevas pistas de peaje ni la aplicación de la multa establecida por superar el valor de 5\nminutos como se establece en el párrafo anterior.\n\n: AUNISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 94",
+ "texto_vlm": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nCuando se haya determinado un TEC superior a 2 minutos durante dos horas en una plaza de peaje dentro de\nun mismo mes, la Sociedad Concesionaria deberá modificar el Plan de Atención en dicha plaza de peaje, para\nlo cual tendrá un plazo de 5 días. En caso que sea necesaria la construcción o instalación de nuevas pistas\npara la plaza de peaje, éstas serán exigibles en el plazo de seis (6) meses desde que fuera comprobada la\nsituación descrita en este párrafo. El incumplimiento de la modificación del Plan de Atención o de la\nconstrucción o instalación de nuevas pistas dará origen al cobro de las multas establecidas en el artículo\n1.8.5.1 de las presentes Bases.\n\nEl valor de TEC será calculado cuando el Inspector Fiscal lo estime conveniente y deberá ser anotado en el\nLibro de Explotación de la Obra, debiendo recalcularse a lo menos una vez cada dos años y cuando se\nmodifiquen las características de las plazas de peaje. Para tales efectos, el MOP contratará y pagará a una\nempresa consultora elegida por el Inspector Fiscal entre las empresas inscritas en el Registro de Consultores\ndel MOP.\n\nSin perjuicio de lo anterior, en caso que se compruebe un valor de TEC superior a 5 minutos y encontrándose\nvencido el plazo máximo dispuesto para la modificación del Plan de Atención de Plazas de Peaje o del plazo\npara la construcción o instalación de nuevas pistas dispuestos en los párrafos precedentes, dará origen al\ncobro de la multa establecida en el artículo 1.8.5.1 de estas Bases.\n\nEl Inspector Fiscal podrá determinar que el Tiempo de Espera en Cola (TEC) ha tenido un alza debido a una\ncircunstancia extraordinaria y no proceder a exigir la modificación del Plan de Atención en Plazas de Peaje ni\nla construcción de nuevas pistas de peaje ni la aplicación de la multa establecida por superar el valor de 5\nminutos como se establece en el párrafo anterior.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES\n94"
+}

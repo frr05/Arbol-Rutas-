@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D01",
  "pagina": 205,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:48",
+ "fecha": "2026-11-11 12:02",
  "tablas": [
   {
-   "titulo": "ANEXO N°3: PRECIOS UNITARIOS OFICIALES (SIN IVA)",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "DESCRIPCION",
@@ -14,6 +14,12 @@
     "PRECIO UNITARIO (UF)"
    ],
    "filas": [
+    [
+     "ELEMENTOS DE PUENTES",
+     "ELEMENTOS DE PUENTES",
+     "ELEMENTOS DE PUENTES",
+     "ELEMENTOS DE PUENTES"
+    ],
     [
      "151",
      "Escolleras de protección",
@@ -111,6 +117,18 @@
      "8,62"
     ],
     [
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUPERESTRUCTURA",
+     "SUPERESTRUCTURA",
+     "SUPERESTRUCTURA",
+     "SUPERESTRUCTURA"
+    ],
+    [
      "251",
      "Moldajes",
      "m²",
@@ -137,104 +155,116 @@
     [
      "282",
      "Losas de aproximación",
-     "m²",
+     "m³",
      "5,00"
     ],
     [
      "283",
      "Pavimento asfáltico",
-     "m²",
+     "m³",
      "2,50"
     ],
     [
      "331",
      "Vigas postensadas L=15 m",
-     "Nº",
+     "N°",
      "200,00"
     ],
     [
      "331",
      "Vigas postensadas L=16 m",
-     "Nº",
+     "N°",
      "220,00"
     ],
     [
      "331",
      "Vigas postensadas L=17 m",
-     "Nº",
+     "N°",
      "240,00"
     ],
     [
      "331",
      "Vigas postensadas L=18 m",
-     "Nº",
+     "N°",
      "260,00"
     ],
     [
-     "332",
+     "331",
      "Vigas postensadas L=19 m",
-     "Nº",
-     "300,00"
+     "N°",
+     "280,00"
     ],
     [
      "332",
      "Vigas postensadas L=20 m",
-     "Nº",
-     "320,00"
+     "N°",
+     "300,00"
     ],
     [
      "332",
      "Vigas postensadas L=21 m",
-     "Nº",
-     "340,00"
+     "N°",
+     "320,00"
     ],
     [
      "332",
      "Vigas postensadas L=22 m",
-     "Nº",
+     "N°",
+     "340,00"
+    ],
+    [
+     "332",
+     "Vigas postensadas L=23m",
+     "N°",
      "360,00"
     ],
     [
      "332",
-     "Vigas postensadas L=23 m",
-     "Nº",
-     "380,00"
+     "Vigas postensadas L=24 m",
+     "N°",
+     "380.00"
     ],
     [
-     "332",
-     "Vigas postensadas L=24 m",
-     "Nº",
-     "400,00"
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ELEMENTOS DE PUENTES",
+     "ELEMENTOS DE PUENTES",
+     "ELEMENTOS DE PUENTES",
+     "ELEMENTOS DE PUENTES"
     ],
     [
      "333",
      "Vigas postensadas L=29 m",
-     "Nº",
+     "N°",
      "480,00"
     ],
     [
      "334",
      "Vigas postensadas L=30 m",
-     "Nº",
-     "500,00"
+     "N°",
+     "500.00"
     ],
     [
      "334",
      "Vigas postensadas L=31 m",
-     "Nº",
+     "N°",
      "520,00"
     ],
     [
      "334",
      "Vigas postensadas L=32 m",
-     "Nº",
+     "N°",
      "540,00"
     ],
     [
      "334",
      "Vigas postensadas L=33 m",
-     "Nº",
-     "560,00"
+     "N°",
+     "560,50"
     ]
    ],
    "notas": null

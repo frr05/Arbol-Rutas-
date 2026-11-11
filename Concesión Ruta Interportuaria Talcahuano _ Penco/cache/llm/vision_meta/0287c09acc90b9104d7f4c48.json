@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:50",
+ "costo": 0.000593,
+ "usage": {
+  "completion_tokens": 867,
+  "prompt_tokens": 4195,
+  "total_tokens": 5062,
+  "completion_tokens_details": {
+   "reasoning_tokens": 112
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 14.6,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\nT_t = T_{t-1} * (1 + IPC_{t-1} + 0,03) (1)\n\nDonde,\n\nT_t : Es la Tarifa reajustada para el año t de explotación de la concesión en pesos por kilómetro ($/km).\n\nt : Año calendario de explotación contabilizado desde el 1º de Enero del año de la Puesta en Servicio Provisoria de la Obra.\n\nIPC_0 : Es la variación del Índice de Precios al Consumidor entre el 1º de Enero del año 2001 y el 31 de Diciembre del año anterior al comienzo de la explotación de la concesión, en fracción, publicado por el Instituto Nacional de Estadísticas (INE).\n\nIPC_{t-1} : Para valores de t mayores que 1, es la variación del Índice de Precios al Consumidor entre la fecha del último reajuste tarifario y el 31 de Diciembre del año t-1 de explotación de la concesión, en fracción, publicado por el Instituto Nacional de Estadísticas (INE). En caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace.\n\nb) Reajuste Extraordinario\n\nEl valor de la tarifa máxima se reajustará cada vez que se compruebe una inflación acumulada desde la última revisión tarifaria igual o superior al 15%. En tal caso la tarifa se reajustará en un valor igual a dicha inflación acumulada. El día 10 del mes siguiente al que se compruebe tal variación, el reajuste a aplicar se calculará de la siguiente manera:\n\nT_t = T_{t-1} * (1 + IPC_{t-1}) (2)\n\nDonde,\n\nT_t : Es la Tarifa reajustada para el año t de explotación de la concesión en pesos por kilómetro ($/km).\n\nt : Año calendario de explotación contabilizado desde el 1º de Enero del año de la Puesta en Servicio Provisoria de la Obra.\n\nIPC_0 : Es la variación del Índice de Precios al Consumidor entre el 1º de Enero del año 2001 y el 31 de Diciembre del año anterior al comienzo de la explotación de la concesión, en fracción, publicado por el Instituto Nacional de Estadísticas (INE).\n\nIPC_{t-1} : Para valores de t mayores que 1, es la variación del Índice de Precios al Consumidor, en fracción, publicado por el Instituto Nacional de Estadísticas (INE), entre la fecha del último reajuste tarifario y el último día del mes anterior a la fecha que se compruebe una variación acumulada del IPC igual o superior al 15%. En caso que dicho indicador deje de existir como índice relevante de reajustabilidad de costos, se aplicará el mecanismo que lo reemplace.\n\n1.15.3 Revisión del Sistema Tarifario\n\nCada dos (2) años la Sociedad Concesionaria podrá proponer de manera justificada, una revisión del sistema de reajuste de las tarifas máximas establecido en el artículo 1.15.2, y del sistema de cobro que estuviere utilizando entre los establecidos en 1.16.1 y 1.16.2 y de la relocalización de los puntos de cobro, lo cual podrá ser aceptado o rechazado por el MOP, con consulta al Ministerio de Hacienda.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 88"
+}

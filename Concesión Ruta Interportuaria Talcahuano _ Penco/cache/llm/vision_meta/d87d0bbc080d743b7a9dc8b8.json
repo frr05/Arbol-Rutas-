@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:51",
+ "costo": 0.000596,
+ "usage": {
+  "completion_tokens": 884,
+  "prompt_tokens": 4195,
+  "total_tokens": 5079,
+  "completion_tokens_details": {
+   "reasoning_tokens": 98
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.1,
+ "truncado": false,
+ "texto": "BASES DE LICITACION CONCESION RUTA INTERPORTUARIA TALCAHUANO - PENCO\n\n2.10.8 Fauna\n\n2.10.8.1 Medidas de Mitigación\n\nPara la construcción del puente Las Ballenas se deberá realizar un desvío gradual del cauce, por sectores de\nfisonomía similar al cauce original, y al finalizar dichas obras se deberá realizar una restauración del hábitat\nfluvial, tal que la velocidad del flujo en condiciones de escurrimiento normal deberá ser similar a la actual.\n\nLa Sociedad Concesionaria deberá informar a las cuadrillas de trabajo sobre la prohibición de pescar, cazar y\ncolectar especies de la fauna silvestre durante toda la fase de construcción del proyecto, como también de la\nprohibición de llevar animales domésticos a los lugares de trabajo, para evitar la depredación de algunas\nespecies como los roedores nativos y aves, y la transmisión de enfermedades hacia la fauna nativa.\nAdicionalmente, se dispondrán letreros en al menos dos puntos por cada lado de la carretera con avisos donde se\nseñale que la caza está prohibida.\n\n2.10.8.2 Medidas de Prevención de Riesgos\n\nLa Sociedad Concesionaria no podrá extraer, alterar o causar daño alguno a especies nativas que se encuentren\ncatalogadas en categoría de conservación según el Libro Rojo de la Fauna de Chile CONAF, localizadas en las\náreas de protección o valor ambiental. Para lo anterior, el Concesionario deberá realizar prospecciones con\nanticipación al ingreso de maquinaria a los predios, con el objeto de rescatar elementos faunísticos localizados\nal interior de la faja. Adicionalmente, se prohibe la ejecución de las siguientes actividades:\n\n• Realizar roce con fuego o encender fogatas.\n• Utilizar herbicidas y/o venenos (raticidas) para las labores de despeje de las zonas a utilizar para\ninstalación de faenas.\n• La vegetación leñosa debe ser cortada a nivel del suelo con hachas o sierra de cadena.\n\nDeberá tenerse especial cuidado en la delimitación espacial y temporal de las obras para la confección de las\ndefensas fluviales y los puentes.\n\nEn el caso de ocurrencia de un accidente en las áreas antes señaladas, la Sociedad Concesionaria deberá dar\naviso a la Inspección Fiscal y presentar un Plan de Monitoreo focalizado en esas áreas que considere, como\nmínimo, la medición de las variaciones y modificaciones de las siguientes características: presencia de especies,\nsi ha habido abandono de nidos (si se encuentran en período de nidificación), o evidencia de muerte producto de\nla intervención antrópica.\n\nSi los resultados del Plan de Monitoreo evidencian variaciones en algunas de las características antes señaladas,\nla Sociedad Concesionaria deberá presentar para la aprobación del Inspector Fiscal, en el plazo que éste\ndetermine, un plan de medidas de reparación.\n\n2.10.8.3 Plan de Seguimiento\n\nDurante la etapa de construcción no se propone un plan de seguimiento como tal, sin embargo la Sociedad\nConcesionaria deberá designar un profesional del área biológica, con amplios conocimientos de vegetación,\nflora y fauna. Este profesional deberá cumplir con el objetivo de supervisar la ejecución de todas las medidas de\nmitigación propuestas o asociadas al componente fauna durante esta etapa.\n\nCon el fin de optimizar su labor, dicho profesional debe conocer a cabalidad el proyecto, así como el plan de\nmanejo propuesto.\n\nMINISTERIO DE OBRAS PUBLICAS - COORDINACION GENERAL DE CONCESIONES 150"
+}

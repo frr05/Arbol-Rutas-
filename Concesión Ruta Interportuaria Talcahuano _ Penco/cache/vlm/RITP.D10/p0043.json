@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D10",
+ "pagina": 43,
+ "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 242,
+ "segundos": 9.3,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 126,
+  "conf_media": 0.948,
+  "frac_baja": 0.016,
+  "frac_rara": 0.041,
+  "tinta": 0.0204
+ },
+ "n_palabras_vlm": 132,
+ "frac_rara_vlm": 0.026,
+ "similitud": 0.938,
+ "truncado": false,
+ "texto_ocr": "PASO INTERPREDIAL N* 2 KM 2,580 RAMAL AV. ALESSANDRI\n\n2.5\nEsta obra ha sido considerada, como parte de la mantención de la conectividad\npredial de los Lotes N* 12 y 13 del Ramal Alessandri.\n\nLa estructura de paso, corresponde a un cajón de hormigón armado de 2,5 x 2,5\nmts, cuya finalidad es la mantención de la continuidad predial, producto de la\ndivisión de los predios originales por la materialización del Ramal Alessandri.\nLas obras en el sector, involucran además la modificación de alzado del Ramal\nAlessandri entre el km 2,400 y el km 2,760.\n\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 5.812 U.F.\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nDEPTO.DE O\n\nCONCESIONES jo] E\neS",
+ "texto_vlm": "PASO INTERPREDIAL Nº 2 KM 2,580 RAMAL AV. ALESSANDRI\n2.5\nEsta obra ha sido considerada, como parte de la mantención de la conectividad\npredial de los Lotes Nº 12 y 13 del Ramal Alessandri.\n\nLa estructura de paso, corresponde a un cajón de hormigón armado de 2,5 x 2,5\nmts, cuya finalidad es la mantención de la continuidad predial, producto de la\ndivisión de los predios originales por la materialización del Ramal Alessandri.\nLas obras en el sector, involucran además la modificación de alzado del Ramal\nAlessandri entre el km 2,400 y el km 2,760.\nLa inversión que involucran tanto las nuevas obras, así como también las\nmodificadas ascienden a la cantidad de 5.812 U.F.\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO. PP.\nDEPTO. DE\nCONCESIONES"
+}

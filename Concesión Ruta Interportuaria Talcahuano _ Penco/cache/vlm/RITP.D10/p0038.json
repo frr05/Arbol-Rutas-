@@ -2,15 +2,15 @@
  "documento": "RITP.D10",
  "pagina": 38,
  "archivo": "4_modificacion_obras_convenios/Convenio-1-Interportuaria.pdf",
- "modelo": "openrouter:qwen/qwen3-vl-30b-a3b-instruct",
- "modelo_usado": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
  "version_prompt": 1,
  "dpi": 200,
  "max_pixels": 1003520,
- "tokens": 33,
- "segundos": 3.0,
- "fecha": "2026-10-27 19:06",
- "motivos": "pocas_palabras",
+ "tokens": 27,
+ "segundos": 6.1,
+ "fecha": "2026-11-11 11:56",
+ "motivos": "todas",
  "calidad_ocr": {
   "n_palabras": 8,
   "conf_media": 0.907,
@@ -18,10 +18,10 @@
   "frac_rara": 0.0,
   "tinta": 0.0051
  },
- "n_palabras_vlm": 19,
+ "n_palabras_vlm": 8,
  "frac_rara_vlm": 0.0,
- "similitud": 0.519,
+ "similitud": 0.875,
  "truncado": false,
  "texto_ocr": "ANEXO NP? 2\nDESCRIPCION DE LAS NUEVAS INVERSIONES",
- "texto_vlm": "ANEXO N° 2\nDESCRIPCION DE LAS NUEVAS INVERSIONES\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE CONCESIONES\nDEPTO. DE CONCESIONES"
+ "texto_vlm": "ANEXO Nº 2\n\nDESCRIPCION DE LAS NUEVAS INVERSIONES"
 }

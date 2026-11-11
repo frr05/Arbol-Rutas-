@@ -1,0 +1,21 @@
+{
+ "tarea": "relaciones",
+ "modelo": "deepseek/deepseek-v4-flash",
+ "fecha": "2026-11-11 12:40",
+ "respuesta": {
+  "operaciones": [
+   {
+    "articulo": null,
+    "operacion": "agrega_articulo",
+    "parrafos": [],
+    "texto_nuevo": [
+     919,
+     960
+    ],
+    "donde_dice": null,
+    "debe_decir": null,
+    "numero_nuevo": "1.3.3"
+   }
+  ]
+ }
+}

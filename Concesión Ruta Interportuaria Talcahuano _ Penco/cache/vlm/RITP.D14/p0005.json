@@ -1,0 +1,27 @@
+{
+ "documento": "RITP.D14",
+ "pagina": 5,
+ "archivo": "5_otros_documentos/Reglamento-Interportuaria.pdf",
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "modelo_usado": "meta:muse-spark-1.3-contributor",
+ "version_prompt": 1,
+ "dpi": 200,
+ "max_pixels": 1003520,
+ "tokens": 596,
+ "segundos": 9.4,
+ "fecha": "2026-11-11 11:59",
+ "motivos": "todas",
+ "calidad_ocr": {
+  "n_palabras": 372,
+  "conf_media": 0.913,
+  "frac_baja": 0.03,
+  "frac_rara": 0.03,
+  "tinta": 0.0623
+ },
+ "n_palabras_vlm": 373,
+ "frac_rara_vlm": 0.03,
+ "similitud": 0.964,
+ "truncado": false,
+ "texto_ocr": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n1.6 Descripción del proyecto\n\nLa construcción de la Ruta Interportuaria Talcahuano-Penco por Isla Rocuant,\ntiene el propósito de mejorar la infraestructura vial de acceso a fos principales\ncomplejos portuarios de la VII] Región, facilitar el acceso al Aeropuerto Carriel\nSur desde y hacia el norte del Area Metropolitana de Concepción y permitir un\ndesarrollo urbano, inmobiliario e industrial,\n\nSe exttende por el borde costero de la bahía de Concepción, desde la\nintersección de la Autopista del Itata con la ruta Penco - Concepción hasta el\nsector Las Industrias y su empalme con Av, Colón, en la comuna de Talcahuano.\nCon una longitud de 11,9 kms., tendrá doble calzada en sus primeros 550\nmetros y calzada simple bidireccional en el resto del tramo.\n\nLa obra incluye la prolongación de la Aw. Alessandri en 3,9 kms. de calzada\nsimple bidireccional, que permitirán conectar directamente la ruta con la vía de\nacceso al Aeropuerto Carriel Sur y, a través de ésta, con la comuna de San\nPedro de la Paz y los sectores Ubicados más al sur.\n\nConsidera la construcción de estructuras Mayores, como el Paso Superior Las\nGaviotas, emplazado sobre la línea férrea Concepción - Penco y el camino\nPenco - Cosmito; el Puente Las Ballenas sobre el río Andalién, viaducto de\nhormigón armado de 120 metros de longitud; del Enlace Rocuant, conexión vial\na desnivel con la Av. Alessandri y siete atraviesos interprediales de hormigón\narmado,\n\nAsimismo, se consideran obras adicionales al proyecto original, entre las cuales\nse cuenta un huevo acceso a Talcahuano, empalmando en Av, Colón a través\nde un puente nuevo sobre el canal El Morro y su respectivo enlace.\n\nEn el Ánexo N* se adjunta una planta esquemática de la concesión\nidentificando las principales obras y servicios indicando las comunas\ninvolucradas.\n\nIl. NORMAS GENERALES\n\nEl presente Reglamento se rige por:\n\n- DFL MOP N* 850 de 1997 que fijó el texto refundido,\ncoordinado y sistematizado de la ley 15.840 orgánica del\nMinisterio de Obras Públicas y del DFL MOP 206 de 1960,\nLey de Caminos y sus modificaciones legales posteriores,\n\n- DFL MOP N* 164 de 1991, Ley de Concesiones, Decreto\nN* 900, cuyo texto actual fija el DS MOP N* 900 de 1996,",
+ "texto_vlm": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\n1.6 Descripción del proyecto\n\nLa construcción de la Ruta Interportuaria Talcahuano-Penco por Isla Rocuant,\ntiene el propósito de mejorar la infraestructura vial de acceso a los principales\ncomplejos portuarios de la VIII Región, facilitar el acceso al Aeropuerto Carriel\nSur desde y hacia el norte del Area Metropolitana de Concepción y permitir un\ndesarrollo urbano, inmobiliario e industrial.\n\nSe extiende por el borde costero de la bahía de Concepción, desde la\nintersección de la Autopista del Itata con la ruta Penco - Concepción hasta el\nsector Las Industrias y su empalme con Av. Colón, en la comuna de Talcahuano.\nCon una longitud de 11,9 kms., tendrá doble calzada en sus primeros 550\nmetros y calzada simple bidireccional en el resto del tramo.\n\nLa obra incluye la prolongación de la Av. Alessandri en 3,9 kms. de calzada\nsimple bidireccional, que permitirán conectar directamente la ruta con la vía de\nacceso al Aeropuerto Carriel Sur y, a través de ésta, con la comuna de San\nPedro de la Paz y los sectores ubicados más al sur.\n\nConsidera la construcción de estructuras mayores, como el Paso Superior Las\nGaviotas, emplazado sobre la línea férrea Concepción - Penco y el camino\nPenco - Cosmito; el Puente Las Ballenas sobre el río Andalien, viaducto de\nhormigón armado de 120 metros de longitud; del Enlace Rocuant, conexión vial\na desnivel con la Av. Alessandri y siete atraviesos interprediales de hormigón\narmado.\n\nAsimismo, se consideran obras adicionales al proyecto original, entre las cuales\nse cuenta un nuevo acceso a Talcahuano, empalmando en Av. Colón a través\nde un puente nuevo sobre el canal El Morro y su respectivo enlace.\n\nEn el Anexo Nº1 se adjunta una planta esquemática de la concesión\nidentificando las principales obras y servicios indicando las comunas\ninvolucradas.\n\nII. NORMAS GENERALES\n\nEl presente Reglamento se rige por:\n\n- DFL MOP Nº 850 de 1997 que fijó el texto refundido,\ncoordinado y sistematizado de la ley 15.840 orgánica del\nMinisterio de Obras Públicas y del DFL MOP 206 de 1960,\nLey de Caminos y sus modificaciones legales posteriores.\n\n- DFL MOP Nº 164 de 1991, Ley de Concesiones, Decreto\nNº 900, cuyo texto actual fija el DS MOP Nº 900 de 1996.\n\n4"
+}

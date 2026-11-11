@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D14",
  "pagina": 16,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-11-05 00:52",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
-   "titulo": "Tabla N° 3: Contactos de emergencia",
+   "titulo": null,
    "encabezados": [
     "",
     "NOMBRE CONTACTO",
@@ -23,7 +23,7 @@
     [
      "ASOCIACIÓN CHILENA DE SEGURIDAD",
      "Mesa Central",
-     "Cardenio Avelló Nro. 36",
+     "Cardenio Avello Nro. 36",
      "(41)- 402222"
     ],
     [
@@ -36,7 +36,7 @@
      "CARABINEROS (COMISARIA)",
      "Prefectura Lomas Verdes",
      "Avda. Alessandri s/n",
-     "(41)- 481799 ó 133"
+     "(41) - 481799 ó 133"
     ],
     [
      "JEFE DE PLAZA",
@@ -51,7 +51,7 @@
      "(41)- 466996"
     ]
    ],
-   "notas": "El primer paso en la elaboración de un plan de prevención de riesgos y accidentes es identificar el tipo de emergencia al que se está expuesto."
+   "notas": null
   }
  ]
 }

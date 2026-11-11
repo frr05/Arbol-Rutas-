@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:56",
+ "costo": 0.000544,
+ "usage": {
+  "completion_tokens": 623,
+  "prompt_tokens": 4199,
+  "total_tokens": 4822,
+  "completion_tokens_details": {
+   "reasoning_tokens": 386
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.1,
+ "truncado": false,
+ "texto": "ANEXO Nº 1\n\nPRESUPUESTO DE LAS NUEVAS INVERSIONES\n\nd) SEGUROS ADICIONALES\n\nPRESUPUESTO OBRAS CONVENIO COMPLEMENTARIO Nº 1 | INTERSECCION LAS INDUSTRIAS Y EMPALME AV. COLON | CONEXIÓN AV. ALESSANDRI | PASO INTERPREDIAL KM 6,787 | PASO INTERPREDIAL KM 8,000 | PASO INTERPREDIAL Nº 2 KM 2,580 RAMAL AV. ALESSANDRI | TOTALES (UF)\n1 | SEGURO DE OBRAS (3,8%) | 4.090 | 1.034 | 652 | 577 | 160 | 6.513\nTOTAL | 4.090 | 1.034 | 652 | 577 | 160 | 6.513\n\nCARLOS DIAZ VARGAS\nINSPECTOR FISCAL\n\nMINISTERIO DE OBRAS PUBLICAS\nDIRECCION GENERAL DE OO.PP.\nDEPTO. DE CONCESIONES"
+}

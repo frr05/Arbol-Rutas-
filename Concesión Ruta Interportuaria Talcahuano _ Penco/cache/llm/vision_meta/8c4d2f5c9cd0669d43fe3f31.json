@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 11:53",
+ "costo": 0.000624,
+ "usage": {
+  "completion_tokens": 1021,
+  "prompt_tokens": 4195,
+  "total_tokens": 5216,
+  "completion_tokens_details": {
+   "reasoning_tokens": 169
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 11.6,
+ "truncado": false,
+ "texto": "Ministerio de Obras Públicas Coordinación General de Concesiones\n\ndel Decreto Supremo de Adjudicación en el Diario Oficial, una carta dirigida al\nDirector General de Obras Públicas señalando su decisión de incorporar alguna\no ambas de estas obras en la presente concesión. La no presentación de este\ndocumento en los plazos y forma establecidos, significará que la Sociedad\nConcesionaria renuncia a la opción de realizar dichas obras, pudiendo éstas ser\nconstruidas por el MOP en la forma y plazos que estime convenientes, sin que\nello signifique compensación o indemnización alguna para la Sociedad\nConcesionaria.\n\nSi la Sociedad Concesionaria ejerce la opción de ejecutar alguna o ambas obras\nindicadas en los párrafos precedentes, se compromete a construirlas, mantenerlas\ny explotarlas, a su entero costo, pasando dichas obras a formar parte de la\npresente concesión, siendo su ejecución obligatoria y teniendo el derecho a\nexplotarlas en los términos indicados en las presentes Bases de Licitación.\n\nPara ejecutar estas obras opcionales, el Concesionario deberá respetar la\nnormativa legal vigente y deberá someter a la aprobación del Inspector Fiscal\ntodos los estudios de ingeniería de detalle con sus especialidades. En caso de\nrequerirse, para los proyectos de cambios de servicios u otros, permisos o\naprobaciones de organismos diferentes al MOP, será responsabilidad del\nConcesionario el gestionar y obtener dichos permisos o aprobaciones.\n\nEn caso de requerirse, de acuerdo a la normativa legal vigente, el Concesionario\ndeberá elaborar una Declaración o un Estudio de Impacto Ambiental por la\nejecución de las obras según corresponda, debiendo gestionar ante la COREMA\nVIII Región, la aprobación del mismo. Todos los gastos relativos a la elaboración\nde dicho estudio o declaración, así como los relacionados tanto con la tramitación\ny eventuales medidas adicionales que exija la COREMA VIII Región serán de\nexclusivo cargo del Concesionario.\n\nDel mismo modo, en caso de requerirse terrenos adicionales para la\nmaterialización de estas obras opcionales, los antecedentes de expropiaciones\nasociados deberán ser elaborados por el Concesionario, de acuerdo a lo\nestablecido en el artículo 2.4 de las presentes Bases, y presentados al Inspector\nFiscal para su aprobación. Los costos asociados a la elaboración de dichos\nantecedentes así como el valor de las expropiaciones y adquisiciones de los\nterrenos adicionales necesarios para la materialización de las obras descritas en\nel presente artículo, serán de entero cargo del Concesionario.\"\n\n5. En 1.4.4 \"Anteproyectos y Estudios Referenciales\", se rectifica el artículo de la siguiente manera:\n\n• En la Tabla Nº1, se reemplaza el numeral 2 por el siguiente:\n\n2. Anteproyecto de Ingeniería \"Ampliación Jorge Alessandri, Sector Aeropuerto - Ruta Interportuaria, VIII Región\", Noviembre de 2001. | Cipres Ingeniería Ltda. | 1\n\n• Se reemplaza el cuarto párrafo por el siguiente:\n\n\"Las obras contenidas en el Anteproyecto de Ingeniería \"Ampliación Jorge\nAlessandri, Sector Aeropuerto - Ruta Interportuaria, VIII Región\", señalado en\nla Tabla Nº 1, y que se detallan en el artículo 2.2.4 de las presentes Bases, son\nopcionales.\"\n\n6. En 1.4.5 \" Anteproyectos Alternativos \", se rectifica el artículo reemplazando en el primer párrafo\nla letra b) por la siguiente:\n\n\"b) El anteproyecto alternativo debe mantener y respetar el trazado, en el sector\ndonde la ruta es paralela y contigua al Gasoducto del Pacífico, así como las\nconexiones y soluciones planteadas en el Anteproyecto Referencial. Además\ndeberá respetar lo establecido en el Plan Regulador Metropolitano de Concepción\ny la Normativa Legal Vigente.\"\n\nCircular Aclaratoria Nº4 Página 3 de 20"
+}

@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.00063,
+ "usage": {
+  "completion_tokens": 1079,
+  "prompt_tokens": 4142,
+  "total_tokens": 5221,
+  "completion_tokens_details": {
+   "reasoning_tokens": 546
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 12.1,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nactuar si se le presenta un momento crítico. De manera que es precisamente en\nel momento que más capacidad visual se necesita, cuando menos se la tiene.\n\nEncandilamiento\n\nSe entiende por \"encandilamiento\" al enceguecimiento temporal de un individuo\nproducto de la exposición a los ojos de la luz directa. El encandilamiento de los\nconductores puede producirse en el día producto de la exposición a los rayos\ndirectos del sol, o en la noche cuando se ven enfrentado a las luces altas de los\nvehículos que circulan en dirección contraria.\n\nEn cualquiera de los casos y cuando el conductor oponente no muestra signos\nde efectuar un cambio de luces es conveniente realizar señales al conductor del\nvehículo que se enfrentan con el fin de indicarle su error. Si el mensaje no es\nrecepcionado, disminuya la velocidad, verifique las condiciones del tránsito y\nacérquese lo más próximo a la berma cuando el encandilamiento sea inminente.\n\nEn el caso en el encandilamiento de día, éste se debe fundamentalmente a la\nexposición del conductor a la luz solar, produciendo un enceguecimiento\ntemporal que impide una visión efectiva de la huella del camino o de los objetos\ny vehículos que circulan por la misma vía o en sentido contrario.\n\nRecomendaciones\n\n- Mantenga los vidrios de su vehículo limpio y en buen estado, al igual que\nla visera de protección solar.\n\n- Cuando se enfrenten a la acción directa de los rayos del sol sobre su\nvista, dirija inmediatamente ésta al camino y protéjase con la visera del\nvehículo. En caso que el encandilamiento provoque una ceguera total,\ndetenga el vehículo, encienda las luces de emergencia y ubique un lugar\nseguro donde estacionarse.\n\n- Si usted ve un vehículo en dirección contraria al sol, tome precauciones.\nIndique su presencia con un bocinazo.\n\n7.8 Procedimientos de Operación del Patrullero\n\nAsegurar la zona\n\nUno de los procedimientos más importantes al enfrentar cualquier tipo de\naccidente o al socorrer a un usuario en un desperfecto mecánico es el de\nasegurar la zona próxima al hecho.\n\nLo anterior es importante ya que no sólo queremos ayudar al accidentado y\nsocorrer al usuario. Debemos evitar que se produzcan otros accidentes por el\n\n44"
+}

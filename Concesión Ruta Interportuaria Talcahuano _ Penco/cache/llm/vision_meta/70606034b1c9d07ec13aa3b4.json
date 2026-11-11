@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000596,
+ "usage": {
+  "completion_tokens": 908,
+  "prompt_tokens": 4142,
+  "total_tokens": 5050,
+  "completion_tokens_details": {
+   "reasoning_tokens": 448
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.7,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\nruta despejada y expedita por lo que el patrullero deberá llevar el vehículo hasta\nla berma más próxima y segura. Posteriormente se darán las facilidades al\nusuario para que contacte al servicio de grúa externa más próxima.\n\nc. Rescate y primeros auxilios\n\nEn caso de accidentes mayores donde hay presencia de heridos. Es la\nasistencia al vehículo y usuarios siniestrados que requiera un esfuerzo mayor\nque la de un remolque común.\n\n- ASEGURE LA ZONA. Es fundamental que tome las medidas apropiadas\npara que su seguridad ni la de otros usuarios estén en riesgo.\n\n- Desconectar el sistema de ignición o baterías de los vehículos\nsiniestrados y del propio vehículo de emergencia. En caso de derrame de\ncombustible esto puede generar una catástrofe aun mayor.\n\n- Al hacer la evaluación del siniestro determine llamar por más asistencia\ncomunicando esto inmediatamente al Administrador Jefe de Plaza o\ndirectamente a la Central de Emergencias.\n\n- Estacione su vehículo en un lugar seguro, fuera de las vías y encienda las\nluces intermitentes de emergencia.\n\n- Si el vehículo siniestrado está en llamas o hay riesgo inminente de fuego,\nutilice los extintores de acuerdo al procedimiento indicado.\n\n- Antes de mover de la posición original a las víctimas, es conveniente\nexaminarla tomando el pulso en el cuello o la muñeca, observando su\nrespiración. Debe tratar de visualizar heridas, fracturas o hemorragias.\n\na. Si el afectado tiene una posible lesión a la columna, no intente\nmoverlo. El movimiento puede provocarle serios daños internos\nal accidentado y en algunos casos una invalidez crónica.\n\nb. Si la víctima está dentro del vehículo, podrá rescatarse\ndesmontando asientos y el parabrisas delantero o trasero.\n\nc. Se debe solicitar la asistencia médica más cercana, entregando\ninformación en cuanto a daños, número de lesionados y la\nubicación exacta del lugar del accidente.\n\n40"
+}

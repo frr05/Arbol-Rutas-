@@ -1,12 +1,12 @@
 {
  "documento": "RITP.D11",
  "pagina": 14,
- "modelo": "qwen/qwen3-vl-30b-a3b-instruct",
+ "modelo": "meta:muse-spark-1.3-contributor",
  "version_prompt": 2,
- "fecha": "2026-10-29 03:13",
+ "fecha": "2026-11-11 12:04",
  "tablas": [
   {
-   "titulo": "ANEXO N° 1 PRESUPUESTO DE LAS NUEVAS INVERSIONES Y GASTOS ASOCIADOS AL PRESENTE CONVENIO",
+   "titulo": null,
    "encabezados": [
     "ITEM",
     "DESIGNACION",
@@ -160,7 +160,7 @@
     ],
     [
      "10.6",
-     "ASPECTOS SOCIECONOMICOS Y PROTECCION A LA COMUNIDAD",
+     "ASPECTOS SOCIOECONOMICOS Y PROTECCION A LA COMUNIDAD",
      ""
     ],
     [
@@ -222,19 +222,9 @@
      "",
      "TOTAL (A - B)",
      "38.261,72"
-    ],
-    [
-     "",
-     "*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión en medidas ambientales adicionales, de manera que de las UF 17.010,88; corresponde pagar al MOP sólo UF 5.010,88; que actualizadas al 31/12/06 equivalen a UF 5.182,79.-",
-     ""
-    ],
-    [
-     "",
-     "**Corresponden a medidas parcialmente ejecutadas.",
-     ""
     ]
    ],
-   "notas": "*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión en medidas ambientales adicionales, de manera que de las UF 17.010,88; corresponde pagar al MOP sólo UF 5.010,88; que actualizadas al 31/12/06 equivalen a UF 5.182,79.-\n**Corresponden a medidas parcialmente ejecutadas."
+   "notas": "*De acuerdo al procedimiento de pago establecido en las BALI, Art. 1.14.6.2, corresponde a la Sociedad Concesionaria financiar las primeras UF 12.000 de inversión en medidas ambientales adicionales, de manera que de las UF 17.010,88; corresponde pagar al MOP sólo UF 5.010,88; que actualizadas al 31/12/06 equivalen a UF 5.182,79.- ** Corresponden a medidas parcialmente ejecutadas."
   }
  ]
 }

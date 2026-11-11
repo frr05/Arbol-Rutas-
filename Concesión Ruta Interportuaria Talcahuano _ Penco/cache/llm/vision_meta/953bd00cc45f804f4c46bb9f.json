@@ -1,0 +1,21 @@
+{
+ "modelo": "meta:muse-spark-1.3-contributor",
+ "reasoning_effort": "minimal",
+ "fecha": "2026-11-11 12:00",
+ "costo": 0.000563,
+ "usage": {
+  "completion_tokens": 743,
+  "prompt_tokens": 4142,
+  "total_tokens": 4885,
+  "completion_tokens_details": {
+   "reasoning_tokens": 366
+  },
+  "prompt_tokens_details": {
+   "cached_tokens": 113
+  }
+ },
+ "finish_reason": "stop",
+ "segundos": 8.4,
+ "truncado": false,
+ "texto": "SOCIEDAD CONCESIONARIA AUTOPISTA INTERPORTUARIA S.A.\n\ni. Si no existe peligro, no cerrar la pista e instruir al tránsito que siga\npasando.\n\nSi el material no puede ser identificado con certeza, si la rotulación en el\ncontenedor requiere un equipo especializado de protección, o si existe fuego:\n\na. Llamar a Carabineros y Bomberos.\n\nb. Llamar al Administrador Jefe de Plaza y solicitar ayuda para desviar el\ntránsito.\n\nc. Si se puede lograr sin peligro, el patrullero del turno cerrará todas las\npistas colocando conos en un extremo del área contaminada para impedir\nel paso del tránsito por el área.\n\nd. Si fuera necesario, establecer lugares de espera (áreas abiertas\napartadas de aquellos empleados que no han sido contaminados) de los\nempleados o las víctimas que fueron accidentalmente contaminados.\nLlamar a una ambulancia si requieren de atención inmediata debido a\nquímicos tóxicos.\n\nAl Solicitar Auxilio a Bomberos o ambulancia\n\n(1) Indique la ubicación exacta.\n(2) Dé un informe de las condiciones.\n(3) Describa los materiales implicados.\n(4) Describa cuánto material está implicado.\n(5) Informe si hay alguien en peligro inminente.\n\n7.16 Obstrucciones\n\nMateriales\n\nEn cualquier momento en que la carretera se encuentre obstruida por objetos o\nanimales, o si las condiciones del tiempo o algún acto de la naturaleza haya\ndejado la carretera intransitable:\n\n- Intente determinar la causa y la ubicación de la obstrucción.\n\n- Si es posible, remueva desperdicios y restos que se encuentran en el\ncamino sin hacer peligrar la seguridad.\n\n58"
+}

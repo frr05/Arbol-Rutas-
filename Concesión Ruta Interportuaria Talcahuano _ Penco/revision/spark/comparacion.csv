@@ -1,0 +1,3 @@
+tarea;documento;pagina;conf_ocr;mismos_parametros;png_identico;similitud;palabras_qwen;palabras_spark;frac_rara_qwen;frac_rara_spark;numeros_comunes;numeros_solo_qwen;numeros_solo_spark;ilegible_qwen;ilegible_spark;segundos;tokens_entrada;tokens_salida;tokens_razonamiento;costo_usd;finish_reason;json_valido_spark;tablas_qwen;tablas_spark;filas_qwen;filas_spark;encabezados_iguales;celdas_iguales;acuerdo_celdas;numeros_iguales;acuerdo_numeros
+texto;RITP.D01;5;0.286;si;no;0.979;285;344;0.0;0.0;53;0;2;0;0;13.4;4195;1222;410;0.000664;stop;;;;;;;;;;
+tablas;RITP.D01;22;;si;no;;;;;;;;;;;10.4;4409;673;392;0.000575;stop;si;1;1;5;5;3/3;14/15;0.933;3/4;0.75

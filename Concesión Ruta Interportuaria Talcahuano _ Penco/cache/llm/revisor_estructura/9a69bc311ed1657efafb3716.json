@@ -1,0 +1,17 @@
+{
+ "tarea": "revisor_estructura",
+ "modelo": "qwen/qwen3.7-flash",
+ "fecha": "2026-11-11 15:37",
+ "respuesta": {
+  "encontrados": [
+   {
+    "numero": "2.3.1",
+    "linea": 3805
+   },
+   {
+    "numero": "2.3.2",
+    "linea": 3831
+   }
+  ]
+ }
+}

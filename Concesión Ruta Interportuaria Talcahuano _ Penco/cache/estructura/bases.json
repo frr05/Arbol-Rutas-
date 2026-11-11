@@ -13743,15 +13743,25 @@
       3803,
       3804
      ]
-    },
+    }
+   ],
+   "pags": [
+    118,
+    118
+   ],
+   "origen": "regla"
+  },
+  {
+   "id": "RITP.S2.3.1",
+   "numero": "2.3.1",
+   "titulo": "2.3.1 Normas de Diseño",
+   "nivel": 3,
+   "titulo_lineas": [
+    3805
+   ],
+   "parrafos": [
     {
-     "id": "P3",
-     "lineas": [
-      3805
-     ]
-    },
-    {
-     "id": "P4",
+     "id": "P1",
      "lineas": [
       3806,
       3807,
@@ -13761,7 +13771,7 @@
      ]
     },
     {
-     "id": "P5",
+     "id": "P2",
      "lineas": [
       3811,
       3812,
@@ -13784,19 +13794,25 @@
       3829,
       3830
      ]
-    },
-    {
-     "id": "P6",
-     "lineas": [
-      3831
-     ]
     }
    ],
    "pags": [
     118,
     118
    ],
-   "origen": "regla"
+   "origen": "revisor"
+  },
+  {
+   "id": "RITP.S2.3.2",
+   "numero": "2.3.2",
+   "titulo": "2.3.2 Criterios de Diseño para los Proyectos",
+   "nivel": 3,
+   "titulo_lineas": [
+    3831
+   ],
+   "parrafos": [],
+   "pags": [],
+   "origen": "revisor"
   },
   {
    "id": "RITP.S2.3.2.1",

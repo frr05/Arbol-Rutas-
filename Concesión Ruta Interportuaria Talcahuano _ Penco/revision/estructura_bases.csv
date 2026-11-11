@@ -185,7 +185,9 @@ numero;titulo;pagina;linea;parrafos;origen
 2.2.3.2;2.2.3.2 Defensas Camineras;117;3761;2;indice
 2.2.3.3;2.2.3.3 Iluminación;117;3772;2;indice
 2.2.4;2.2.4 Obra Opcional Prolongación Camino Carriel Sur;117;3780;2;indice
-2.3;2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE;118;3795;6;regla
+2.3;2.3 DE LOS PROYECTOS DE INGENIERIA DE DETALLE;118;3795;2;regla
+2.3.1;2.3.1 Normas de Diseño;118;3805;2;revisor
+2.3.2;2.3.2 Criterios de Diseño para los Proyectos;118;3831;0;revisor
 2.3.2.1;2.3.2.1 Ingeniería Básica;118;3832;3;indice
 2.3.2.1.1;2.3.2.1.1 Topografía;119;3842;11;indice
 2.3.2.1.2;2.3.2.1.2 Mecánica de Suelos;119;3869;12;indice

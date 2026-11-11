@@ -9,23 +9,17 @@ literalmente. Cada respuesta se valida contra el estado (si no calza, se prueba 
 `revision/relaciones_correcciones.csv` (fragmento;articulo;operacion;parrafos;texto_nuevo;donde_dice;debe_decir;
 numero_nuevo) reemplaza la respuesta del LLM para ese fragmento. Con `solo_cache=True` (comando `ensamblar`) no
 se llama a la red: se reutilizan las respuestas guardadas.
-
-Crítico de cambios (`critico.py`, `CRITICO=si` por defecto): cada respuesta del LLM sobre una circular se aplica, se
-critica y, si el crítico la rechaza, se deshace y se pide una corrección con su motivo. Si la corrección también se
-rechaza, el fragmento no se aplica (queda pendiente y va a los anexos).
 """
 from __future__ import annotations
 
-import copy
 import csv
-import json
 import re
 from typing import Literal
 
 from pydantic import BaseModel, Field
 from rapidfuzz import fuzz
 
-from . import critico, llm
+from . import llm
 from .actos import leer_actos
 from .bases import documento_bases, leer_estructura
 from .consolidar import Estado, Seccion, buscar_en, titulo_y_cuerpo
@@ -202,8 +196,6 @@ class Procesador:
         self.filas: list[dict] = []
         self.ajenos: list[dict] = []
         self.sin_respuesta: list[str] = []
-        self.criticas: list[dict] = []
-        self.sin_critica: list[str] = []          # en modo solo_cache: críticas que no estaban guardadas
 
     # --- utilidades ---------------------------------------------------------------------------------
     def _libres(self, doc: str, ids: list[int]) -> list[dict]:
@@ -406,65 +398,10 @@ class Procesador:
                     if not self.solo_cache:
                         print(f"    {frag['id']}: sin respuesta válida ({str(e)[:140]})")
                     continue
-                if origen == "llm" and critico.ACTIVO and "circular" in acto["tipo"]:
-                    self._con_critica(acto, frag, doc, prep, ops, dir_llm)
-                else:
-                    self._registrar(frag, acto, doc, ops, prep["lineas"], prep["permitidas"], prep["texto_frag"],
-                                    origen)
+                self._registrar(frag, acto, doc, ops, prep["lineas"], prep["permitidas"], prep["texto_frag"], origen)
         finally:
             if pool:
                 pool.shutdown(wait=False, cancel_futures=True)
-        if self.sin_critica:
-            print(f"    ⚠ {len(self.sin_critica)} fragmentos sin crítica en caché (se aplicaron sin revisar): "
-                  f"{', '.join(self.sin_critica[:10])}{' …' if len(self.sin_critica) > 10 else ''}")
-
-    # --- crítico de cambios ----------------------------------------------------------------------------
-    def _con_critica(self, acto: dict, frag: dict, doc: str, prep: dict, ops: list[Operacion], dir_llm):
-        """Aplica las operaciones, las critica y, si el crítico las rechaza, deshace y pide una corrección con su
-        motivo (un reintento). Si la corrección también se rechaza, deshace y deja el fragmento pendiente."""
-        problema = ""
-        for intento in (1, 2):
-            foto, n_filas = copy.deepcopy(self.estado), len(self.filas)
-            self._registrar(frag, acto, doc, ops, prep["lineas"], prep["permitidas"], prep["texto_frag"], "llm")
-            resumen = json.dumps([op.model_dump(exclude_defaults=True) for op in ops], ensure_ascii=False)
-            try:
-                c = critico.revisar(dir_llm, nombre_acto(acto, con_fecha=False),
-                                    "\n".join(f"[{ln['i']}] {ln['texto']}" for ln in prep["lineas"]),
-                                    [s.numero for s in prep["candidatos"]], resumen,
-                                    critico.diferencias(foto, self.estado), self.solo_cache)
-            except llm.SinModelos:
-                self.sin_critica.append(frag["id"])
-                return
-            self.criticas.append({"fragmento": frag["id"], "intento": intento, "correcto": c.correcto,
-                                  "problema": c.problema, "operaciones": resumen})
-            if c.correcto:
-                return
-            problema = c.problema
-            self.estado, rechazadas = foto, ops                 # deshace el cambio
-            del self.filas[n_filas:]
-            if intento == 2:
-                break
-            if not self.solo_cache:
-                print(f"    {frag['id']}: el crítico rechaza ({problema[:120]}); se pide una corrección", flush=True)
-            prep = self._preparar(acto, frag)
-            if not prep:
-                break
-            prompt = (f"{prep['prompt']}\n\nUNA REVISIÓN RECHAZÓ ESTA RESPUESTA ANTERIOR:\n{resumen}\n"
-                      f"Motivo: {problema}\nCorrige la respuesta.")
-            try:
-                ops = llm.pedir_json(dir_llm, "relaciones", prompt, Respuesta,
-                                     validar=lambda r: self._validar(r.operaciones, prep["candidatos"],
-                                                                     prep["permitidas"], prep["texto_frag"]),
-                                     solo_cache=self.solo_cache).operaciones
-            except llm.SinModelos:
-                break
-        motivo = f"rechazada por el crítico: {problema}"[:400]
-        if not self.solo_cache:
-            print(f"    {frag['id']}: rechazada por el crítico, queda pendiente", flush=True)
-        for op in rechazadas:
-            self.estado.pendientes.append({"fragmento": frag["id"], "acto": acto["acto"], "articulo": op.articulo,
-                                           "operacion": op.operacion, "motivo": motivo})
-            self._fila(frag, acto, op, f"pendiente: {motivo}", "llm")
 
     def _registrar(self, frag, acto, doc, ops, lineas, permitidas, texto_frag, origen):
         if not self.solo_cache:
@@ -543,12 +480,3 @@ class Procesador:
             w.writerows(self.estado.pendientes)
             for f in self.sin_respuesta:
                 w.writerow({"fragmento": f, "motivo": "sin respuesta del LLM (queda en anexos)"})
-        if critico.ACTIVO:
-            critico.exportar(p.dir_revision, self.criticas)
-            por_frag: dict[str, list[dict]] = {}
-            for c in self.criticas:
-                por_frag.setdefault(c["fragmento"], []).append(c)
-            aceptadas = sum(1 for cs in por_frag.values() if cs[0]["correcto"])
-            corregidas = sum(1 for cs in por_frag.values() if not cs[0]["correcto"] and cs[-1]["correcto"])
-            print(f"  crítico: {len(por_frag)} fragmentos revisados · {aceptadas} aceptados · {corregidas} corregidos "
-                  f"en el reintento · {len(por_frag) - aceptadas - corregidas} rechazados → revision/criticas.csv")

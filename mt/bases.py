@@ -6,10 +6,6 @@
 3. Las entradas del índice que no aparecen se buscan por título con rapidfuzz; si aún faltan, el LLM elige la
    línea del encabezado entre las candidatas (nunca escribe texto). `revision/estructura_correcciones.csv`
    (numero;linea;titulo) agrega o corrige encabezados a mano.
-3b. Revisor de estructura (`ESTRUCTURA_REVISOR`, por defecto sí): busca huecos en la numeración que siguen tras el
-   paso 3 (entrada del índice que falta, salto entre hermanos 1.5.17 → 1.5.19, hijo sin padre 2.3.2.1 sin 2.3.2) y,
-   para cada región entre dos encabezados encontrados, el LLM señala la línea de cada encabezado faltante o null
-   (nunca escribe texto) → `revision/revisor_estructura.csv`.
 4. Cada sección guarda sus párrafos como listas de índices de línea → `cache/estructura/bases.json`.
 """
 from __future__ import annotations
@@ -21,7 +17,7 @@ import re
 from pydantic import BaseModel
 from rapidfuzz import fuzz
 
-from . import config, llm
+from . import llm
 from .indice import Documento, Proyecto
 from .numerales import RE_NUMERAL, clave_numero, creciente_mas_larga, orden_numero
 from .texto import agrupar_parrafos, leer_lineas
@@ -113,159 +109,6 @@ def _buscar_con_llm(p: Proyecto, entrada: dict, candidatas: list[dict]) -> int |
     return r.linea
 
 
-# --- revisor de estructura -------------------------------------------------------------------------
-REVISOR = config.env("ESTRUCTURA_REVISOR", "si").lower() in ("si", "sí", "1", "true")
-MAX_HUECO = 10              # un salto mayor entre hermanos suele ser un numeral mal leído, no artículos perdidos
-MAX_CANDIDATAS = 150
-
-
-def _padre(clave: str) -> str | None:
-    return clave.rsplit(".", 1)[0] if "." in clave else None
-
-
-def _sospechas(encontrados: list[str], indice: list[dict]) -> list[dict]:
-    """Numerales que deberían estar en la estructura y no están (función pura, sin LLM):
-    - indice: entrada del índice de las Bases que no se encontró en el cuerpo;
-    - padre: hay un hijo (2.3.2.1) pero no su padre (2.3.2);
-    - salto: falta un hermano intermedio (1.5.17 → 1.5.19) o el primero (2.3 tiene 2.3.2 pero no 2.3.1).
-    Se itera hasta que no aparecen más: un padre esperado puede revelar un salto entre sus hermanos."""
-    numericos = [c for c in encontrados if re.fullmatch(r"\d+(\.\d+)*", c)]
-    titulo = {e["clave"]: e["titulo"] for e in indice}
-    esperados: dict[str, str] = {}
-    for e in indice:
-        if e["clave"] not in encontrados:
-            esperados[e["clave"]] = "indice"
-    cambio = True
-    while cambio:
-        cambio = False
-        considerados = set(numericos) | set(esperados)
-        for c in sorted(considerados, key=orden_numero):
-            padre = _padre(c)
-            if padre and padre not in considerados:
-                esperados[padre] = "padre"
-                cambio = True
-        considerados = set(numericos) | set(esperados)
-        hijos: dict[str | None, list[int]] = {}
-        for c in considerados:
-            hijos.setdefault(_padre(c), []).append(int(c.rsplit(".", 1)[-1]))
-        for padre, ns in hijos.items():
-            ns = sorted(set(ns))
-            previo = 0 if padre is not None else ns[0] - 1     # las partes de primer nivel no tienen que empezar en 1
-            for n in ns:
-                if 1 < n - previo <= MAX_HUECO + 1:
-                    for falta in range(previo + 1, n):
-                        clave = f"{padre}.{falta}" if padre else str(falta)
-                        if clave not in considerados and clave not in esperados:
-                            esperados[clave] = "salto"
-                            cambio = True
-                previo = n
-    return [{"numero": c, "motivo": m, "titulo": titulo.get(c, "")}
-            for c, m in sorted(esperados.items(), key=lambda x: orden_numero(x[0]))]
-
-
-class _Hallado(BaseModel):
-    numero: str
-    linea: int | None
-
-
-class _Encabezados(BaseModel):
-    encontrados: list[_Hallado]
-
-
-def _revisar(p: Proyecto, heads: list[dict], indice: list[dict], lineas: list[dict], utiles: list[dict],
-             pags_indice: set[int], usar_llm: bool) -> tuple[list[dict], list[dict]]:
-    """Revisor de estructura: devuelve (encabezados nuevos, filas del informe). Agrupa los numerales sospechosos por
-    región (entre el encabezado encontrado anterior y el siguiente, por orden de numeral) y pide al LLM, una vez por
-    región, la línea de cada uno entre las candidatas. Con `usar_llm=False` solo usa la caché."""
-    sospechas = _sospechas([h["clave"] for h in heads], indice)
-    numericos = sorted((h for h in heads if re.fullmatch(r"\d+(\.\d+)*", h["clave"])),
-                       key=lambda h: orden_numero(h["clave"]))
-    lineas_heads = {h["linea"] for h in heads}
-    regiones: dict[tuple[int, int], dict] = {}
-    for s in sospechas:
-        o = orden_numero(s["numero"])
-        previos = [h for h in numericos if orden_numero(h["clave"]) < o]
-        siguientes = [h for h in numericos if orden_numero(h["clave"]) > o]
-        a, b = (previos[-1] if previos else None), (siguientes[0] if siguientes else None)
-        clave = (a["linea"] if a else -1, b["linea"] if b else len(lineas))
-        r = regiones.setdefault(clave, {"desde": a["clave"] if a else "inicio", "hasta": b["clave"] if b else "fin",
-                                        "sospechas": []})
-        r["sospechas"].append(s)
-
-    nuevos, informe = [], []
-    for (a, b), r in regiones.items():
-        rango = [ln for ln in utiles if a < ln["i"] < b and ln["pag"] not in pags_indice
-                 and ln["i"] not in lineas_heads and len(ln["texto"]) <= 160]
-        con_numeral = [ln for ln in rango if RE_NUMERAL.match(ln["texto"]) or _RE_NUMERAL_SOLO.match(ln["texto"])]
-        otras = [ln for ln in rango if ln not in con_numeral and _es_titulo(ln["texto"])]
-        candidatas = sorted((con_numeral + otras)[:MAX_CANDIDATAS], key=lambda ln: ln["i"])
-        region = f"{r['desde']}–{r['hasta']} (líneas {a + 1}–{b - 1})"
-        resultado: dict[str, int | None] = {}
-        estado = "no está"
-        if not candidatas:
-            estado = "sin candidatas"
-        else:
-            try:
-                resultado = _preguntar_revisor(p, r, candidatas, usar_llm)
-            except llm.SinModelos as err:
-                estado = "sin LLM"
-                if usar_llm:
-                    print(f"    revisor {region}: sin LLM disponible ({str(err)[:80]})")
-        for s in r["sospechas"]:
-            linea = resultado.get(s["numero"])
-            if linea is not None:
-                h = {"clave": s["numero"], "titulo": lineas[linea]["texto"], "linea": linea, "origen": "revisor"}
-                if _RE_NUMERAL_SOLO.match(lineas[linea]["texto"]) and s["titulo"]:
-                    h["titulo_indice"] = s["titulo"]
-                nuevos.append(h)
-            informe.append({"numero": s["numero"], "motivo": s["motivo"], "region": region,
-                            "linea": "" if linea is None else linea,
-                            "titulo": lineas[linea]["texto"] if linea is not None else s["titulo"],
-                            "resultado": "aceptada" if linea is not None else estado})
-    return nuevos, informe
-
-
-def _preguntar_revisor(p: Proyecto, region: dict, candidatas: list[dict], usar_llm: bool) -> dict[str, int]:
-    esperados = {s["numero"] for s in region["sospechas"]}
-    lista = "\n".join(f"- {s['numero']}" + (f" «{s['titulo']}»" if s["titulo"] else "") for s in region["sospechas"])
-    listado = "\n".join(f"[{ln['i']}] {ln['texto'][:150]}" for ln in candidatas)
-    prompt = (f"En unas Bases de Licitación, entre el encabezado {region['desde']} y el {region['hasta']}, podrían "
-              f"estar los encabezados de estos numerales, que faltan en la estructura del documento:\n{lista}\n\n"
-              "Para cada numeral indica el número entre corchetes de la línea que es su encabezado (el numeral seguido "
-              "de su título; el OCR puede haber leído mal el número), o null si no está. No es un encabezado una cita "
-              "a ese numeral dentro de un párrafo, ni un ítem de una lista o de una tabla.\n\n"
-              f"LÍNEAS:\n{listado}")
-    ids = {ln["i"] for ln in candidatas}
-
-    def validar(r: _Encabezados) -> str | None:
-        vistos = {}
-        for h in r.encontrados:
-            clave = clave_numero(h.numero)
-            if clave not in esperados:
-                return f"numeral {h.numero} no está entre los pedidos"
-            if h.linea is not None:
-                if h.linea not in ids:
-                    return f"línea {h.linea} fuera de la lista"
-                vistos[clave] = h.linea
-        orden = [vistos[c] for c in sorted(vistos, key=orden_numero)]
-        if orden != sorted(set(orden)):
-            return "las líneas no siguen el orden de los numerales"
-        return None
-
-    r = llm.pedir_json(p.carpeta / "cache" / "llm", "revisor_estructura", prompt, _Encabezados, validar=validar,
-                       solo_cache=not usar_llm)
-    return {clave_numero(h.numero): h.linea for h in r.encontrados if h.linea is not None}
-
-
-def _exportar_revisor(p: Proyecto, informe: list[dict]):
-    p.dir_revision.mkdir(parents=True, exist_ok=True)
-    with (p.dir_revision / "revisor_estructura.csv").open("w", encoding="utf-8", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=["numero", "motivo", "region", "linea", "titulo", "resultado"],
-                           delimiter=";", lineterminator="\n")
-        w.writeheader()
-        w.writerows(informe)
-
-
 def _correcciones(p: Proyecto) -> list[dict]:
     ruta = p.dir_revision / "estructura_correcciones.csv"
     if not ruta.exists():
@@ -342,15 +185,6 @@ def estructurar(p: Proyecto, usar_llm: bool = True) -> dict:
         if linea is not None and linea not in {h["linea"] for h in heads}:
             heads.append({"clave": e["clave"], "titulo": lineas[linea]["texto"], "linea": linea, "origen": origen})
             encontrados.add(e["clave"])
-
-    # 3b) revisor de estructura: huecos en la numeración (índice, saltos, padres)
-    if REVISOR:
-        nuevos, informe = _revisar(p, heads, indice, lineas, utiles, pags_indice, usar_llm)
-        heads += nuevos
-        _exportar_revisor(p, informe)
-        if informe:
-            print(f"    revisor de estructura: {len(informe)} numerales sospechosos · {len(nuevos)} encabezados "
-                  f"agregados → revision/revisor_estructura.csv")
 
     for c in _correcciones(p):
         heads = [h for h in heads if h["clave"] != clave_numero(c["numero"])]
